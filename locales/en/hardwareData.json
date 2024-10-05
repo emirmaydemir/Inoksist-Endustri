@@ -1,0 +1,40 @@
+{
+  "hardwareData": [
+    {
+      "id": 1,
+      "name": "İnter Delme Kesme Ve Klavuz Jeli",
+      "images": ["img01"],
+      "imgUrl": "img01",
+      "categoryId": 1,
+      "category": "hardwareData",
+      "description": "İnter Delme Kesme ve Klavuz Jeli, metal işleme işlemlerinde delme, kesme ve klavuz çekme sırasında sürtünmeyi azaltmak ve iş parçasını korumak için kullanılan özel bir yağlayıcıdır. Bu jel, yüksek sıcaklıklara ve basınca dayanıklı olup, işlem sırasında kesici takımın ömrünü uzatır ve pürüzsüz bir yüzey elde edilmesini sağlar. Sürtünmeyi ve aşınmayı minimize ederek daha temiz kesimler ve hassas delikler elde edilmesine yardımcı olur. Genellikle endüstriyel uygulamalarda, torna, freze ve matkap tezgahlarında kullanılır. Metal işleme süreçlerinde verimliliği artırmak için ideal bir çözümdür."
+    },
+    {
+      "id": 2,
+      "name": "Weicon Delme Kesme Spreyi",
+      "images": ["img02"],
+      "imgUrl": "img02",
+      "categoryId": 1,
+      "category": "hardwareData",
+      "description": "Weicon Delme Kesme Spreyi, metal işleme süreçlerinde delme, kesme, frezeleme ve diş açma gibi işlemler sırasında kullanılan bir yağlayıcı sprey türüdür. Yüksek performanslı yağlama ve soğutma özellikleri sayesinde, işlem sırasında sürtünmeyi ve ısınmayı azaltarak kesici aletlerin ömrünü uzatır. Ayrıca, iş parçasının korunmasını sağlar ve daha pürüzsüz, temiz kesimler elde edilmesine yardımcı olur. Weicon Delme Kesme Spreyi, paslanmaz çelik, demir, alüminyum ve diğer metallerde kullanılabilir. Özellikle endüstriyel metal işleme, bakım ve onarım işlerinde yaygın olarak tercih edilir."
+    },
+    {
+      "id": 3,
+      "name": "İş Güvenlik Ayakkabısı",
+      "images": ["img03"],
+      "imgUrl": "img03",
+      "categoryId": 2,
+      "category": "hardwareData",
+      "description": "İş Güvenlik Ayakkabısı, çalışanları olası iş kazalarına karşı korumak amacıyla tasarlanmış, dayanıklı ve koruyucu ayakkabı türüdür. Genellikle ağır sanayi, inşaat, lojistik ve fabrika gibi riskli çalışma ortamlarında kullanılır. Çelik burunlu, kaymaz tabanlı ve darbelere karşı dayanıklı olan bu ayakkabılar, ayak yaralanmalarını önlemek için geliştirilmiştir. Ayrıca, suya, yağlara ve kimyasallara karşı direnç sağlayan modelleri de mevcuttur. İş güvenliği standartlarına uygun olarak üretilen bu ayakkabılar, çalışanların hem güvenliğini hem de konforunu artırmayı amaçlar."
+    },
+    {
+      "id": 4,
+      "name": "Koruyucu Gözlük",
+      "images": ["img04"],
+      "imgUrl": "img04",
+      "categoryId": 2,
+      "category": "hardwareData",
+      "description": "Endüstriyel ortamlarda çalışırken göz sağlığınızı korumak hayati önem taşır. Paslanmaz çelik civata ve somunlarla çalışırken, parçacık sıçramaları, darbe riskleri ve çeşitli kimyasallardan kaynaklanan göz yaralanmalarını önlemek için özel olarak tasarlanmış koruyucu gözlüklerimiz, güvenliği ve dayanıklılığı bir araya getirir."
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "navLinks": [
+    {
+      "path": "/",
+      "display": "Home"
+    },
+    {
+      "path": "/hakkimizda",
+      "display": "About Us"
+    },
+    {
+      "path": "/baglanti-elemanlari/urunler",
+      "display": "Fasteners",
+      "subMenu": [
+        { "path": "/baglanti-elemanlari/paslanmaz-baglanti-elemanlari", "display": "Stainless Steel Fasteners" },
+        { "path": "/baglanti-elemanlari/celik-baglanti-elemanlari", "display": "Steel Fasteners" },
+        { "path": "/baglanti-elemanlari/demir-baglanti-elemanlari", "display": "Iron Fasteners" },
+        { "path": "/baglanti-elemanlari/pirinc-baglanti-elemanlari", "display": "Brass Fasteners" },
+        { "path": "/baglanti-elemanlari/titanyum-baglanti-elemanlari", "display": "Titanium Fasteners" },
+        { "path": "/baglanti-elemanlari/ozel-uretim-baglanti-elemanlari", "display": "Custom Manufactured Fasteners" },
+        { "path": "/baglanti-elemanlari/10-9-ve-12-9-baglanti-elemanlari", "display": "10.9 and 12.9 Fasteners" }
+      ]
+    },
+    {
+      "path": "/teknik-hirdavat/urunler",
+      "display": "Technical Hardware",
+      "subMenu": [
+        {
+          "path": "/teknik-hirdavat/delme-kesme-yaglari-grubu",
+          "display": "Drilling and Cutting Oils Group"
+        },
+        { "path": "/teknik-hirdavat/is-guvenligi-grubu", "display": "Safety Equipment Group" },
+        { "path": "/teknik-hirdavat/kaynak-ekipmanlari-grubu", "display": "Welding Equipment Group" },
+        { "path": "/teknik-hirdavat/kesici-ve-asindirici-grubu", "display": "Cutting and Abrasives Group" },
+        { "path": "/teknik-hirdavat/ambalaj-ve-paketleme-grubu", "display": "Packaging and Wrapping Group" },
+        { "path": "/teknik-hirdavat/sizdirmazlik-grubu", "display": "Sealing Group" },
+        { "path": "/teknik-hirdavat/sprey-boya", "display": "Spray Paint" },
+        { "path": "/teknik-hirdavat/yapi-kimyasallari-grubu", "display": "Construction Chemicals Group" },
+        { "path": "/teknik-hirdavat/yapistirici-grubu", "display": "Adhesives Group" }
+      ]
+    },
+    {
+      "path": "/bakim-kimyasallari/urunler",
+      "display": "Maintenance Chemicals",
+      "subMenu": [
+        { "path": "/bakim-kimyasallari/bakim-kimyasallari", "display": "Maintenance Chemicals" }
+      ]
+    },
+    {
+      "path": "/moduler-su-deposu/urunler",
+      "display": "Modular Water Tanks",
+      "subMenu": [{ "path": "/moduler-su-deposu/moduler-su-deposu", "display": "Modular Water Tanks" }]
+    },
+    {
+      "path": "/fiyat-listeleri",
+      "display": "Price Lists"
+    },
+    {
+      "path": "/iletisim",
+      "display": "Contact"
+    }
+  ],
+  "search": {
+    "display": "Search"
+  }
+}

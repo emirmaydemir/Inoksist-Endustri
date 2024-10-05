@@ -1,0 +1,28 @@
+{
+  "testimonials": [
+    {
+      "id": 1,
+      "image": "productImage1",
+      "title": "DIN 933 Hexagon Bolt A2",
+      "description": "Hexagon bolts used for assembling various components. Ensures reliable and sturdy connections in construction and assembly projects."
+    },
+    {
+      "id": 2,
+      "image": "productImage2",
+      "title": "DIN/ISO 7380 Button Head Screw A2",
+      "description": "Button head screws designed for industrial and commercial applications. Ideal for repair, maintenance, and assembly tasks."
+    },
+    {
+      "id": 3,
+      "image": "productImage3",
+      "title": "DIN 916 Set Screw A2",
+      "description": "Set screws used for securing mechanical components. Provides a strong hold and reliable performance in various applications."
+    },
+    {
+      "id": 4,
+      "image": "productImage4",
+      "title": "DIN 976 Gijon A2",
+      "description": "Gijon bolts offering flexible and scalable solutions for different needs. Efficiently stores and manages resources for diverse applications."
+    }
+  ]
+}

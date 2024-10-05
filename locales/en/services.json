@@ -1,0 +1,36 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "title": "Fasteners",
+      "icon": "ri-anchor-line",
+      "desc": "Fasteners include products such as screws, bolts, and nuts used to join various parts together. These components provide reliable and strong connections in construction and assembly work."
+    },
+    {
+      "id": 2,
+      "title": "Technical Hardware",
+      "icon": "ri-tools-line",
+      "desc": "Technical hardware encompasses specialized tools and equipment used for industrial and commercial applications. These products are designed for use in repair, maintenance, and assembly tasks."
+    },
+    {
+      "id": 3,
+      "title": "Maintenance Chemicals",
+      "icon": "ri-flask-line",
+      "desc": "Maintenance chemicals are specialized chemical products used for cleaning and maintaining industrial equipment and machinery. These products help enhance performance and extend lifespan."
+    },
+    {
+      "id": 4,
+      "title": "Modular Water Tank",
+      "icon": "ri-water-flash-line",
+      "desc": "Modular water tanks provide flexible and scalable solutions for various water storage needs. These systems ensure efficient water storage and management, offering efficiency for diverse applications."
+    }
+  ],
+  "services_title": {
+    "title": "For You",
+    "subtitle": "Our Services"
+  },
+  "testimonial": {
+    "title": "Featured Products",
+    "subtitle": "Trending Products"
+  }
+}

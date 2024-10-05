@@ -1,0 +1,66 @@
+.become__motivation {
+  background: linear-gradient(rgb(0, 13, 107, 0.9), rgb(0, 13, 107, 0.9)),
+    url("../assets/all-images/civata2.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 80px 0px;
+}
+
+.become__motivation button {
+  background: #ffffff;
+  color: #000d6b;
+  font-weight: 600;
+}
+
+.become__motivation-title {
+  font-size: 2.8rem;
+  color: #fff;
+  line-height: 65px;
+}
+
+.become__motivation-img {
+  display: flex;
+  justify-content: center; /* Resmi yatayda ortalar */
+  align-items: center; /* Resmi dikeyde ortalar */
+
+  background-color: transparent; /* Arka plan rengini şeffaf yapar */
+}
+
+.become__motivation-img img {
+  height: 100%; /* Resmin yüksekliği kapsayıcının yüksekliğine eşit olur */
+  width: 100%; /* Resmin genişliği kapsayıcının genişliğine eşit olur */
+  object-fit: cover; /* Resmin kapsayıcıyı kaplamasını sağlar ve uygun şekilde keser */
+  opacity: 0.7; /* Şeffaflık oranını buradan ayarlayın (0 tamamen şeffaf, 1 tamamen opak) */
+}
+
+@media only screen and (max-width: 992px) {
+  .become__motivation-title {
+    font-size: 1.5rem;
+    line-height: 3rem;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .become__motivation {
+    padding: 50px 0px;
+  }
+
+  .become__motivation-title {
+    font-size: 1.3rem;
+    line-height: 2.5rem;
+  }
+
+  .become__motivation-btn {
+    font-size: 0.8rem !important;
+  }
+}
+
+@media only screen and (max-width: 576px) {
+  .become__motivation-img {
+    display: none;
+  }
+  .become__motivation {
+    text-align: center;
+  }
+}

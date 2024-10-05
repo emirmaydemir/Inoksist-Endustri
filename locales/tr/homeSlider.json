@@ -1,0 +1,46 @@
+{
+  "homeSlider": [
+    {
+      "title": "Kalite bizim işimiz.",
+      "heading": "Endüstriyel çözümler sunuyoruz.",
+      "buttonText": "İletişime Geç",
+      "link": "/contact"
+    },
+    {
+      "title": "Kalite bizim işimiz.",
+      "heading": "Kaliteli bağlantı elemanları üretiyoruz.",
+      "buttonText": "İletişime Geç",
+      "link": "/contact"
+    },
+    {
+      "title": "Kalite bizim işimiz.",
+      "heading": "Teknik hırdavat ve ekipman sağlıyoruz.",
+      "buttonText": "İletişime Geç",
+      "link": "/contact"
+    },
+    {
+      "title": "Kalite bizim işimiz.",
+      "heading": "Bakım kimyasalları ile destekliyoruz.",
+      "buttonText": "İletişime Geç",
+      "link": "/contact"
+    },
+    {
+      "title": "Kalite bizim işimiz.",
+      "heading": "Modüler su depoları tasarlıyoruz.",
+      "buttonText": "İletişime Geç",
+      "link": "/contact"
+    },
+    {
+      "title": "Kalite bizim işimiz.",
+      "heading": "Güvenilir ürünlerle hizmet veriyoruz.",
+      "buttonText": "İletişime Geç",
+      "link": "/contact"
+    },
+    {
+      "title": "Kalite bizim işimiz.",
+      "heading": "Sektördeki ihtiyaçlarınıza cevap veriyoruz.",
+      "buttonText": "İletişime Geç",
+      "link": "/contact"
+    }
+  ]
+}

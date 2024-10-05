@@ -1,0 +1,72 @@
+{
+  "footer": {
+    "quickLinks": [
+      {
+        "path": "/baglanti-elemanlari/urunler",
+        "display": "Fasteners"
+      },
+      {
+        "path": "/teknik-hirdavat/urunler",
+        "display": "Technical Hardware"
+      },
+      {
+        "path": "/bakim-kimyasallari/urunler",
+        "display": "Maintenance Chemicals"
+      },
+      {
+        "path": "/moduler-su-deposu/urunler",
+        "display": "Modular Water Tank"
+      },
+      {
+        "path": "/fiyat-listeleri",
+        "display": "Price Lists"
+      }
+    ],
+    "socialLinks": [
+      {
+        "url": "https://www.instagram.com/inoksistendustriyel/",
+        "icon": "ri-instagram-line",
+        "display": "instagram"
+      },
+      {
+        "url": "https://www.linkedin.com/inoksist/",
+        "icon": "ri-linkedin-line",
+        "display": "linkedin"
+      },
+      {
+        "url": "https://www.trendyol.com/inoksist",
+        "icon": "ri-shopping-cart-line",
+        "display": "trendyol"
+      },
+      {
+        "url": "https://maps.app.goo.gl/1Fprbr4QfXuRa9j76",
+        "icon": "ri-map-pin-line",
+        "display": "maps"
+      }
+    ],
+    "info": {
+      "title": "Inoksist Industry",
+      "description": "Inoksist Industry proudly offers high-quality stainless steel fasteners and fittings for industrial solutions. We prioritize customer satisfaction by providing reliable and durable products with our experience. Inoksist, the address of quality and trust, is always by your side."
+    },
+    "categories": {
+      "title": "CATEGORIES"
+    },
+    "contactInfo": {
+      "title": "CONTACT INFORMATION",
+      "address": "İ.O.S.B. mah. İmsan Sanayi sitesi E 3 blok sok no 3 küçükçekmece / İSTANBUL",
+      "phone": "Phone:",
+      "email": "E-Mail:",
+      "hours": "Working Hours:"
+    },
+    "getInTouch": {
+      "title": "GET IN TOUCH",
+      "description": "Contact Us"
+    },
+    "social": {
+      "title": "SOCIAL MEDIA"
+    },
+    "footerBottom": {
+      "text": "All Rights Reserved"
+    }
+  }
+}

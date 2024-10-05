@@ -1,0 +1,46 @@
+{
+  "homeSlider": [
+    {
+      "title": "Quality is our business.",
+      "heading": "We provide industrial solutions.",
+      "buttonText": "Contact Us",
+      "link": "/contact"
+    },
+    {
+      "title": "Quality is our business.",
+      "heading": "We produce high-quality fasteners.",
+      "buttonText": "Contact Us",
+      "link": "/contact"
+    },
+    {
+      "title": "Quality is our business.",
+      "heading": "We provide technical hardware and equipment.",
+      "buttonText": "Contact Us",
+      "link": "/contact"
+    },
+    {
+      "title": "Quality is our business.",
+      "heading": "We support with maintenance chemicals.",
+      "buttonText": "Contact Us",
+      "link": "/contact"
+    },
+    {
+      "title": "Quality is our business.",
+      "heading": "We design modular water tanks.",
+      "buttonText": "Contact Us",
+      "link": "/contact"
+    },
+    {
+      "title": "Quality is our business.",
+      "heading": "We provide reliable products.",
+      "buttonText": "Contact Us",
+      "link": "/contact"
+    },
+    {
+      "title": "Quality is our business.",
+      "heading": "We respond to your industry needs.",
+      "buttonText": "Contact Us",
+      "link": "/contact"
+    }
+  ]
+}

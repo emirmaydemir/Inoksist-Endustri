@@ -1,0 +1,22 @@
+export const Chemical_img_urls = {
+  img01:
+    "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/1_qi56ao.jpg",
+  img02:
+    "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/2_lvp8ms.jpg",
+  img03:
+    "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/3_vhbljl.jpg",
+  img04:
+    "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932480/4_nfdvrl.jpg",
+  img05:
+    "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932481/5_b2vjxx.jpg",
+  img06:
+    "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932481/6_p01cib.jpg",
+  img07:
+    "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932482/7_fbhflh.jpg",
+  img08:
+    "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932483/8_xgtc5f.jpg",
+  img09:
+    "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932484/9_yrzjfh.jpg",
+  img10:
+    "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932485/10_nngoyv.jpg",
+};

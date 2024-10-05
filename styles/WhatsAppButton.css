@@ -1,0 +1,29 @@
+/* WhatsAppButton.css */
+.whatsapp-button {
+  position: fixed; /*Bu özellik, butonu pencerenin sabit bir konumuna yerleştirir, yani sayfa kaydırılsa bile butonun yeri değişmez.*/
+  bottom: 20px; /*bottom: 20px; ve right: 20px; En alta bunun sayesinde geldi en alttan 20px uzaklıkta olsun dedik burada.
+  Bu iki özellik, butonu sayfanın alt ve sağ kenarlarından 20 piksel uzaklıkta konumlandırır. Yani, butonun alt ve sağ kenarda olması sağlanır. Bu değerleri değiştirerek butonu ekranın kenarlarına daha yakın veya daha uzak konumlandırabilirsiniz.*/
+  right: 20px;
+  background-color: #25d366; /* WhatsApp yeşil rengi */
+  color: #fff;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 28px; /* İkon boyutunu artır */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  z-index: 1000; /* Diğer içeriklerin üstünde görünmesi için */
+  transition: background-color 0.3s ease;
+  text-decoration: none; /* Altındaki çizgiyi kaldır */
+}
+
+.whatsapp-button:hover {
+  background-color: #128c7e; /* Hover efekti için koyu yeşil */
+}
+
+.whatsapp-button i {
+  margin: 0;
+  font-size: 28px; /* İkon boyutunu artır */
+}

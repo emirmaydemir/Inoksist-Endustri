@@ -1,0 +1,43 @@
+.contact__btn {
+  width: 100%;
+  margin-bottom: 2.5rem;
+  padding: 7px 10px;
+  background: #000d6b;
+  color: #fff;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+}
+
+.contact__card {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  background-color: #fff;
+}
+
+.contact__info-box {
+  text-align: center;
+}
+
+.contact__info-box a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.vertical-divider {
+  width: 1px;
+  background-color: #ccc;
+  height: 100%;
+  margin: 0 20px;
+}
+
+@media only screen and (max-width: 991px) {
+  .contact__btn {
+    margin-bottom: 4.3rem;
+    font-size: 0.9rem;
+  }
+
+  .contact-form-title {
+    margin-top: 30px; /* İstediğiniz değeri buraya yazabilirsiniz */
+  }
+}

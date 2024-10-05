@@ -1,0 +1,26 @@
+{
+  "contact": {
+    "title": "Contact",
+
+    "addresslabel": "Address",
+
+    "phonelabel": "Phone",
+
+    "emaillabel": "E-Mail",
+
+    "formTitle": "Contact Form",
+
+    "formFieldsname": "Your Name",
+    "formFieldsemail": "Email",
+    "formFieldscompany": "Company Name",
+    "formFieldsphone": "Phone",
+    "formFieldssubject": "Subject",
+    "formFieldsmessage": "Your Message",
+
+    "submitButtonText": "Send",
+
+    "toastsuccess": "The message was sent successfully!",
+    "toastfailed": "An error occurred while sending the message.",
+    "toastwarning": "There is missing information."
+  }
+}

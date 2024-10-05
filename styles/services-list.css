@@ -1,0 +1,39 @@
+.service__item span i {
+  font-size: 2.5rem;
+  color: #f9a826;
+}
+
+.service__item h6 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  transition: 0.3s;
+  margin-bottom: 1rem;
+}
+
+.service__item h6:hover {
+  color: #f9a826;
+}
+
+.service__item {
+  background-color: #f8f9fa; /* Arka plan rengi */
+  border: 1px solid #e0e0e0; /* Kutu kenarlığı */
+  border-radius: 8px; /* Köşe yuvarlama */
+  padding: 20px; /* İçerik boşluğu */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Hafif gölge */
+  text-align: center; /* İçeriği ortalar */
+  transition: box-shadow 0.3s ease; /* Hover efekti için geçiş */
+}
+
+.service__item:hover {
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2); /* Hover efekti */
+}
+
+@media only screen and (min-width: 575px) and (max-width: 768px) {
+  .service__item h6 {
+    font-size: 1.1rem;
+  }
+  .service__item p {
+    font-size: 1.1rem;
+    text-align: center;
+  }
+}

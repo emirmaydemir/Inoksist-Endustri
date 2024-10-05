@@ -1,0 +1,89 @@
+{
+  "fastenerData": [
+    {
+      "id": 1,
+      "description": "Stainless Steel Fasteners"
+    },
+    {
+      "id": 2,
+      "description": "Steel Fasteners"
+    },
+    {
+      "id": 3,
+      "description": "Iron Fasteners"
+    },
+    {
+      "id": 4,
+      "description": "Brass Fasteners"
+    },
+    {
+      "id": 5,
+      "description": "Titanium Fasteners"
+    },
+    {
+      "id": 6,
+      "description": "Custom Manufacturing Fasteners"
+    },
+    {
+      "id": 7,
+      "description": "10.9 and 12.9 Fasteners"
+    }
+  ],
+  "hardwareData": [
+    {
+      "id": 1,
+      "description": "Drilling and Cutting Oils"
+    },
+    {
+      "id": 2,
+      "description": "Safety Equipment"
+    },
+    {
+      "id": 3,
+      "description": "Welding Equipment"
+    },
+    {
+      "id": 4,
+      "description": "Cutting and Abrasive Tools"
+    },
+    {
+      "id": 5,
+      "description": "Packaging and Wrapping Materials"
+    },
+    {
+      "id": 6,
+      "description": "Sealing Materials"
+    },
+    {
+      "id": 7,
+      "description": "Spray Paint"
+    },
+    {
+      "id": 8,
+      "description": "Construction Chemicals"
+    },
+    {
+      "id": 9,
+      "description": "Adhesives"
+    }
+  ],
+  "chemicalData": [
+    {
+      "id": 1,
+      "description": "Maintenance Chemicals"
+    }
+  ],
+  "waterTankData": [
+    {
+      "id": 1,
+      "description": "Modular Water Tank"
+    }
+  ],
+  "header": {
+    "all": "All Categories",
+    "fastener": "Fasteners",
+    "technical": "Technical Hardware",
+    "maintenance": "Maintenance Chemicals",
+    "modular": "Modular Water Tanks"
+  }
+}

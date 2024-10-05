@@ -1,0 +1,26 @@
+{
+  "contact": {
+    "title": "İletişim",
+
+    "addresslabel": "Adres",
+
+    "phonelabel": "Telefon",
+
+    "emaillabel": "E-Mail",
+
+    "formTitle": "İletişim Formu",
+
+    "formFieldsname": "Adınız",
+    "formFieldsemail": "E-Mail",
+    "formFieldscompany": "Firma Adı",
+    "formFieldsphone": "Telefon",
+    "formFieldssubject": "Konu",
+    "formFieldsmessage": "Mesajınız",
+
+    "submitButtonText": "Gönder",
+
+    "toastsuccess": "Mesaj başarıyla gönderildi!",
+    "toastfailed": "Mesaj gönderilirken bir hata oluştu.",
+    "toastwarning": "Lütfen tüm alanları doldurunuz."
+  }
+}

@@ -1,0 +1,159 @@
+.footer {
+  background: #000845;
+  padding-top: 50px;
+  padding-bottom: 15px;
+}
+
+.custom-logo {
+  max-width: 95%;
+  /* Resmin genişliği, kapsayıcı genişliğini geçmemesi için */
+  height: auto;
+  /* Yükseklik oranını korur */
+}
+
+.footer__logo {
+  margin-right: 50px;
+  /* Sağdan boşluk bırakır */
+}
+
+.footer__logo i {
+  color: #fff;
+  font-weight: 400;
+}
+
+.footer__logo span {
+  color: #fff;
+  font-weight: 500;
+}
+
+.footer__logo-content {
+  color: rgba(255, 255, 255, 0.715);
+  margin-right: 50px;
+  margin-top: 15px;
+  margin-left: 12px;
+  line-height: 30px;
+  text-align: left;
+  position: relative;
+  width: fit-content;
+  font-size: 17px;
+  text-align: left; /* Sola hizala */
+  display: flex; /* Eğer flex kullanıyorsan */
+  flex-direction: column; /* Dikey hizalama */
+  align-items: flex-start; /* Sola hizala */
+  /* Kapsayıcı genişliğini içeriğe göre ayarlar */
+}
+
+.quick__link {
+  border: none !important;
+  background: transparent !important;
+}
+
+.quick__link a {
+  color: rgba(255, 255, 255, 0.715);
+  text-decoration: none;
+  font-weight: 300;
+  transition: 0.3s;
+}
+
+.quick__link a:hover {
+  color: #f9a826;
+}
+
+.footer__link-title {
+  color: #fff;
+}
+
+.office__info {
+  color: rgba(255, 255, 255, 0.715);
+  font-weight: 300;
+}
+
+.newsletter {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 12px;
+  border: 1px solid #7c8a972f;
+  border-radius: 50px;
+  background: #06138b77;
+}
+
+.newsletter input {
+  background: transparent;
+  color: #fff;
+  border: none;
+  outline: none;
+  flex: 1;
+}
+
+.newsletter-link {
+  text-decoration: none;
+  color: white;
+}
+
+.footer__bottom {
+  border-top: 1px solid #7c8a972f;
+}
+
+.social-icons a {
+  margin-right: 28px;
+  font-size: 20px;
+  color: #dddada; /* İkon rengini ayarla */
+  text-decoration: none; /* Alt çizgiyi kaldır */
+}
+
+.social-icons a:hover {
+  color: #f1ee32; /* Hover durumunda ikon rengini değiştir */
+}
+
+@media only screen and (max-width: 900px) {
+  .footer__logo-content {
+    font-size: 0.8rem;
+  }
+
+  .quick__link,
+  .office__info {
+    font-size: 0.8rem;
+    line-height: 1.5rem;
+  }
+
+  .footer__link-title {
+    font-size: 1rem;
+    margin-top: 18px;
+  }
+
+  .section__description {
+    flex-direction: column; /* Dikey hizalama */
+  }
+
+  .section__description span {
+    margin: 5px 0; /* Aralarındaki boşluğu artırır */
+  }
+  .footer__bottom p {
+    font-size: 0.9rem;
+  }
+}
+
+@media only screen and (max-width: 574px) {
+  .quick__link,
+  .office__info,
+  .footer__link-title,
+  .section__description,
+  .footer__bottom p {
+    display: flex; /* Flex kullanmaya devam et */
+    flex-direction: column; /* Dikey hizalama */
+    align-items: center; /* Elemanları ortala */
+    text-align: center;
+  }
+
+  .social-icons {
+    display: flex; /* Flex kullan */
+    justify-content: center; /* Ortala */
+    flex-direction: row; /* Yan yana diz */
+    margin-top: 1rem; /* Üstten boşluk ekle */
+  }
+
+  .social-icons a {
+    margin: 0 10px; /* İkonlar arasına boşluk ekle */
+  }
+}

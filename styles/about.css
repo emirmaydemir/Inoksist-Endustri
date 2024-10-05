@@ -1,0 +1,22 @@
+@media only screen and (max-width: 992px) {
+  .about__page-content h2 {
+    font-size: 1.5rem;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .about__page-img {
+    display: none;
+  }
+}
+
+.contact__info-link {
+  text-decoration: none; /* Altını çizme efektini kaldırır */
+  color: inherit; /* Metnin mevcut rengini korur */
+}
+
+@media (min-width: 768px) and (max-width: 1200px) {
+  .about__page-img {
+    display: none;
+  }
+}

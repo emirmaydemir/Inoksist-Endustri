@@ -1,0 +1,89 @@
+{
+  "baglanti-elemanlari": [
+    {
+      "guid": "paslanmaz-baglanti-elemanlari",
+      "description": "Paslanmaz Bağlantı Elemanları"
+    },
+    {
+      "guid": "celik-baglanti-elemanlari",
+      "description": "Çelik Bağlantı Elemanları"
+    },
+    {
+      "guid": "demir-baglanti-elemanlari",
+      "description": "Demir Bağlantı Elemanları"
+    },
+    {
+      "guid": "pirinc-baglanti-elemanlari",
+      "description": "Pirinç Bağlantı Elemanları"
+    },
+    {
+      "guid": "titanyum-baglanti-elemanlari",
+      "description": "Titanyum Bağlantı Elemanları"
+    },
+    {
+      "guid": "ozel-uretim-baglanti-elemanlari",
+      "description": "Özel Üretim Bağlantı Elemanları"
+    },
+    {
+      "guid": "10-9-ve-12-9-baglanti-elemanlari",
+      "description": "10.9 ve 12.9 Bağlantı Elemanları"
+    }
+  ],
+  "teknik-hirdavat": [
+    {
+      "guid": "delme-kesme-yaglari-grubu",
+      "description": "Delme Kesme Yağları Grubu"
+    },
+    {
+      "guid": "is-guvenligi-grubu",
+      "description": "İş Güvenliği Grubu"
+    },
+    {
+      "guid": "kaynak-ekipmanlari-grubu",
+      "description": "Kaynak Ekipmanları Grubu"
+    },
+    {
+      "guid": "kesici-ve-asindirici-grubu",
+      "description": "Kesici Ve Aşındırıcı Grubu"
+    },
+    {
+      "guid": "ambalaj-ve-paketleme-grubu",
+      "description": "Ambalaj ve Paketleme Grubu"
+    },
+    {
+      "guid": "sizdirmazlik-grubu",
+      "description": "Sızdırmazlık Grubu"
+    },
+    {
+      "guid": "sprey-boya",
+      "description": "Sprey Boya"
+    },
+    {
+      "guid": "yapi-kimyasallari-grubu",
+      "description": "Yapı Kimyasalları Grubu"
+    },
+    {
+      "guid": "yapistirici-grubu",
+      "description": "Yapıştırıcı Grubu"
+    }
+  ],
+  "bakim-kimyasallari": [
+    {
+      "guid": "bakim-kimyasallari",
+      "description": "Bakım Kimyasalları"
+    }
+  ],
+  "moduler-su-deposu": [
+    {
+      "guid": "moduler-su-deposu",
+      "description": "Modüler Su Deposu"
+    }
+  ],
+  "header": {
+    "all": "Tüm Kategoriler",
+    "fastener": "Bağlantı Elemanları",
+    "technical": "Teknik Hırdavat",
+    "maintenance": "Bakım Kimyasalları",
+    "modular": "Modüler Su Deposu"
+  }
+}
