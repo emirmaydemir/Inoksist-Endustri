@@ -2,14 +2,15 @@
 import React from "react";
 import Slider from "react-slick";
 import "@/styles/testimonial.css";
-import productImage1 from "@/assets/all-images/Fastener/1.jpg";
-import productImage2 from "@/assets/all-images/Fastener/2.jpg";
-import productImage3 from "@/assets/all-images/Fastener/11.jpg";
-import productImage4 from "@/assets/all-images/Fastener/7.jpg";
 import Image from "next/image"; // Resim bileşenini içe aktarın
 
 const Testimonial = ({ testimonialData }) => {
-  const images = [productImage1, productImage2, productImage3, productImage4];
+  const images = [
+    "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/1_qi56ao.jpg",
+    "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/1_qi56ao.jpg",
+    "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/1_qi56ao.jpg",
+    "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/1_qi56ao.jpg",
+  ];
 
   const settings = {
     dots: true,
