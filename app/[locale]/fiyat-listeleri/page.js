@@ -1,4 +1,4 @@
-import { Container, Row, Col, Button } from "reactstrap";
+import { Container, Row, Col } from "reactstrap";
 import Image from "next/image";
 
 import priceImg from "@/assets/all-images/price.jpg";

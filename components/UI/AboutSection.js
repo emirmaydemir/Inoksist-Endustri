@@ -66,7 +66,12 @@ const AboutSection = ({ aboutClass, aboutContent }) => {
 
           <Col lg="6" md="6">
             <div className="about__img">
-              <Image src={aboutImg} alt="About Image" className="w-100" />
+              <Image
+                src={aboutImg}
+                alt="About Image"
+                className="w-100"
+                style={{ width: "auto", height: "auto" }}
+              />
             </div>
           </Col>
         </Row>

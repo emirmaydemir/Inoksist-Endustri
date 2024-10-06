@@ -35,6 +35,7 @@ export default async function About({ params: { locale } }) {
                   src={bolt}
                   alt="Hakkımızda"
                   className="w-100 rounded-3"
+                  style={{ width: "auto", height: "auto" }}
                 />
               </div>
             </Col>

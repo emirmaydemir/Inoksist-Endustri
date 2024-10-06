@@ -17,7 +17,12 @@ const MotivationSection = ({ motivationData }) => {
       <Container>
         <Row>
           <Col lg="6" md="6" sm="12" className="become__motivation-img">
-            <Image src={driverImg} alt="İnoksis İletişim" className="w-100" />
+            <Image
+              src={driverImg}
+              alt="İnoksis İletişim"
+              className="w-100"
+              style={{ width: "auto", height: "auto" }}
+            />
           </Col>
 
           <Col lg="6" md="6" sm="12">

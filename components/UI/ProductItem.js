@@ -43,16 +43,16 @@ const ProductItem = (props) => {
             aria-label={`${name} ürününün detay sayfasını görüntüle`}
             passHref
           >
-            {/* Next.js Image bileşeni ile optimize edilmiş resim */}
-            <Image
-              src={imgUrl}
-              alt={name}
-              className="w-100"
-              loading="lazy"
-              layout="responsive"
-              width={300}
-              height={300}
-            />
+            <div className="image-container">
+              <Image
+                src={imgUrl}
+                alt={name}
+                fill
+                style={{ objectFit: "cover" }}
+                loading="lazy"
+                sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+              />
+            </div>
           </Link>
         </div>
 

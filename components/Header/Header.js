@@ -95,6 +95,7 @@ const Header = ({ navLinks, search }) => {
                     alt="İnoksist"
                     className="header__top__logo"
                     aria-label="Ana Sayfaya Git"
+                    priority
                   />
                 </Link>
                 <a
