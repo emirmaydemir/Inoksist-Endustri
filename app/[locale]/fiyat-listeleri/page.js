@@ -1,10 +1,6 @@
 import { Container, Row, Col } from "reactstrap";
 import Image from "next/image";
-
-import priceImg from "@/assets/all-images/price.jpg";
-
 import initTranslations from "../../i18n";
-
 import "@/styles/price-lists.css";
 import PriceListButton from "@/components/UI/PriceListButton";
 
@@ -23,7 +19,13 @@ export default async function PriceList({ params: { locale } }) {
               <div className="price-details-card">
                 <Row>
                   <Col md="6" className="image-col">
-                    <Image src={priceImg} alt="Price" className="img-fluid" />
+                    <Image
+                      src="https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1728242929/price_m0tlcn.jpg"
+                      alt="Price"
+                      width={600}
+                      height={100}
+                      className="img-fluid"
+                    />
                   </Col>
                   <Col md="6" className="content-col">
                     <h2 className="price-title">{priceContent.title}</h2>

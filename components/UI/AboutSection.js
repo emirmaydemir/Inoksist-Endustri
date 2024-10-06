@@ -2,7 +2,6 @@ import React from "react";
 import { Container, Row, Col } from "reactstrap";
 import Image from "next/image"; // Next.js Image bileşenini içe aktar
 import "@/styles/about-section.css"; // CSS dosyasını içe aktar
-import aboutImg from "@/assets/all-images/civata3.jpg";
 
 const AboutSection = ({ aboutClass, aboutContent }) => {
   return (
@@ -67,8 +66,10 @@ const AboutSection = ({ aboutClass, aboutContent }) => {
           <Col lg="6" md="6">
             <div className="about__img">
               <Image
-                src={aboutImg}
+                src="https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1728242911/civata3_pkc1ab.jpg"
                 alt="About Image"
+                width={200}
+                height={100}
                 className="w-100"
                 style={{ width: "auto", height: "auto" }}
               />

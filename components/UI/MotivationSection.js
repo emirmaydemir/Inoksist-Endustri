@@ -2,7 +2,6 @@
 import "@/styles/become-motivation.css";
 import { Container, Row, Col } from "reactstrap";
 import { useRouter } from "next/navigation"; // next/navigation'dan useRouter import ediyoruz
-import driverImg from "@/assets/all-images/civata2.jpg";
 import Image from "next/image";
 
 const MotivationSection = ({ motivationData }) => {
@@ -18,8 +17,10 @@ const MotivationSection = ({ motivationData }) => {
         <Row>
           <Col lg="6" md="6" sm="12" className="become__motivation-img">
             <Image
-              src={driverImg}
-              alt="İnoksis İletişim"
+              src="https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1728242900/civata2_xjdmni.jpg"
+              alt="İnoksist İletişim"
+              width={200}
+              height={100}
               className="w-100"
               style={{ width: "auto", height: "auto" }}
             />

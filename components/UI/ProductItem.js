@@ -7,32 +7,12 @@ import "@/styles/product-item.css";
 const ProductItem = (props) => {
   const { imgUrl, name, url } = props.item;
 
-  // Kategoriye göre URL belirleme fonksiyonu
-  /*const getDataByCategory = (category) => {
-    switch (category) {
-      case "fastenerData":
-        return "baglanti-elemanlari";
-      case "hardwareData":
-        return "teknik-hirdavat";
-      case "chemicalData":
-        return "bakim-kimyasallari";
-      case "waterData":
-        return "moduler-su-deposu";
-      default:
-        return [];
-    }
-  };*/
-
-  /*function generateSlug(name) {
-    return name
-      .toLowerCase() // Küçük harfe çevir
-      .trim() // Başındaki ve sonundaki boşlukları sil
-      .replace(/\s+/g, "-"); // Birden fazla boşluğu tek tire ile değiştir
-  }*/
-
-  //const product = getDataByCategory(category);
-
-  //const slugName = generateSlug(name); // Slug'ı oluştur
+  function imageLoader(config) {
+    const urlStart = config.src.split("upload/")[0];
+    const urlEnd = config.src.split("upload/")[1];
+    const transformations = `q_${config.quality || "auto"}`;
+    return `${urlStart}upload/${transformations}/${urlEnd}`;
+  }
 
   return (
     <Col lg="4" md="4" sm="6" className="mb-5">
@@ -45,12 +25,14 @@ const ProductItem = (props) => {
           >
             <div className="image-container">
               <Image
+                loader={imageLoader}
                 src={imgUrl}
                 alt={name}
                 fill
                 style={{ objectFit: "cover" }}
                 loading="lazy"
                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+                quality="auto"
               />
             </div>
           </Link>

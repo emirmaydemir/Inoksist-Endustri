@@ -22,10 +22,10 @@ export default async function FastenerListing({
     case "baglanti-elemanlari":
       headerTitle = headerContent.fastener;
       break;
-    case "bakim-kimyasallari":
+    case "teknik-hirdavat":
       headerTitle = headerContent.technical;
       break;
-    case "teknik-hirdavat":
+    case "bakim-kimyasallari":
       headerTitle = headerContent.maintenance;
       break;
     case "moduler-su-deposu":

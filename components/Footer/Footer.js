@@ -1,5 +1,4 @@
 import React from "react";
-import image from "@/assets/all-images/inoksist.png";
 import { Container, Row, Col, ListGroup, ListGroupItem } from "reactstrap";
 import Link from "next/link"; // Next.js Link bileşeni
 import "@/styles/footer.css";
@@ -21,7 +20,13 @@ const Footer = ({ footerData }) => {
                   className="d-flex align-items-center justify-content-center gap-2"
                   aria-label="Ana Sayfaya Git"
                 >
-                  <Image src={image} alt="İnoksist" className="custom-logo" />
+                  <Image
+                    src="https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1728242917/inoksist_wwxbpw.png"
+                    alt="İnoksist"
+                    width={460}
+                    height={100}
+                    className="custom-logo"
+                  />
                 </Link>
               </h1>
             </div>

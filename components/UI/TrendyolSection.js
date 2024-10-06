@@ -2,7 +2,6 @@
 
 import React from "react";
 import { Container, Row, Col } from "reactstrap";
-import driverImg from "@/assets/all-images/civata2.jpg"; // Resim dosyası
 import "@/styles/become-motivation.css"; // CSS dosyasını içe aktar
 import Image from "next/image";
 
@@ -17,8 +16,8 @@ const TrendyolSection = ({ motivationData }) => {
         <Row>
           <Col lg="6" md="6" sm="12" className="become__motivation-img">
             <Image
-              src={driverImg}
-              alt=""
+              src="https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1728242900/civata2_xjdmni.jpg"
+              alt="inoksist trendyol"
               width={600} // Genişlik değerini ayarlayın
               height={400} // Yükseklik değerini ayarlayın
               className="w-100"

@@ -2,7 +2,6 @@ import CommonSection from "@/components/UI/CommonSection";
 import AboutSection from "@/components/UI/AboutSection";
 import { Container, Row, Col } from "reactstrap";
 import MotivationSection from "@/components/UI/MotivationSection";
-import bolt from "@/assets/all-images/civata2.jpg";
 import Testimonial from "@/components/UI/Testimonial";
 import "@/styles/about.css";
 import initTranslations from "../../i18n";
@@ -32,8 +31,10 @@ export default async function About({ params: { locale } }) {
             <Col lg="6" md="6" sm="12">
               <div className="about__page-img">
                 <Image
-                  src={bolt}
+                  src="https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1728242900/civata2_xjdmni.jpg"
                   alt="Hakkımızda"
+                  width={200}
+                  height={100}
                   className="w-100 rounded-3"
                   style={{ width: "auto", height: "auto" }}
                 />

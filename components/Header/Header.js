@@ -2,7 +2,6 @@
 "use client"; // Header bileşenini client bileşeni olarak işaretleyin
 
 import React, { useRef, useState, useEffect } from "react";
-import image from "@/assets/all-images/inoksist.png";
 import { Container, Row, Col } from "reactstrap";
 import Link from "next/link"; // Next.js Link bileşeni
 import "@/styles/header.css";
@@ -81,6 +80,19 @@ const Header = ({ navLinks, search }) => {
     return () => document.removeEventListener("mousedown", handleClickOutside);
   }, []);
 
+  function imageLoader(config) {
+    const urlStart = config.src.split("upload/")[0];
+    const urlEnd = config.src.split("upload/")[1];
+    const transformations = `q_${config.quality || "auto"}`;
+    return `${urlStart}upload/${transformations}/${urlEnd}`;
+  }
+
+  const [activeIndex, setActiveIndex] = useState(0); // Seçili öğe için state
+
+  const handleMenuItemClick = (index) => {
+    setActiveIndex(index); // Seçilen öğenin indeksini ayarla
+  };
+
   return (
     <header className="header">
       {/* ============ header top ============ */}
@@ -89,11 +101,12 @@ const Header = ({ navLinks, search }) => {
           <Row>
             <Col lg="8" md="8" sm="8">
               <div className="header__top__left">
-                <Link href="/home" className="header__top__help">
+                <Link href="/" className="header__top__help">
                   <Image
-                    src={image}
+                    src="https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1728242917/inoksist_wwxbpw.png"
                     alt="İnoksist"
-                    className="header__top__logo"
+                    width={140}
+                    height={33}
                     aria-label="Ana Sayfaya Git"
                     priority
                   />
@@ -147,7 +160,10 @@ const Header = ({ navLinks, search }) => {
                     <Link
                       href={item.path}
                       aria-label={`${item.display} sayfasına git`}
-                      className="nav__item"
+                      className={`nav__item ${
+                        activeIndex === index ? "active" : ""
+                      }`}
+                      onClick={() => handleMenuItemClick(index)} // Tıklandığında aktif öğeyi ayarla
                     >
                       {item.display}
                     </Link>
@@ -199,7 +215,14 @@ const Header = ({ navLinks, search }) => {
                       onClick={handleResultClick}
                       aria-label={`${product.name} ürününün detaylarını görüntüle`}
                     >
-                      <img src={product.imgUrl} alt={product.name} />
+                      <Image
+                        loader={imageLoader}
+                        src={product.imgUrl}
+                        alt={product.name}
+                        width={100}
+                        height={100}
+                        quality="auto"
+                      />
                       <p>{product.name}</p>
                     </Link>
                   ))}

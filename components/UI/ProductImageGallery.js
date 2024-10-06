@@ -1,5 +1,6 @@
 "use client";
 import React, { useState } from "react";
+import Image from "next/image";
 
 const ProductImageGallery = ({ images }) => {
   const [mainImage, setMainImage] = useState(images[0]);
@@ -23,6 +24,13 @@ const ProductImageGallery = ({ images }) => {
     setZoomStyle({ transform: "scale(1)" }); // Zoom sıfırlanır.
   };
 
+  function imageLoader(config) {
+    const urlStart = config.src.split("upload/")[0];
+    const urlEnd = config.src.split("upload/")[1];
+    const transformations = `q_${config.quality || "auto"}`;
+    return `${urlStart}upload/${transformations}/${urlEnd}`;
+  }
+
   return (
     <>
       {/* Ana resim */}
@@ -31,25 +39,33 @@ const ProductImageGallery = ({ images }) => {
         onMouseMove={handleMouseMove}
         onMouseLeave={handleMouseLeave}
       >
-        <img
+        <Image
+          loader={imageLoader}
           src={mainImage}
-          alt="Main Product"
+          fill
+          alt="Ana resim"
           className="main-image"
           style={zoomStyle}
-          loading="lazy"
+          quality="auto"
+          sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
         />
       </div>
       {/* Küçük kartlar */}
       <div className="thumbnail-container mt-3 d-flex justify-content-center flex-wrap">
         {images.map((imgUrl, index) => (
-          <img
-            key={index}
-            src={imgUrl}
-            alt={`Thumbnail ${index}`}
-            className="img-thumbnail custom-thumbnail"
-            onClick={() => handleImageClick(imgUrl)}
-            loading="lazy"
-          />
+          <div key={index}>
+            <Image
+              loader={imageLoader}
+              key={index}
+              src={imgUrl}
+              width={100}
+              height={100}
+              alt={`Kucuk resim ${index}`}
+              className="img-thumbnail custom-thumbnail"
+              onClick={() => handleImageClick(imgUrl)}
+              quality="auto"
+            />
+          </div>
         ))}
       </div>
     </>

@@ -4,15 +4,10 @@
   color: #fff;
 }
 
-.header .header__top__logo {
-  max-width: 140px;
-  height: auto;
-}
-
 .header__top__left {
   display: flex;
   align-items: center;
-  column-gap: 1.4rem;
+  column-gap: 1.5rem;
 }
 
 .header__top__left a {
@@ -27,12 +22,17 @@
   column-gap: 0.4rem;
 }
 
+.header__top .header__top__help {
+  font-size: 0.8rem; /* Yazı boyutunu ayarlayın */
+}
+
 .header__top__help i {
   background: #fff;
   color: #000d6b;
   padding: 2px 4px;
   border-radius: 50px;
   font-size: 0.7rem;
+  margin-bottom: 0.1rem;
 }
 
 .header__top__right a {
@@ -156,6 +156,7 @@
 .sub__menu-item {
   color: #fff;
   padding: 10px 20px;
+  font-size: 0.9rem;
   text-decoration: none;
   display: block;
   white-space: nowrap; /* Uzun metinler için kayma engeli */
@@ -199,8 +200,8 @@
 
 /*Navbar*/
 .nav__item {
-  font-size: 1rem;
-  color: #fff;
+  font-size: 0.9rem;
+  color: #fff !important;
   text-decoration: none;
   transition: 0.3s;
   color: inherit;
@@ -213,7 +214,7 @@
 }
 
 .nav__item:hover {
-  color: #f9a826;
+  color: #f9a826 !important;
 }
 /*Navbar*/
 .search__box {
@@ -242,8 +243,8 @@
   cursor: pointer;
 }
 
-.nav__active {
-  color: #f9a826;
+.nav__item.active {
+  color: #f9a826 !important;
 }
 
 .nav__right {
@@ -292,7 +293,7 @@
   }
 
   .menu a {
-    color: #000d6b;
+    color: #000d6b !important;
     font-weight: 600;
     font-size: 0.9rem;
   }
@@ -311,12 +312,12 @@
   .menu {
     display: flex;
     align-items: center;
-    column-gap: 1.5rem;
+    column-gap: 1.2rem;
   }
 
   .search__box {
     border: 1px solid #7c8a972f;
-    padding: 5px 8px;
+    padding: 5px 12px;
     align-items: center;
     border-radius: 40px;
     background: #020a4de9;
@@ -328,11 +329,35 @@
     padding: 0;
     /* İç paddingi sıfırla */
   }
+
+  .sub__menu-item {
+    font-size: 0.7rem;
+  }
+
+  .header__top__left a {
+    font-size: 0.7rem;
+  }
+
+  .header__top .header__top__help {
+    font-size: 0.7rem; /* Yazı boyutunu ayarlayın */
+  }
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 1400px) {
   .nav__item {
-    font-size: 0.8rem;
+    font-size: 0.7rem;
     /* Bu aralık için font boyutu */
+  }
+
+  .sub__menu-item {
+    font-size: 0.7rem;
+  }
+
+  .header__top__left a {
+    font-size: 0.7rem;
+  }
+
+  .header__top .header__top__help {
+    font-size: 0.7rem; /* Yazı boyutunu ayarlayın */
   }
 }

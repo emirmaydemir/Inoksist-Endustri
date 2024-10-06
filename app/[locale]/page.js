@@ -1,6 +1,5 @@
 import React from "react";
 import initTranslations from "../i18n";
-import sponsor from "@/assets/all-images/markalar.jpg";
 import { Container, Row, Col } from "reactstrap";
 import "@/styles/find-product-form.css";
 import AboutSection from "@/components/UI/AboutSection";
@@ -45,7 +44,13 @@ export default async function HomePage({ params: { locale } }) {
             <Row className="form__row">
               <Col lg="12" md="12" sm="12">
                 <div className="find__cars-right">
-                  <Image src={sponsor} alt="Sponsorlar" className="img-fluid" />
+                  <Image
+                    src="https://res.cloudinary.com/di9qvtepw/image/upload/v1728242922/markalar_wcicpo.jpg"
+                    alt="Sponsorlar"
+                    width={1300}
+                    height={100}
+                    className="img-fluid"
+                  />
                 </div>
               </Col>
             </Row>
