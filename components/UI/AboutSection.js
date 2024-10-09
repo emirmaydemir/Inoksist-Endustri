@@ -66,7 +66,7 @@ const AboutSection = ({ aboutClass, aboutContent }) => {
           <Col lg="6" md="6">
             <div className="about__img">
               <Image
-                src="https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1728242911/civata3_pkc1ab.jpg"
+                src="https://res.cloudinary.com/di9qvtepw/image/upload/q_auto,f_webp/v1728242911/civata3_pkc1ab.jpg"
                 alt="About Image"
                 width={200}
                 height={100}

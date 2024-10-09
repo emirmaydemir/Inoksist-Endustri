@@ -3,6 +3,7 @@ import React from "react";
 import Slider from "react-slick";
 import { Container } from "reactstrap";
 import Link from "next/link"; // Next.js Link kullanımı
+import Image from "next/image";
 
 import "@/styles/hero-slider.css";
 import "slick-carousel/slick/slick.css";
@@ -23,10 +24,18 @@ const HeroSlider = ({ sliderContent }) => {
   return (
     <Slider {...settings} className="hero__slider">
       {sliderContent.map((slide, index) => (
-        <div
-          key={index}
-          className={`slider__item slider__item-0${index + 1} mt0`}
-        >
+        <div key={index} className={`slider__item mt0`}>
+          <div className="slider-image-contain">
+            <Image
+              src={slide.image}
+              alt={slide.title}
+              fill
+              style={{ objectFit: "cover" }}
+              className="slider-image"
+              priority
+            />
+            <div className="overlay" /> {/* Gradyan overlay için div */}
+          </div>
           <Container>
             <div className="slider__content ">
               <h4 className="text-light mb-3">{slide.title}</h4>

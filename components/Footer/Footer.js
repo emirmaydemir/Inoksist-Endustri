@@ -13,23 +13,29 @@ const Footer = ({ footerData }) => {
       <Container>
         <Row>
           <Col lg="12" md="12" sm="12" className="mb-4">
-            <div className="logo footer__logo">
-              <h1>
-                <Link
-                  href="/home"
-                  className="d-flex align-items-center justify-content-center gap-2"
-                  aria-label="Ana Sayfaya Git"
-                >
-                  <Image
-                    src="https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1728242917/inoksist_wwxbpw.png"
-                    alt="İnoksist"
-                    width={460}
-                    height={100}
-                    className="custom-logo"
-                  />
-                </Link>
-              </h1>
+            <div className="d-flex justify-content-center align-items-center">
+              <Link
+                href="/"
+                aria-label="Ana Sayfaya Git"
+                style={{
+                  display: "inline-block", // Link'i sadece resimle sınırlıyoruz.
+                  width: "auto",
+                  height: "auto",
+                  marginRight: "50px",
+                  marginLeft: "10px",
+                }}
+              >
+                <Image
+                  src="https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1728242917/inoksist_wwxbpw.png"
+                  alt="İnoksist"
+                  width={400}
+                  height={100}
+                  className="custom-logo"
+                  style={{ display: "block", width: "auto", height: "auto" }} // Resmi blok yapıp düzgün yerleştiriyoruz
+                />
+              </Link>
             </div>
+
             <p className="footer__logo-content">
               {footerData.info.description}
             </p>

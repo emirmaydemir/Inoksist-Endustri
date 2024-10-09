@@ -1,71 +1,51 @@
+/* hero-slider.css */
+
 .slider__item {
+  position: relative; /* İçeriklerin doğru yerleşimi için */
   max-width: 100%;
   height: 650px;
-}
-
-.slider__item-01 {
-  background: linear-gradient(rgb(0, 13, 107, 0.5), rgb(0, 13, 107, 0.5)),
-    url("https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1728246081/slider-1_hpjoda.jpg");
+  background: linear-gradient(rgb(0, 13, 107, 0.5), rgb(0, 13, 107, 0.5));
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
-.slider__item-02 {
-  background: linear-gradient(rgb(0, 13, 107, 0.5), rgb(0, 13, 107, 0.5)),
-    url("https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1728246083/slider-2_zvzogt.jpg");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+.slider-image-contain {
+  position: absolute; /* Arka planda kalacak */
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1; /* İçeriklerin altında kalmasını sağlamak için */
 }
 
-.slider__item-03 {
-  background: linear-gradient(rgb(0, 13, 107, 0.5), rgb(0, 13, 107, 0.5)),
-    url("https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1728246085/slider-3_c85q4w.jpg");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+.slider-image {
+  object-fit: cover; /* Resmin kapsayıcıya uyum sağlaması için */
+  width: 100%;
+  height: 100%;
 }
 
-.slider__item-04 {
-  background: linear-gradient(rgb(0, 13, 107, 0.5), rgb(0, 13, 107, 0.5)),
-    url("https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1728246089/slider-4_c2gwh3.png");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+.slider__content {
+  position: relative; /* İçeriklerin yukarıda görünmesi için */
+  z-index: 2; /* İçeriklerin üstte kalmasını sağlamak için */
+  padding-top: 150px; /* İçeriği konumlandırmak için */
 }
 
-.slider__item-05 {
-  background: linear-gradient(rgb(0, 13, 107, 0.5), rgb(0, 13, 107, 0.5)),
-    url("https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1728246090/slider-5_qrupu7.png");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
-.slider__item-06 {
-  background: linear-gradient(rgb(0, 13, 107, 0.5), rgb(0, 13, 107, 0.5)),
-    url("https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1728246091/slider-6_fwhez8.jpg");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
-.slider__item-07 {
-  background: linear-gradient(rgb(0, 13, 107, 0.5), rgb(0, 13, 107, 0.5)),
-    url("https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1728246080/slider-7_k07g0z.jpg");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+.overlay {
+  position: absolute; /* Gradyanı yerleştirmek için */
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    rgb(0, 13, 107, 0.5),
+    rgb(0, 13, 107, 0.5)
+  ); /* Gradyan arka plan */
+  z-index: 1; /* İçeriklerin üzerinde görünmesi için */
 }
 
 .hero__slider {
   overflow: hidden;
-}
-
-.slider__content {
-  padding-top: 150px;
-  z-index: 10;
 }
 
 .slider__content h1 {

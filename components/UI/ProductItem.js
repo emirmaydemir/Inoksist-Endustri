@@ -30,7 +30,6 @@ const ProductItem = (props) => {
                 alt={name}
                 fill
                 style={{ objectFit: "cover" }}
-                loading="lazy"
                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                 quality="auto"
               />

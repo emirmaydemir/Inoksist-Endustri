@@ -16,7 +16,7 @@ const TrendyolSection = ({ motivationData }) => {
         <Row>
           <Col lg="6" md="6" sm="12" className="become__motivation-img">
             <Image
-              src="https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1728242900/civata2_xjdmni.jpg"
+              src="https://res.cloudinary.com/di9qvtepw/image/upload/q_auto,f_webp/v1728242900/civata2_xjdmni.jpg"
               alt="inoksist trendyol"
               width={600} // Genişlik değerini ayarlayın
               height={400} // Yükseklik değerini ayarlayın

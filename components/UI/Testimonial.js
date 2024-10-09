@@ -51,9 +51,8 @@ const Testimonial = ({ testimonialData }) => {
             <Image
               src={images[index]} // Resmin kaynağı
               alt={`Product ${item.id}`}
-              className="img-fluid"
-              width={500} // Genişlik
-              height={300} // Yükseklik
+              fill
+              sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
             />
           </div>
           <h5 className="product-title mb-2">{item.title}</h5>

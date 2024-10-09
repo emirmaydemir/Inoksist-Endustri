@@ -41,6 +41,12 @@ export default async function RootLayout({ children, params: { locale } }) {
           href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;400;600;700;900&display=swap"
           rel="stylesheet"
         />
+        <link
+          rel="preload"
+          href="https://cdn.jsdelivr.net/npm/remixicon/fonts/remixicon.css"
+          as="style"
+          onLoad="this.onload=null;this.rel='stylesheet'"
+        />
         <title>{metadata.title}</title>
         <meta name="description" content={metadata.description} />
       </Head>

@@ -17,7 +17,9 @@ export default function LanguageChanger({ className }) {
     const days = 30;
     const date = new Date();
     date.setTime(date.getTime() + days * 24 * 60 * 60 * 1000);
-    document.cookie = `NEXT_LOCALE=${newLocale};expires=${date.toUTCString()};path=/`;
+    //document.cookie = `NEXT_LOCALE=${newLocale};expires=${date.toUTCString()};path=/`;
+    //document.cookie = `NEXT_LOCALE=${newLocale};expires=${date.toUTCString()};path=/;SameSite=Strict;Secure`;
+    document.cookie = `NEXT_LOCALE=${newLocale};expires=${date.toUTCString()};path=/;SameSite=Lax;Secure`;
 
     // redirect to the new locale path
     if (

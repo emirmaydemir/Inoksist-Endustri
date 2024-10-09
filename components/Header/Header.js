@@ -87,7 +87,7 @@ const Header = ({ navLinks, search }) => {
     return `${urlStart}upload/${transformations}/${urlEnd}`;
   }
 
-  const [activeIndex, setActiveIndex] = useState(0); // Seçili öğe için state
+  const [activeIndex, setActiveIndex] = useState(""); // Seçili öğe için state
 
   const handleMenuItemClick = (index) => {
     setActiveIndex(index); // Seçilen öğenin indeksini ayarla

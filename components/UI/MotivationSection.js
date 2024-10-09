@@ -17,7 +17,7 @@ const MotivationSection = ({ motivationData }) => {
         <Row>
           <Col lg="6" md="6" sm="12" className="become__motivation-img">
             <Image
-              src="https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1728242900/civata2_xjdmni.jpg"
+              src="https://res.cloudinary.com/di9qvtepw/image/upload/q_auto,f_webp/v1728242900/civata2_xjdmni.jpg"
               alt="İnoksist İletişim"
               width={200}
               height={100}

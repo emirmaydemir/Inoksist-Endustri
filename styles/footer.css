@@ -5,7 +5,7 @@
 }
 
 .custom-logo {
-  max-width: 95%;
+  max-width: 100%;
   /* Resmin genişliği, kapsayıcı genişliğini geçmemesi için */
   height: auto;
   /* Yükseklik oranını korur */
@@ -35,7 +35,7 @@
   text-align: left;
   position: relative;
   width: fit-content;
-  font-size: 17px;
+  font-size: 16px;
   text-align: left; /* Sola hizala */
   display: flex; /* Eğer flex kullanıyorsan */
   flex-direction: column; /* Dikey hizalama */
@@ -155,5 +155,8 @@
 
   .social-icons a {
     margin: 0 10px; /* İkonlar arasına boşluk ekle */
+  }
+  .footer__logo-content {
+    font-size: 13px;
   }
 }
