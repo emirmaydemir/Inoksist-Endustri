@@ -38,9 +38,7 @@ export default async function ProductDetails({ params: { locale, slug } }) {
             <Row className="mt-3">
               <Col lg="12">
                 <div className="technical-features">
-                  <h2 className="technical-features-title">
-                    Teknik Özellikler
-                  </h2>
+                  <h2 className="technical-features-title">Teknik Özellikler</h2>
                   <hr className="technical-features-line" />
                 </div>
               </Col>
@@ -52,23 +50,15 @@ export default async function ProductDetails({ params: { locale, slug } }) {
                 <Col lg="12">
                   <div className="section-container2">
                     <h4 className="fw-bold">{singleProductItem.name}</h4>
-                    {singleProductItem.title2 && (
-                      <h5 className="fw-light fst-italic ">
-                        {singleProductItem.title2}
-                      </h5>
-                    )}
-                    {singleProductItem.title3 && (
-                      <h6 className="fw-normal">{singleProductItem.title3}</h6>
-                    )}
+                    {singleProductItem.title2 && <h5 className="fw-light fst-italic ">{singleProductItem.title2}</h5>}
+                    {singleProductItem.title3 && <h6 className="fw-normal">{singleProductItem.title3}</h6>}
                     {singleProductItem.specifications.map((spec, index) => (
                       <div key={index} className="specification-table mb-4">
                         {/* Title varsa göster, yoksa atla */}
-                        {spec.title && (
-                          <h4 className="table-title">{spec.title}</h4>
-                        )}
+                        {spec.title && <h4 className="table-title">{spec.title}</h4>}
                         <div className="table-responsive">
                           {/* Bootstrap responsive tablo sınıfı */}
-                          <table className="table table-bordered">
+                          <table className="table table-bordered text-center">
                             <thead>
                               <tr>
                                 {spec.headers.map((header, idx) => (

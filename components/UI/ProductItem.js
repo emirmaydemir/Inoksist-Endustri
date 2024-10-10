@@ -18,21 +18,9 @@ const ProductItem = (props) => {
     <Col lg="4" md="4" sm="6" className="mb-5">
       <div className="product__item">
         <div className="product__img">
-          <Link
-            href={`/urun/${url}`}
-            aria-label={`${name} ürününün detay sayfasını görüntüle`}
-            passHref
-          >
+          <Link href={`/urun/${url}`} aria-label={`${name} ürününün detay sayfasını görüntüle`} passHref>
             <div className="image-container">
-              <Image
-                loader={imageLoader}
-                src={imgUrl}
-                alt={name}
-                fill
-                style={{ objectFit: "cover" }}
-                sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
-                quality="auto"
-              />
+              <Image loader={imageLoader} src={imgUrl} alt={name} fill style={{ objectFit: "contain" }} sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" quality="auto" />
             </div>
           </Link>
         </div>

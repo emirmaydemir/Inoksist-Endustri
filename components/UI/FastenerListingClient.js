@@ -6,13 +6,7 @@ import { Col } from "reactstrap";
 import ProductItem from "@/components/UI/ProductItem";
 import "@/styles/select.css";
 
-const FastenerListingClient = ({
-  fastenerData,
-  categoriesContent,
-  headerContent,
-  product,
-  category,
-}) => {
+const FastenerListingClient = ({ fastenerData, categoriesContent, headerContent, product, category }) => {
   const router = useRouter(); // Router'ı kullan
   const [selectedCategory, setSelectedCategory] = useState(product);
 
@@ -51,21 +45,13 @@ const FastenerListingClient = ({
     setSelectedCategory(formattedCategory);
   };
 
-  const filteredProducts =
-    selectedCategory && selectedCategory !== "urunler"
-      ? fastenerData.filter((item) => item.category === selectedCategory)
-      : fastenerData; // Eğer selectedCategory boşsa, tüm ürünleri göster
+  const filteredProducts = selectedCategory && selectedCategory !== "urunler" ? fastenerData.filter((item) => item.category === selectedCategory) : fastenerData; // Eğer selectedCategory boşsa, tüm ürünleri göster
 
   return (
     <>
       <Col lg="12">
         <div className="d-flex align-items-center gap-3 mb-5">
-          <select
-            onChange={handleCategoryChange}
-            className="custom-select"
-            aria-label="Kategoriler"
-            value={selectedCategory || ""}
-          >
+          <select onChange={handleCategoryChange} className="custom-select" aria-label="Kategoriler" value={selectedCategory || ""}>
             <option value="">{headerContent.all}</option>
             {categoriesContent.map((category, index) => (
               <option value={category.guid} key={index}>

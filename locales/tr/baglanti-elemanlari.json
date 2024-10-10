@@ -2,81 +2,23 @@
   "baglanti-elemanlari": [
     {
       "id": 1,
-      "name": "DIN 933 Altı Köşe Cıvata A2",
+      "name": "DIN 933 Altı Köşe Başlı Tam Paso Civata",
       "url": "din-933-alti-kose-civata-a2",
-      "title2": "Altı Köşe Cıvata A2",
-      "title3": "Deneme test",
-      "images": [
-        "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/1_qi56ao.jpg",
-        "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/2_lvp8ms.jpg"
-      ],
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/1_qi56ao.jpg",
+      "title2": "Hexagon Head Screws - Full Thread",
+      "title3": "Altı Köşe Başlı Tam Paso Civata",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728505455/DIN933_m5dpff.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728505457/Screenshot_1_ckp6ea.png", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728505458/Screenshot_2_yjsr5h.png"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728505455/DIN933_m5dpff.jpg",
       "categoryId": 1,
       "category": "paslanmaz-baglanti-elemanlari",
-      "description": "DIN 933 Altı Köşe Cıvata A2, paslanmaz çelikten üretilmiş, tam dişli bir altı köşe başlı cıvatadır. DIN 933 standardına uygun olarak üretilen bu cıvata, A2 kalite paslanmaz çelikten yapılmış olup, korozyona dayanıklılığı sayesinde özellikle nemli veya dış ortam koşullarında uzun süre kullanılabilir. Bu tür cıvatalar, genellikle makine, inşaat ve yapı endüstrilerinde kullanılan, yüksek mukavemet ve dayanıklılık gerektiren uygulamalar için tercih edilir.",
+      "description": "DIN 933, tamamen dişli ve altı köşe başlı cıvataları tanımlayan bir standarttır. Bu cıvatalar, sağlam yapıları ve tam dişli gövdeleri sayesinde güçlü bir tutuş sağlar. Altıgen baş yapısı, standart anahtarlar ve aletlerle kolay montaj imkanı sunar. Yüksek çekme dayanımına sahip olan bu cıvatalar, özellikle metal bağlantılarda güvenilir bir sabitleme sağlar. Farklı çap ve uzunluk seçenekleri ile sunulmakta olup, genellikle paslanmaz çelik veya çelik malzemeden üretilmektedir.",
       "specifications": [
         {
-          "headers": [
-            "",
-            "M4",
-            "M5",
-            "M6",
-            "M8",
-            "M10",
-            "M12",
-            "M14",
-            "M16",
-            "M18",
-            "M20",
-            "M22",
-            "M24"
-          ],
+          "headers": ["Boy/Q", "M3", "M4", "M5", "M6", "M8", "M10", "M12", "M14", "M16", "M18", "M20", "M22", "M24", "M27", "M30"],
           "data": [
-            [
-              "k max.",
-              "2,8",
-              "3,5",
-              "4,0",
-              "5,3",
-              "6,4",
-              "7,5",
-              "8,8",
-              "10,0",
-              "11,5",
-              "12,5",
-              "14,0",
-              "15,0"
-            ],
-            [
-              "s.",
-              "7",
-              "8",
-              "10",
-              "13",
-              "17",
-              "19",
-              "22",
-              "24",
-              "27",
-              "30",
-              "32",
-              "36"
-            ],
-            [
-              "e",
-              "7,66",
-              "8,79",
-              "11,05",
-              "14,38",
-              "18,90",
-              "21,10",
-              "24,49",
-              "26,75",
-              "30,14",
-              "33,53",
-              "35,72",
-              "39,98"
-            ]
+            ["k max.", "2,0", "2,8", "3,5", "4,0", "5,3", "6,4", "7,5", "8,8", "10,0", "11,5", "12,5", "14,0", "15,0", "17,0", "18,7"],
+            ["s.", "5,5", "7", "8", "10", "13", "17", "19", "22", "24", "27", "30", "32", "36", "41", "46"],
+            ["e", "6,01", "7,66", "8,79", "11,05", "14,38", "18,90", "21,10", "24,49", "26,75", "30,14", "33,53", "35,72", "39,98", "45,20", "50,85"],
+            ["⬢", "5,5", "7", "8", "10", "13", "17", "19", "22", "24", "27", "30", "32", "36", "41", "46"]
           ]
         }
       ]
@@ -84,110 +26,25 @@
 
     {
       "id": 2,
-      "name": "DIN 933 Altı Köşe Başlı Tam Paso Civata",
-      "url": "din-933-altı-köşe-cıvata-a20",
-      "title2": "Hexagon Head Screws - Full Thread",
-      "title3": "Altı Köşe Başlı Tam Paso Civata",
-      "images": [
-        "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/1_qi56ao.jpg",
-        "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/2_lvp8ms.jpg"
-      ],
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/1_qi56ao.jpg",
+      "name": "DIN 931 Altı Köşe Başlı Yarım Paso Civata",
+      "url": "din-931-alti-kose-basli-yarim-paso-civata",
+      "title2": "Hexagon Head Screws - Half Thread",
+      "title3": "Altı Köşe Başlı Yarım Paso Civata",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728568104/Screenshot_2_opuud7.png", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728505372/Screenshot_1_nczfj9.png", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728505373/Screenshot_2_ohsk5e.png"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728568104/Screenshot_2_opuud7.png",
       "categoryId": 1,
       "category": "paslanmaz-baglanti-elemanlari",
-      "description": "DIN 933, tamamen dişli ve altı köşe başlı cıvataları tanımlayan bir standarttır. Bu cıvatalar, sağlam yapıları ve tam dişli gövdeleri sayesinde güçlü bir tutuş sağlar. Altıgen baş yapısı, standart anahtarlar ve aletlerle kolay montaj imkanı sunar. Yüksek çekme dayanımına sahip olan bu cıvatalar, özellikle metal bağlantılarda güvenilir bir sabitleme sağlar. Farklı çap ve uzunluk seçenekleri ile sunulmakta olup, genellikle paslanmaz çelik veya çelik malzemeden üretilmektedir.",
+      "description": "DIN 931, altı köşe başlı ve yarım dişli (yarım paso) cıvataları tanımlayan bir standarttır. Bu cıvatalar, kısmi diş yapısına sahip olup, dişli kısmı cıvatanın bir bölümünü kaplar ve geri kalanı düz bir şaft şeklindedir. Altıgen baş yapısı, standart anahtar ve aletlerle kolayca sıkma ve gevşetme işlemi sağlar. DIN 931 cıvataları, genellikle yüksek çekme dayanımı ve sağlam bağlantı gerektiren uygulamalarda kullanılır. Paslanmaz çelik veya çelik malzemeden üretilen bu cıvatalar, çeşitli boyut ve çap seçenekleriyle sunulmaktadır.",
       "specifications": [
         {
-          "headers": [
-            "Boy/Q",
-            "M3",
-            "M4",
-            "M5",
-            "M6",
-            "M8",
-            "M10",
-            "M12",
-            "M14",
-            "M16",
-            "M18",
-            "M20",
-            "M22",
-            "M24",
-            "M27",
-            "M30"
-          ],
+          "headers": ["Boy/Q", "M5", "M6", "M8", "M10", "M12", "M14", "M16", "M18", "M20", "M22", "M24", "M27", "M30", "M33", "M36"],
           "data": [
-            [
-              "k max.",
-              "2,0",
-              "2,8",
-              "3,5",
-              "4,0",
-              "5,3",
-              "6,4",
-              "7,5",
-              "8,8",
-              "10,0",
-              "11,5",
-              "12,5",
-              "14,0",
-              "15,0",
-              "17,0",
-              "18,7"
-            ],
-            [
-              "s.",
-              "5,5",
-              "7",
-              "8",
-              "10",
-              "13",
-              "17",
-              "19",
-              "22",
-              "24",
-              "27",
-              "30",
-              "32",
-              "36",
-              "41",
-              "46"
-            ],
-            [
-              "e",
-              "7,66",
-              "8,79",
-              "11,05",
-              "14,38",
-              "18,90",
-              "21,10",
-              "24,49",
-              "26,75",
-              "30,14",
-              "33,53",
-              "35,72",
-              "39,98",
-              "45,20",
-              "50,85"
-            ],
-            [
-              " ",
-              "5,5",
-              "7",
-              "8",
-              "10",
-              "13",
-              "17",
-              "19",
-              "22",
-              "24",
-              "27",
-              "30",
-              "32",
-              "36",
-              "41",
-              "46"
-            ]
+            ["k max.", "3,5", "4,0", "5,3", "6,4", "7,5", "8,8", "10,0", "11,5", "12,5", "14,0", "15,0", "17,0", "18,7", "20,58", "22,08"],
+            ["s", "8", "10", "13", "17", "19", "22", "24", "27", "30", "32", "36", "41", "46", "50", "55"],
+            ["e", "8,79", "11,05", "14,38", "18,90", "21,10", "24,49", "26,75", "30,14", "33,53", "35,72", "38,98", "45,20", "50,85", "55,37", "60,79"],
+            ["b<125", "16", "18", "22", "26", "30", "34", "38", "42", "46", "50", "54", "60", "66", "72", "78"],
+            ["b>", "22", "24", "28", "32", "36", "40", "44", "48", "52", "56", "60", "66", "72", "78", "84"],
+            ["⬢", "8", "10", "13", "17", "19", "22", "24", "27", "30", "32", "36", "41", "46", "50", "55"]
           ]
         }
       ]
@@ -195,165 +52,14 @@
 
     {
       "id": 3,
-      "name": "DIN 931 Altı Köşe Başlı Yarım Paso Civata",
-      "url": "din-933-altı-köşe-cıvata-a21",
-      "title2": "Hexagon Head Screws - Full Thread",
-      "title3": "Altı Köşe Başlı Yarım Paso Civata",
-      "images": [
-        "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/1_qi56ao.jpg",
-        "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/2_lvp8ms.jpg"
-      ],
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/1_qi56ao.jpg",
-      "categoryId": 1,
-      "category": "fastenerData",
-      "description": "DIN 931, altı köşe başlı ve yarım dişli (yarım paso) cıvataları tanımlayan bir standarttır. Bu cıvatalar, kısmi diş yapısına sahip olup, dişli kısmı cıvatanın bir bölümünü kaplar ve geri kalanı düz bir şaft şeklindedir. Altıgen baş yapısı, standart anahtar ve aletlerle kolayca sıkma ve gevşetme işlemi sağlar. DIN 931 cıvataları, genellikle yüksek çekme dayanımı ve sağlam bağlantı gerektiren uygulamalarda kullanılır. Paslanmaz çelik veya çelik malzemeden üretilen bu cıvatalar, çeşitli boyut ve çap seçenekleriyle sunulmaktadır.",
-      "specifications": [
-        {
-          "headers": [
-            "Boy/Q",
-            "M5",
-            "M6",
-            "M8",
-            "M10",
-            "M12",
-            "M14",
-            "M16",
-            "M18",
-            "M20",
-            "M22",
-            "M24",
-            "M27",
-            "M30",
-            "M33",
-            "M36"
-          ],
-          "data": [
-            [
-              "k max.",
-              "3,5",
-              "4,0",
-              "5,3",
-              "6,4",
-              "7,5",
-              "8,8",
-              "10,0",
-              "11,5",
-              "12,5",
-              "14,0",
-              "15,0",
-              "17,0",
-              "18,7",
-              "20,58",
-              "22,08"
-            ],
-            [
-              "s.",
-              "8",
-              "10",
-              "13",
-              "17",
-              "19",
-              "22",
-              "24",
-              "27",
-              "30",
-              "32",
-              "36",
-              "41",
-              "46",
-              "50",
-              "55"
-            ],
-            [
-              "e",
-              "8,79",
-              "11,05",
-              "14,38",
-              "18,90",
-              "21,10",
-              "24,49",
-              "26,75",
-              "30,14",
-              "33,53",
-              "35,72",
-              "38,98",
-              "45,20",
-              "50,85",
-              "55,37",
-              "60,79"
-            ],
-            [
-              "b<125",
-              "16",
-              "18",
-              "22",
-              "26",
-              "30",
-              "34",
-              "38",
-              "42",
-              "46",
-              "50",
-              "54",
-              "60",
-              "66",
-              "72",
-              "78"
-            ],
-            [
-              "b>",
-              "22",
-              "24",
-              "28",
-              "32",
-              "36",
-              "40",
-              "44",
-              "48",
-              "52",
-              "56",
-              "60",
-              "66",
-              "72",
-              "78",
-              "84"
-            ],
-            [
-              "⬡",
-              "8",
-              "10",
-              "13",
-              "17",
-              "19",
-              "22",
-              "24",
-              "27",
-              "30",
-              "32",
-              "36",
-              "41",
-              "46",
-              "50",
-              "55"
-            ]
-          ]
-        }
-      ]
-    },
-
-    {
-      "id": 4,
       "name": "DIN 6921 Flanşlı Civata",
-      "url": "din-933-altı-köşe-cıvata-a22",
+      "url": "din-6921-flansli-civata",
       "title2": "Hexagon Socket Button Head Screws Flange Without Serration",
       "title3": "Flanşlı Civata",
-      "images": [
-        "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/1_qi56ao.jpg",
-        "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/2_lvp8ms.jpg"
-      ],
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/1_qi56ao.jpg",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728506651/DIN6921_f1cvym.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506653/Screenshot_1_oqoqwt.png", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506656/Screenshot_2_cfuc64.png"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506651/DIN6921_f1cvym.jpg",
       "categoryId": 1,
-      "category": "fastenerData",
+      "category": "paslanmaz-baglanti-elemanlari",
       "description": "DIN 6921, flanşlı başlı cıvataları tanımlayan bir standarttır. Bu cıvatalar, baş kısmında entegre bir flanş (yassı ve genişletilmiş alan) bulundurur, bu da ekstra pul kullanımını gereksiz kılar ve daha geniş bir yüzey alanında yük dağılımı sağlar. Flanşlı yapısı sayesinde bağlantı noktalarında kayma riskini azaltır ve sıkma sırasında daha güvenilir bir tutuş sunar. Genellikle otomotiv, makine mühendisliği ve metal işleme gibi endüstriyel uygulamalarda kullanılır. DIN 6921 cıvataları çelik ve paslanmaz çelik gibi dayanıklı malzemelerden üretilir ve farklı boyutlarda sunulur.",
       "specifications": [
         {
@@ -364,7 +70,33 @@
             ["s", "8", "10", "13", "15"],
             ["dc", "11,8", "14,2", "18", "22,3"],
             ["e", "8,71", "10,95", "14,26", "16,5"],
-            ["⬡", "8", "10", "13", "15"]
+            ["⬢", "8", "10", "13", "15"]
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 4,
+      "name": "DIN 912 İmbus",
+      "url": "din-912-imbus",
+      "title2": "Hexagon Socket Head Cap Screws",
+      "title3": "İmbus",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728504834/DIN912_mr8lvv.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728504835/Screenshot_2_seuncf.png", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728504835/Screenshot_1_gis6gg.png"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728504834/DIN912_mr8lvv.jpg",
+      "categoryId": 1,
+      "category": "paslanmaz-baglanti-elemanlari",
+      "description": "DIN 912, silindirik başlı ve içten altıgen yuvalı (imbus) cıvataları tanımlayan bir standarttır. Bu cıvatalar, yüksek sıkma torku ve hassas montaj gerektiren uygulamalarda kullanılır. İmbus baş yapısı, standart altıgen anahtarlar ile kolayca sıkılmasını sağlar ve dar alanlarda montaj imkanı sunar. Silindirik başı, estetik bir görünüm sunarken sağlam bağlantılar sağlar. DIN 912 cıvataları, genellikle makine mühendisliği, otomotiv ve endüstriyel ekipmanlarda tercih edilir. Çelik ve paslanmaz çelik gibi dayanıklı malzemelerden üretilir ve çeşitli boyutlarda temin edilebilir.",
+      "specifications": [
+        {
+          "headers": ["Boy/Q", "M3", "M4", "M5", "M6", "M8", "M10", "M12", "M14", "M16", "M20"],
+          "data": [
+            ["dk max.", "5,5", "7,0", "8,5", "10,0", "13,0", "16,0", "18,0", "21,0", "24,0", "30,0"],
+            ["k max.", "3,0", "4,0", "5,0", "6,0", "8,0", "10,0", "12,0", "14,0", "16,0", "20,0"],
+            ["s", "2,5", "3", "4", "5", "6", "8", "10", "12", "14", "17"],
+            ["b", "18", "20", "22", "24,0", "28", "32", "36", "40", "44", "52"],
+            ["te", "1,3", "2,0", "2,5", "3,0", "4,0", "5,0", "6,0", "7,0", "8,0", "10,0"],
+            ["⬢", "2,5", "3", "4", "5", "6", "8", "10", "12", "14", "17"]
           ]
         }
       ]
@@ -372,76 +104,26 @@
 
     {
       "id": 5,
-      "name": "DIN 912 İmbus",
-      "url": "din-933-altı-köşe-cıvata-a23",
-      "title2": "Hexagon Socket Head Cap Screws",
-      "title3": "İmbus",
-      "images": [
-        "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/1_qi56ao.jpg",
-        "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/2_lvp8ms.jpg"
-      ],
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/1_qi56ao.jpg",
+      "name": "DIN 7991 - ISO 10642 Havşa Başlı İmbus",
+      "url": "din-7991-iso-10642-havsa-basli-imbus",
+      "title2": "Countersunk Flat Head Screws",
+      "title3": "Havşa Başlı İmbus",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728507780/DIN7991_-_ISO10642_dqkr9r.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728507784/Screenshot_1_xpvswy.png", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728507788/Screenshot_2_qxjxf4.png"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728507780/DIN7991_-_ISO10642_dqkr9r.jpg",
       "categoryId": 1,
-      "category": "fastenerData",
-      "description": "DIN 912, silindirik başlı ve içten altıgen yuvalı (imbus) cıvataları tanımlayan bir standarttır. Bu cıvatalar, yüksek sıkma torku ve hassas montaj gerektiren uygulamalarda kullanılır. İmbus baş yapısı, standart altıgen anahtarlar ile kolayca sıkılmasını sağlar ve dar alanlarda montaj imkanı sunar. Silindirik başı, estetik bir görünüm sunarken sağlam bağlantılar sağlar. DIN 912 cıvataları, genellikle makine mühendisliği, otomotiv ve endüstriyel ekipmanlarda tercih edilir. Çelik ve paslanmaz çelik gibi dayanıklı malzemelerden üretilir ve çeşitli boyutlarda temin edilebilir.",
+      "category": "paslanmaz-baglanti-elemanlari",
+      "description": "DIN 7991 (ISO 10642), havşa başlı ve içten altıgen yuvalı (imbus) cıvataları tanımlayan bir standarttır. Bu cıvatalar, başlarının yüzeyle tamamen aynı hizada olmasını sağlayarak düz ve temiz bir montaj yüzeyi sunar. İmbus baş yapısı, altıgen anahtarlarla kolayca sıkılmasına olanak tanır ve hassas uygulamalar için idealdir. DIN 7991 cıvataları, özellikle estetik ve düşük profilli montaj gerektiren yerlerde, makine mühendisliği ve metal bağlantılarında kullanılır. Paslanmaz çelik veya çelikten üretilen bu civatalar, çeşitli boyut ve malzeme seçenekleriyle sunulur.",
       "specifications": [
         {
-          "headers": [
-            "Boy/Q",
-            "M3",
-            "M4",
-            "M5",
-            "M6",
-            "M8",
-            "M10",
-            "M12",
-            "M14",
-            "M16",
-            "M20"
-          ],
+          "headers": ["Boy/Q", "M3", "M4", "M5", "M6", "M8", "M10", "M12", "M16", "M20"],
           "data": [
-            [
-              "dk max.",
-              "5,5",
-              "7,0",
-              "8,5",
-              "10",
-              "13",
-              "16",
-              "18",
-              "21,0",
-              "24,0",
-              "30,0"
-            ],
-            [
-              "k max.",
-              "3,0",
-              "4,0",
-              "5,0",
-              "6,0",
-              "8,0",
-              "10,0",
-              "12,0",
-              "14,",
-              "16,0",
-              "20,0"
-            ],
-            ["s", "2,5", "3", "4", "5", "6", "8", "10", "12", "14", "17"],
-            ["b", "18", "20", "22", "24", "28", "32", "36", "40", "44", "52"],
-            [
-              "te",
-              "1,3",
-              "2,0",
-              "2,5",
-              "3,0",
-              "4,0",
-              "5,0",
-              "6,0",
-              "7,0",
-              "8,0",
-              "10,0"
-            ],
-            ["⬡", "2,5", "3", "4", "5", "6", "8", "10", "12", "14", "17"]
+            ["dk", "6", "8", "10", "12", "16", "20", "24", "30", "36"],
+            ["k", "1,7", "2,3", "2,8", "3,3", "4,4", "5,5", "6,5", "7,5", "8,5"],
+            ["s", "2,0", "2,5", "3,0", "4,0", "5,0", "6,0", "8,0", "10,0", "12,0"],
+            ["b", "12", "14", "16", "18", "22", "26", "30", "38", "46"],
+            ["t", "1,2", "1,8", "2,3", "2,5", "3,5", "4,4", "4,6", "5,3", "5,9"],
+            ["e", "2,30", "2,87", "3,44", "4,58", "5,72", "6,86", "9,15", "11,43", "13,72"],
+            ["⬢", "2,0", "2,5", "3,0", "4,0", "5,0", "6,0", "8,0", "10,0", "12,0"]
           ]
         }
       ]
@@ -449,114 +131,15 @@
 
     {
       "id": 6,
-      "name": "DIN 7991 - ISO 10642 Havşa Başlı İmbus",
-      "url": "din-933-altı-köşe-cıvata-a24",
-      "title2": "Countersunk Flat Head Screws",
-      "title3": "Havşa Başlı İmbus",
-      "images": [
-        "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/1_qi56ao.jpg",
-        "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/2_lvp8ms.jpg"
-      ],
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/1_qi56ao.jpg",
-      "categoryId": 1,
-      "category": "fastenerData",
-      "description": "DIN 912, silindirik başlı ve içten altıgen yuvalı (imbus) cıvataları tanımlayan bir standarttır. Bu cıvatalar, yüksek sıkma torku ve hassas montaj gerektiren uygulamalarda kullanılır. İmbus baş yapısı, standart altıgen anahtarlar ile kolayca sıkılmasını sağlar ve dar alanlarda montaj imkanı sunar. Silindirik başı, estetik bir görünüm sunarken sağlam bağlantılar sağlar. DIN 912 cıvataları, genellikle makine mühendisliği, otomotiv ve endüstriyel ekipmanlarda tercih edilir. Çelik ve paslanmaz çelik gibi dayanıklı malzemelerden üretilir ve çeşitli boyutlarda temin edilebilir.",
-      "specifications": [
-        {
-          "headers": [
-            "Boy/Q",
-            "M3",
-            "M4",
-            "M5",
-            "M6",
-            "M8",
-            "M10",
-            "M12",
-            "M16",
-            "M20"
-          ],
-          "data": [
-            ["dk", "6", "8", "10", "12", "16", "20", "24", "30", "36"],
-            [
-              "k",
-              "1,7",
-              "2,3",
-              "2,8",
-              "3,3",
-              "4,4",
-              "5,5",
-              "6,5",
-              "7,5",
-              "8,5"
-            ],
-            [
-              "s",
-              "2,0",
-              "2,5",
-              "3,0",
-              "4,0",
-              "5,0",
-              "6,0",
-              "8,0",
-              "10,0",
-              "12,0"
-            ],
-            ["b", "12", "14", "16", "18", "22", "26", "30", "38", "46"],
-            [
-              "t",
-              "1,2",
-              "1,8",
-              "2,3",
-              "2,5",
-              "3,5",
-              "4,4",
-              "4,6",
-              "5,3",
-              "5,9"
-            ],
-            [
-              "e",
-              "2,30",
-              "2,87",
-              "3,44",
-              "4,58",
-              "5,72",
-              "6,86",
-              "9,15",
-              "11,43",
-              "13,72"
-            ],
-            [
-              "⬢",
-              "2,0",
-              "2,5",
-              "3,0",
-              "4,0",
-              "5,0",
-              "6,0",
-              "8,0",
-              "10,0",
-              "12,0"
-            ]
-          ]
-        }
-      ]
-    },
-
-    {
-      "id": 7,
       "name": "ISO 7380 Bombe Başlı İmbus",
-      "url": "din-933-altı-köşe-cıvata-a25",
+      "url": "iso-7380-bombe-basli-imbus",
       "title2": "Hexagon Socket Button Head Screws",
       "title3": "Bombe Başlı İmbus",
-      "images": [
-        "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/1_qi56ao.jpg",
-        "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/2_lvp8ms.jpg"
-      ],
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/1_qi56ao.jpg",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728508439/ISO7380_nihnv4.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728508444/Screenshot_1_qxvfrl.png"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728508439/ISO7380_nihnv4.jpg",
       "categoryId": 1,
-      "category": "fastenerData",
-      "description": "DIN 7991 (ISO 10642), havşa başlı ve içten altıgen yuvalı (imbus) cıvataları tanımlayan bir standarttır. Bu cıvatalar, başlarının yüzeyle tamamen aynı hizada olmasını sağlayarak düz ve temiz bir montaj yüzeyi sunar. İmbus baş yapısı, altıgen anahtarlarla kolayca sıkılmasına olanak tanır ve hassas uygulamalar için idealdir. DIN 7991 cıvataları, özellikle estetik ve düşük profilli montaj gerektiren yerlerde, makine mühendisliği ve metal bağlantılarında kullanılır. Paslanmaz çelik veya çelikten üretilen bu cıvatalar, çeşitli boyut ve malzeme seçenekleriyle sunulur.",
+      "category": "paslanmaz-baglanti-elemanlari",
+      "description": "ISO 7380 Bombe Başlı İmbus vidaları, özellikle yüksek mukavemet ve dayanıklılık gerektiren uygulamalarda kullanılan özel bağlantı elemanlarıdır. Bombe başı tasarımı, vidaların üst kısmında yuvarlatılmış bir yüzey oluşturarak, yüzeyle uyumlu bir şekilde oturmalarını sağlar ve estetik bir görünüm sunar. Bu vidalar, genellikle paslanmaz çelik veya yüksek kaliteli alaşımlardan üretilir, böylece korozyona karşı direnç gösterir. ISO 7380 standardı, bu vidaların ölçü, tolerans ve mekanik özelliklerini belirleyerek güvenilirlik ve performans sağlar. Otomotiv, makine mühendisliği ve inşaat gibi pek çok sektörde yaygın olarak kullanılmaktadır.",
       "specifications": [
         {
           "headers": ["Boy/Q", "M3", "M4", "M5", "M6", "M8", "M10", "M12"],
@@ -572,18 +155,15 @@
     },
 
     {
-      "id": 8,
+      "id": 7,
       "name": "ISO 7380 - 2 Bombe Başlı Flanşlı İmbus",
-      "url": "din-933-altı-köşe-cıvata-a26",
-      "title2": "Hexagon Socket Button Head Screws",
+      "url": "iso-7380-2-bombe-basli-flansli-imbus",
+      "title2": "Hexagon Socket Button Head Screws With Flange",
       "title3": "Bombe Başlı Flanşlı İmbus",
-      "images": [
-        "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/1_qi56ao.jpg",
-        "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/2_lvp8ms.jpg"
-      ],
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/1_qi56ao.jpg",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728508499/ISO7380-2_fqgpm9.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728508504/ISO7380-22_qn57ul.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728508509/ISO7380-222_wbbrwd.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728508499/ISO7380-2_fqgpm9.jpg",
       "categoryId": 1,
-      "category": "fastenerData",
+      "category": "paslanmaz-baglanti-elemanlari",
       "description": "ISO 7380-2, bombe başlı ve flanşlı içten altıgen yuvalı (imbus) cıvataları tanımlayan bir standarttır. Bu cıvatalar, bombe şeklindeki baş yapısı sayesinde estetik bir görünüm sunar ve flanşlı tasarımı, yükün daha geniş bir yüzeye dağılmasına yardımcı olur. İçten altıgen yuva, cıvatanın sıkılmasını kolaylaştırırken, yüksek tork değerlerine dayanıklılık sağlar. ISO 7380-2 cıvataları, genellikle otomotiv, makine mühendisliği ve metal işleme gibi alanlarda kullanılır. Paslanmaz çelik veya çelik malzemeden üretilen bu cıvatalar, farklı boyut ve çap seçenekleri ile temin edilebilir.",
       "specifications": [
         {
@@ -591,33 +171,9 @@
           "data": [
             ["p", "0,50", "0,70", "0,80", "1", "1,25", "1,50"],
             ["da max.", "3,6", "4,7", "5,7", "6,8", "9,20", "11,2"],
-            [
-              "k",
-              "1,40/1,65",
-              "1,95/2,20",
-              "2,50/2,75",
-              "3,00/3,30",
-              "4,10/4,40",
-              "5,20/5,50"
-            ],
-            [
-              "d",
-              "5,40/5,70",
-              "7,24/7,60",
-              "9,04/9,60",
-              "9,97/10,60",
-              "13,47/14,10",
-              "16,10/16,50"
-            ],
-            [
-              "dk",
-              "6,65/6,90",
-              "8,90/9,40",
-              "11,20/11,80",
-              "13,00/13,60",
-              "17,00/17,80",
-              "21,06/21,90"
-            ],
+            ["k", "1,40/1,65", "1,95/2,20", "2,50/2,75", "3,00/3,30", "4,10/4,40", "5,20/5,50"],
+            ["d", "5,40/5,70", "7,24/7,60", "9,04/9,60", "9,97/10,60", "13,47/14,10", "16,10/16,50"],
+            ["dk", "6,65/6,90", "8,90/9,40", "11,20/11,80", "13,00/13,60", "17,00/17,80", "21,06/21,90"],
             ["⬢", "2", "2,5", "3", "4", "5", "6"]
           ]
         }
@@ -625,18 +181,15 @@
     },
 
     {
-      "id": 9,
+      "id": 8,
       "name": "DIN 6912 İnce(Dar) Kafa İmbus",
-      "url": "din-933-altı-köşe-cıvata-a27",
+      "url": "din-6912-ince-dar-kafa-imbus",
       "title2": "Hexagon Socket Head Cap Screws",
       "title3": "İnce(Dar) Kafa İmbus",
-      "images": [
-        "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/1_qi56ao.jpg",
-        "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/2_lvp8ms.jpg"
-      ],
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/1_qi56ao.jpg",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728506585/DIN6912_kf5phy.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506588/Screenshot_1_rfufzz.png", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506590/Screenshot_2_xsjlej.png"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506585/DIN6912_kf5phy.jpg",
       "categoryId": 1,
-      "category": "fastenerData",
+      "category": "paslanmaz-baglanti-elemanlari",
       "description": "DIN 6912, ince (dar) başlı ve içten altıgen yuvalı (imbus) cıvataları tanımlayan bir standarttır. Bu cıvatalar, dar alanlarda kullanılan bağlantı elemanları için idealdir ve kompakt baş yapısı sayesinde sınırlı montaj alanlarında rahatlıkla kullanılabilir. İçten altıgen yuva, standart altıgen anahtarlarla kolayca sıkılmasına olanak tanır, aynı zamanda yüksek tork dayanımı sağlar. DIN 6912 cıvataları, genellikle makine mühendisliği, otomotiv ve endüstriyel uygulamalarda tercih edilir. Çelik ve paslanmaz çelik malzemeden üretilir ve çeşitli boyutlarda temin edilebilir.",
       "specifications": [
         {
@@ -655,35 +208,19 @@
     },
 
     {
-      "id": 10,
+      "id": 9,
       "name": "DIN 976 Gijon",
-      "url": "din-933-altı-köşe-cıvata-a28",
-      "title2": "Threaded Screws",
+      "url": "din-976-gijon",
+      "title2": "Threaded Rods",
       "title3": "Gijon",
-      "images": [
-        "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/1_qi56ao.jpg",
-        "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/2_lvp8ms.jpg"
-      ],
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/1_qi56ao.jpg",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728505800/DIN976_nkujav.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728505802/Screenshot_1_ipftmc.png"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728505800/DIN976_nkujav.jpg",
       "categoryId": 1,
-      "category": "fastenerData",
+      "category": "paslanmaz-baglanti-elemanlari",
       "description": "DIN 976, gijon (dişli çubuk) olarak bilinen tam dişli çubukları tanımlayan bir standarttır. Gijonlar, her iki ucunda da dişli yapıya sahip uzun çubuklardır ve gerektiğinde istenen uzunluklarda kesilerek bağlantı elemanı olarak kullanılır. Genellikle sabitleme, montaj ve yapı elemanlarının birleştirilmesi gibi uygulamalarda kullanılır. DIN 976 gijonlar, yüksek dayanıklılık ve çekme mukavemeti sağlayarak güvenilir bağlantılar sunar. Çelik, paslanmaz çelik gibi dayanıklı malzemelerden üretilir ve çeşitli çap ve uzunluk seçenekleriyle temin edilebilir.",
       "specifications": [
         {
-          "headers": [
-            "Boy/Q",
-            "M3",
-            "M4",
-            "M5",
-            "M6",
-            "M8",
-            "M10",
-            "M12",
-            "M14",
-            "M16",
-            "M18",
-            "M20"
-          ],
+          "headers": ["Boy/Q", "M3", "M4", "M5", "M6", "M8", "M10", "M12", "M14", "M16", "M18", "M20"],
           "data": [
             ["1000", "", "", "", "", "", "", "", "", "", "", ""],
             ["2000", "", "", "", "", "", "", "", "", "", "", ""],
@@ -691,20 +228,7 @@
           ]
         },
         {
-          "headers": [
-            "Boy/Q",
-            "M22",
-            "M24",
-            "M27",
-            "M30",
-            "M33",
-            "M36",
-            "M39",
-            "M42",
-            "M45",
-            "M48",
-            "M52"
-          ],
+          "headers": ["Boy/Q", "M22", "M24", "M27", "M30", "M33", "M36", "M39", "M42", "M45", "M48", "M52"],
           "data": [
             ["1000", "", "", "", "", "", "", "", "", "", "", ""],
             ["2000", "", "", "", "", "", "", "", "", "", "", ""],
@@ -715,18 +239,15 @@
     },
 
     {
-      "id": 11,
+      "id": 10,
       "name": "DIN 603 Dibi Dört Köşe Kasa Civatası",
-      "url": "din-933-altı-köşe-cıvata-a29",
-      "title2": "Cup Head Square",
+      "url": "din-603-dibi-dort-kose-kasa-civatasi",
+      "title2": "Cup Head Square Neck Bolt",
       "title3": "Dibi Dört Köşe Kasa Civatası",
-      "images": [
-        "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/1_qi56ao.jpg",
-        "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/2_lvp8ms.jpg"
-      ],
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/1_qi56ao.jpg",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728504331/DIN603_ijrzu9.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728504331/Screenshot_1_pe5bu9.png", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728504331/DIN6033_ey4n1k.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728504331/DIN603_ijrzu9.jpg",
       "categoryId": 1,
-      "category": "fastenerData",
+      "category": "paslanmaz-baglanti-elemanlari",
       "description": "DIN 603, dibi dört köşe olan kasa cıvatalarını tanımlayan bir standarttır. Bu cıvatalar, yuvarlak ve düz bir başa sahip olup, başın altındaki dört köşe kısım sayesinde montaj sırasında sabitlenir ve dönme yapmaz. Genellikle ahşap ve metal bağlantılarında kullanılır. Düz baş yapısı dekoratif ve estetik bir görünüm sunarken, dibi dört köşe kısmı da cıvatanın yerleştirildiği yüzeyde güvenli bir şekilde sabit kalmasını sağlar. DIN 603 cıvataları genellikle mobilya, çit montajı ve yapı işlerinde tercih edilir ve çelik, paslanmaz çelik gibi dayanıklı malzemelerden üretilir.",
       "specifications": [
         {
@@ -736,291 +257,8 @@
             ["f min.", "2,9", "3,4", "4,4", "5,4", "7,25", "11,1"],
             ["k min.", "2,7", "3,12", "4,12", "4,62", "6,05", "8,05"],
             ["v min.", "4,52", "5,52", "7,42", "9,42", "11,3", "15,3"],
-            ["b<125", "16", "18", "22", "26", "30", "38"],
-            ["b>125", "22", "24", "28", "32", "36", "44"]
-          ]
-        }
-      ]
-    },
-
-    {
-      "id": 12,
-      "name": "DIN 444 Gözlü Civata",
-      "url": "din-933-altı-köşe-cıvata-a210",
-      "title2": "Eye Bolts",
-      "title3": "Gözlü Civata",
-      "images": [
-        "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/1_qi56ao.jpg",
-        "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/2_lvp8ms.jpg"
-      ],
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/1_qi56ao.jpg",
-      "categoryId": 1,
-      "category": "fastenerData",
-      "description": "DIN 444, gözlü cıvataları tanımlayan bir standarttır. Gözlü cıvatalar, uç kısmında halka şeklinde bir göz bulunan özel bağlantı elemanlarıdır. Bu tasarım, cıvatanın bir bağlantı elemanı, kanca veya pim ile sabitlenmesine ve dönebilir veya hareketli bağlantılar oluşturmasına olanak tanır. Genellikle makine mühendisliği, yapı, bağlantı sistemleri ve yük taşıma işlemlerinde kullanılır. DIN 444 cıvataları, yüksek dayanıklılığa sahip çelik veya paslanmaz çelik malzemelerden üretilir ve çeşitli çap ve uzunluk seçenekleri ile sunulur.",
-      "specifications": [
-        {
-          "headers": ["Boy/Q", "M6", "M8", "M10", "M12", "M16", "M20", "M24"],
-          "data": [
-            ["d2", "6", "8", "10", "12", "16", "18", "22"],
-            ["d3", "14", "18", "20", "25", "32", "40", "45"],
-            [
-              "s min.",
-              "6,85",
-              "8,85",
-              "11,82",
-              "13,82",
-              "16,82",
-              "21,79",
-              "24,79"
-            ],
-            ["b|<125", "18", "22", "26", "30", "38", "46", "54"],
-            ["b|>125", "-", "28", "32", "36", "44", "52", "60"]
-          ]
-        }
-      ]
-    },
-
-    {
-      "id": 13,
-      "name": "DIN 316 Kelebek Civata",
-      "url": "din-933-altı-köşe-cıvata-a211",
-      "title2": "Wing Screws",
-      "title3": "Kelebek Civata",
-      "images": [
-        "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/1_qi56ao.jpg",
-        "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/2_lvp8ms.jpg"
-      ],
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/1_qi56ao.jpg",
-      "categoryId": 1,
-      "category": "fastenerData",
-      "description": "DIN 316, kelebek cıvatalarını tanımlayan bir standarttır. Bu cıvatalar, kelebek şeklindeki baş tasarımı sayesinde elle kolayca sıkılıp gevşetilebilir, bu da hızlı montaj ve demontaj sağlar. Kelebek baş yapısı, alet kullanmadan pratik bir bağlantı imkanı sunarak, sık sık sökülüp takılması gereken uygulamalarda idealdir. Genellikle endüstriyel, otomotiv ve genel mühendislik alanlarında kullanılır. DIN 316 cıvataları, yüksek dayanıklılığa sahip çelik veya paslanmaz çelik malzemelerden üretilir. Farklı boyut ve çap seçenekleri ile çeşitli montaj ihtiyaçlarına uygun şekilde temin edilebilir.",
-      "specifications": [
-        {
-          "headers": ["Boy/Q", "M3", "M4", "M5", "M6", "M8", "M10", "M12"],
-          "data": [
-            ["e", "17,6", "18", "24", "30", "36", "48", "62"],
-            ["h", "8,6", "8,5", "11", "15", "18", "23", "31"],
-            ["m", "2,4", "3,2", "4", "5", "6,5", "8", "10"],
-            ["g", "1,2", "1,6", "2,1", "2,5", "2,8", "3,3", "4,5"]
-          ]
-        }
-      ]
-    },
-
-    {
-      "id": 14,
-      "name": "DIN 934 Altı Köşe Somun",
-      "url": "din-933-altı-köşe-cıvata-a212",
-      "title2": "Hexagon Nuts",
-      "title3": "Altı Köşe Somun",
-      "images": [
-        "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/1_qi56ao.jpg",
-        "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/2_lvp8ms.jpg"
-      ],
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/1_qi56ao.jpg",
-      "categoryId": 1,
-      "category": "fastenerData",
-      "description": "DIN 934, altı köşe somunları tanımlayan bir standarttır. Bu somunlar, altıgen baş yapısına sahip olup, cıvataların bağlantı noktalarını güvenli bir şekilde sabitlemek için kullanılır. Altı köşe tasarımı, standart anahtarlarla kolayca sıkma ve gevşetme imkanı sunar, bu da pratik bir montaj süreci sağlar. DIN 934 somunları, genellikle inşaat, otomotiv ve makine mühendisliği gibi çeşitli endüstriyel uygulamalarda tercih edilir. Yüksek dayanıklılık ve mukavemet sağlamak için genellikle çelik veya paslanmaz çelik malzemelerden üretilir. Farklı çap ve diş seçenekleri ile farklı cıvata boyutları için uyumlu şekilde sunulmaktadır.",
-      "specifications": [
-        {
-          "headers": ["Boy/Q", "M MİN.", "S", "E", "⬢"],
-          "data": [
-            ["M2", "1,35", "4", "4,32", "4"],
-            ["M2,5", "1,75", "5", "5,45", "5"],
-            ["M3", "2,15", "5,5", "6,01", "5,5"],
-            ["M4", "2,9", "7", "7,66", "7"],
-            ["M5", "3,7", "8", "7,79", "8"],
-            ["M6", "4,7", "10", "11,05", "10"],
-            ["M8", "6,14", "13", "14,38", "13"],
-            ["M10", "7,64", "17", "18,9", "17"],
-            ["M12", "9,64", "19", "21,1", "19"],
-            ["M14", "10,3", "22", "24,49", "22"],
-            ["M16", "12,3", "24", "26,75", "24"],
-            ["M18", "14,3", "27", "29,56", "27"],
-            ["M20", "14,9", "30", "32,95", "30"],
-            ["M22", "16,9", "32", "35,03", "32"],
-            ["M24", "17,7", "36", "39,55", "36"],
-            ["M27", "20,7", "41", "45,2", "41"],
-            ["M30", "22,7", "46", "50,85", "46"],
-            ["M33", "24,7", "50", "55,37", "50"],
-            ["M36", "27,4", "55", "60,79", "55"],
-            ["M39", "29,4", "60", "66,44", "60"],
-            ["M42", "32,4", "65", "71,3", "65"],
-            ["M45", "34,4", "70", "76,95", "70"],
-            ["M48", "36,4", "75", "82,6", "75"],
-            ["M52", "40,4", "80", "88,25", "80"]
-          ]
-        }
-      ]
-    },
-
-    {
-      "id": 15,
-      "name": "DIN 6923 Altı Köşeli Flanşlı Somun",
-      "url": "din-933-altı-köşe-cıvata-a213",
-      "title2": "Hexagon Nuts - With Flange and Serration",
-      "title3": "Altı Köşeli Flanşlı Somun",
-      "images": [
-        "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/1_qi56ao.jpg",
-        "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/2_lvp8ms.jpg"
-      ],
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/1_qi56ao.jpg",
-      "categoryId": 1,
-      "category": "fastenerData",
-      "description": "DIN 6923, altı köşeli flanşlı somunları tanımlayan bir standarttır. Bu somunlar, entegre flanş yapısıyla yük dağılımını optimize ederek güvenilir ve sağlam bağlantılar sağlar. Altıgen baş tasarımı, standart anahtarlarla kolay sıkma ve gevşetme imkanı sunar, böylece montaj sürecini hızlandırır. Genellikle otomotiv, makine mühendisliği ve inşaat sektörlerinde yaygın olarak kullanılır. Yüksek dayanıklılık sunan çelik veya paslanmaz çelik malzemelerden üretilir. Farklı çap ve diş seçenekleri ile çeşitli uygulama ihtiyaçlarına uygun şekilde temin edilebilir.",
-      "specifications": [
-        {
-          "headers": ["d", "⬢", "dc", "m", "s", "e"],
-          "data": [
-            ["M4", "7", "10,0", "4,65", "7", "7,66"],
-            ["M5", "8", "11,8", "4,70", "8", "8,79"],
-            ["M6", "10", "14,25", "5,70", "10", "11,05"],
-            ["M8", "13", "17,9", "7,64", "13", "14,38"],
-            ["M10", "15", "21,87", "9,64", "15", "17,7"],
-            ["M12", "18", "26,0", "11,57", "18", "20,03"]
-          ]
-        }
-      ]
-    },
-
-    {
-      "id": 16,
-      "name": "DIN 985 Altı Köşeli Fiberli Somun",
-      "url": "din-933-altı-köşe-cıvata-a214",
-      "title2": "Peravailing Torque type Hexagon Nuts With Non-Metalic İnsert, Thin Type",
-      "title3": "Altı Köşeli Fiberli Somun",
-      "images": [
-        "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/1_qi56ao.jpg",
-        "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/2_lvp8ms.jpg"
-      ],
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/1_qi56ao.jpg",
-      "categoryId": 1,
-      "category": "fastenerData",
-      "description": "DIN 985, altı köşeli fiberli somunları tanımlayan bir standarttır. Bu somunlar, üst kısmında bulunan naylon (fiber) halka sayesinde titreşim ve darbelere karşı bağlantının gevşemesini önler. Altıgen baş yapısı, standart anahtarlarla kolay sıkma ve gevşetme imkanı sunar. Genellikle otomotiv, makine mühendisliği ve endüstriyel uygulamalarda güvenli bağlantılar sağlamak için tercih edilir. Çelik ve paslanmaz çelik gibi dayanıklı malzemelerden üretilir. Farklı çap ve diş seçenekleri ile temin edilebilir, uzun ömürlü ve güvenilir bağlantılar sunar.",
-      "specifications": [
-        {
-          "headers": ["d", "⬢", "m", "h", "s", "e"],
-          "data": [
-            ["M2,5", "5", "3,5", "2,3", "5", "5,50"],
-            ["M3", "5,5", "2,4", "2,4", "5,5", "6,01"],
-            ["M4", "7", "2,9", "2,9", "7", "7,66"],
-            ["M5", "8", "3,2", "3,2", "8", "8,79"],
-            ["M6", "10", "4,0", "6,0", "10", "11,05"],
-            ["M8", "13", "5,5", "8,0", "13", "14,38"],
-            ["M10", "17", "6,5", "10,0", "17", "18,90"],
-            ["M12", "19", "8,0", "12,0", "19", "21,10"],
-            ["M14", "22", "9,5", "14,0", "22", "24,49"],
-            ["M16", "24", "10,5", "16,0", "24", "26,75"],
-            ["M18", "27", "13,0", "18,5", "27", "29,56"],
-            ["M20", "30", "14,0", "20,0", "30", "32,95"],
-            ["M22", "32", "15,0", "22,0", "32", "35,03"],
-            ["M24", "36", "15,0", "24,0", "36", "39,55"],
-            ["M27", "41", "17,0", "27,0", "41", "45,20"],
-            ["M30", "46", "19,0", "30,0", "46", "50,85"]
-          ]
-        }
-      ]
-    },
-
-    {
-      "id": 17,
-      "name": "DIN 439 Altı Köşeli İnce (Kontra) Somun",
-      "url": "din-933-altı-köşe-cıvata-a215",
-      "title2": "Hexagon Nuts Thin Type, Type B, With Chamfer",
-      "title3": "Altı Köşeli İnce (Kontra) Somun",
-      "images": [
-        "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/1_qi56ao.jpg",
-        "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/2_lvp8ms.jpg"
-      ],
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/1_qi56ao.jpg",
-      "categoryId": 1,
-      "category": "fastenerData",
-      "description": "DIN 439, altı köşeli ince (kontra) somunları tanımlayan bir standarttır. Bu somunlar, ince profili sayesinde dar alanlarda veya çift somun kullanımı gerektiren uygulamalarda tercih edilir. Genellikle, standart bir somunun üzerine sıkılarak gevşemeyi önlemek amacıyla kullanılır. Altıgen baş yapısı, standart anahtarlarla kolayca sıkılıp gevşetilmesini sağlar. DIN 439 somunları, otomotiv, makine mühendisliği ve genel endüstriyel uygulamalarda yaygın olarak kullanılır. Yüksek dayanıklılığa sahip çelik veya paslanmaz çelikten üretilir ve farklı boyut seçenekleriyle sunulur.",
-      "specifications": [
-        {
-          "headers": ["d", "⬢", "m min.", "s", "e"],
-          "data": [
-            ["M3", "5,5", "1,55", "5,5", "6,01"],
-            ["M4", "7", "1,95", "2,9", "7,66"],
-            ["M5", "8", "2,45", "3,2", "8,79"],
-            ["M6", "10", "2,90", "6,0", "11,05"],
-            ["M8", "13", "3,70", "8,0", "14,38"],
-            ["M10", "17", "4,70", "10,0", "18,90"],
-            ["M12", "19", "5,70", "12,0", "21,10"],
-            ["M14", "22", "6,42", "14,0", "24,49"],
-            ["M16", "24", "7,42", "16,0", "26,75"],
-            ["M18", "27", "8,42", "18,5", "29,56"],
-            ["M20", "30", "9,10", "20,0", "32,95"],
-            ["M22", "32", "9,90", "22,0", "35,03"],
-            ["M24", "36", "10,90", "24,0", "39,55"]
-          ]
-        }
-      ]
-    },
-
-    {
-      "id": 18,
-      "name": "DIN 1587 Kör Somun",
-      "url": "din-933-altı-köşe-cıvata-a216",
-      "title2": "Hexagon Domed Cap Nuts High Type",
-      "title3": "Kör Somun",
-      "images": [
-        "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/1_qi56ao.jpg",
-        "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/2_lvp8ms.jpg"
-      ],
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/1_qi56ao.jpg",
-      "categoryId": 1,
-      "category": "fastenerData",
-      "description": "DIN 1587, kör somunları tanımlayan bir standarttır. Kör somunlar, kapalı (kör) baş yapısına sahip olup, somunun ucundaki dişli kısmı dış etkenlerden korur ve estetik bir görünüm sunar. Bu kapalı yapı, vida ucunun dışarı çıkmasını engelleyerek güvenliği artırır. Genellikle makine mühendisliği, mobilya ve otomotiv sektörlerinde kullanılır. DIN 1587 somunları, çelik ve paslanmaz çelik gibi dayanıklı malzemelerden üretilir ve çeşitli boyut seçenekleriyle temin edilir. Hem işlevsel hem de dekoratif amaçlar için ideal bir bağlantı elemanıdır.",
-      "specifications": [
-        {
-          "headers": ["d", "m", "h", "s", "e", "dk", "⬢"],
-          "data": [
-            ["M3", "2,4", "7", "5,5", "6,01", "5,5", "5,5"],
-            ["M4", "3,2", "8", "7,0", "7,66", "6,5", "7,0"],
-            ["M5", "4,0", "10", "8,0", "8,79", "7,5", "8,0"],
-            ["M6", "5,0", "12", "10,0", "11,05", "9,5", "10,0"],
-            ["M8", "6,5", "15", "13,0", "14,38", "12,5", "13,0"],
-            ["M10", "8,0", "18", "17,0", "18,90", "16,0", "17,0"],
-            ["M12", "10,0", "22", "19,0", "21,10", "18,0", "19,0"],
-            ["M14", "11,0", "25", "22,0", "24,49", "21,0", "22,0"],
-            ["M16", "13,0", "28", "24,0", "26,75", "23,0", "24,0"],
-            ["M18", "15,0", "32", "27,0", "30,14", "26,0", "27,0"],
-            ["M20", "16,0", "34", "30,0", "33,53", "28,0", "30,0"],
-            ["M22", "18,0", "39", "34,0", "37,72", "33,0", "34,0"],
-            ["M24", "19,0", "42", "36,0", "39,98", "34,0", "36,0"],
-            ["M27", "20,0", "47", "41,0", "47,30", "40,0", "41,0"],
-            ["M30", "24,0", "52", "46,0", "52,00", "42,0", "46,0"]
-          ]
-        }
-      ]
-    },
-
-    {
-      "id": 19,
-      "name": "DIN 986 Fiberli Kör Somun",
-      "url": "din-933-altı-köşe-cıvata-a217",
-      "title2": "Self Locking Hexagon Domed Cap Nuts",
-      "title3": "Fiberli Kör Somun",
-      "images": [
-        "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/1_qi56ao.jpg",
-        "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/2_lvp8ms.jpg"
-      ],
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/1_qi56ao.jpg",
-      "categoryId": 1,
-      "category": "fastenerData",
-      "description": "DIN 986, fiberli kör somunları tanımlayan bir standarttır. Bu somunlar, kapalı (kör) baş yapısına ve iç kısmında bir naylon (fiber) halkaya sahiptir. Naylon halka, somunun sıkıldıktan sonra gevşemesini önleyerek titreşim ve darbeler karşısında güvenilir bir bağlantı sağlar. Kör baş yapısı ise vida ucunun dışarı çıkmasını engeller, hem estetik hem de koruyucu bir işlev sunar. DIN 986 somunları, genellikle otomotiv, makine mühendisliği ve mobilya sektörlerinde kullanılır. Paslanmaz çelik ve çelik gibi dayanıklı malzemelerden üretilen bu somunlar, farklı boyutlarda sunulmaktadır.",
-      "specifications": [
-        {
-          "headers": ["d", "m", "h", "s", "e", "⬢"],
-          "data": [
-            ["M4", "2,9", "9,6", "7", "7,66", "7"],
-            ["M5", "4,4", "10,5", "8", "8,79", "8"],
-            ["M6", "4,9", "12", "10,0", "11,05", "10"],
-            ["M8", "6,44", "14", "13", "14,38", "13"],
-            ["M10", "8,04", "18,1", "16", "18,90", "16"],
-            ["M12", "10,7", "22,5", "18", "21,10", "18"],
-            ["M16", "14,1", "27,5", "24", "26,75", "24"]
+            ["b < 125", "16", "18", "22", "26", "30", "38"],
+            ["b > 125", "22", "24", "28", "32", "36", "44"]
           ]
         }
       ]
