@@ -1,0 +1,755 @@
+{
+  "baglanti-elemanlari": [
+    {
+      "id": 1,
+      "name": "DIN 933 Hexagon Head Full Thread Bolt",
+      "url": "din-933-alti-kose-civata-a2",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728505455/DIN933_m5dpff.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 2,
+      "name": "DIN 931 Hexagon Head Partial Thread Bolt",
+      "url": "din-931-alti-kose-basli-yarim-paso-civata",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728568104/Screenshot_2_opuud7.png",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 3,
+      "name": "DIN 6921 Flanged Bolt",
+      "url": "din-6921-flansli-civata",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506651/DIN6921_f1cvym.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 4,
+      "name": "DIN 912 Socket Head Cap Screw",
+      "url": "din-912-imbus",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728504834/DIN912_mr8lvv.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 5,
+      "name": "DIN 7991 - ISO 10642 Countersunk Head Socket Screw",
+      "url": "din-7991-iso-10642-havsa-basli-imbus",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728507780/DIN7991_-_ISO10642_dqkr9r.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 6,
+      "name": "ISO 7380 Button Head Socket Cap Screw",
+      "url": "iso-7380-bombe-basli-imbus",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728508439/ISO7380_nihnv4.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 7,
+      "name": "ISO 7380 - 2 Button Head Flanged Socket Screw",
+      "url": "iso-7380-2-bombe-basli-flansli-imbus",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728508499/ISO7380-2_fqgpm9.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 8,
+      "name": "DIN 6912 Low Head Socket Cap Screw",
+      "url": "din-6912-ince-dar-kafa-imbus",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506585/DIN6912_kf5phy.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 9,
+      "name": "DIN 976 Threaded Rod",
+      "url": "din-976-gijon",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728505800/DIN976_nkujav.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 10,
+      "name": "DIN 603 Square Neck Carriage Bolt",
+      "url": "din-603-dibi-dort-kose-kasa-civatasi",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728504331/DIN603_ijrzu9.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 11,
+      "name": "DIN 444 Eye Bolt",
+      "url": "din-444-gozlu-civata",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728488998/DIN444_Sayfa_1_G%C3%B6r%C3%BCnt%C3%BC_0001_dlk75e.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 12,
+      "name": "DIN 316 Wing Bolt",
+      "url": "din-316-kelebek-civata",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728488379/966202298_ntgmwm.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 13,
+      "name": "DIN 934 Hex Nut",
+      "url": "din-934-alti-kose-somun",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728486514/Screenshot_1_gxiw2g.png",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 14,
+      "name": "DIN 6923 Hex Flanged Nut (Serrated)",
+      "url": "din-6923-alti-kose-flansli-somun",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506728/DIN6923_wpjyqx.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 15,
+      "name": "DIN 985 Hex Lock Nut",
+      "url": "din-985-alti-kose-fiberli-somun",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728505897/DIN985_tcnxhe.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 16,
+      "name": "DIN 439 Thin Hex Nut (Counter)",
+      "url": "din-439-alti-kose-ince-kontra-somun",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728488529/Screenshot_2_s70cos.png",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 17,
+      "name": "DIN 1587 Blind Nut",
+      "url": "din-1587-kor-somun",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506082/DIN1587_ijftle.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 18,
+      "name": "DIN 986 Fiber Blind Nut",
+      "url": "din-986-fiberli-kor-somun",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728486727/DIN_986_Sayfa_1_G%C3%B6r%C3%BCnt%C3%BC_0001_zjhndn.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 19,
+      "name": "DIN 557 Square Nut",
+      "url": "din-557-kare-somun",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728489353/DIN557_Sayfa_1_G%C3%B6r%C3%BCnt%C3%BC_0001_qtussf.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 20,
+      "name": "DIN 928 Square Weld Nut",
+      "url": "din-928-kare-kaynak-somun",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728505205/DIN928_jeyq7x.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 21,
+      "name": "DIN 929 Hex Weld Nut",
+      "url": "din-929-alti-kose-kaynak-somun",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728505296/DIN929_ugetdz.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 22,
+      "name": "DIN 6334 Extension Nut",
+      "url": "din-6334-uzatma-somun",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506195/DIN6334_ph9rlo.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 23,
+      "name": "DIN 9305 Broken Nut",
+      "url": "din-9305-kopan-somun",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728486898/DIN_9305_Sayfa_1_G%C3%B6r%C3%BCnt%C3%BC_0001_uebayz.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 24,
+      "name": "DIN 315 Wing Nut (American Type)",
+      "url": "din-315-kelebek-somun-amerikan-tip",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728487825/DIN315_Sayfa_1_G%C3%B6r%C3%BCnt%C3%BC_0001_tauv6c.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 25,
+      "name": "DIN 935 Crown Nut",
+      "url": "din-935-tacli-somun",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728505547/DIN935_jkyw3i.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 26,
+      "name": "DIN 306 Wooden Nut",
+      "url": "din-306-agac-somunu",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728487739/Screenshot_2_lfgkgf.png",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 27,
+      "name": "DIN 9039 Cage Nut",
+      "url": "din-9039-kafesli-somun",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728507915/DIN9039_cr82ys.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 28,
+      "name": "DIN 580 Eye Bolt Male",
+      "url": "din-580-aybolt-erkek",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728489858/DIN580_gyunrg.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 29,
+      "name": "DIN 582 Eye Bolt Female",
+      "url": "din-582-aybolt-disi",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728489952/DIN582_lytxfn.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 30,
+      "name": "M 8246 Type B Tension Hook - Hook",
+      "url": "m-8246-type-b-gerdirme-kanca",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728509212/M8246_TYPB_ydh0ag.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 31,
+      "name": "DIN 916 / ISO4029 Set Screw",
+      "url": "din-916-iso4029-setskur",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728505135/DIN916_-_ISO4029_wgrekc.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 32,
+      "name": "DIN 914 / ISO4027 Pointed End Set Screw",
+      "url": "din-914-iso4027-sivri-uc-setskur",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728504933/DIN914_-_ISO4027_pkqzz3.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 33,
+      "name": "DIN 915 / ISO4028 Cylinder (With Socket) Set Screw",
+      "url": "din-915-iso4028-silindir-memeli-setskur",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728505051/DIN915_-_ISO4028_eei1ov.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 34,
+      "name": "DIN 7985 SCH (Star Cylinder Head) Metric Screw",
+      "url": "din-7985-yildiz-silindir-bas-metrik-vida",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728507653/DIN7985_tuagc7.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 35,
+      "name": "DIN 965 SCH (Star Countersunk Head) Metric Screw",
+      "url": "din-965-yildiz-havsa-bas-metrik-vida",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728505708/DIN965_jzk3vv.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 36,
+      "name": "DIN 7505 SCH (Star Countersunk Head) Chipboard Screw",
+      "url": "din-7505-yildiz-havsa-bas-sunta-vidasi",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728507298/DIN7505_ol4m2m.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 37,
+      "name": "DIN 7985 TX Torque Socket Cylinder Head Screw",
+      "url": "din-7985-tx-torks-anahtar-silindir-basli-vida",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728507703/DIN7985TX_ftjtk9.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 38,
+      "name": "DIN 965 TX Torque Socket Countersunk Head Metric Screw",
+      "url": "din-965-tx-torks-anahtar-havsa-basli-metrik-vida",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728505640/DIN965_TX_w8novs.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 39,
+      "name": "IST 975 Trifon Stud",
+      "url": "ist-975-trifon-saplama",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728508588/Screenshot_1_r3x5f0.png",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 40,
+      "name": "DIN 975 Special Size Stud",
+      "url": "din-975-ozel-olcu-saplama",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728485542/Cilt1.pdf_-_Adobe_Acrobat_Pro_DC_Sayfa_08_G%C3%B6r%C3%BCnt%C3%BC_0001_nh2qnu.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 41,
+      "name": "DIN 7981 SCH (Star Cylinder Head) Sheet Screw",
+      "url": "din-7981-yildiz-silindir-bas-sac-vidasi",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728507476/DIN7981_n5crph.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 42,
+      "name": "DIN 7982 YHB (Star Countersunk Head) Sheet Screw",
+      "url": "din-7982-yildiz-havsa-bas-sac-vidasi",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728507528/DIN7982_qvvxyo.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 43,
+      "name": "DIN 7504 N SCH (Star Cylinder Head) Drill Screw",
+      "url": "din-7504-n-yildiz-silindir-bas-matkap-uclu-vida",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728746800/DIN7504N_ceirfl.png",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 44,
+      "name": "DIN 7504 P SCH (Star Countersunk Head) Drill Screw",
+      "url": "din-7504-p-yildiz-havsa-basi-matkap-uclu-vida",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728507237/DIN7504P_rw7pve.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 45,
+      "name": "DIN 7504 K Drill Trapezoidal Roof Screw",
+      "url": "din-7504-k-matkap-uclu-trapez-cati-vidasi",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728507075/Screenshot_1_crjavs.png",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 46,
+      "name": "DIN 571 Trifon Screw",
+      "url": "din-571-trifon-vida",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728489565/DIN571_Sayfa_1_G%C3%B6r%C3%BCnt%C3%BC_0001_znymwx.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 47,
+      "name": "DIN 7976 Hexagonal Head Sheet Screw",
+      "url": "din-7976-alti-kose-basli-sac-vidasi",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728507380/DIN7976_h6b8lo.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 48,
+      "name": "ART 9051 Allen Sheet Screw",
+      "url": "art-9051-imbus-sac-vidasi",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728485203/Cilt1.pdf_-_Adobe_Acrobat_Pro_DC_Sayfa_02_G%C3%B6r%C3%BCnt%C3%BC_0001_po2bxc.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 49,
+      "name": "DIN 1481 Slotted Pin",
+      "url": "din-1481-yarikli-pim",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506006/DIN1481_t5nmhe.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 50,
+      "name": "DIN 7343 Coiled Pin",
+      "url": "din-7343-sargili-pim",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506959/DIN7343_wazu78.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 51,
+      "name": "DIN 7 Cylinder Pin",
+      "url": "din-7-silindir-pim",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728487090/DIN7_Sayfa_1_G%C3%B6r%C3%BCnt%C3%BC_0002_pilbbl.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 52,
+      "name": "DIN 6799 Snap Ring",
+      "url": "din-6799-ay-segman",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506495/DIN6799_bq3va1.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 53,
+      "name": "DIN 471 Shaft Ring",
+      "url": "din-471-mil-segmani",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728489124/Screenshot_1_jpkug3.png",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 54,
+      "name": "DIN 472 Internal Ring",
+      "url": "din-472-ic-segman",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728489189/DIN472_Sayfa_1_G%C3%B6r%C3%BCnt%C3%BC_0001_unfk3e.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 55,
+      "name": "DIN 94 Cotter Pin",
+      "url": "din-94-kopilya",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728487273/DIN94_Sayfa_1_G%C3%B6r%C3%BCnt%C3%BC_0001_ndvzn6.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 56,
+      "name": "DIN 71412 Grease Fitting",
+      "url": "din-71412-gresorluk",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728508051/DIN71412_igd0eo.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 57,
+      "name": "Cabin Screw",
+      "url": "kabin-vidasi",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728756839/DIN7504N_n2ki6u.png",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 58,
+      "name": "Cylinder Pull Allen Screw",
+      "url": "silindir-cektirme-allen-vida",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728509290/Screenshot_1_jgkrag.png",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 59,
+      "name": "Clip Anchor",
+      "url": "klipsli-dubel",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728757467/Screenshot_1_naz3sc.png",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 60,
+      "name": "Bolt Tube Anchor",
+      "url": "civata-borulu-dubel",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728757773/Screenshot_2_rz04gb.png",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 61,
+      "name": "Sheet Sleeve Anchor",
+      "url": "sac-gomlekli-dubel",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728757957/Screenshot_3_s70drz.png",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 62,
+      "name": "DIN 3570 U Bolt",
+      "url": "din-3570-u-bolt",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506133/DIN3570_hn8dec.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 63,
+      "name": "DIN 766 Chain",
+      "url": "din-766-zincir",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728504605/DIN766_jdyqgc.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 64,
+      "name": "DIN 125 Flat Washer (Type A)",
+      "url": "din-125-duz-rondela-a-tip",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728487386/DIN125_d1a60z.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 65,
+      "name": "ART 9055 EPDM Sealed Washer",
+      "url": "art-9055-epdm-contali-pul",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728485913/ART9055_ertaok.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 66,
+      "name": "DIN 6798 Serrated Washer (Type A)",
+      "url": "din-6798-tirtilli-rondela-a-tip",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506452/DIN6798_rx2jfg.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 67,
+      "name": "DIN 6796 Cup Washer",
+      "url": "din-6796-canak-pul",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506260/DIN6796_jforwi.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 68,
+      "name": "Copper and Aluminum Washer",
+      "url": "bakir-ve-aluminyum-pul",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506369/Screenshot_1_rluese.png",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 69,
+      "name": "O-Ring Super Washer",
+      "url": "oringli-super-pul",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506354/DIN6796_l0lfti.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 70,
+      "name": "DIN 9021 Wide Washer",
+      "url": "din-9021-genis-pul",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728507842/DIN9021_zglee8.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 71,
+      "name": "DIN 127 Spring Washer (Type B)",
+      "url": "din-127-yayli-rondela-b-tip",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728487526/DIN127_Sayfa_1_G%C3%B6r%C3%BCnt%C3%BC_0001_sddgqo.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 72,
+      "name": "IST 1021 Zero Head Round Nut Rivet",
+      "url": "ist-1021-sifir-kafa-yuvarlak-somun-percin",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728508657/IST1021_nikuhl.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 73,
+      "name": "IST 1025 Flanged Round Nut Rivet",
+      "url": "ist-1025-flansli-yuvarlak-somun-percin",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728508764/IST1025_aovdbb.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 74,
+      "name": "IST 1027-A Zero Head Full Hex Nut Rivet",
+      "url": "ist-1027-a-sifir-kafa-tam-altigen-somun-percin",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728508815/IST1027-A_qkiytp.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 75,
+      "name": "IST 1027-B Flanged Full Hex Nut Rivet",
+      "url": "ist-1027-b-flansli-tam-altigen-somun-percin",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728508865/IST1027-B_kwvpuk.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 76,
+      "name": "IST 1027-C Zero Head Half Hex Nut Rivet",
+      "url": "ist-1027-c-sifir-kafa-yarim-altigen-somun-percin",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728508913/IST1027-C_p5yaij.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 77,
+      "name": "IST 1027-D Flanged Half Hex Nut Rivet",
+      "url": "ist-1027-d-flansli-yarim-altigen-somun-percin",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728508961/IST1027-D_v58em0.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 78,
+      "name": "DIN 32501 Spot Weld Bolt (Single Point and Triple Point)",
+      "url": "din-32501-punta-kaynak-vidasi",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728508013/Screenshot_1_oxpsnc.png",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 79,
+      "name": "DIN 7337 Pop Rivet",
+      "url": "din-7337-pop-percin",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506846/DIN7337_ddf4as.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 80,
+      "name": "DIN 7337 Multigrip Rivet",
+      "url": "din-7337-multigrip-percin",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506905/DIN7337-2_qja82e.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 81,
+      "name": "IST 7337 Hemlock Rivet (Heavy Duty)",
+      "url": "ist-7337-hemlok-percin",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728509011/IST7337_yzdxnz.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 82,
+      "name": "IST 7337-P Octopus Rivet (Spider)",
+      "url": "ist-7337-p-ahtapot-percin",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728509110/IST7337-P_nigefr.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 83,
+      "name": "Adjustable Hose Clamps",
+      "url": "ayarli-hortum-kelepceleri",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728485310/Cilt1.pdf_-_Adobe_Acrobat_Pro_DC_Sayfa_04_G%C3%B6r%C3%BCnt%C3%BC_0001_n8jcli.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 84,
+      "name": "Type A and B Stainless Steel Hose Clamp",
+      "url": "a-ve-b-tipi-inoks-hortum-kelepcesi",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728485186/Cilt1.pdf_-_Adobe_Acrobat_Pro_DC_Sayfa_01_G%C3%B6r%C3%BCnt%C3%BC_0001_h4pabb.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 85,
+      "name": "Reinforced (Heavy Duty) Clamp",
+      "url": "takviyeli-agir-hizmet-kelepce",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728509321/TAKV%C4%B0YEL%C4%B0_KELEP%C3%87E_tm1vgd.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 86,
+      "name": "Type C Stainless Steel Hose Clamp",
+      "url": "c-tipi-inoks-hortum-kelepcesi",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728485378/Cilt1.pdf_-_Adobe_Acrobat_Pro_DC_Sayfa_05_G%C3%B6r%C3%BCnt%C3%BC_0001_sxpwb0.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 87,
+      "name": "Type D Stainless Steel Hose Clamp",
+      "url": "d-tipi-inoks-hortum-kelepcesi",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728485409/Cilt1.pdf_-_Adobe_Acrobat_Pro_DC_Sayfa_06_G%C3%B6r%C3%BCnt%C3%BC_0001_vzmkj6.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 88,
+      "name": "Leaf Hinge",
+      "url": "yaprak-mentese",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728509358/YAPRAK_MENTE%C5%9EE_kjhdkx.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 89,
+      "name": "HSS DIN 338 Cylindrical Shank Short Drill Bit - ROLLED",
+      "url": "hss-din-338-silindirik-sapli-kisa-matkap-ucu",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728508256/HSS_DIN338_vbsjif.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 90,
+      "name": "HSS DIN 352 Metric Normal Thread 3-Piece Tap Set Guide",
+      "url": "hss-din-352-metrik-normal-vida-takim-kilavuzu",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728508295/HSS_DIN352_qskjvs.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 91,
+      "name": "HSS DIN 352 Metric Normal Thread Tap - End",
+      "url": "hss-din-352-metrik-normal-vidali-kilavuz",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728508330/HSS_DIN352-2_jxvihb.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 92,
+      "name": "Star Bushing Bakelite",
+      "url": "yildiz-burclu-bakalit",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728509416/YILDIZ_BUR%C3%87LU_BAKAL%C4%B0T_azfrzt.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 93,
+      "name": "Star Bolt Bakelite",
+      "url": "yildiz-civatali-bakalit",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728509467/YILDIZ_C%C4%B0VATALI_BAKAL%C4%B0T_lhxei6.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 94,
+      "name": "Heli Coil Spring",
+      "url": "heli-coli-yay",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728508211/HEL%C4%B0_CO%C4%B0L_YAY_xr6gyc.jpg",
+      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"]
+    }
+  ]
+}

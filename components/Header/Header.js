@@ -221,6 +221,7 @@ const Header = ({ navLinks, search }) => {
                         alt={product.name}
                         width={100}
                         height={100}
+                        style={{ objectFit: "contain" }}
                         quality="auto"
                       />
                       <p>{product.name}</p>

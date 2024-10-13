@@ -17,8 +17,9 @@ import Head from "next/head";
 const i18nNamespaces = ["footer", "navLinks"];
 
 export const metadata = {
-  title: "Next.js Page Routing & Rendering",
-  description: "Learn how to route to different pages.",
+  title: "İnoksist Endüstri Paslanmaz Civata Paslanmaz Somun",
+  description: "İnoksist Endüstri Paslanmaz Civata Paslanmaz Somun, İnox Civata Tedarikçisi",
+  keywords: "inoksist, inoks civata , inox civata, paslanmaz civata, paslanmaz somun, paslanmaz pul, rondela, norm civata, standart civata, istanbul civata, ikitelli civata ,civata ithalatçısı, yarıklı pim, krom civata, krom somun, krom pul, setskur, imbus, alyan, krom vida, bağlantı elemanları",
 };
 
 export function generateStaticParams() {
@@ -39,31 +40,13 @@ export default async function RootLayout({ children, params: { locale } }) {
         <link rel="preconnect" href="https://res.cloudinary.com" />
         <link rel="dns-prefetch" href="https://res.cloudinary.com" />
         {/* Buraya Google Fonts ve diğer meta etiketlerini ekleyin */}
-        <link
-          href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;400;600;700;900&display=swap"
-          rel="stylesheet"
-        />
-        <link
-          rel="preload"
-          href="https://cdn.jsdelivr.net/npm/remixicon/fonts/remixicon.css"
-          as="style"
-          onLoad="this.onload=null;this.rel='stylesheet'"
-        />
-        <title>{metadata.title}</title>
-        <meta name="description" content={metadata.description} />
+        <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;400;600;700;900&display=swap" rel="stylesheet" />
+        <link rel="preload" href="https://cdn.jsdelivr.net/npm/remixicon/fonts/remixicon.css" as="style" onLoad="this.onload=null;this.rel='stylesheet'" />
       </Head>
-      <TranslationsProvider
-        namespaces={i18nNamespaces}
-        locale={locale}
-        resources={resources}
-      >
+      <TranslationsProvider namespaces={i18nNamespaces} locale={locale} resources={resources}>
         <body>
           <Fragment>
-            <Header
-              navLinks={navLinks}
-              search={search}
-              locale={locale}
-            ></Header>
+            <Header navLinks={navLinks} search={search} locale={locale}></Header>
             <main>{children}</main>
             <WhatsAppButton />
             <Footer footerData={footerData} />

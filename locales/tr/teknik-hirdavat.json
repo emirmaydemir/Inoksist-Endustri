@@ -3,38 +3,489 @@
     {
       "id": 1,
       "name": "İnter Delme Kesme Ve Klavuz Jeli",
-      "images": ["img01"],
-      "imgUrl": "img01",
-      "categoryId": 1,
-      "category": "hardwareData",
-      "description": "İnter Delme Kesme ve Klavuz Jeli, metal işleme işlemlerinde delme, kesme ve klavuz çekme sırasında sürtünmeyi azaltmak ve iş parçasını korumak için kullanılan özel bir yağlayıcıdır. Bu jel, yüksek sıcaklıklara ve basınca dayanıklı olup, işlem sırasında kesici takımın ömrünü uzatır ve pürüzsüz bir yüzey elde edilmesini sağlar. Sürtünmeyi ve aşınmayı minimize ederek daha temiz kesimler ve hassas delikler elde edilmesine yardımcı olur. Genellikle endüstriyel uygulamalarda, torna, freze ve matkap tezgahlarında kullanılır. Metal işleme süreçlerinde verimliliği artırmak için ideal bir çözümdür."
+      "url": "inter-delme-kesme-ve-klavuz-jeli",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855836/1_m6bley.jpg",
+      "category": ["delme-kesme-yaglari-grubu"]
     },
+
     {
       "id": 2,
       "name": "Weicon Delme Kesme Spreyi",
-      "images": ["img02"],
-      "imgUrl": "img02",
-      "categoryId": 1,
-      "category": "hardwareData",
-      "description": "Weicon Delme Kesme Spreyi, metal işleme süreçlerinde delme, kesme, frezeleme ve diş açma gibi işlemler sırasında kullanılan bir yağlayıcı sprey türüdür. Yüksek performanslı yağlama ve soğutma özellikleri sayesinde, işlem sırasında sürtünmeyi ve ısınmayı azaltarak kesici aletlerin ömrünü uzatır. Ayrıca, iş parçasının korunmasını sağlar ve daha pürüzsüz, temiz kesimler elde edilmesine yardımcı olur. Weicon Delme Kesme Spreyi, paslanmaz çelik, demir, alüminyum ve diğer metallerde kullanılabilir. Özellikle endüstriyel metal işleme, bakım ve onarım işlerinde yaygın olarak tercih edilir."
+      "url": "weicon-delme-kesme-spreyi",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855837/2_fkdawq.jpg",
+      "category": ["delme-kesme-yaglari-grubu"]
     },
+
     {
       "id": 3,
       "name": "İş Güvenlik Ayakkabısı",
-      "images": ["img03"],
-      "imgUrl": "img03",
-      "categoryId": 2,
-      "category": "hardwareData",
-      "description": "İş Güvenlik Ayakkabısı, çalışanları olası iş kazalarına karşı korumak amacıyla tasarlanmış, dayanıklı ve koruyucu ayakkabı türüdür. Genellikle ağır sanayi, inşaat, lojistik ve fabrika gibi riskli çalışma ortamlarında kullanılır. Çelik burunlu, kaymaz tabanlı ve darbelere karşı dayanıklı olan bu ayakkabılar, ayak yaralanmalarını önlemek için geliştirilmiştir. Ayrıca, suya, yağlara ve kimyasallara karşı direnç sağlayan modelleri de mevcuttur. İş güvenliği standartlarına uygun olarak üretilen bu ayakkabılar, çalışanların hem güvenliğini hem de konforunu artırmayı amaçlar."
+      "url": "is-guvenlik-ayakkabisi",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855853/1_odyg4j.jpg",
+      "category": ["is-guvenligi-grubu"]
     },
+
     {
       "id": 4,
       "name": "Koruyucu Gözlük",
-      "images": ["img04"],
-      "imgUrl": "img04",
-      "categoryId": 2,
-      "category": "hardwareData",
-      "description": "Endüstriyel ortamlarda çalışırken göz sağlığınızı korumak hayati önem taşır. Paslanmaz çelik civata ve somunlarla çalışırken, parçacık sıçramaları, darbe riskleri ve çeşitli kimyasallardan kaynaklanan göz yaralanmalarını önlemek için özel olarak tasarlanmış koruyucu gözlüklerimiz, güvenliği ve dayanıklılığı bir araya getirir."
+      "url": "koruyucu-gozluk",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855851/2_wqygea.jpg",
+      "category": ["is-guvenligi-grubu"]
+    },
+
+    {
+      "id": 5,
+      "name": "Koruyucu Maske",
+      "url": "koruyucu-maske",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855852/3_robq9s.jpg",
+      "category": ["is-guvenligi-grubu"]
+    },
+
+    {
+      "id": 6,
+      "name": "Nitril Eldiven",
+      "url": "nitril-eldiven",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855855/4_q5cofu.jpg",
+      "category": ["is-guvenligi-grubu"]
+    },
+
+    {
+      "id": 7,
+      "name": "Nitril Muayene Eldiveni",
+      "url": "nitril-muayene-eldiveni",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855856/5_jiarg4.jpg",
+      "category": ["is-guvenligi-grubu"]
+    },
+
+    {
+      "id": 8,
+      "name": "Kaynak Gözlüğü",
+      "url": "kaynak-gozlugu",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855857/6_znwj2c.jpg",
+      "category": ["is-guvenligi-grubu"]
+    },
+
+    {
+      "id": 9,
+      "name": "Alüminyum Kaynak Teli",
+      "url": "aluminyum-kaynak-teli",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855872/1_tcajrf.jpg",
+      "category": ["kaynak-ekipmanlari-grubu"]
+    },
+
+    {
+      "id": 10,
+      "name": "Gazaltı Kaynak Spreyi",
+      "url": "gazalti-kaynak-spreyi",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855873/2_kclruo.jpg",
+      "category": ["kaynak-ekipmanlari-grubu"]
+    },
+
+    {
+      "id": 11,
+      "name": "Gazaltı Kaynak Teli",
+      "url": "gazalti-kaynak-teli",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855875/3_lzliq8.jpg",
+      "category": ["kaynak-ekipmanlari-grubu"]
+    },
+
+    {
+      "id": 12,
+      "name": "Kaynak Eldiveni",
+      "url": "kaynak-eldiveni",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855876/4_jfb77v.jpg",
+      "category": ["kaynak-ekipmanlari-grubu"]
+    },
+
+    {
+      "id": 13,
+      "name": "Paslanmaz Elektrod",
+      "url": "paslanmaz-elektrod",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855877/5_obtsn7.jpg",
+      "category": ["kaynak-ekipmanlari-grubu"]
+    },
+
+    {
+      "id": 14,
+      "name": "Paslanmaz Kaynak Teli",
+      "url": "paslanmaz-kaynak-teli",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855879/6_xxglha.jpg",
+      "category": ["kaynak-ekipmanlari-grubu"]
+    },
+
+    {
+      "id": 15,
+      "name": "Rutil Elektrod",
+      "url": "rutil-elektrod",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855880/7_f4u5nk.jpg",
+      "category": ["kaynak-ekipmanlari-grubu"]
+    },
+
+    {
+      "id": 16,
+      "name": "Metal Kesme Diskleri",
+      "url": "gazalti-kaynak-teli",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855875/3_lzliq8.jpg",
+      "category": ["kesici-ve-asindirici-grubu"]
+    },
+
+    {
+      "id": 17,
+      "name": "Endüstriyel Metal Kesme Diskleri",
+      "url": "kaynak-eldiveni",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855876/4_jfb77v.jpg",
+      "category": ["kesici-ve-asindirici-grubu"]
+    },
+
+    {
+      "id": 18,
+      "name": "Inox Kesme Diskleri",
+      "url": "paslanmaz-elektrod",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855877/5_obtsn7.jpg",
+      "category": ["kesici-ve-asindirici-grubu"]
+    },
+
+    {
+      "id": 19,
+      "name": "Cut & Cut Inox Kesme Diskleri",
+      "url": "paslanmaz-kaynak-teli",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855879/6_xxglha.jpg",
+      "category": ["kesici-ve-asindirici-grubu"]
+    },
+
+    {
+      "id": 20,
+      "name": "Döküm Kesme Diskleri",
+      "url": "rutil-elektrod",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855880/7_f4u5nk.jpg",
+      "category": ["kesici-ve-asindirici-grubu"]
+    },
+
+    {
+      "id": 21,
+      "name": "Mermer Kesme Diskleri",
+      "url": "gazalti-kaynak-teli",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855875/3_lzliq8.jpg",
+      "category": ["kesici-ve-asindirici-grubu"]
+    },
+
+    {
+      "id": 22,
+      "name": "Alüminyum Kesme Diskleri",
+      "url": "kaynak-eldiveni",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855876/4_jfb77v.jpg",
+      "category": ["kesici-ve-asindirici-grubu"]
+    },
+
+    {
+      "id": 23,
+      "name": "ZA Döküm Kesme Diskleri",
+      "url": "paslanmaz-elektrod",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855877/5_obtsn7.jpg",
+      "category": ["kesici-ve-asindirici-grubu"]
+    },
+
+    {
+      "id": 24,
+      "name": "AC Döküm Kesme Diskleri",
+      "url": "paslanmaz-kaynak-teli",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855879/6_xxglha.jpg",
+      "category": ["kesici-ve-asindirici-grubu"]
+    },
+
+    {
+      "id": 25,
+      "name": "Metal Kesme Sabit Tezgah Diskleri",
+      "url": "rutil-elektrod",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855880/7_f4u5nk.jpg",
+      "category": ["kesici-ve-asindirici-grubu"]
+    },
+
+    {
+      "id": 26,
+      "name": "Döküm Kesme Sabit Tezgah Diskleri",
+      "url": "gazalti-kaynak-teli",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855875/3_lzliq8.jpg",
+      "category": ["kesici-ve-asindirici-grubu"]
+    },
+
+    {
+      "id": 27,
+      "name": "Ray Kesme Diskleri",
+      "url": "kaynak-eldiveni",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855876/4_jfb77v.jpg",
+      "category": ["kesici-ve-asindirici-grubu"]
+    },
+
+    {
+      "id": 28,
+      "name": "Metal Çapak Alma Diskleri",
+      "url": "paslanmaz-elektrod",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855877/5_obtsn7.jpg",
+      "category": ["kesici-ve-asindirici-grubu"]
+    },
+
+    {
+      "id": 29,
+      "name": "Metal Plus Çapak Alma Diskleri",
+      "url": "paslanmaz-kaynak-teli",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855879/6_xxglha.jpg",
+      "category": ["kesici-ve-asindirici-grubu"]
+    },
+
+    {
+      "id": 30,
+      "name": "Inox Çapak Alma Diskleri",
+      "url": "rutil-elektrod",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855880/7_f4u5nk.jpg",
+      "category": ["kesici-ve-asindirici-grubu"]
+    },
+
+    {
+      "id": 31,
+      "name": "Döküm Çapak Alma Diskleri",
+      "url": "paslanmaz-elektrod",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855877/5_obtsn7.jpg",
+      "category": ["kesici-ve-asindirici-grubu"]
+    },
+
+    {
+      "id": 32,
+      "name": "ZA Plus Çapak Alma Diskleri",
+      "url": "paslanmaz-kaynak-teli",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855879/6_xxglha.jpg",
+      "category": ["kesici-ve-asindirici-grubu"]
+    },
+
+    {
+      "id": 33,
+      "name": "Alüminyum Çapak Alma Diskleri",
+      "url": "rutil-elektrod",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855880/7_f4u5nk.jpg",
+      "category": ["kesici-ve-asindirici-grubu"]
+    },
+
+    {
+      "id": 34,
+      "name": "Comfort Line ZR SD Flap Diskler",
+      "url": "paslanmaz-elektrod",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855877/5_obtsn7.jpg",
+      "category": ["kesici-ve-asindirici-grubu"]
+    },
+
+    {
+      "id": 35,
+      "name": "Comfort Line ZR HD Flap Diskler",
+      "url": "paslanmaz-kaynak-teli",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855879/6_xxglha.jpg",
+      "category": ["kesici-ve-asindirici-grubu"]
+    },
+
+    {
+      "id": 36,
+      "name": "Premium Line AO SD Flap Diskler",
+      "url": "rutil-elektrod",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855880/7_f4u5nk.jpg",
+      "category": ["kesici-ve-asindirici-grubu"]
+    },
+
+    {
+      "id": 37,
+      "name": "Premium Line ZR SD Flap Diskler",
+      "url": "paslanmaz-elektrod",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855877/5_obtsn7.jpg",
+      "category": ["kesici-ve-asindirici-grubu"]
+    },
+
+    {
+      "id": 38,
+      "name": "Premium Line ZR HD Flap Diskler",
+      "url": "paslanmaz-kaynak-teli",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855879/6_xxglha.jpg",
+      "category": ["kesici-ve-asindirici-grubu"]
+    },
+
+    {
+      "id": 39,
+      "name": "Premium Line CE SD Flap Diskler",
+      "url": "rutil-elektrod",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855880/7_f4u5nk.jpg",
+      "category": ["kesici-ve-asindirici-grubu"]
+    },
+
+    {
+      "id": 40,
+      "name": "Cırtlı Diskler",
+      "url": "paslanmaz-elektrod",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855877/5_obtsn7.jpg",
+      "category": ["kesici-ve-asindirici-grubu"]
+    },
+
+    {
+      "id": 41,
+      "name": "Bant Zımparalar",
+      "url": "paslanmaz-kaynak-teli",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855879/6_xxglha.jpg",
+      "category": ["kesici-ve-asindirici-grubu"]
+    },
+
+    {
+      "id": 42,
+      "name": "Rulo Zımparalar",
+      "url": "rutil-elektrod",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855880/7_f4u5nk.jpg",
+      "category": ["kesici-ve-asindirici-grubu"]
+    },
+
+    {
+      "id": 43,
+      "name": "Dilimli Streç",
+      "url": "paslanmaz-kaynak-teli",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855879/6_xxglha.jpg",
+      "category": ["ambalaj-ve-paketleme-grubu"]
+    },
+
+    {
+      "id": 44,
+      "name": "Gıda Streci",
+      "url": "rutil-elektrod",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855880/7_f4u5nk.jpg",
+      "category": ["ambalaj-ve-paketleme-grubu"]
+    },
+
+    {
+      "id": 45,
+      "name": "Koli Bandı Akrilik",
+      "url": "paslanmaz-elektrod",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855877/5_obtsn7.jpg",
+      "category": ["ambalaj-ve-paketleme-grubu"]
+    },
+
+    {
+      "id": 46,
+      "name": "Koli Bandı Hotmelt",
+      "url": "paslanmaz-kaynak-teli",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855879/6_xxglha.jpg",
+      "category": ["ambalaj-ve-paketleme-grubu"]
+    },
+
+    {
+      "id": 47,
+      "name": "Palet Streci",
+      "url": "rutil-elektrod",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855880/7_f4u5nk.jpg",
+      "category": ["ambalaj-ve-paketleme-grubu"]
+    },
+
+    {
+      "id": 48,
+      "name": "Loctite Civata Sabitleyici",
+      "url": "paslanmaz-elektrod",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855877/5_obtsn7.jpg",
+      "category": ["sizdirmazlik-grubu"]
+    },
+
+    {
+      "id": 49,
+      "name": "Weicon Flex 310 M Paslanmaz Çelik Sızdırmazlık Ürünü",
+      "url": "paslanmaz-kaynak-teli",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855879/6_xxglha.jpg",
+      "category": ["sizdirmazlik-grubu"]
+    },
+
+    {
+      "id": 50,
+      "name": "Weicon Civata Sabitleyici",
+      "url": "rutil-elektrod",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855880/7_f4u5nk.jpg",
+      "category": ["sizdirmazlik-grubu"]
+    },
+
+    {
+      "id": 51,
+      "name": "Eco Service Sprey Boya Kartela",
+      "url": "paslanmaz-kaynak-teli",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855879/6_xxglha.jpg",
+      "category": ["sprey-boya"]
+    },
+
+    {
+      "id": 52,
+      "name": "Eco Service Sprey Boya",
+      "url": "rutil-elektrod",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855880/7_f4u5nk.jpg",
+      "category": ["sprey-boya"]
+    },
+
+    {
+      "id": 53,
+      "name": "Ceresit Köpük",
+      "url": "paslanmaz-elektrod",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855877/5_obtsn7.jpg",
+      "category": ["yapi-kimyasallari-grubu"]
+    },
+
+    {
+      "id": 54,
+      "name": "Ceresit Silikon",
+      "url": "paslanmaz-kaynak-teli",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855879/6_xxglha.jpg",
+      "category": ["yapi-kimyasallari-grubu"]
+    },
+
+    {
+      "id": 55,
+      "name": "Dayson PU Mastik",
+      "url": "rutil-elektrod",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855880/7_f4u5nk.jpg",
+      "category": ["yapi-kimyasallari-grubu"]
+    },
+
+    {
+      "id": 56,
+      "name": "Kimyasal Dübel( Epoksi)",
+      "url": "paslanmaz-kaynak-teli",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855879/6_xxglha.jpg",
+      "category": ["yapi-kimyasallari-grubu"]
+    },
+
+    {
+      "id": 57,
+      "name": "Sista Silikon",
+      "url": "rutil-elektrod",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855880/7_f4u5nk.jpg",
+      "category": ["yapi-kimyasallari-grubu"]
+    },
+
+    {
+      "id": 58,
+      "name": "502 Japon Yapıştırıcı 20 Gr.",
+      "url": "paslanmaz-kaynak-teli",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855879/6_xxglha.jpg",
+      "category": ["yapistirici-grubu"]
+    },
+
+    {
+      "id": 59,
+      "name": "Derby 602 Japon Yapıştırıcı 20 Gr.",
+      "url": "rutil-elektrod",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855880/7_f4u5nk.jpg",
+      "category": ["yapistirici-grubu"]
+    },
+
+    {
+      "id": 60,
+      "name": "Mdf Kit",
+      "url": "paslanmaz-kaynak-teli",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855879/6_xxglha.jpg",
+      "category": ["yapistirici-grubu"]
+    },
+
+    {
+      "id": 61,
+      "name": "Weicon Yapıştırıcı Sprey",
+      "url": "rutil-elektrod",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855880/7_f4u5nk.jpg",
+      "category": ["yapistirici-grubu"]
     }
   ]
 }
