@@ -45,7 +45,7 @@ const FastenerListingClient = ({ fastenerData, categoriesContent, headerContent,
     setSelectedCategory(formattedCategory);
   };
 
-  const filteredProducts = selectedCategory && selectedCategory !== "urunler" ? fastenerData.filter((item) => item.category === selectedCategory) : fastenerData; // Eğer selectedCategory boşsa, tüm ürünleri göster
+  const filteredProducts = selectedCategory && selectedCategory !== "urunler" ? fastenerData.filter((item) => item.category.includes(selectedCategory)) : fastenerData; // Eğer selectedCategory boşsa, tüm ürünleri göster
 
   return (
     <>
