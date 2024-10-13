@@ -8,8 +8,6 @@
       "title3": "Altı Köşe Başlı Tam Paso Civata",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728505455/DIN933_m5dpff.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728505457/Screenshot_1_ckp6ea.png", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728505458/Screenshot_2_yjsr5h.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728505455/DIN933_m5dpff.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 933, tamamen dişli ve altı köşe başlı cıvataları tanımlayan bir standarttır. Bu cıvatalar, sağlam yapıları ve tam dişli gövdeleri sayesinde güçlü bir tutuş sağlar. Altıgen baş yapısı, standart anahtarlar ve aletlerle kolay montaj imkanı sunar. Yüksek çekme dayanımına sahip olan bu cıvatalar, özellikle metal bağlantılarda güvenilir bir sabitleme sağlar. Farklı çap ve uzunluk seçenekleri ile sunulmakta olup, genellikle paslanmaz çelik veya çelik malzemeden üretilmektedir.",
       "specifications": [
         {
@@ -32,8 +30,6 @@
       "title3": "Altı Köşe Başlı Yarım Paso Civata",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728568104/Screenshot_2_opuud7.png", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728505372/Screenshot_1_nczfj9.png", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728505373/Screenshot_2_ohsk5e.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728568104/Screenshot_2_opuud7.png",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 931, altı köşe başlı ve yarım dişli (yarım paso) cıvataları tanımlayan bir standarttır. Bu cıvatalar, kısmi diş yapısına sahip olup, dişli kısmı cıvatanın bir bölümünü kaplar ve geri kalanı düz bir şaft şeklindedir. Altıgen baş yapısı, standart anahtar ve aletlerle kolayca sıkma ve gevşetme işlemi sağlar. DIN 931 cıvataları, genellikle yüksek çekme dayanımı ve sağlam bağlantı gerektiren uygulamalarda kullanılır. Paslanmaz çelik veya çelik malzemeden üretilen bu cıvatalar, çeşitli boyut ve çap seçenekleriyle sunulmaktadır.",
       "specifications": [
         {
@@ -58,8 +54,6 @@
       "title3": "Flanşlı Civata",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728506651/DIN6921_f1cvym.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506653/Screenshot_1_oqoqwt.png", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506656/Screenshot_2_cfuc64.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506651/DIN6921_f1cvym.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 6921, flanşlı başlı cıvataları tanımlayan bir standarttır. Bu cıvatalar, baş kısmında entegre bir flanş (yassı ve genişletilmiş alan) bulundurur, bu da ekstra pul kullanımını gereksiz kılar ve daha geniş bir yüzey alanında yük dağılımı sağlar. Flanşlı yapısı sayesinde bağlantı noktalarında kayma riskini azaltır ve sıkma sırasında daha güvenilir bir tutuş sunar. Genellikle otomotiv, makine mühendisliği ve metal işleme gibi endüstriyel uygulamalarda kullanılır. DIN 6921 cıvataları çelik ve paslanmaz çelik gibi dayanıklı malzemelerden üretilir ve farklı boyutlarda sunulur.",
       "specifications": [
         {
@@ -84,8 +78,6 @@
       "title3": "İmbus",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728504834/DIN912_mr8lvv.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728504835/Screenshot_2_seuncf.png", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728504835/Screenshot_1_gis6gg.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728504834/DIN912_mr8lvv.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 912, silindirik başlı ve içten altıgen yuvalı (imbus) cıvataları tanımlayan bir standarttır. Bu cıvatalar, yüksek sıkma torku ve hassas montaj gerektiren uygulamalarda kullanılır. İmbus baş yapısı, standart altıgen anahtarlar ile kolayca sıkılmasını sağlar ve dar alanlarda montaj imkanı sunar. Silindirik başı, estetik bir görünüm sunarken sağlam bağlantılar sağlar. DIN 912 cıvataları, genellikle makine mühendisliği, otomotiv ve endüstriyel ekipmanlarda tercih edilir. Çelik ve paslanmaz çelik gibi dayanıklı malzemelerden üretilir ve çeşitli boyutlarda temin edilebilir.",
       "specifications": [
         {
@@ -110,8 +102,6 @@
       "title3": "Havşa Başlı İmbus",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728507780/DIN7991_-_ISO10642_dqkr9r.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728507784/Screenshot_1_xpvswy.png", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728507788/Screenshot_2_qxjxf4.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728507780/DIN7991_-_ISO10642_dqkr9r.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 7991 (ISO 10642), havşa başlı ve içten altıgen yuvalı (imbus) cıvataları tanımlayan bir standarttır. Bu cıvatalar, başlarının yüzeyle tamamen aynı hizada olmasını sağlayarak düz ve temiz bir montaj yüzeyi sunar. İmbus baş yapısı, altıgen anahtarlarla kolayca sıkılmasına olanak tanır ve hassas uygulamalar için idealdir. DIN 7991 cıvataları, özellikle estetik ve düşük profilli montaj gerektiren yerlerde, makine mühendisliği ve metal bağlantılarında kullanılır. Paslanmaz çelik veya çelikten üretilen bu civatalar, çeşitli boyut ve malzeme seçenekleriyle sunulur.",
       "specifications": [
         {
@@ -137,8 +127,6 @@
       "title3": "Bombe Başlı İmbus",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728508439/ISO7380_nihnv4.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728508444/Screenshot_1_qxvfrl.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728508439/ISO7380_nihnv4.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "ISO 7380 Bombe Başlı İmbus vidaları, özellikle yüksek mukavemet ve dayanıklılık gerektiren uygulamalarda kullanılan özel bağlantı elemanlarıdır. Bombe başı tasarımı, vidaların üst kısmında yuvarlatılmış bir yüzey oluşturarak, yüzeyle uyumlu bir şekilde oturmalarını sağlar ve estetik bir görünüm sunar. Bu vidalar, genellikle paslanmaz çelik veya yüksek kaliteli alaşımlardan üretilir, böylece korozyona karşı direnç gösterir. ISO 7380 standardı, bu vidaların ölçü, tolerans ve mekanik özelliklerini belirleyerek güvenilirlik ve performans sağlar. Otomotiv, makine mühendisliği ve inşaat gibi pek çok sektörde yaygın olarak kullanılmaktadır.",
       "specifications": [
         {
@@ -162,8 +150,6 @@
       "title3": "Bombe Başlı Flanşlı İmbus",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728508499/ISO7380-2_fqgpm9.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728508504/ISO7380-22_qn57ul.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728508509/ISO7380-222_wbbrwd.jpg"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728508499/ISO7380-2_fqgpm9.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "ISO 7380-2, bombe başlı ve flanşlı içten altıgen yuvalı (imbus) cıvataları tanımlayan bir standarttır. Bu cıvatalar, bombe şeklindeki baş yapısı sayesinde estetik bir görünüm sunar ve flanşlı tasarımı, yükün daha geniş bir yüzeye dağılmasına yardımcı olur. İçten altıgen yuva, cıvatanın sıkılmasını kolaylaştırırken, yüksek tork değerlerine dayanıklılık sağlar. ISO 7380-2 cıvataları, genellikle otomotiv, makine mühendisliği ve metal işleme gibi alanlarda kullanılır. Paslanmaz çelik veya çelik malzemeden üretilen bu cıvatalar, farklı boyut ve çap seçenekleri ile temin edilebilir.",
       "specifications": [
         {
@@ -188,8 +174,6 @@
       "title3": "İnce(Dar) Kafa İmbus",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728506585/DIN6912_kf5phy.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506588/Screenshot_1_rfufzz.png", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506590/Screenshot_2_xsjlej.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506585/DIN6912_kf5phy.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 6912, ince (dar) başlı ve içten altıgen yuvalı (imbus) cıvataları tanımlayan bir standarttır. Bu cıvatalar, dar alanlarda kullanılan bağlantı elemanları için idealdir ve kompakt baş yapısı sayesinde sınırlı montaj alanlarında rahatlıkla kullanılabilir. İçten altıgen yuva, standart altıgen anahtarlarla kolayca sıkılmasına olanak tanır, aynı zamanda yüksek tork dayanımı sağlar. DIN 6912 cıvataları, genellikle makine mühendisliği, otomotiv ve endüstriyel uygulamalarda tercih edilir. Çelik ve paslanmaz çelik malzemeden üretilir ve çeşitli boyutlarda temin edilebilir.",
       "specifications": [
         {
@@ -215,8 +199,6 @@
       "title3": "Gijon",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728505800/DIN976_nkujav.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728505802/Screenshot_1_ipftmc.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728505800/DIN976_nkujav.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 976, gijon (dişli çubuk) olarak bilinen tam dişli çubukları tanımlayan bir standarttır. Gijonlar, her iki ucunda da dişli yapıya sahip uzun çubuklardır ve gerektiğinde istenen uzunluklarda kesilerek bağlantı elemanı olarak kullanılır. Genellikle sabitleme, montaj ve yapı elemanlarının birleştirilmesi gibi uygulamalarda kullanılır. DIN 976 gijonlar, yüksek dayanıklılık ve çekme mukavemeti sağlayarak güvenilir bağlantılar sunar. Çelik, paslanmaz çelik gibi dayanıklı malzemelerden üretilir ve çeşitli çap ve uzunluk seçenekleriyle temin edilebilir.",
       "specifications": [
         {
@@ -246,8 +228,6 @@
       "title3": "Dibi Dört Köşe Kasa Civatası",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728504331/DIN603_ijrzu9.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728504331/Screenshot_1_pe5bu9.png", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728504331/DIN6033_ey4n1k.jpg"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728504331/DIN603_ijrzu9.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 603, dibi dört köşe olan kasa cıvatalarını tanımlayan bir standarttır. Bu cıvatalar, yuvarlak ve düz bir başa sahip olup, başın altındaki dört köşe kısım sayesinde montaj sırasında sabitlenir ve dönme yapmaz. Genellikle ahşap ve metal bağlantılarında kullanılır. Düz baş yapısı dekoratif ve estetik bir görünüm sunarken, dibi dört köşe kısmı da cıvatanın yerleştirildiği yüzeyde güvenli bir şekilde sabit kalmasını sağlar. DIN 603 cıvataları genellikle mobilya, çit montajı ve yapı işlerinde tercih edilir ve çelik, paslanmaz çelik gibi dayanıklı malzemelerden üretilir.",
       "specifications": [
         {
@@ -272,8 +252,6 @@
       "title3": "Gözlü Civata",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728488998/DIN444_Sayfa_1_G%C3%B6r%C3%BCnt%C3%BC_0001_dlk75e.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728489000/Screenshot_1_hp056z.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728488998/DIN444_Sayfa_1_G%C3%B6r%C3%BCnt%C3%BC_0001_dlk75e.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 444, gözlü cıvataları tanımlayan bir standarttır. Gözlü cıvatalar, uç kısmında halka şeklinde bir göz bulunan özel bağlantı elemanlarıdır. Bu tasarım, cıvatanın bir bağlantı elemanı, kanca veya pim ile sabitlenmesine ve dönebilir veya hareketli bağlantılar oluşturmasına olanak tanır. Genellikle makine mühendisliği, yapı, bağlantı sistemleri ve yük taşıma işlemlerinde kullanılır. DIN 444 cıvataları, yüksek dayanıklılığa sahip çelik veya paslanmaz çelik malzemelerden üretilir ve çeşitli çap ve uzunluk seçenekleri ile sunulur.",
       "specifications": [
         {
@@ -297,8 +275,6 @@
       "title3": "Kelebek Civata",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728488379/966202298_ntgmwm.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728488373/Screenshot_1_lqvvpy.png", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728488376/Screenshot_2_wzvs3i.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728488379/966202298_ntgmwm.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 316, kelebek cıvatalarını tanımlayan bir standarttır. Bu cıvatalar, kelebek şeklindeki baş tasarımı sayesinde elle kolayca sıkılıp gevşetilebilir, bu da hızlı montaj ve demontaj sağlar. Kelebek baş yapısı, alet kullanmadan pratik bir bağlantı imkanı sunarak, sık sık sökülüp takılması gereken uygulamalarda idealdir. Genellikle endüstriyel, otomotiv ve genel mühendislik alanlarında kullanılır. DIN 316 cıvataları, yüksek dayanıklılığa sahip çelik veya paslanmaz çelik malzemelerden üretilir. Farklı boyut ve çap seçenekleri ile çeşitli montaj ihtiyaçlarına uygun şekilde temin edilebilir.",
       "specifications": [
         {
@@ -321,8 +297,6 @@
       "title3": "Altı Köşe Somun",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728486514/Screenshot_1_gxiw2g.png", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728486512/Screenshot_2_vh15sv.png", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728486513/Screenshot_3_tdfw2q.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728486514/Screenshot_1_gxiw2g.png",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 934, altı köşe somunları tanımlayan bir standarttır. Bu somunlar, altıgen baş yapısına sahip olup, cıvataların bağlantı noktalarını güvenli bir şekilde sabitlemek için kullanılır. Altı köşe tasarımı, standart anahtarlarla kolayca sıkma ve gevşetme imkanı sunar, bu da pratik bir montaj süreci sağlar. DIN 934 somunları, genellikle inşaat, otomotiv ve makine mühendisliği gibi çeşitli endüstriyel uygulamalarda tercih edilir. Yüksek dayanıklılık ve mukavemet sağlamak için genellikle çelik veya paslanmaz çelik malzemelerden üretilir. Farklı çap ve diş seçenekleri ile farklı cıvata boyutları için uyumlu şekilde sunulmaktadır.",
       "specifications": [
         {
@@ -365,8 +339,6 @@
       "title3": "Altı Köşeli Flanşlı Somun",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728506728/DIN6923_wpjyqx.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506733/Screenshot_2_gkede2.png", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506730/Screenshot_1_tejswu.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506728/DIN6923_wpjyqx.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 6923 Altı Köşeli Flanşlı Somun (Tırtıllı), standart altıgen somunlara ek olarak, bir flanş tabanına ve genellikle tırtıllı bir yapıya sahip olan bağlantı elemanıdır. Flanş, daha geniş bir yüzey alanı sağlayarak basıncı daha geniş bir alana yayar ve vidanın gevşemesini önlemeye yardımcı olur. Tırtıllı yüzey ise vidanın sıkıldığı yüzeye daha iyi tutunmasını sağlar, bu da titreşimli uygulamalarda somunun gevşemesini engeller. DIN 6923 standardına uygun olan bu somunlar, özellikle makine, otomotiv ve inşaat sektörlerinde tercih edilir.",
       "specifications": [
         {
@@ -391,8 +363,6 @@
       "title3": "Altı Köşeli Fiberli Somun",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728505897/DIN985_tcnxhe.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728505899/Screenshot_1_imhoky.png", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728505901/Screenshot_2_zcidxa.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728505897/DIN985_tcnxhe.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 985, altı köşeli fiberli somunları tanımlayan bir standarttır. Bu somunlar, üst kısmında bulunan naylon (fiber) halka sayesinde titreşim ve darbelere karşı bağlantının gevşemesini önler. Altıgen baş yapısı, standart anahtarlarla kolay sıkma ve gevşetme imkanı sunar. Genellikle otomotiv, makine mühendisliği ve endüstriyel uygulamalarda güvenli bağlantılar sağlamak için tercih edilir. Çelik ve paslanmaz çelik gibi dayanıklı malzemelerden üretilir. Farklı çap ve diş seçenekleri ile temin edilebilir, uzun ömürlü ve güvenilir bağlantılar sunar.",
       "specifications": [
         {
@@ -427,8 +397,6 @@
       "title3": "Altı Köşeli İnce (Kontra) Somun",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728488529/Screenshot_2_s70cos.png", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728488532/Screenshot_1_exfcru.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728488529/Screenshot_2_s70cos.png",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 439, altı köşeli ince (kontra) somunları tanımlayan bir standarttır. Bu somunlar, ince profili sayesinde dar alanlarda veya çift somun kullanımı gerektiren uygulamalarda tercih edilir. Genellikle, standart bir somunun üzerine sıkılarak gevşemeyi önlemek amacıyla kullanılır. Altıgen baş yapısı, standart anahtarlarla kolayca sıkılıp gevşetilmesini sağlar. DIN 439 somunları, otomotiv, makine mühendisliği ve genel endüstriyel uygulamalarda yaygın olarak kullanılır. Yüksek dayanıklılığa sahip çelik veya paslanmaz çelikten üretilir ve farklı boyut seçenekleriyle sunulur.",
       "specifications": [
         {
@@ -460,8 +428,6 @@
       "title3": "Kör Somun",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728506082/DIN1587_ijftle.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506080/Screenshot_1_xhcyb2.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506082/DIN1587_ijftle.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 1587, kör somunları tanımlayan bir standarttır. Kör somunlar, kapalı (kör) baş yapısına sahip olup, somunun ucundaki dişli kısmı dış etkenlerden korur ve estetik bir görünüm sunar. Bu kapalı yapı, vida ucunun dışarı çıkmasını engelleyerek güvenliği artırır. Genellikle makine mühendisliği, mobilya ve otomotiv sektörlerinde kullanılır. DIN 1587 somunları, çelik ve paslanmaz çelik gibi dayanıklı malzemelerden üretilir ve çeşitli boyut seçenekleriyle temin edilir. Hem işlevsel hem de dekoratif amaçlar için ideal bir bağlantı elemanıdır.",
       "specifications": [
         {
@@ -495,8 +461,6 @@
       "title3": "Fiberli Kör Somun",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728486727/DIN_986_Sayfa_1_G%C3%B6r%C3%BCnt%C3%BC_0001_zjhndn.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728486726/Screenshot_2_fyahjj.png", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728486729/Screenshot_1_yy8zcx.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728486727/DIN_986_Sayfa_1_G%C3%B6r%C3%BCnt%C3%BC_0001_zjhndn.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 986, fiberli kör somunları tanımlayan bir standarttır. Bu somunlar, kapalı (kör) baş yapısına ve iç kısmında bir naylon (fiber) halkaya sahiptir. Naylon halka, somunun sıkıldıktan sonra gevşemesini önleyerek titreşim ve darbeler karşısında güvenilir bir bağlantı sağlar. Kör baş yapısı ise vida ucunun dışarı çıkmasını engeller, hem estetik hem de koruyucu bir işlev sunar. DIN 986 somunları, genellikle otomotiv, makine mühendisliği ve mobilya sektörlerinde kullanılır. Paslanmaz çelik ve çelik gibi dayanıklı malzemelerden üretilen bu somunlar, farklı boyutlarda sunulmaktadır.",
       "specifications": [
         {
@@ -522,8 +486,6 @@
       "title3": "Kare Somun",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728489353/DIN557_Sayfa_1_G%C3%B6r%C3%BCnt%C3%BC_0001_qtussf.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728489356/Screenshot_1_pvyegz.png", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728489360/Screenshot_2_wsy3lo.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728489353/DIN557_Sayfa_1_G%C3%B6r%C3%BCnt%C3%BC_0001_qtussf.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 557 Kare Somun, özellikle geniş yüzey alanı gerektiren uygulamalarda kullanılan bir bağlantı elemanıdır. Kare şeklindeki tasarımı, somunun sabitlenmesi gereken yüzeyle daha iyi temas sağlamasını ve daha fazla kuvvet dağıtımına yardımcı olmasını sağlar. Genellikle paslanmaz çelik veya diğer dayanıklı malzemelerden üretilen DIN 557 somunları, vida ve cıvata sistemleri ile birlikte kullanılarak güçlü ve güvenilir bağlantılar oluşturur. İnşaat, otomotiv ve makine mühendisliği gibi çeşitli endüstriyel alanlarda yaygın olarak tercih edilmektedir.",
       "specifications": [
         {
@@ -548,8 +510,6 @@
       "title3": "Kare Kaynak Somun",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728505205/DIN928_jeyq7x.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728505206/Screenshot_1_f1yidx.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728505205/DIN928_jeyq7x.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 928 Kare Kaynak Somun, kaynaklı bağlantı uygulamaları için özel olarak tasarlanmış bir bağlantı elemanıdır. Kare şeklindeki yapısı, geniş bir yüzey alanı sunarak kaynak noktasıyla daha iyi uyum sağlar ve yüksek mukavemet oluşturur. Bu somunlar, genellikle metal yüzeylere kaynaklanarak sabitlenir, bu da montaj sırasında hareket etmelerini engeller. DIN 928 standardına uygun olarak üretilen bu somunlar, otomotiv, inşaat ve makine sektörlerinde güvenilir bağlantılar sağlamak için yaygın olarak kullanılmaktadır. Paslanmaz çelik veya yüksek kaliteli alaşımlardan imal edilen bu somunlar, korozyona karşı dayanıklılık sunar.",
       "specifications": [
         {
@@ -573,8 +533,6 @@
       "title3": "Altı Köşe Kaynak Somun",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728505296/DIN929_ugetdz.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728505296/Screenshot_1_ltpswl.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728505296/DIN929_ugetdz.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 929 Altı Köşe Kaynak Somun, kaynakla sabitlenen uygulamalar için tasarlanmış, altıgen şekilli bir somundur. Altı köşeli yapısı sayesinde standart anahtarlar ile kolayca sıkılabilir ve gevşetilebilir. Kaynak somunları, genellikle metal yüzeylere kaynaklanarak sabitlenir, bu da montaj sırasında sabit kalmalarını sağlar. DIN 929 standardına uygun olan bu somunlar, yüksek mukavemetli ve güvenilir bağlantılar sağlar. Otomotiv, makine imalatı ve inşaat sektörlerinde sıkça kullanılır ve genellikle paslanmaz çelik ya da alaşımlı çelikten üretilir, böylece korozyon direnci sunar.",
       "specifications": [
         {
@@ -601,8 +559,6 @@
       "title3": "Uzatma Somun",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728506195/DIN6334_ph9rlo.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506197/Screenshot_1_xhi3rj.png", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506199/Screenshot_2_qkxgpk.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506195/DIN6334_ph9rlo.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 6334 Uzatma Somun, iki vida parçasını birbirine bağlamak için kullanılan uzun ve altıgen yapılı bir somundur. Standart somunlara göre daha uzun bir yapıya sahip olup, bağlantı elemanlarının birbirine güvenli ve sağlam bir şekilde birleştirilmesini sağlar. Genellikle montaj ve inşaat uygulamalarında, özellikle uzun cıvata bağlantıları için tercih edilir. DIN 6334 standardına uygun olan bu somunlar, çelik, paslanmaz çelik veya çeşitli alaşımlardan üretilir ve dayanıklılığıyla yüksek mukavemet gerektiren uygulamalarda güvenilir bir çözüm sunar.",
       "specifications": [
         {
@@ -630,8 +586,6 @@
       "title3": "Kopan Somun",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728486898/DIN_9305_Sayfa_1_G%C3%B6r%C3%BCnt%C3%BC_0001_uebayz.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728486900/Screenshot_1_omwcnr.png", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728486901/Screenshot_2_doksfa.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728486898/DIN_9305_Sayfa_1_G%C3%B6r%C3%BCnt%C3%BC_0001_uebayz.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 9305 Kopan Somun, güvenlik gerektiren uygulamalarda kullanılan, baş kısmı sıkıldığında belirli bir torktan sonra koparak çıkarılan özel bir somundur. Bu tasarım, somunun yalnızca belirli bir sıkma kuvvetiyle monte edilmesini sağlar ve müdahale edilmesini zorlaştırır. Kopan somunlar, özellikle hırsızlığa karşı koruma sağlamak veya sabitlenmiş bağlantıların izinsiz olarak sökülmesini önlemek amacıyla kullanılır. DIN 9305 standardına uygun olarak üretilen bu somunlar, güvenlik önlemlerinin kritik olduğu altyapı, inşaat ve kamu projelerinde yaygın olarak tercih edilir.",
       "specifications": [
         {
@@ -654,8 +608,6 @@
       "title3": "Kelebek Somun (Amerikan Tip)",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728487825/DIN315_Sayfa_1_G%C3%B6r%C3%BCnt%C3%BC_0001_tauv6c.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728487827/DIN315_Sayfa_1_G%C3%B6r%C3%BCnt%C3%BC_0002_vhuiph.jpg"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728487825/DIN315_Sayfa_1_G%C3%B6r%C3%BCnt%C3%BC_0001_tauv6c.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 315 Kelebek Somun (Amerikan Tip), elle kolayca sıkma ve gevşetme imkanı sunan özel bir bağlantı elemanıdır. Kelebek şeklindeki kanatları sayesinde, herhangi bir alet kullanmadan hızlı ve pratik bir şekilde montaj ve demontaj işlemleri gerçekleştirilebilir. Genellikle hafif yükler için kullanılır ve yaygın olarak otomotiv, elektronik ve mühendislik uygulamalarında tercih edilir. DIN 315 standardına uygun olarak üretilen bu somunlar, genellikle çelik veya paslanmaz çelikten imal edilir ve korozyona karşı dayanıklıdır. Kullanım kolaylığı ve pratikliği sayesinde, birçok farklı sektörde iş süreçlerini hızlandırmak için ideal bir çözümdür.",
       "specifications": [
         {
@@ -685,8 +637,6 @@
       "title3": "Taçlı Somun",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728505547/DIN935_jkyw3i.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728505546/Screenshot_1_cjxl7e.png", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728505548/Screenshot_2_wjnetw.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728505547/DIN935_jkyw3i.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 935 Taçlı Somun, bağlantı elemanlarının güvenli bir şekilde sıkılmasını sağlamak için tasarlanmış özel bir somundur. Taçlı yapısı, somunun üst kısmında bir flanş bulunmasını sağlar, bu da somunun yüzeye daha iyi oturmasını ve bağlantının daha sağlam olmasını garanti eder. Bu tasarım, özellikle gevşeme ve kayma riskini azaltarak, çeşitli mekanik ve yapısal uygulamalarda güvenilir bir performans sunar. DIN 935 standardına uygun olarak üretilen taçlı somunlar, genellikle paslanmaz çelik veya alaşımlı çelikten imal edilir, böylece korozyona karşı dayanıklılık sağlar. Otomotiv, inşaat ve makine mühendisliği gibi birçok sektörde yaygın olarak kullanılır.",
       "specifications": [
         {
@@ -717,8 +667,6 @@
       "title3": "Ağaç Somunu",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728487739/Screenshot_2_lfgkgf.png", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728487690/Screenshot_1_s4bdrg.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728487739/Screenshot_2_lfgkgf.png",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 306 Ağaç Somunu, ahşap bağlantı elemanları için özel olarak tasarlanmış bir somundur. Ağaç ve benzeri malzemelere güvenli bir şekilde monte edilmesi amacıyla üretilmiştir. Genellikle geniş yüzey alanına sahip olan bu somunlar, ahşap yapıların dayanıklılığını artırarak, montaj sırasında daha iyi bir sıkma gücü sağlar. DIN 306 standardına uygun olarak üretilen ağaç somunları, genellikle paslanmaz çelik veya diğer dayanıklı malzemelerden imal edilir, bu da korozyona karşı dirençli olmasını sağlar. Ağaç işleme, inşaat ve mobilya sektörlerinde yaygın olarak tercih edilen bu somunlar, güvenilir ve sağlam bağlantılar oluşturmak için idealdir.",
       "specifications": [
         {
@@ -741,8 +689,6 @@
       "title3": "Kafesli Somun",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728507915/DIN9039_cr82ys.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728507920/DIN90399_buzovd.jpg"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728507915/DIN9039_cr82ys.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 9039 Kafesli Somun, yüksek güvenlik ve dayanıklılık gerektiren uygulamalar için tasarlanmış özel bir bağlantı elemanıdır. Kafesli yapısı, somunun daha iyi bir tutuş sağlamasına ve vidanın gevşemesini önlemeye yardımcı olur. Genellikle otomotiv ve makine mühendisliği gibi endüstriyel alanlarda, titreşimli ortamlarda güvenilir bağlantılar oluşturmak amacıyla kullanılır. DIN 9039 standardına uygun olarak üretilen bu somunlar, genellikle paslanmaz çelik veya dayanıklı alaşımlardan imal edilir, bu sayede korozyona karşı direnç gösterir. Yüksek dayanıklılığı ve güvenilirliği sayesinde, çeşitli mekanik sistemlerde yaygın olarak tercih edilmektedir.",
       "specifications": [
         {
@@ -765,8 +711,6 @@
       "title3": "Aybolt Erkek",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728489858/DIN580_gyunrg.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728489861/Screenshot_1_w66xwq.png", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728489865/Screenshot_2_y5rzak.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728489858/DIN580_gyunrg.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 580 Aybolt Erkek, halka şeklinde bir üst kısmı olan ve genellikle kaldırma uygulamalarında kullanılan özel bir bağlantı elemanıdır. Bu ayboltlara, halat veya zincir gibi kaldırma ekipmanlarının bağlanması için tasarlanmış bir dişli kısmı eklenmiştir. DIN 580 standardına uygun olarak üretilen ayboltlarda, yüksek mukavemet ve dayanıklılık sağlamak amacıyla genellikle çelik veya paslanmaz çelik malzemeler kullanılır. Kaldırma, taşıma ve güvenli bağlantı gerektiren endüstriyel uygulamalarda yaygın olarak tercih edilir. Aybolt erkek yapısı, montaj ve kullanım sırasında güvenliği artırarak, çeşitli uygulamalarda güvenilir performans sunar.",
       "specifications": [
         {
@@ -792,8 +736,6 @@
       "title3": "Aybolt Dişi",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728489952/DIN582_lytxfn.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728489956/Screenshot_1_hsh8qe.png", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728489960/Screenshot_2_m9yfsw.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728489952/DIN582_lytxfn.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 582 Aybolt Dişi, halka şeklinde bir üst kısmı bulunan ve özellikle kaldırma ve taşıma uygulamalarında kullanılan bir bağlantı elemanıdır. Dişli kısmı sayesinde, halat veya zincir gibi kaldırma ekipmanlarının güvenli bir şekilde bağlanmasını sağlar. DIN 582 standardına uygun olarak üretilen ayboltlarda, yüksek mukavemet ve dayanıklılık sağlamak için genellikle çelik veya paslanmaz çelik malzemeler tercih edilir. Bu aybolt dişi, özellikle inşaat, endüstriyel uygulamalar ve yük kaldırma sistemlerinde yaygın olarak kullanılır. Aybolt dişi yapısı, montaj ve kullanım sırasında güvenliği artırarak, çeşitli uygulamalarda güvenilir performans sunar.",
       "specifications": [
         {
@@ -820,8 +762,6 @@
       "title3": "Gerdirme Kanca - Kanca",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728509212/M8246_TYPB_ydh0ag.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728509218/Screenshot_1_xyuvll.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728509212/M8246_TYPB_ydh0ag.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "M 8246 Type B Gerdirme Kanca - Kanca, yüklerin güvenli bir şekilde gerdirilmesi ve taşınması için tasarlanmış özel bir bağlantı elemanıdır. Bu kanca, yüksek mukavemet ve dayanıklılık sağlayarak, çeşitli endüstriyel uygulamalarda, inşaat projelerinde ve lojistik süreçlerde kullanılmak üzere üretilmiştir. M 8246 Type B, genellikle çelik malzemeden imal edilir ve çeşitli kaplama işlemleri ile korozyona karşı dirençli hale getirilir. Kancanın tasarımı, kullanıcıların yükleri hızlı ve güvenli bir şekilde bağlamalarına olanak tanırken, aynı zamanda kancaların güvenli bir şekilde birbirine geçmesini sağlar. Bu özellikleri sayesinde, M 8246 Type B Gerdirme Kanca - Kanca, yük güvenliğini artıran etkili bir çözümdür.",
       "specifications": [
         {
@@ -843,8 +783,6 @@
       "title3": "Setskur",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728505135/DIN916_-_ISO4029_wgrekc.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728505136/Screenshot_1_q77euo.png", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728505137/Screenshot_2_xg23u4.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728505135/DIN916_-_ISO4029_wgrekc.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 916 / ISO 4029 Setskur, çeşitli uygulamalarda vida bağlantılarının güvenli ve sağlam bir şekilde tutulmasını sağlamak için tasarlanmış bir bağlantı elemanıdır. Setskur, genellikle bir vida veya cıvatanın baş kısmına yerleştirilerek, bağlantının sıkılığını artırır ve gevşemesini önler. DIN 916 ve ISO 4029 standartlarına uygun olarak üretilen bu ürünler, genellikle paslanmaz çelik veya diğer dayanıklı malzemelerden imal edilir, bu da korozyona karşı dirençli olmalarını sağlar. Makine mühendisliği, otomotiv ve inşaat sektörlerinde yaygın olarak kullanılan setsurlar, montaj süreçlerini kolaylaştırır ve uzun ömürlü bağlantılar oluşturur. Kullanımı pratik ve etkilidir, böylece birçok endüstriyel uygulamada tercih edilir.",
       "specifications": [
         {
@@ -869,8 +807,6 @@
       "title3": "Sivri Uç Setskur",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728504933/DIN914_-_ISO4027_pkqzz3.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728504934/Screenshot_1_igm0ay.png", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728504934/Screenshot_2_zhsjvc.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728504933/DIN914_-_ISO4027_pkqzz3.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 914 / ISO 4027 Sivri Uç Setskur, vida ve cıvata bağlantılarını güvenli bir şekilde sabitlemek amacıyla kullanılan özel bir bağlantı elemanıdır. Sivri uçlu tasarımı sayesinde, montaj sırasında daha iyi bir tutuş sağlar ve bağlantı elemanlarının gevşemesini önler. DIN 914 ve ISO 4027 standartlarına uygun olarak üretilen bu setsurlar, genellikle paslanmaz çelik veya diğer dayanıklı malzemelerden imal edilir, bu da onları korozyona karşı dirençli hale getirir. Makine mühendisliği, otomotiv ve inşaat sektörlerinde yaygın olarak kullanılan bu ürünler, güvenilir ve sağlam bağlantılar oluşturarak, çeşitli uygulamalarda dayanıklılık sağlar. Kullanımı kolaydır ve montaj süreçlerini hızlandırır, böylece endüstriyel projelerde tercih edilmektedir.",
       "specifications": [
         {
@@ -894,8 +830,6 @@
       "title3": "Silindir (Memeli) Setskur",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728505051/DIN915_-_ISO4028_eei1ov.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728505052/Screenshot_1_zbwaec.png", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728505053/Screenshot_2_yowqxx.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728505051/DIN915_-_ISO4028_eei1ov.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 915 / ISO 4028 Silindir (Memeli) Setskur, vida ve cıvata bağlantılarını güvenli bir şekilde sabitlemek için tasarlanmış bir bağlantı elemanıdır. Silindirik ve memeli yapısı, montaj sırasında bağlantı elemanlarının daha iyi bir şekilde oturmasını ve gevşemesini önler. DIN 915 ve ISO 4028 standartlarına uygun olarak üretilen bu setsurlar, genellikle paslanmaz çelik veya yüksek kaliteli alaşımlardan imal edilir, bu da onları korozyona karşı dayanıklı hale getirir. Makine mühendisliği, otomotiv ve inşaat sektörlerinde yaygın olarak tercih edilen bu ürünler, güvenilir ve sağlam bağlantılar oluşturarak çeşitli uygulamalarda dayanıklılık sağlar. Kullanım kolaylığı ve pratikliği ile montaj süreçlerini hızlandırır ve iş güvenliğini artırır. Silindir (memeli) setsurlar, yüksek mukavemet gerektiren uygulamalar için ideal bir çözümdür.",
       "specifications": [
         {
@@ -920,8 +854,6 @@
       "title3": "YSB (Yıldız Silindir Baş) Metrik Vida",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728507653/DIN7985_tuagc7.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728507657/Screenshot_1_m897fa.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728507653/DIN7985_tuagc7.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 7985 YSB (Yıldız Silindir Baş) Metrik Vida, baş kısmı yıldız şeklinde tasarlanmış bir metrik vidadır. Bu özel tasarım, vidanın sıkılmasını ve gevşetilmesini kolaylaştırarak, kullanıcılara çeşitli aletlerle (örneğin, yıldız tornavida) pratik bir montaj imkanı sunar. DIN 7985 standardına uygun olarak üretilen bu vidalar, genellikle çelik veya paslanmaz çelik gibi dayanıklı malzemelerden imal edilir, bu da onları korozyona karşı dirençli hale getirir. Yıldız silindir baş yapısı, vidanın yüksek tork değerlerine dayanmasını sağlar ve özellikle otomotiv, makine mühendisliği ve elektronik uygulamalarında yaygın olarak kullanılır. Bu vidalar, güvenilir ve sağlam bağlantılar oluşturarak, montaj süreçlerini hızlandırır ve uzun ömürlü performans sağlar.",
       "specifications": [
         {
@@ -946,8 +878,6 @@
       "title3": "YHB (Yıldız Havşa Baş) Metrik Vida",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728505708/DIN965_jzk3vv.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728505710/Screenshot_1_dqp21c.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728505708/DIN965_jzk3vv.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 965 YHB (Yıldız Havşa Baş) Metrik Vida, baş kısmı yıldız şeklinde tasarlanmış ve havşa yapısına sahip bir metrik vidadır. Bu tasarım, vidanın yüzeyin içine doğru oturmasını sağlayarak, estetik bir görünüm sunar ve aynı zamanda montajda daha az yer kaplamasına olanak tanır. DIN 965 standardına uygun olarak üretilen bu vidalar, genellikle çelik veya paslanmaz çelik gibi dayanıklı malzemelerden imal edilir, bu da onları korozyona karşı dirençli hale getirir. Yıldız havşa baş yapısı, vidanın sıkılmasını ve gevşetilmesini kolaylaştırır; bu da kullanıcılara çeşitli aletlerle (örneğin, yıldız tornavida) pratik bir montaj imkanı sunar. Otomotiv, makine mühendisliği ve elektronik uygulamalarında yaygın olarak tercih edilen DIN 965 YHB vidalar, güvenilir ve sağlam bağlantılar oluşturarak, montaj süreçlerini hızlandırır ve uzun ömürlü performans sağlar.",
       "specifications": [
         {
@@ -970,8 +900,6 @@
       "title3": "YHB (Yıldız Havşa Baş) Sunta Vidası",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728507298/DIN7505_ol4m2m.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728507302/Screenshot_1_z1avbt.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728507298/DIN7505_ol4m2m.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 7505 YHB (Yıldız Havşa Baş) Sunta Vidası, ahşap, sunta ve benzeri malzemelerin montajı için özel olarak tasarlanmış bir vida tipidir. Yıldız havşa baş yapısı, bu vidanın montaj sırasında estetik bir görünüm sunmasını sağlarken, aynı zamanda yüksek tork değerlerine dayanabilmesini mümkün kılar. DIN 7505 standardına uygun olarak üretilen bu vidalar, genellikle çelik veya paslanmaz çelikten imal edilir, bu da onları korozyona karşı dirençli hale getirir. Sunta vidaları, ahşap ve diğer hafif malzemelerle yapılan projelerde güvenilir ve sağlam bağlantılar sağlamak için idealdir. Yıldız baş yapısı, vida sıkma işlemini kolaylaştırır ve çeşitli aletlerle (örneğin, yıldız tornavida) pratik bir montaj imkanı sunar. DIN 7505 YHB vidaları, mobilya yapımı, iç mekan uygulamaları ve inşaat projelerinde yaygın olarak kullanılmaktadır. Uzun ömürlü performanslarıyla, kullanıcıların iş süreçlerini hızlandırarak verimliliği artırır.",
       "specifications": [
         {
@@ -993,8 +921,6 @@
       "title3": "Torks Anahtar Silindir Başlı Vida",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728507703/DIN7985TX_ftjtk9.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728507706/DIN7985TXX_ee2gsd.jpg"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728507703/DIN7985TX_ftjtk9.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 7985 TX Torks Anahtar Silindir Başlı Vida, Torks anahtarları ile sıkılabilen özel bir silindir başlı vidadır. Bu vida, özellikle yüksek tork değerlerine dayanabilme kapasitesi ile dikkat çeker ve bağlantıların güvenli bir şekilde montajını sağlar. DIN 7985 standardına uygun olarak üretilen bu vidalar, genellikle çelik veya paslanmaz çelik gibi dayanıklı malzemelerden imal edilir, bu da onları korozyona karşı dirençli hale getirir. Torks baş yapısı, vida başında daha iyi bir yüzey alanı sunarak, vidanın kayma riskini azaltır ve sıkma işlemi sırasında daha fazla kontrol sağlar. Bu özellikleri sayesinde, otomotiv, makine mühendisliği ve endüstriyel uygulamalarda yaygın olarak tercih edilir. DIN 7985 TX vidaları, güvenilir ve sağlam bağlantılar oluşturarak, montaj süreçlerini hızlandırır ve uzun ömürlü performans sunar. Özellikle yüksek performans gerektiren projelerde, bu vidalar ideal bir çözüm olarak öne çıkar.",
       "specifications": [
         {
@@ -1018,8 +944,6 @@
       "title3": "Torks Anahtar Havşa Başlı Metrik Vida",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728505640/DIN965_TX_w8novs.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728505641/DIN965_TXx_oyn8bm.jpg"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728505640/DIN965_TX_w8novs.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 965 TX Torks Anahtar Havşa Başlı Metrik Vida, Torks anahtarı ile sıkılabilen ve havşa başlı bir tasarıma sahip metrik bir vidadır. Havşa baş yapısı sayesinde, vida yüzeye tamamen gömülür ve montaj sonrasında düzgün ve estetik bir görünüm sağlar. DIN 965 standardına uygun olarak üretilen bu vidalar, genellikle çelik veya paslanmaz çelik malzemelerden yapılır ve korozyona karşı yüksek direnç gösterir. Torks baş tasarımı, vidanın yüksek tork altında dahi sıkı bir şekilde monte edilmesini sağlar, kayma riskini azaltır ve vida başına daha fazla tutuş sağlar. Bu vidalar, özellikle otomotiv, makine mühendisliği ve elektronik sektörlerinde yaygın olarak kullanılır. Güvenilir bağlantılar sunarak montaj işlemlerini hızlandırır ve dayanıklılığı artırır. DIN 965 TX vidaları, uzun ömürlü ve güvenli bağlantılar sağlamak isteyenler için ideal bir seçimdir.",
       "specifications": [
         {
@@ -1042,8 +966,6 @@
       "title3": "Trifon Saplama",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728508588/Screenshot_1_r3x5f0.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728508588/Screenshot_1_r3x5f0.png",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "IST 975 Trifon Saplama, genellikle inşaat ve makine sektörlerinde kullanılan, yüksek dayanıklılığa sahip bir bağlantı elemanıdır. Trifon saplaması, dişli yapısı sayesinde, farklı parçaların güvenli bir şekilde bir araya getirilmesine olanak tanır. Bu saplamalar, genellikle çelik veya paslanmaz çelik gibi dayanıklı malzemelerden üretilir, bu da korozyona ve mekanik aşınmaya karşı dirençli olmalarını sağlar. IST 975 standardına uygun olarak üretilen trifon saplamalar, inşaat projeleri, makinelerin montajı ve diğer endüstriyel uygulamalarda yaygın olarak kullanılır. Yüksek mukavemet ve sağlamlık sunarak, montaj süreçlerinde güvenilir bir performans sağlar. Trifon saplamaları, uygulamaya bağlı olarak çeşitli boyut ve uzunluklarda temin edilebilir, bu da onları çok yönlü bir bağlantı çözümü haline getirir.",
       "specifications": [
         {
@@ -1064,8 +986,6 @@
       "title3": "Özel Ölçü Saplama",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728485542/Cilt1.pdf_-_Adobe_Acrobat_Pro_DC_Sayfa_08_G%C3%B6r%C3%BCnt%C3%BC_0001_nh2qnu.jpg"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728485542/Cilt1.pdf_-_Adobe_Acrobat_Pro_DC_Sayfa_08_G%C3%B6r%C3%BCnt%C3%BC_0001_nh2qnu.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 975 Özel Ölçü Saplama, özel ölçülerde ve standart dışı boyutlarda üretilen bir bağlantı elemanıdır. Genellikle çelik veya paslanmaz çelik malzemeden imal edilen bu saplamalar, yüksek dayanıklılık ve güvenilirlik sunar. DIN 975 standardına uygun olarak üretilen saplamalar, çeşitli endüstriyel uygulamalarda, inşaat projelerinde ve makine montajlarında kullanılır. Özel ölçü saplamalar, belirli uygulama ihtiyaçlarına göre tasarlanmış olup, farklı uzunluk, çap ve diş profillerine sahip olabilir. Bu sayede, kullanıcıların belirli projelerine ve gereksinimlerine uygun çözümler sunar. Yüksek mukavemetleri ve dayanıklılıkları sayesinde, DIN 975 özel ölçü saplamalar, montaj süreçlerinde güvenilir bir performans sağlayarak, uzun ömürlü bağlantılar oluşturur. Montaj kolaylığı ve yüksek tork kapasitesi ile bu saplamalar, endüstriyel projelerde tercih edilmektedir."
     },
 
@@ -1077,8 +997,6 @@
       "title3": "YSB (Yıldız Silindir Baş) Sac Vidası",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728507476/DIN7981_n5crph.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728507480/Screenshot_1_kbbwgm.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728507476/DIN7981_n5crph.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 7981 YSB (Yıldız Silindir Baş) Sac Vidası, metal ve diğer ince malzemelerin montajında kullanılan özel bir vida türüdür. Yıldız silindir baş tasarımı, bu vidanın yüksek tork değerlerine dayanmasını sağlar ve montaj işlemlerinde çeşitli aletlerle (örneğin, yıldız tornavida) kolay bir kullanım imkanı sunar. DIN 7981 standardına uygun olarak üretilen bu vidalar, genellikle çelik veya paslanmaz çelik gibi dayanıklı malzemelerden imal edilir, bu da onları korozyona karşı dirençli hale getirir. Sac vidaları, genellikle hafif ve ince malzemelerin bir araya getirilmesi gereken uygulamalarda tercih edilir. Yıldız baş yapısı sayesinde, vida başında daha iyi bir tutuş sağlanır, bu da montaj sırasında kayma riskini azaltır. DIN 7981 YSB vidaları, otomotiv, makine mühendisliği ve inşaat sektörlerinde yaygın olarak kullanılır. Güvenilir ve sağlam bağlantılar oluşturarak, montaj süreçlerini hızlandırır ve uzun ömürlü performans sağlar.",
       "specifications": [
         {
@@ -1102,8 +1020,6 @@
       "title3": "YHB (Yıldız Havşa Baş) Sac Vidası",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728507528/DIN7982_qvvxyo.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728507594/Screenshot_2_g9pvkl.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728507528/DIN7982_qvvxyo.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 7982 YHB (Yıldız Havşa Baş) Sac Vidası, ince metal sacların ve hafif malzemelerin montajında kullanılan, havşa başlı bir vida türüdür. Yıldız havşa baş tasarımı, vidanın montaj sırasında yüzeye tamamen gömülmesini sağlayarak estetik bir görünüm ve yer tasarrufu sunar. DIN 7982 standardına uygun olarak üretilen bu vidalar, genellikle çelik veya paslanmaz çelikten yapılır, bu da onları korozyona karşı dirençli hale getirir. Bu vidalar, özellikle sac metal bağlantılarında güçlü ve güvenilir bir tutuş sağlar. Yıldız baş yapısı, vida sıkma işlemi sırasında kaymayı önleyerek daha fazla kontrol sağlar. DIN 7982 YHB sac vidaları, otomotiv, mobilya, elektronik ve inşaat gibi pek çok sektörde yaygın olarak kullanılır. Kullanım kolaylığı ve güvenilirliği ile montaj süreçlerini hızlandırır ve uzun ömürlü performans sunar.",
       "specifications": [
         {
@@ -1125,8 +1041,6 @@
       "title3": "YSB (Yıldız Silindir Baş) Matkap Uçlu Vida",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728746800/DIN7504N_ceirfl.png", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728507124/Screenshot_1_sqe5xk.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728746800/DIN7504N_ceirfl.png",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 7504 N YSB (Yıldız Silindir Baş) Matkap Uçlu Vida, metal, sac ve diğer sert malzemelere doğrudan delik açarak montaj yapabilen özel bir vida türüdür. Matkap uçlu yapısı, bu vidanın ön delik açmaya gerek kalmadan malzemeye nüfuz etmesini sağlar. Yıldız silindir başı sayesinde, vida yüksek tork altında güvenli bir şekilde sıkılabilir ve montaj sırasında kayma riski en aza indirilir. DIN 7504 standardına uygun olarak üretilen bu vidalar, genellikle paslanmaz çelik veya kaplamalı çelikten yapılır, bu da onları korozyona karşı dirençli hale getirir. DIN 7504 N vidaları, çatı kaplamaları, metal profiller, hafif yapı elemanları ve diğer endüstriyel montaj uygulamalarında yaygın olarak kullanılır. Güçlü tutuş sağlayan bu vidalar, montaj sürecini hızlandırır ve delme işlemiyle birlikte sıkma işlemini tek adımda gerçekleştirerek zamandan tasarruf sağlar.",
       "specifications": [
         {
@@ -1149,8 +1063,6 @@
       "title3": "YHB (Yıldız Havşa Baş) Matkap Uçlu Vida",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728507237/DIN7504P_rw7pve.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728507240/Screenshot_1_ihesbx.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728507237/DIN7504P_rw7pve.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 7504 P YHB (Yıldız Havşa Baş) Matkap Uçlu Vida, metal ve sert malzemelere ön delik açmadan doğrudan montaj yapabilen, havşa başlı bir vida türüdür. Matkap uçlu yapısı, bu vidanın malzemeye rahatça nüfuz etmesini sağlar ve ekstra bir delme işlemine gerek kalmadan montaj işlemi tamamlanır. Yıldız havşa başı, montaj sırasında vidanın yüzeye tamamen gömülmesine imkan tanır, bu da düz ve estetik bir yüzey elde edilmesini sağlar. DIN 7504 standardına uygun olarak üretilen bu vidalar, genellikle paslanmaz çelik veya çelikten imal edilir ve korozyona karşı dirençlidir. DIN 7504 P vidaları, özellikle metal yapıların, sac levhaların ve çatı kaplamalarının montajında kullanılır. Yüksek tork kapasitesi ve kayma riskini azaltan yıldız baş yapısıyla, vidaların güvenli ve sağlam bir şekilde sıkılmasını sağlar. Montaj süreçlerini hızlandırarak, güvenilir ve uzun ömürlü bağlantılar sunar.",
       "specifications": [
         {
@@ -1173,8 +1085,6 @@
       "title3": "Matkap Uçlu Trapez Çatı Vidası",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728507075/Screenshot_1_crjavs.png", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728507078/Screenshot_2_uhrxlc.png", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728507081/Screenshot_3_h9r4w8.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728507075/Screenshot_1_crjavs.png",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 7504 K Matkap Uçlu Trapez Çatı Vidası, trapez şekilli çatı kaplama malzemelerinin montajında kullanılan özel bir vida türüdür. Matkap uçlu tasarımı sayesinde, bu vida doğrudan malzemeye delik açarak montaj işlemini gerçekleştirir, bu da ön delik açmaya gerek kalmadan hızlı ve etkili bir montaj sağlar. DIN 7504 K standardına uygun olarak üretilen bu vidalar, genellikle paslanmaz çelik veya galvanizli çelik gibi dayanıklı malzemelerden imal edilir, bu da onları korozyona karşı dirençli hale getirir. Trapez çatı vidası, çatı kaplamalarında güvenli ve sağlam bir bağlantı sağlarken, özel baş yapısı sayesinde sıkma işlemi sırasında kayma riskini en aza indirir. Bu vidalar, su geçirmezlik özellikleri ile de dikkat çeker, böylece çatılarda uzun ömürlü ve güvenilir bir montaj sağlar. DIN 7504 K vidaları, çatı uygulamalarında hız ve dayanıklılık arayanlar için ideal bir çözümdür.",
       "specifications": [
         {
@@ -1200,8 +1110,6 @@
       "title3": "Trifon Vida",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728489565/DIN571_Sayfa_1_G%C3%B6r%C3%BCnt%C3%BC_0001_znymwx.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728489569/Screenshot_1_sk138o.png", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728489730/Screenshot_3_og6mya.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728489565/DIN571_Sayfa_1_G%C3%B6r%C3%BCnt%C3%BC_0001_znymwx.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 571 Trifon Vida, ahşap ve diğer yapı malzemelerinin montajında yaygın olarak kullanılan bir vida türüdür. Özellikle güçlü bir bağlantı sağlamak için tasarlanan trifon vidalar, dişli yapısı sayesinde malzeme içinde sağlam bir tutuş oluşturur. DIN 571 standardına uygun olarak üretilen bu vidalar, genellikle çelik veya paslanmaz çelikten imal edilir ve korozyona karşı dayanıklılık gösterir. Trifon vidaları, ahşap bağlantılarında, mobilya yapımında ve inşaat projelerinde sıkça tercih edilir. Özel diş profili, vida ile malzeme arasında güvenli bir montaj sağlar ve montaj işlemi sırasında kaymayı en aza indirir. DIN 571 vidaları, yüksek mukavemetleri ve dayanıklılıkları sayesinde uzun ömürlü bağlantılar sunar. Kullanım kolaylığı ve güvenilirliği ile bu vidalar, profesyonel ve hobi projelerinde vazgeçilmez bir seçenektir.",
       "specifications": [
         {
@@ -1224,8 +1132,6 @@
       "title3": "Altı Köşe Başlı Sac Vidası",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728507380/DIN7976_h6b8lo.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728507377/Screenshot_1_stsvto.png", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728507383/Screenshot_2_uwa35t.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728507380/DIN7976_h6b8lo.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 7976 Altı Köşe Başlı Sac Vidası, özellikle ince metal levhaların ve sac malzemelerin montajında kullanılan bir bağlantı elemanıdır. Altı köşe baş tasarımı, yüksek tork değerlerine dayanıklılık sağlayarak montaj işlemlerinde güvenli bir sıkma imkanı sunar. DIN 7976 standardına uygun olarak üretilen bu vidalar, genellikle çelik veya paslanmaz çelik gibi dayanıklı malzemelerden imal edilir, bu da onları korozyona karşı dirençli hale getirir. Altı köşe başlı sac vidaları, inşaat, otomotiv, makine ve elektronik gibi birçok endüstride yaygın olarak kullanılır. Özel tasarımı sayesinde, malzemeye hızlı ve etkili bir şekilde montaj yapılmasını sağlar. Güçlü tutuş ve dayanıklılık sunarak, uzun ömürlü bağlantılar oluşturan DIN 7976 vidaları, güvenilirliği ve performansı ile projelerde önemli bir rol oynamaktadır.",
       "specifications": [
         {
@@ -1249,8 +1155,6 @@
       "title3": "İmbus Sac Vidası",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728485203/Cilt1.pdf_-_Adobe_Acrobat_Pro_DC_Sayfa_02_G%C3%B6r%C3%BCnt%C3%BC_0001_po2bxc.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728485210/Cilt1.pdf_-_Adobe_Acrobat_Pro_DC_Sayfa_02_G%C3%B6r%C3%BCnt%C3%BC_0002_hrwa2q.jpg"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728485203/Cilt1.pdf_-_Adobe_Acrobat_Pro_DC_Sayfa_02_G%C3%B6r%C3%BCnt%C3%BC_0001_po2bxc.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "ART 9051 İmbus Sac Vidası, ince metal levhaların ve sac malzemelerin montajında kullanılan özel bir vida türüdür. İmbus baş yapısı, vida sıkma işlemleri sırasında yüksek tork kapasitesi sunarak güvenli bir tutuş sağlar. Genellikle çelik veya paslanmaz çelik malzemeden üretilen bu vidalar, dayanıklılığı ve korozyona karşı dirençleri ile dikkat çeker. ART 9051 vidaları, otomotiv, inşaat ve makine sanayisinde yaygın olarak kullanılır. İmbus baş tasarımı, vida sıkma işlemi için özel bir anahtar ile kolay bir kullanım sağlar, bu da montaj süreçlerini hızlandırır. Ayrıca, ince profili sayesinde, montaj alanında estetik bir görünüm elde edilmesine katkıda bulunur. Güvenilirliği ve sağlam performansıyla ART 9051 İmbus Sac Vidası, birçok endüstriyel uygulama için ideal bir bağlantı elemanıdır.",
       "specifications": [
         {
@@ -1274,8 +1178,6 @@
       "title3": "Yarıklı Pim",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728506006/DIN1481_t5nmhe.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506008/Screenshot_1_xkmwiq.png", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506010/Screenshot_2_mffhek.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506006/DIN1481_t5nmhe.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 1481 yarıklı pimler, silindirik ve esnek yapıdadır. Mekanik parçaların sabitlenmesi ve hizalanmasında kullanılır. Yay etkisi sayesinde sıkı bir montaj sağlar. Genellikle çelikten üretilir ve korozyon direnci için yüzey kaplaması yapılır. Montajı ve demontajı kolaydır. Titreşimli veya hareketli uygulamalarda güvenilir bir bağlantı elemanıdır.",
       "specifications": [
         {
@@ -1298,8 +1200,6 @@
       "title3": "Sargılı Pim",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728506959/DIN7343_wazu78.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506962/DIN73433_ep6dmc.jpg"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506959/DIN7343_wazu78.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 7343 sargılı pimler, silindirik ve ince duvarlı, esnek yapıda olan bağlantı elemanlarıdır. Bu pimler, yüksek darbe ve titreşim yüklerine dayanıklı olacak şekilde tasarlanmıştır. Sargılı yapı, pimlerin montaj sırasında genişleyip esnemesini sağlar ve böylece güvenli bir bağlantı sunar. Genellikle çelikten imal edilir ve yüzey kaplamaları korozyona karşı direnç sağlar. Makine, otomotiv ve çeşitli endüstriyel uygulamalarda yaygın olarak kullanılırlar.",
       "specifications": [
         {
@@ -1322,8 +1222,6 @@
       "title3": "Silindir Pim",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728487090/DIN7_Sayfa_1_G%C3%B6r%C3%BCnt%C3%BC_0002_pilbbl.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728487088/Screenshot_1_wr8gvq.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728487090/DIN7_Sayfa_1_G%C3%B6r%C3%BCnt%C3%BC_0002_pilbbl.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 7 silindir pimler, hassas konumlandırma ve sabitleme için kullanılan, düz ve silindirik yapıdaki bağlantı elemanlarıdır. Genellikle yüksek toleranslı ve sıkı geçmeli olacak şekilde tasarlanmıştır. Çelik, paslanmaz çelik veya sertleştirilmiş çelik gibi malzemelerden üretilir. Genellikle montaj parçalarını birbirine hizalamak veya mekanik bileşenleri sabitlemek amacıyla kullanılır. Makine imalatı, otomotiv ve montaj hatları gibi endüstrilerde yaygın olarak tercih edilir. DIN 7 pimler, aşınmaya karşı dayanıklı ve uzun ömürlüdür.",
       "specifications": [
         {
@@ -1344,8 +1242,6 @@
       "title3": "Ay Segman",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728506495/DIN6799_bq3va1.jpg"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506495/DIN6799_bq3va1.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 6799 ay segmanlar, mil üzerine takılan yaylı sabitleme elemanlarıdır ve genellikle 'E segman' veya 'klik segman' olarak da adlandırılır. Mil üzerinde yataklama ve kılavuzlama parçalarının yerinde tutulmasını sağlar. 'Ay' şeklindeki yapısıyla milin dışına oturur ve yanlardan baskı yaparak güvenli bir tutuş sağlar. Çoğunlukla çelikten üretilir ve korozyona karşı kaplama yapılabilir. Otomotiv, makine ve elektronik montajında yaygın olarak kullanılır. Kolay montaj ve demontaj imkanı sunar.",
       "specifications": [
         {
@@ -1369,8 +1265,6 @@
       "title3": "Mil Segmanı",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728489124/Screenshot_1_jpkug3.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728489124/Screenshot_1_jpkug3.png",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 471 mil segmanları, mil üzerine takılan dairesel tutucu elemanlardır. Genellikle 'dış segman' olarak da bilinirler ve mil üzerindeki parçaları sabitlemek için kullanılır. Milin çevresine oturacak şekilde tasarlanmış olup, montaj sırasında özel pense ile yerine takılır. Yaygın olarak çelik malzemeden üretilir ve korozyona karşı kaplanabilir. Makine parçalarını, rulmanları veya diğer bileşenleri yerinde tutarak hareket etmelerini önler. Otomotiv, makine imalatı ve çeşitli endüstriyel uygulamalarda kullanılır. Dayanıklı ve güvenilir bir bağlantı sağlar.",
       "specifications": [
         {
@@ -1394,8 +1288,6 @@
       "title3": "İç Segman",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728489189/DIN472_Sayfa_1_G%C3%B6r%C3%BCnt%C3%BC_0001_unfk3e.jpg"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728489189/DIN472_Sayfa_1_G%C3%B6r%C3%BCnt%C3%BC_0001_unfk3e.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 472 iç segmanları, deliklere yerleştirilen dairesel tutucu elemanlardır. 'İç segman' olarak bilinir ve genellikle delik içerisindeki bileşenleri sabitlemek için kullanılır. Segman, deliğin iç çapına yerleştirilir ve montajı özel pense ile yapılır. Çelik malzemeden üretilir ve genellikle korozyona karşı kaplanır. Bu segmanlar, rulmanlar veya diğer bileşenlerin yerinde durmasını sağlamak amacıyla otomotiv, makine ve endüstriyel uygulamalarda yaygın olarak kullanılır. Sağlam ve güvenli bir tutuş sunar.",
       "specifications": [
         {
@@ -1419,8 +1311,6 @@
       "title3": "Kopilya",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728487273/DIN94_Sayfa_1_G%C3%B6r%C3%BCnt%C3%BC_0001_ndvzn6.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728487275/Screenshot_1_yo9wu7.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728487273/DIN94_Sayfa_1_G%C3%B6r%C3%BCnt%C3%BC_0001_ndvzn6.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 94 kopilyalar, genellikle somunları, pimleri veya diğer bağlantı elemanlarını sabitlemek için kullanılan U şeklindeki metal tellerdir. Kopilya, bir delikten geçirildikten sonra uçları bükülerek yerinde sabitlenir. Paslanmaz çelik, karbon çeliği veya pirinç gibi malzemelerden üretilir ve korozyona karşı kaplamalı olabilir. Kopilyalar, mekanik parçaların gevşemesini önlemek amacıyla otomotiv, makine ve ağır sanayi uygulamalarında yaygın olarak kullanılır. Montajı kolaydır ve sağlam bir kilitleme sağlar.",
       "specifications": [
         {
@@ -1446,8 +1336,6 @@
       "title3": "Gresörlük",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728508051/DIN71412_igd0eo.jpg"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728508051/DIN71412_igd0eo.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 71412 gresörlükler, makine parçalarının yağlanmasını sağlamak için kullanılan bağlantı elemanlarıdır. Bu parçalar, yağlama tabancası ile gres yağı enjekte edilmesine olanak tanır. Gresörlükler, genellikle çelik veya pirinçten üretilir ve korozyona karşı kaplamalı olabilir. Çeşitli açılarda (düz, 45° ve 90°) üretilebilir, böylece farklı konumlardaki parçaların kolayca yağlanmasını sağlar. Otomotiv, ağır sanayi, tarım makineleri ve diğer mekanik sistemlerde kullanılır. Gresörlükler, düzenli bakım için kolay erişim sağlayarak parçaların aşınmasını ve yıpranmasını önler.",
       "specifications": [
         {
@@ -1469,8 +1357,6 @@
       "title3": "",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728756839/DIN7504N_n2ki6u.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728756839/DIN7504N_n2ki6u.png",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "Kabin vidası, özellikle metal ve ahşap kabinlerin montajında kullanılan özel bir vida türüdür. Bu vidalar, ince ve sert malzemeleri birleştirmek için tasarlanmış olup genellikle yuvarlak veya düz başlıdır. Çoğunlukla paslanmaz çelikten üretilir ve korozyona karşı dayanıklıdır. Kabin vidalarının keskin dişleri, metal yüzeylerde güvenli ve sağlam bir tutuş sağlar. Elektrik panoları, makine muhafazaları ve mobilya montajında yaygın olarak kullanılırlar. Hem dekoratif hem de işlevsel bir bağlantı sağlarlar.",
       "specifications": [
         {
@@ -1493,8 +1379,6 @@
       "title3": "",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728509290/Screenshot_1_jgkrag.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728509290/Screenshot_1_jgkrag.png",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "Silindir çektirme allen vida, özellikle silindirik parçaların montajında veya sökülmesinde kullanılan bir vida türüdür. Allen başlı, yani içten altıgen şekilli olan bu vida, bir alyan anahtar ile sıkılır veya gevşetilir. Genellikle çelikten üretilir ve yüksek mukavemet gerektiren uygulamalarda tercih edilir. Silindir çektirme işlemlerinde güvenli bir şekilde çekme kuvveti uygulayarak parçaların yerinden çıkarılmasına yardımcı olur. Otomotiv, makine ve endüstriyel montaj işlemlerinde yaygın olarak kullanılır. Dayanıklı ve güvenilir bir bağlantı sunar.",
       "specifications": [
         {
@@ -1517,8 +1401,6 @@
       "title3": "",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728757467/Screenshot_1_naz3sc.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728757467/Screenshot_1_naz3sc.png",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "Klipsli dübel, özellikle hafif ve orta ağırlıktaki yüklerin montajında kullanılan bir bağlantı elemanıdır. Plastik veya metalden üretilir ve genellikle beton, tuğla veya alçıpan gibi yüzeylerde kullanılır. Dübeli deliğe yerleştirdikten sonra vida sıkıldığında, dübelin klipsli yapısı genişleyerek duvar içinde sıkışır ve güvenli bir tutuş sağlar. Mobilya montajı, raf sabitleme, aydınlatma ekipmanları gibi uygulamalarda yaygın olarak tercih edilir. Kolay montaj imkanı sunar ve sağlam bir sabitleme sağlar.",
       "specifications": [
         {
@@ -1546,8 +1428,6 @@
       "title3": "",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728757773/Screenshot_2_rz04gb.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728757773/Screenshot_2_rz04gb.png",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "Civata borulu dübel, yüksek yük taşıma kapasitesine sahip montajlarda kullanılan bir bağlantı elemanıdır. Bu dübel türü, içi boş boru şeklinde olup, içine yerleştirilen cıvata sayesinde sağlam bir bağlantı sağlar. Cıvata sıkıldığında boru genişler ve delik içinde sıkışarak güvenli bir tutuş elde edilir. Genellikle beton, tuğla ve diğer sert yüzeylerde kullanılır. Ağır yapılar, çelik konstrüksiyonlar, makine montajları gibi yüksek mukavemet gerektiren uygulamalarda tercih edilir. Hem dayanıklı hem de güvenilir bir sabitleme sunar.",
       "specifications": [
         {
@@ -1575,8 +1455,6 @@
       "title3": "",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728757957/Screenshot_3_s70drz.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728757957/Screenshot_3_s70drz.png",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "Sac gömlekli dübel, yüksek dayanıklılık gerektiren sabitleme işlemlerinde kullanılan bir bağlantı elemanıdır. Metal bir gömlek ile kaplı olan bu dübel, delik içerisine yerleştirildikten sonra vida veya cıvata sıkıldığında metal gömlek genişleyerek yüzeye sıkıca tutunur. Bu yapı, ağır yüklerin sabitlenmesi için güçlü bir tutuş sağlar. Sac gömlekli dübel, genellikle beton, tuğla ve taş yüzeylerde kullanılır. İnşaat, çelik yapı montajı ve endüstriyel uygulamalarda yaygın olarak tercih edilir. Dayanıklılığı ve güvenilirliği ile bilinir.",
       "specifications": [
         {
@@ -1601,8 +1479,6 @@
       "title3": "",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728506133/DIN3570_hn8dec.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506135/Screenshot_1_f09mhw.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506133/DIN3570_hn8dec.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 3570 U bolt (U cıvata), boru hatları, direkler ve yuvarlak profilli yapıların sabitlenmesinde kullanılan, 'U' şeklindeki bağlantı elemanıdır. İki ucu dişli olan bu cıvata, genellikle boruları ya da yuvarlak nesneleri yüzeylere monte etmek için kullanılır. Çelikten veya paslanmaz çelikten üretilir ve korozyona karşı kaplanabilir. Somun ve rondelalarla sabitlenerek sağlam bir montaj sağlar. İnşaat, boru sistemleri, otomotiv ve endüstriyel uygulamalarda yaygın olarak kullanılır. Dayanıklı yapısıyla güçlü bir tutuş ve güvenli bağlantı sunar.",
       "specifications": [
         {
@@ -1634,8 +1510,6 @@
       "title3": "Zincir",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728504605/DIN766_jdyqgc.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728504606/Screenshot_1_anlkwj.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728504605/DIN766_jdyqgc.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 766 zincir, genellikle kaldırma, çekme ve sabitleme uygulamalarında kullanılan, belirli standartlara göre üretilmiş bağlantı elemanıdır. Bu zincirler, aynı boyut ve toleranslarla üretilen kısa baklalı zincirlerdir ve özellikle yatay yük taşıma ve denizcilik uygulamalarında yaygın olarak tercih edilir. Çelikten imal edilir ve korozyona karşı galvaniz kaplama yapılabilir. DIN 766 zincirleri, vinç sistemlerinde, ankrajlarda, tekne bağlamalarında ve endüstriyel taşıma işlemlerinde kullanılır. Yüksek dayanıklılığı ve standart ölçüleri sayesinde güvenilir ve uzun ömürlü bir çözüm sunar.",
       "specifications": [
         {
@@ -1653,8 +1527,6 @@
       "title3": "Düz Rondela (A Tip)",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728487386/DIN125_d1a60z.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728487390/DIN125_Sayfa_1_G%C3%B6r%C3%BCnt%C3%BC_0001_r2ono7.jpg"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728487386/DIN125_d1a60z.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 125 düz rondela (A Tip), cıvata veya somun altında kullanılan düz, dairesel bir metal disk şeklindeki bağlantı elemanıdır. Temel amacı, sıkıştırma kuvvetini geniş bir yüzeye yayarak bağlantının güvenli ve sabit olmasını sağlamaktır. Bu rondela türü genellikle çelik, paslanmaz çelik veya pirinçten üretilir ve korozyona karşı kaplamalı olabilir. DIN 125 rondelalar, genel mekanik montaj uygulamalarında yaygın olarak kullanılır ve cıvata veya somun ile birleşen yüzeylerin korunmasına yardımcı olur. Standart ve dayanıklı bir sabitleme elemanıdır.",
       "specifications": [
         {
@@ -1697,8 +1569,6 @@
       "title3": "EPDM Contalı Pul",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728485913/ART9055_ertaok.jpg"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728485913/ART9055_ertaok.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "ART 9055 EPDM contalı pul, metal bir pulun ortasına yerleştirilmiş EPDM (Etilen Propilen Dien Monomer) kauçuk contaya sahip bir bağlantı elemanıdır. Bu pul, vida veya cıvata sıkıldığında yüzeyler arasında sızdırmazlık sağlayarak su, hava ve diğer dış etkenlerin geçişini önler. EPDM malzemesi, mükemmel hava, su ve UV direnci sunar, bu da dış mekan uygulamaları için ideal olmasını sağlar. Genellikle çatı kaplamaları, su yalıtımı, dış cephe montajları ve havalandırma sistemlerinde kullanılır. Metal ve conta kombinasyonu, hem dayanıklılık hem de güvenilir bir sızdırmazlık sağlar.",
       "specifications": [
         {
@@ -1716,8 +1586,6 @@
       "title3": "Tırtıllı Rondela (A Tip)",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728506452/DIN6798_rx2jfg.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506449/Screenshot_1_gqxbtf.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506452/DIN6798_rx2jfg.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 6798 tırtıllı rondela (A Tip), özellikle cıvata ve somun bağlantılarında gevşemeyi önlemek amacıyla kullanılan, dış kenarlarında tırtıklı yapıya sahip bir rondeladır. Tırtıllı kenarlar, montaj sırasında bağlantı elemanının yüzeyine sıkıca tutunarak, titreşimler veya dış etkenler nedeniyle gevşemeyi engeller. Genellikle çelikten veya paslanmaz çelikten üretilir ve korozyona karşı kaplanabilir. Bu rondelalar, güvenli ve sağlam bir bağlantı sağladığı için makine montajları, otomotiv, elektronik ve endüstriyel uygulamalarda yaygın olarak kullanılır.",
       "specifications": [
         {
@@ -1756,8 +1624,6 @@
       "title3": "Çanak Pul",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728506260/DIN6796_jforwi.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506262/Screenshot_1_hpnwfw.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506260/DIN6796_jforwi.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 6796 çanak pul, yüksek ön gerilim kuvveti gerektiren cıvata bağlantılarında kullanılan konik yaylı bir pul türüdür. Bu pul, vidalama sırasında uygulanan kuvveti geniş bir yüzeye yayarak bağlantının sıkılığını artırır ve vidanın gevşemesini önler. Çanak şeklindeki yapısı, elastik bir baskı sağlar ve bağlantı elemanlarının titreşim veya termal genleşme gibi dış etkenlerden dolayı gevşemesini engeller. Genellikle çelik ve paslanmaz çelikten üretilir. DIN 6796 çanak pullar, makine imalatı, otomotiv ve enerji sektörü gibi yüksek performans ve güvenilirlik gerektiren alanlarda kullanılır.",
       "specifications": [
         {
@@ -1789,8 +1655,6 @@
       "title3": "",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728506369/Screenshot_1_rluese.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506369/Screenshot_1_rluese.png",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "Bakır ve Alüminyum Pul, iki farklı metalden üretilen, genellikle bağlantı elemanlarının yük dağılımını sağlamak ve titreşimleri azaltmak amacıyla kullanılan düz rondelalardır. Bakır pullar, yüksek iletkenlikleri, korozyona karşı dayanıklılıkları ve esneklikleri nedeniyle elektriksel bağlantılar ve ısı transferi gerektiren uygulamalarda tercih edilir. Alüminyum pullar ise hafif olmaları, iyi korozyon direnci sunmaları ve maliyet açısından uygun olmalarıyla öne çıkar. Her iki tür pul da otomotiv, inşaat, elektrik ve makine sektörlerinde yaygın olarak kullanılır. Bağlantı noktalarında sızdırmazlık sağlamak, aşınmayı önlemek ve bağlantı elemanlarının gevşemesini engellemek için ideal çözümler sunarlar. Bakır ve alüminyum pullar, farklı ortam ve koşullarda güvenilir bağlantılar sağlayarak, montajların uzun ömürlü olmasına katkıda bulunur."
     },
 
@@ -1802,8 +1666,6 @@
       "title3": "",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728506354/DIN6796_l0lfti.jpg"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506354/DIN6796_l0lfti.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "Oringli Süper Pul, standart pullara ek olarak bir O-ring ile donatılmış, gelişmiş sızdırmazlık ve titreşim yalıtımı sağlayan bir bağlantı elemanıdır. O-ring, genellikle kauçuk veya elastomer malzemeden üretilir ve pulun iç kısmında yer alarak, sıkma işlemi sırasında yüzeylere esnek bir conta görevi görür. Bu yapı, özellikle basınçlı, sıvı veya gazlı sistemlerde sızıntı riskini en aza indirir. Oringli süper pullar, otomotiv, hidrolik, pnömatik ve makine sistemlerinde, yüksek sızdırmazlık ve dayanıklılık gerektiren uygulamalarda kullanılır. O-ring sayesinde titreşimlerden kaynaklanan gevşemeleri engeller ve bağlantıların uzun ömürlü olmasını sağlar. Yüksek performans gerektiren montaj işlemlerinde, güvenli ve sağlam bir çözüm sunar."
     },
 
@@ -1815,8 +1677,6 @@
       "title3": "Geniş Pul",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728507842/DIN9021_zglee8.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728507846/Screenshot_1_wozzrw.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728507842/DIN9021_zglee8.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 9021 Geniş Pul, bağlantı elemanlarının yük dağılımını optimize etmek ve yüzey hasarını azaltmak için kullanılan geniş yapılı düz rondelalardır. Bu pullar, genellikle çelik veya paslanmaz çelik gibi dayanıklı malzemelerden üretilir ve çeşitli endüstriyel uygulamalarda yaygın olarak kullanılır. Geniş yüzeyi sayesinde, vida veya somun altında daha fazla alan kaplayarak, bağlantı elemanlarının sıkışma ve gevşeme riskini azaltır. DIN 9021 pulları, inşaat, otomotiv, makine ve elektrik sektörlerinde tercih edilir. Bu pullar, hem sızdırmazlık sağlamak hem de titreşim ve darbelere karşı direnç göstermek amacıyla kullanılabilir. Kolay montaj ve güvenilir performans sunan DIN 9021 Geniş Pullar, dayanıklılıkları ve çeşitli uygulama alanları ile dikkat çeker.",
       "specifications": [
         {
@@ -1850,8 +1710,6 @@
       "title3": "Yaylı Rondela (B Tip)",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728487526/DIN127_Sayfa_1_G%C3%B6r%C3%BCnt%C3%BC_0001_sddgqo.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728487524/Screenshot_1_mj1wnt.png", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728487522/Screenshot_2_qnjn8q.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728487526/DIN127_Sayfa_1_G%C3%B6r%C3%BCnt%C3%BC_0001_sddgqo.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "DIN 127 Yaylı Rondela (B Tip), bağlantı elemanlarının güvenliğini artırmak ve gevşemeleri önlemek amacıyla kullanılan özel bir rondela türüdür. Yaylı yapısı sayesinde, montaj sırasında uygulanan sıkma kuvvetini dengeler ve bağlantının zamanla gevşemesini engeller. Genellikle çelik veya paslanmaz çelik gibi dayanıklı malzemelerden üretilir ve farklı boyutlarda temin edilebilir. Bu tip rondelalar, otomotiv, makine sanayi ve inşaat sektörlerinde yaygın olarak kullanılır. DIN 127 B Tip Yaylı Rondela, hem titreşimlere karşı dayanıklılık sağlar hem de bağlantı elemanlarının performansını artırır. Kolay montaj imkanı sunan bu rondelalar, güvenilir ve uzun ömürlü bağlantılar için ideal bir çözümdür.",
       "specifications": [
         {
@@ -1886,8 +1744,6 @@
       "title3": "Sıfır Kafa Yuvarlak Somun Perçin",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728508657/IST1021_nikuhl.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728508662/IST10211_he8knd.jpg"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728508657/IST1021_nikuhl.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "IST 1021 Sıfır Kafa Yuvarlak Somun Perçin, sıfır kafa tasarımı ile dikkat çeken özel bir perçin somundur. Bu somunlar, özellikle düz yüzeylerde kullanılan montaj elemanları olarak tasarlanmıştır ve estetik bir görünüm sağlar. Yuvarlak kafa yapısı sayesinde, montaj işlemleri sırasında dış görünümü bozmadan sıkı ve güvenilir bir bağlantı sağlar. IST 1021, genellikle çelik veya paslanmaz çelikten üretilir, bu da onu korozyona karşı dayanıklı hale getirir. Sıfır kafa tasarımı, montaj alanında yer kaplamaz ve kullanıcıların işlevsel alanlarını optimize etmelerine yardımcı olur. Otomotiv, inşaat ve genel endüstriyel uygulamalarda tercih edilen bu somunlar, dayanıklılığı ve yüksek performansları ile güvenilir bir bağlantı elemanı sunar.",
       "specifications": [
         {
@@ -1913,8 +1769,6 @@
       "title3": "Flanşlı Yuvarlak Somun Perçin",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728508764/IST1025_aovdbb.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728508769/IST10255_pagikm.jpg"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728508764/IST1025_aovdbb.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "IST 1025 Flanşlı Yuvarlak Somun Perçin, flanşlı tasarımıyla dikkat çeken özel bir bağlantı elemanıdır. Bu somun, montaj sırasında ekstra yüzey alanı sağlayarak, yük dağılımını optimize eder ve bağlantının sağlamlığını artırır. Yuvarlak kafa yapısı sayesinde, estetik bir görünüm sunar ve uygulama alanında yer kaplamadan güvenli bir sıkıştırma sağlar. IST 1025, genellikle çelik veya paslanmaz çelik gibi dayanıklı malzemelerden üretilir, bu da onu korozyona karşı dirençli hale getirir. Flanşlı tasarımı, somunun montaj yerinde kaymasını engelleyerek, güvenilir ve stabil bir bağlantı sağlar. Otomotiv, inşaat, makine ve genel endüstriyel uygulamalarda yaygın olarak kullanılan bu somun, uzun ömürlü ve yüksek performanslı bağlantılar için ideal bir seçimdir.",
       "specifications": [
         {
@@ -1940,8 +1794,6 @@
       "title3": "Sıfır Kafa Tam Altıgen Somun Perçin",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728508815/IST1027-A_qkiytp.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728508820/IST1027-Aa_fazyq0.jpg"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728508815/IST1027-A_qkiytp.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "IST 1027-A Sıfır Kafa Tam Altıgen Somun Perçin, düz yüzeylerde estetik ve güvenilir bir bağlantı sağlamak amacıyla tasarlanmış bir perçin somunudur. Sıfır kafa tasarımı, montaj alanında minimum yer kaplayarak, kullanıcıların montaj sırasında daha fazla esneklik sunar. Tam altıgen yapısı, yüksek tork değerlerine dayanıklılık sağlayarak, güvenli bir sıkıştırma imkanı sunar. IST 1027-A, genellikle çelik veya paslanmaz çelik malzemelerden üretilmektedir, bu da onu korozyona karşı dirençli hale getirir ve dayanıklılığını artırır. Bu somun, otomotiv, inşaat ve makine sanayinde yaygın olarak kullanılır. Sıfır kafa ve altıgen tasarımı sayesinde, hem estetik hem de işlevsel avantajlar sunarak, uzun ömürlü ve güvenilir bağlantılar oluşturur.",
       "specifications": [
         {
@@ -1965,8 +1817,6 @@
       "title3": "Flanşlı Tam Altıgen Somun Perçin",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728508865/IST1027-B_kwvpuk.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728508871/IST1027-BB_xbt0cy.jpg"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728508865/IST1027-B_kwvpuk.jpg",
-      "categoryId": 1,
-      "category": ["paslanmaz-baglanti-elemanlari", "celik-baglanti-elemanlari"],
       "description": "IST 1027-B Flanşlı Tam Altıgen Somun Perçin, flanşlı tasarımı sayesinde ekstra yük dağılımı sağlayarak, montaj işlemlerinde güvenilir bir bağlantı sunan özel bir perçin somunudur. Tam altıgen yapısı, yüksek tork değerlerine dayanıklı olmasını sağlarken, sıkma işlemleri sırasında sağlam bir tutuş sağlar. Flanş kısmı, somunun kaymasını engelleyerek montaj alanında ekstra stabilite sunar. IST 1027-B, genellikle çelik veya paslanmaz çelik malzemelerden üretilir, bu da onu korozyona karşı dayanıklı hale getirir ve uzun ömürlü kullanım sağlar. Bu somun, otomotiv, inşaat ve genel endüstriyel uygulamalarda yaygın olarak tercih edilmektedir. Flanşlı ve altıgen tasarımı ile hem estetik bir görünüm sunar hem de işlevselliği artırarak, güvenilir ve dayanıklı bağlantılar oluşturur.",
       "specifications": [
         {
@@ -1978,6 +1828,741 @@
             ["M8", "1,0 - 3,5", "10,5", "11,0", "10,9", "16,0", "1,5", "18,0"],
             ["M10", "1,0 - 3,5", "12,5", "13,0", "12,9", "18,0", "1,8", "21,5"],
             ["M12", "1,0 - 4,0", "14,0", "15,0", "14,9", "20,0", "1,9", "24,0"]
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 76,
+      "name": "IST 1027-C Sıfır Kafa Yarım Altıgen Somun Perçin",
+      "url": "ist-1027-c-sifir-kafa-yarim-altigen-somun-percin",
+      "title2": "Blind Rivet Nuts Semi Hexagon Shank",
+      "title3": "Sıfır Kafa Yarım Altıgen Somun Perçin",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728508913/IST1027-C_p5yaij.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728508918/IST1027-CC_cmdtww.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728508913/IST1027-C_p5yaij.jpg",
+      "description": "IST 1027-C Sıfır Kafa Yarım Altıgen Somun Perçin, montaj sırasında estetik ve güvenilir bir bağlantı sağlamak için tasarlanmış bir perçin somunudur. Yarım altıgen yapısı, özellikle dar alanlarda ve yüksek tork gerektirmeyen uygulamalarda kullanımı kolaylaştırır. Sıfır kafa tasarımı, düz bir yüzeyle birleşerek, montajın görünümünü bozmadan pürüzsüz bir bağlantı sağlar. IST 1027-C, genellikle çelik veya paslanmaz çelik malzemelerden üretilir, böylece korozyona karşı dayanıklıdır ve uzun ömürlü performans sunar. Bu somun, otomotiv, inşaat ve makine sanayinde, özellikle daha hafif ve kompakt bağlantı ihtiyaçları için tercih edilir. Hem estetik hem de işlevsellik sunarak, güvenli ve dayanıklı bir bağlantı elemanı sağlar.",
+      "specifications": [
+        {
+          "headers": ["Boy", "T(GRIP RANGE) Min.Max.", "A Rer", "Hole Size +0,1-0", "HD +0,07-0,1", "B", "K", "L"],
+          "data": [
+            ["M4", "0,5 - 2,0", "8,0", "6,0", "5,9", "7,0", "0,5", "12,0"],
+            ["M5", "0,5 - 2,5", "8,2", "7,0", "6,9", "8,0", "0,5", "13,0"],
+            ["M6", "0,5 - 3,0", "10,7", "9,0", "8,9", "10,0", "0,6", "16,0"],
+            ["M8", "1,0 - 3,5", "11,2", "11,0", "10,9", "12,0", "0,65", "17,5"]
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 77,
+      "name": "IST 1027-D Flanşlı Yarım Altıgen Somun Perçin",
+      "url": "ist-1027-d-flansli-yarim-altigen-somun-percin",
+      "title2": "Blind Rivet Nuts Semi Hexagon With Flat Head",
+      "title3": "Flanşlı Yarım Altıgen Somun Perçin",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728508961/IST1027-D_v58em0.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728508966/IST1027-DD_lncxvf.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728508961/IST1027-D_v58em0.jpg",
+      "description": "IST 1027-D Flanşlı Yarım Altıgen Somun Perçin, flanşlı yapısı sayesinde montaj yüzeyinde daha geniş bir yük dağılımı sağlayarak bağlantının güvenilirliğini artıran bir perçin somunudur. Yarım altıgen tasarımı, dar alanlarda kullanım kolaylığı sunarken, flanş bölgesi somunun kaymasını engelleyerek montajı daha stabil hale getirir. IST 1027-D, genellikle çelik veya paslanmaz çelikten üretilir, bu da onu zorlu koşullarda korozyona karşı dirençli hale getirir. Otomotiv, inşaat ve makine sanayisinde yaygın olarak kullanılan bu somun, özellikle estetik ve dayanıklı bağlantı gerektiren uygulamalarda tercih edilir. Flanşlı ve yarım altıgen tasarımıyla hem güvenli hem de uzun ömürlü bağlantılar sağlar.",
+      "specifications": [
+        {
+          "headers": ["Boy", "T(GRIP RANGE) Min.Max.", "A Rer", "Hole Size +0,1-0", "HD +0,07-0,1", "B", "K", "L"],
+          "data": [
+            ["M4", "0,5 - 2,0", "7,2", "6,0", "5,9", "9,0", "0,8", "12,0"],
+            ["M5", "0,5 - 2,5", "7,5", "7,0", "6,9", "10,0", "1,0", "13,0"],
+            ["M6", "0,5 - 3,0", "9,2", "9,0", "8,9", "12,7", "1,3", "15,5"],
+            ["M8", "1,0 - 3,5", "11,0", "11,0", "10,9", "16,0", "1,5", "18,0"],
+            ["M10", "1,0 - 4,0", "13,2", "13,0", "12,9", "18,0", "1,7", "21,0"]
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 78,
+      "name": "DIN 32501 Punta Kaynak Vidası (Tek Nokta ve Üç Nokta)",
+      "url": "din-32501-punta-kaynak-vidasi",
+      "title2": "Welding Bolts",
+      "title3": "Punta Kaynak Vidası (Tek Nokta ve Üç Nokta)",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728508013/Screenshot_1_oxpsnc.png", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728508017/Screenshot_2_fueuq6.png"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728508013/Screenshot_1_oxpsnc.png",
+      "description": "DIN 32501 Punta Kaynak Vidası (Tek Nokta ve Üç Nokta), özellikle metal parça bağlantılarında kullanılan özel bir vida türüdür. Bu vidalar, punta kaynağı yöntemi ile montajlanır ve yüksek dayanıklılık sağlar. Tek nokta ve üç nokta versiyonları, farklı uygulama ihtiyaçlarına göre tasarlanmıştır; tek nokta kaynağı, daha basit ve hızlı montaj gerektiren durumlar için idealken, üç nokta kaynağı, ek stabilite ve yük taşıma kapasitesi sunar. DIN 32501, genellikle çelik veya paslanmaz çelikten üretilir, bu da onu korozyona karşı dayanıklı hale getirir ve uzun ömürlü kullanım sağlar. Otomotiv, inşaat ve genel endüstriyel uygulamalarda yaygın olarak tercih edilen bu vidalar, güvenilir bağlantılar oluşturmak için mükemmel bir seçimdir. Punta kaynak vidası tasarımı, hızlı ve etkili montaj süreçleri sunarak, üretim verimliliğini artırır.",
+      "specifications": [
+        {
+          "headers": ["Boy/ Ø", "M3", "M4", "M5", "M6", "M8", "M10"],
+          "data": [["d2", "4,5", "5,5", "6,5", "7,5", "9,0", "11,5"]]
+        }
+      ]
+    },
+
+    {
+      "id": 79,
+      "name": "DIN 7337 Pop Perçin",
+      "url": "din-7337-pop-percin",
+      "title2": "Blind Rivet",
+      "title3": "Pop Perçin",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728506846/DIN7337_ddf4as.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506849/Screenshot_1_fcoqij.png"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506846/DIN7337_ddf4as.jpg",
+      "description": "DIN 7337 Pop Perçin, montaj işlemlerinde yüksek güvenilirlik ve dayanıklılık sağlamak amacıyla tasarlanmış bir bağlantı elemanıdır. Pop perçinler, özellikle hafif ve orta yük taşıyan uygulamalarda, iki veya daha fazla parçayı bir arada tutmak için kullanılır. Kullanım kolaylığı ile dikkat çeker; tek bir taraf üzerinden uygulanabilir ve bu sayede zaman ve iş gücü tasarrufu sağlar. DIN 7337, alüminyum, çelik veya paslanmaz çelik gibi çeşitli malzemelerden üretilir. Bu çeşitlilik, farklı uygulama ihtiyaçlarına uygun çözümler sunar. Pop perçinler, otomotiv, inşaat, makine sanayi ve genel endüstriyel uygulamalarda yaygın olarak kullanılır. Yüksek dayanıklılık ve sızdırmazlık özellikleri ile öne çıkarak, güvenilir ve uzun ömürlü bağlantılar oluşturur.",
+      "specifications": [
+        {
+          "headers": ["D1", "L", "D2", "S", "HS"],
+          "data": [
+            ["2,4", "4 - 12", "5,0", "0,70", "2,5"],
+            ["3,0", "5 - 16", "6,5", "0,80", "3,1"],
+            ["3,2", "5 - 16", "6,5", "0,80", "3,3"],
+            ["4,0", "6 - 20", "8,0", "1,00", "4,1"],
+            ["4,8", "6 - 25", "9,5", "1,10", "4,9"],
+            ["6,0", "8 - 35", "12,0", "1,50", "6,6"],
+            ["6,4", "10 - 35", "13,0", "1,80", "6,5"]
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 80,
+      "name": "DIN 7337 Multigrip Perçin",
+      "url": "din-7337-multigrip-percin",
+      "title2": "Blind Rivet Multigrip",
+      "title3": "Multigrip Perçin",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728506905/DIN7337-2_qja82e.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506908/Screenshot_1_v4o6bk.png"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506905/DIN7337-2_qja82e.jpg",
+      "description": "DIN 7337 Multigrip Perçin, çeşitli kalınlıkta malzemeleri bir arada tutabilen yüksek dayanıklılığa sahip bir bağlantı elemanıdır. Bu perçinler, çoklu grip özelliği sayesinde farklı kalınlıkları bir arada tutarak esneklik sunar. Tek taraflı montaj imkanıyla, montaj sürecini kolaylaştırır ve zaman tasarrufu sağlar. DIN 7337, genellikle alüminyum, çelik veya paslanmaz çelik gibi dayanıklı malzemelerden üretilir. Bu malzemeler, perçinlerin korozyona karşı dirençli olmasını ve uzun ömürlü kullanım sağlamasını garanti eder. Otomotiv, inşaat ve genel endüstriyel uygulamalarda yaygın olarak kullanılan Multigrip perçinler, güvenilir ve sağlam bağlantılar sunarak, çeşitli uygulama alanlarında üstün performans gösterir.",
+      "specifications": [
+        {
+          "headers": ["D1", "L", "D2", "S", "HS"],
+          "data": [
+            ["3,0", "6 - 12", "6,0", "1,0", "3,1"],
+            ["3,2", "6 - 16", "6,0", "1,2", "3,3"],
+            ["4,0", "6 - 20", "8,0", "1,4", "4,1"],
+            ["4,8", "10 - 30", "9,5", "1,6", "4,9"]
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 81,
+      "name": "IST 7337 Hemlok Perçin (Ağır Hizmet)",
+      "url": "ist-7337-hemlok-percin",
+      "title2": "Blind Rivet Hemclok",
+      "title3": "Hemlok Perçin (Ağır Hizmet)",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728509011/IST7337_yzdxnz.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728509047/Screenshot_1_na2gz2.png"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728509011/IST7337_yzdxnz.jpg",
+      "description": "IST 7337 Hemlok Perçin (Ağır Hizmet), ağır yük taşıma kapasitesi ve yüksek dayanıklılık sağlamak amacıyla tasarlanmış özel bir bağlantı elemanıdır. Hemlok perçinler, hem yüksek mukavemet sunan hem de montaj sırasında güvenilir bir bağlantı oluşturan bir tasarıma sahiptir. Ağır hizmet uygulamaları için ideal olan bu perçinler, genişletilmiş flanş yapısı ile ek stabilite sunarak, bağlantı noktalarının güvenliğini artırır. IST 7337, genellikle yüksek kaliteli çelik veya paslanmaz çelikten üretilmektedir. Bu malzeme seçenekleri, korozyona karşı dirençli olmalarını sağlarken, uzun ömürlü bir performans sunar. Otomotiv, inşaat, makine sanayi ve diğer endüstriyel alanlarda yaygın olarak tercih edilen bu perçinler, zorlu koşullarda bile güvenilir ve sağlam bağlantılar oluşturur. Hemlok tasarımı, montaj sürecini kolaylaştırarak verimliliği artırır.",
+      "specifications": [
+        {
+          "headers": ["D1", "L", "D2", "S", "HS"],
+          "data": [
+            ["4,8", "9,7 - 18,5", "10,0", "2,3", "5,0"],
+            ["6,4", "9,7 - 22,5", "13,0", "2,7", "6,6"]
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 82,
+      "name": "IST 7337-P Ahtapot Perçin (Örümcek)",
+      "url": "ist-7337-p-ahtapot-percin",
+      "title2": "Peeled Blind Rivet",
+      "title3": "Ahtapot Perçin (Örümcek)",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728509110/IST7337-P_nigefr.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728509105/Screenshot_1_wqtd13.png"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728509110/IST7337-P_nigefr.jpg",
+      "description": "IST 7337-P Ahtapot Perçin (Örümcek), yüksek mukavemet ve dayanıklılık sağlamak üzere tasarlanmış özel bir bağlantı elemanıdır. Ahtapot perçinler, çoklu bağlantı noktalarıyla geniş bir yüzey alanı sunarak, montaj yapılan malzemeler arasında güçlü bir tutuş sağlar. Bu özellik, özellikle karmaşık yapılar ve ağır yük taşıyan uygulamalar için idealdir. IST 7337-P, genellikle çelik veya paslanmaz çelikten üretilmektedir, bu da onu korozyona karşı dayanıklı hale getirir ve uzun ömürlü kullanım sağlar. Otomotiv, inşaat ve endüstriyel uygulamalarda yaygın olarak tercih edilen bu perçinler, yüksek güvenilirlik ve dayanıklılık sunarak sağlam bağlantılar oluşturur. Ahtapot tasarımı, montaj sırasında daha fazla esneklik ve güvenilirlik sağlarken, iş gücü ve zaman tasarrufu da sağlar.",
+      "specifications": [
+        {
+          "headers": ["D1", "L", "D2", "S", "HS"],
+          "data": [
+            ["4,0", "8,5 - 30,1", "8,0", "1,0", "4,2"],
+            ["4,8", "9,2 - 18,1", "9,5", "1,2", "5,0"]
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 83,
+      "name": "Ayarlı Hortum Kelepçeleri",
+      "url": "ayarli-hortum-kelepceleri",
+      "title2": "Adjustable Hose Clamps",
+      "title3": "A Tipi 8,5mm DKP Kelepçe / B Tipi 13mm DKP Kelepçe",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728485310/Cilt1.pdf_-_Adobe_Acrobat_Pro_DC_Sayfa_04_G%C3%B6r%C3%BCnt%C3%BC_0001_n8jcli.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728485310/Cilt1.pdf_-_Adobe_Acrobat_Pro_DC_Sayfa_04_G%C3%B6r%C3%BCnt%C3%BC_0001_n8jcli.jpg",
+      "description": "Ayarlı Hortum Kelepçeleri, hortumların güvenli bir şekilde bağlanmasını ve sızdırmazlık sağlamayı amaçlayan pratik bağlantı elemanlarıdır. A Tipi 8,5mm DKP Kelepçe, 8,5 mm çapındaki hortumlar için uygun olup, DKP (Düz Karo Paslanmaz) malzeme ile üretilmiştir. Ayarlanabilir tasarımı sayesinde, farklı kalınlıktaki hortumlara uyum sağlayarak sıkı ve güvenilir bir bağlantı oluşturur. B Tipi 13mm DKP Kelepçe ise 13 mm çapındaki hortumlar için tasarlanmış olup, benzer şekilde DKP malzemeden üretilmiştir. Bu kelepçe, daha büyük çaplı hortumlar için güvenilir bir tutuş sağlar ve dayanıklı yapısıyla uzun ömürlü kullanım sunar. Su ve sıvı taşıma sistemlerinde yaygın olarak kullanılmaktadır. Her iki tip kelepçe de kolay montaj ve demontaj imkanı sunarak bakım ve onarım süreçlerini basitleştirir. Ayarlanabilir tasarımları sayesinde sızdırmazlık ihtiyacını en üst düzeye çıkararak güvenli ve verimli bir bağlantı sağlar.",
+      "specifications": [
+        {
+          "headers": ["Genişlik (mm)", "Ölçü"],
+          "data": [
+            ["8,5 mm", "8 - 13"],
+            ["8,5 mm", "10 - 16"],
+            ["8,5 mm", "13 - 19"],
+            ["8,5 mm", "16 - 23"],
+            ["8,5 mm", "18 - 25"],
+            ["13 mm", "19 - 26"],
+            ["13 mm", "20 - 30"],
+            ["13 mm", "22 - 36"],
+            ["13 mm", "25 - 42"],
+            ["13 mm", "28 - 48"],
+            ["13 mm", "32 - 51"],
+            ["13 mm", "38 - 58"],
+            ["13 mm", "44 - 64"],
+            ["13 mm", "51 - 72"],
+            ["13 mm", "57 - 76"],
+            ["13 mm", "65 - 82"],
+            ["13 mm", "76 - 92"],
+            ["13 mm", "85 - 103"],
+            ["13 mm", "92 - 110"],
+            ["13 mm", "105 - 121"],
+            ["13 mm", "115 - 135"],
+            ["13 mm", "130 - 146"],
+            ["13 mm", "146 - 164"]
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 84,
+      "name": "A ve B Tipi İnoks Hortum Kelepçesi",
+      "url": "a-ve-b-tipi-inoks-hortum-kelepcesi",
+      "title2": "Stainless Steel Hose Clamp",
+      "title3": "Antimanyetik Paslanmaz Kelepçe",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728485186/Cilt1.pdf_-_Adobe_Acrobat_Pro_DC_Sayfa_01_G%C3%B6r%C3%BCnt%C3%BC_0001_h4pabb.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728485186/Cilt1.pdf_-_Adobe_Acrobat_Pro_DC_Sayfa_01_G%C3%B6r%C3%BCnt%C3%BC_0001_h4pabb.jpg",
+      "description": "A ve B Tipi İnoks Hortum Kelepçesi, paslanmaz çelikten üretilmiş, korozyona dayanıklı ve uzun ömürlü bağlantı elemanlarıdır. A Tipi, ince çaplı hortumlar için uygun olup ayarlanabilir yapısıyla güvenilir bir sızdırmazlık sağlar. B Tipi ise daha geniş çaplı hortumlarla kullanılmak üzere tasarlanmış ve güçlü yapısıyla zorlu koşullarda performansını korur. Her iki tip, hızlı montaj imkanı sunarak bakım süreçlerini kolaylaştırır ve güvenli bağlantılar oluşturur. Bu kelepçeler, otomotiv, sanayi ve tarım gibi birçok alanda yaygın olarak kullanılır.",
+      "specifications": [
+        {
+          "headers": ["Tip", "Ölçü"],
+          "data": [
+            ["A Tipi", "8 - 13"],
+            ["A Tipi", "10 - 16"],
+            ["A Tipi", "13 - 19"],
+            ["A Tipi", "16 - 23"],
+            ["A Tipi", "18 - 25"],
+            ["B Tipi", "19 - 26"],
+            ["B Tipi", "20 - 30"],
+            ["B Tipi", "22 - 36"],
+            ["B Tipi", "25 - 42"],
+            ["B Tipi", "28 - 48"],
+            ["B Tipi", "32 - 51"],
+            ["B Tipi", "38 - 58"],
+            ["B Tipi", "44 - 64"],
+            ["B Tipi", "51 - 72"],
+            ["B Tipi", "57 - 76"],
+            ["B Tipi", "65 - 82"],
+            ["B Tipi", "76 - 92"],
+            ["B Tipi", "85 - 103"],
+            ["B Tipi", "92 - 110"],
+            ["B Tipi", "105 - 121"],
+            ["B Tipi", "115 - 135"],
+            ["B Tipi", "130 - 146"],
+            ["B Tipi", "146 - 164"]
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 85,
+      "name": "Takviyeli (Ağır Hizmet) Kelepçe",
+      "url": "takviyeli-agir-hizmet-kelepce",
+      "title2": "Reinforced (Heavy-Duty) Clamp",
+      "title3": "",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728509321/TAKV%C4%B0YEL%C4%B0_KELEP%C3%87E_tm1vgd.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728509321/TAKV%C4%B0YEL%C4%B0_KELEP%C3%87E_tm1vgd.jpg",
+      "description": "Takviyeli (Ağır Hizmet) Kelepçe, yüksek mukavemet ve dayanıklılık sağlamak için özel olarak tasarlanmış bağlantı elemanlarıdır. Ağır hizmet uygulamaları için üretilen bu kelepçeler, zorlu koşullarda güvenilir bir performans sergileyerek, özellikle endüstriyel ve otomotiv alanlarında yaygın olarak kullanılır. Takviyeli yapısı sayesinde, yüksek basınç ve yük taşıma kapasitesine sahiptir. Paslanmaz çelik veya diğer dayanıklı malzemelerle üretilen bu kelepçeler, korozyona karşı direnç gösterir ve uzun ömürlü bir kullanım sunar. Ayrıca, ayarlanabilir tasarımları, farklı çap ve kalınlıktaki hortumlarla mükemmel uyum sağlar, bu da sızdırmazlık sağlarken montaj sürecini kolaylaştırır. Takviyeli (Ağır Hizmet) Kelepçeler, güvenli bağlantılar oluşturmanın yanı sıra, bakım ve onarım süreçlerinde de büyük bir kolaylık sağlar.",
+      "specifications": [
+        {
+          "headers": ["Ebat"],
+          "data": [["29 - 31"], ["31 - 34"], ["34 - 37"], ["37 - 40"], ["40 - 43"], ["43 - 47"]]
+        },
+        {
+          "headers": ["Ebat"],
+          "data": [["47 - 51"], ["51 - 55"], ["59 - 59"], ["59 - 63"], ["63 - 68"], ["68 - 73"]]
+        },
+        {
+          "headers": ["Ebat"],
+          "data": [["73 - 79"], ["79 - 85"], ["85 - 91"], ["91 - 97"], ["97 - 104"], ["104 - 112"]]
+        },
+        {
+          "headers": ["Ebat"],
+          "data": [["112 - 121"], ["121 - 130"], ["130 - 140"], ["140 - 150"], ["150 - 162"], ["162 - 174"]]
+        },
+        {
+          "headers": ["Ebat"],
+          "data": [["174 - 187"], ["187 - 200"], ["200 - 213"], ["213 - 226"], ["226 - 239"], ["239 - 252"]]
+        }
+      ]
+    },
+
+    {
+      "id": 86,
+      "name": "C Tipi İnoks Hortum Kelepçesi",
+      "url": "c-tipi-inoks-hortum-kelepcesi",
+      "title2": "Stainless Steel Hose Clamp",
+      "title3": "Antimanyetik Paslanmaz Kelepçe",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728485378/Cilt1.pdf_-_Adobe_Acrobat_Pro_DC_Sayfa_05_G%C3%B6r%C3%BCnt%C3%BC_0001_sxpwb0.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728485378/Cilt1.pdf_-_Adobe_Acrobat_Pro_DC_Sayfa_05_G%C3%B6r%C3%BCnt%C3%BC_0001_sxpwb0.jpg",
+      "description": "C Tipi İnoks Hortum Kelepçesi, paslanmaz çelikten üretilmiş olup, yüksek dayanıklılık ve korozyon direnci sunan bir bağlantı elemanıdır. Bu kelepçeler, özellikle otomotiv, sanayi ve tarım uygulamalarında, çeşitli çap ve kalınlıktaki hortumların güvenli bir şekilde bağlanmasını sağlamak için tasarlanmıştır. C Tipi tasarımı, ayarlanabilir yapısı sayesinde farklı boyutlardaki hortumlarla mükemmel uyum sağlar ve güvenilir bir sızdırmazlık sağlar. Ayrıca, montaj ve demontaj sürecini kolaylaştırarak, bakım işlemlerini hızlı bir şekilde gerçekleştirmeye olanak tanır. Yüksek mukavemeti ile zorlu koşullarda bile güvenilir performans sergileyen bu kelepçeler, uzun ömürlü ve etkili bir kullanım sunar.",
+      "specifications": [
+        {
+          "headers": ["Genişlik (mm)", "Ölçü"],
+          "data": [
+            ["9 mm", "10 - 16"],
+            ["9 mm", "12 - 20"],
+            ["9 mm", "12 - 22"],
+            ["9 mm", "16 - 25"],
+            ["9 mm", "20 - 32"],
+            ["9 mm", "23 - 35"],
+            ["9 mm", "25 - 40"],
+            ["9 mm", "30 - 45"],
+            ["9 mm", "32 - 50"],
+            ["9 mm", "40 - 60"],
+            ["9 mm", "50 - 70"],
+            ["9 mm", "60 - 80"],
+            ["9 mm", "70 - 90"],
+            ["9 mm", "80 - 100"],
+            ["9 mm", "90 - 110"],
+            ["9 mm", "100 - 120"],
+            ["9 mm", "110 - 130"],
+            ["9 mm", "120 - 140"],
+            ["9 mm", "130 - 150"],
+            ["9 mm", "140 - 160"]
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 87,
+      "name": "D Tipi İnoks Hortum Kelepçesi",
+      "url": "d-tipi-inoks-hortum-kelepcesi",
+      "title2": "Stainless Steel Hose Clamp",
+      "title3": "Antimanyetik Paslanmaz Kelepçe",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728485409/Cilt1.pdf_-_Adobe_Acrobat_Pro_DC_Sayfa_06_G%C3%B6r%C3%BCnt%C3%BC_0001_vzmkj6.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728485409/Cilt1.pdf_-_Adobe_Acrobat_Pro_DC_Sayfa_06_G%C3%B6r%C3%BCnt%C3%BC_0001_vzmkj6.jpg",
+      "description": "D Tipi İnoks Hortum Kelepçesi, paslanmaz çelikten üretilmiş, korozyona dayanıklı ve yüksek mukavemete sahip bir bağlantı elemanıdır. Bu kelepçeler, çeşitli çap ve kalınlıktaki hortumların güvenli bir şekilde bağlanmasını sağlamak için tasarlanmıştır ve genellikle otomotiv, endüstriyel uygulamalar ve tarım sektöründe kullanılır. D Tipi tasarımı, kullanıcıların ihtiyacına göre ayarlanabilir yapısıyla mükemmel bir sızdırmazlık sağlar. Ayrıca, montaj sürecini basitleştirir ve zaman tasarrufu sağlar. Yüksek dayanıklılığı sayesinde, zorlu hava koşullarında bile güvenilir bir performans gösterir. Uzun ömürlü kullanımı ve sağlam yapısı ile D Tipi İnoks Hortum Kelepçesi, bağlantı ihtiyaçlarınız için etkili ve güvenilir bir çözümdür.",
+      "specifications": [
+        {
+          "headers": ["Tip", "Ölçü"],
+          "data": [
+            ["13 mm", "19 - 26"],
+            ["13 mm", "20 - 32"],
+            ["13 mm", "23 - 35"],
+            ["13 mm", "25 - 40"],
+            ["13 mm", "30 - 45"],
+            ["13 mm", "32 - 50"],
+            ["13 mm", "40 - 60"],
+            ["13 mm", "50 - 70"],
+            ["13 mm", "60 - 80"],
+            ["13 mm", "70 - 90"],
+            ["13 mm", "80 - 100"],
+            ["13 mm", "90 - 110"],
+            ["13 mm", "100 - 120"],
+            ["13 mm", "110 - 130"],
+            ["13 mm", "120 - 140"],
+            ["13 mm", "130 - 150"],
+            ["13 mm", "140 - 160"]
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 88,
+      "name": "Yaprak Menteşe",
+      "url": "yaprak-mentese",
+      "title2": "Leaf Hinge",
+      "title3": "",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728509358/YAPRAK_MENTE%C5%9EE_kjhdkx.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728509358/YAPRAK_MENTE%C5%9EE_kjhdkx.jpg",
+      "description": "Yaprak Menteşe, kapı ve pencere gibi hareketli yüzeylerin açılıp kapanmasını sağlamak için kullanılan önemli bir bağlantı elemanıdır. Genellikle metal veya paslanmaz çelikten üretilen yaprak menteşeler, dayanıklılığı ve uzun ömürlü yapıları sayesinde çeşitli alanlarda yaygın olarak tercih edilir. Bu menteşe türü, iki yaprak kısmı ile birlikte hareket eden bir merkezi eksene sahiptir. Kapı veya pencere montajında, menteşe yaprakları düzgün bir şekilde yerleştirildiğinde, güvenli bir şekilde açılıp kapanabilir. Yaprak menteşeler, dekoratif görünümleriyle de estetik bir katkı sağlar. Farklı boyut ve tasarımlarıyla, hem iç mekan hem de dış mekan uygulamalarında kullanılabilir. Suya, neme ve hava koşullarına dayanıklı özellikleri sayesinde, dayanıklı ve işlevsel bir çözüm sunar. ",
+      "specifications": [
+        {
+          "headers": ["Boy / (mm)"],
+          "data": [["40 mm"], ["60 mm"], ["80 mm"], ["100 mm"]]
+        }
+      ]
+    },
+
+    {
+      "id": 89,
+      "name": "HSS DIN 338 Silindirik Saplı Kısa Matkap Ucu - HADDELİ",
+      "url": "hss-din-338-silindirik-sapli-kisa-matkap-ucu",
+      "title2": "Short Drill Bit with Cylindrical Shank",
+      "title3": "Silindirik Saplı Kısa Matkap Ucu - HADDELİ",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728508256/HSS_DIN338_vbsjif.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728508256/HSS_DIN338_vbsjif.jpg",
+      "description": "HSS DIN 338 Silindirik Saplı Kısa Matkap Ucu - HADDELİ, yüksek kaliteli HSS (yüksek hızlı çelik) malzemeden üretilmiş olup, dayanıklılığı ve uzun ömürlü kullanımı ile öne çıkar. Bu matkap ucu, özellikle metal, ahşap ve plastik gibi çeşitli malzemelerde hassas delme işlemleri için tasarlanmıştır. Kısa sap tasarımı, kontrollü delme işlemleri sağlar ve daha iyi bir tork aktarımı sunar, böylece daha az enerji ile daha etkili sonuçlar elde edilir. DIN 338 standardına uygun olarak üretilen bu matkap uçları, standart matkap makineleri ile kolayca kullanılabilir. HADDELİ üretim süreci, matkap ucunun sertliğini artırarak, aşınmaya karşı direnç sağlar. Bu özellikler, kullanıcıların daha hızlı ve verimli bir delme deneyimi yaşamalarını sağlar. HSS DIN 338 Silindirik Saplı Kısa Matkap Ucu, profesyonel ve endüstriyel uygulamalar için ideal bir seçenektir.",
+      "specifications": [
+        {
+          "headers": ["d1 (mm)", "L1 (mm)", "L2 (mm)"],
+          "data": [
+            ["2,0", "49", "24"],
+            ["2,5", "57", "30"],
+            ["3,0", "61", "33"],
+            ["3,5", "70", "39"],
+            ["4,0", "75", "43"],
+            ["4,5", "80", "47"],
+            ["5,0", "86", "52"],
+            ["5,5", "93", "57"],
+            ["6,0", "93", "57"],
+            ["6,5", "101", "63"],
+            ["7,0", "109", "69"],
+            ["7,5", "109", "69"],
+            ["8,0", "117", "75"],
+            ["8,5", "117", "75"],
+            ["9,0", "125", "81"],
+            ["9,5", "125", "81"],
+            ["10,0", "133", "87"],
+            ["10,5", "133", "87"],
+            ["11,0", "142", "94"],
+            ["11,5", "142", "94"],
+            ["12,0", "151", "101"],
+            ["12,5", "151", "101"],
+            ["13,0", "151", "101"],
+            ["2,1", "49", "24"],
+            ["2,2", "53", "27"],
+            ["2,3", "53", "27"],
+            ["2,4", "57", "30"],
+            ["2,6", "57", "30"],
+            ["2,7", "61", "33"],
+            ["2,8", "61", "33"],
+            ["2,9", "61", "33"],
+            ["3,1", "65", "36"],
+            ["3,2", "65", "36"],
+            ["3,3", "65", "36"],
+            ["3,4", "70", "39"],
+            ["3,6", "70", "39"],
+            ["3,7", "70", "39"],
+            ["3,8", "75", "43"]
+          ]
+        },
+        {
+          "headers": ["d1 (mm)", "L1 (mm)", "L2 (mm)"],
+          "data": [
+            ["3,9", "75", "43"],
+            ["4,1", "75", "43"],
+            ["4,2", "75", "43"],
+            ["4,3", "80", "47"],
+            ["4,4", "80", "47"],
+            ["4,6", "80", "47"],
+            ["4,7", "80", "47"],
+            ["4,8", "86", "52"],
+            ["4,9", "86", "52"],
+            ["5,1", "86", "52"],
+            ["5,2", "86", "52"],
+            ["5,3", "86", "52"],
+            ["5,4", "93", "57"],
+            ["5,6", "93", "57"],
+            ["5,7", "93", "57"],
+            ["5,8", "93", "57"],
+            ["5,9", "93", "57"],
+            ["6,1", "101", "63"],
+            ["6,2", "101", "63"],
+            ["6,3", "101", "63"],
+            ["6,4", "101", "63"],
+            ["6,6", "101", "63"],
+            ["6,7", "101", "63"],
+            ["6,8", "109", "69"],
+            ["6,9", "109", "69"],
+            ["7,1", "109", "69"],
+            ["7,2", "109", "69"],
+            ["7,3", "109", "69"],
+            ["7,4", "109", "69"],
+            ["7,6", "117", "75"],
+            ["7,7", "117", "75"],
+            ["7,8", "117", "75"],
+            ["7,9", "117", "75"],
+            ["8,1", "117", "75"],
+            ["8,2", "117", "75"],
+            ["8,3", "117", "75"],
+            ["8,4", "117", "75"],
+            ["8,6", "125", "81"]
+          ]
+        },
+        {
+          "headers": ["d1 (mm)", "L1 (mm)", "L2 (mm)"],
+          "data": [
+            ["8,7", "125", "81"],
+            ["8,8", "125", "81"],
+            ["8,9", "125", "81"],
+            ["9,1", "125", "81"],
+            ["9,2", "125", "81"],
+            ["9,3", "125", "81"],
+            ["9,4", "125", "81"],
+            ["9,6", "133", "87"],
+            ["9,7", "133", "87"],
+            ["9,8", "133", "87"],
+            ["9,9", "133", "87"],
+            ["10,1", "133", "87"],
+            ["10,2", "133", "87"],
+            ["10,3", "133", "87"],
+            ["10,4", "133", "87"],
+            ["10,6", "133", "87"],
+            ["10,7", "142", "94"],
+            ["10,8", "142", "94"],
+            ["10,9", "142", "94"],
+            ["11,1", "142", "94"],
+            ["11,2", "142", "94"],
+            ["11,3", "142", "94"],
+            ["11,4", "142", "94"],
+            ["11,6", "142", "94"],
+            ["11,7", "142", "94"],
+            ["11,8", "142", "94"],
+            ["11,9", "151", "101"],
+            ["12,1", "151", "101"],
+            ["12,2", "151", "101"],
+            ["12,3", "151", "101"],
+            ["12,4", "151", "101"],
+            ["12,6", "151", "101"],
+            ["12,7", "151", "101"],
+            ["12,8", "151", "101"],
+            ["12,9", "151", "101"],
+            ["13,1", "151", "101"],
+            ["13,2", "151", "101"],
+            [" ", " ", " "]
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 90,
+      "name": "HSS DIN 352 Metrik Normal Vidalı 3'lü Takım Kılavuzu",
+      "url": "hss-din-352-metrik-normal-vida-takim-kilavuzu",
+      "title2": "Metric Standard Thread 3-Piece Tapping Guide",
+      "title3": "Metrik Normal Vidalı 3'lü Takım Kılavuzu",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728508295/HSS_DIN352_qskjvs.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728508295/HSS_DIN352_qskjvs.jpg",
+      "description": "HSS DIN 352 Metrik Normal Vidalı 3'lü Takım Kılavuzu, yüksek kaliteli HSS (yüksek hızlı çelik) malzemeden üretilmiştir ve vidalama işlemlerinde mükemmel hassasiyet ve dayanıklılık sağlar. Bu takım kılavuzu, üçlü set halinde sunulmakta olup, farklı çap ve diş profillerindeki vida uygulamaları için idealdir. DIN 352 standardına uygun olarak tasarlanan bu kılavuzlar, özellikle metal, plastik ve ahşap gibi çeşitli malzemelerde güvenli ve düzgün vidalama işlemleri için kullanılabilir. Kullanımı son derece kolay olan bu kılavuzlar, iş parçasının doğru bir şekilde hizalanmasını sağlayarak, vidaların düzgün bir şekilde yerleşmesini temin eder. HSS malzeme yapısı sayesinde, bu kılavuzlar aşınmaya karşı direnç gösterir ve uzun ömürlü bir performans sunar. HSS DIN 352 Metrik Normal Vidalı 3'lü Takım Kılavuzu, hem profesyonel hem de amatör kullanıcılar için güvenilir ve etkili bir çözümdür.",
+      "specifications": [
+        {
+          "headers": ["d1 (mm)", "P adım", "L1 (mm)", "L2 (mm)", "D2 (mm)", "k (h12) (mm)"],
+          "data": [
+            ["M2", "0,4", "40", "8", "2,8", "2,1"],
+            ["M2,5", "0,45", "40", "9", "2,8", "2,1"],
+            ["M3", "0,5", "40", "11", "3,5", "2,7"],
+            ["M3,5", "0,6", "45", "13", "4,0", "3,0"],
+            ["M4", "0,7", "45", "13", "4,5", "3,4"],
+            ["M4,5", "0,75", "50", "16", "6,0", "4,9"],
+            ["M5", "0,8", "50", "16", "6,0", "4,9"],
+            ["M6", "1", "56", "19", "6,0", "4,9"],
+            ["M7", "1", "56", "19", "6,0", "4,9"],
+            ["M8", "1,25", "63", "22", "6,0", "4,9"],
+            ["M9", "1,25", "63", "22", "7,0", "5,5"],
+            ["M10", "1,5", "70", "24", "7,0", "5,5"],
+            ["M11", "1,5", "70", "24", "8,0", "6,2"],
+            ["M12", "1,75", "75", "28", "9,0", "7,0"],
+            ["M14", "2", "80", "30", "11,0", "9,0"],
+            ["M16", "2", "80", "32", "12,0", "9,0"],
+            ["M18", "2,5", "95", "34", "14,0", "11,0"],
+            ["M20", "2,5", "95", "34", "16,0", "12,0"],
+            ["M22", "2,5", "100", "34", "18,0", "14,5"],
+            ["M24", "3", "110", "38", "18,0", "14,5"],
+            ["M26", "3", "110", "38", "20", "16"],
+            ["M27", "3", "110", "38", "20", "16,0"],
+            ["M28", "3", "110", "38", "20", "16"],
+            ["M30", "3,5", "125", "45", "22,0", "18,0"],
+            ["M33", "3,5", "125", "50", "25,0", "20,0"],
+            ["M36", "4", "150", "56", "28,0", "22"],
+            ["M39", "4", "150", "60", "32", "24"],
+            ["M42", "45", "150", "60", "32", "24"],
+            ["M45", "4,5", "160", "65", "36", "29"],
+            ["M48", "5", "180", "70", "36", "29"],
+            ["M52", "5", "180", "70", "40", "32"],
+            ["M56", "5,5", "200", "70", "40", "35"]
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 91,
+      "name": "HSS DIN 352 Metrik Normal Vidalı Kılavuz - Son",
+      "url": "hss-din-352-metrik-normal-vidali-kilavuz",
+      "title2": "Metric Standard Thread Guide",
+      "title3": "Metrik Normal Vidalı Kılavuz - Son",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728508330/HSS_DIN352-2_jxvihb.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728508330/HSS_DIN352-2_jxvihb.jpg",
+      "description": "HSS DIN 352 Metrik Normal Vidalı Kılavuz - Son, yüksek kaliteli HSS (yüksek hızlı çelik) malzemeden üretilmiş olup, dayanıklılığı ve uzun ömürlü kullanımı ile öne çıkar. Bu kılavuz, vidalama işlemlerinde hassasiyet sağlamak için özel olarak tasarlanmıştır ve çeşitli çap ve diş profillerindeki vida uygulamalarında güvenilir bir performans sunar. DIN 352 standardına uygun olarak üretilen bu kılavuzlar, özellikle metal, plastik ve ahşap malzemelerde kullanılabilir. Kullanım kolaylığı sayesinde, iş parçasının doğru hizalanmasını sağlayarak, vidaların düzgün bir şekilde yerleşmesini temin eder. HSS malzeme yapısı, aşınmaya karşı direnç gösterir ve bu sayede uzun ömürlü bir performans sunar. HSS DIN 352 Metrik Normal Vidalı Kılavuz - Son, profesyonel ve amatör kullanıcılar için güvenilir bir vidalama çözümüdür.",
+      "specifications": [
+        {
+          "headers": ["d1 (mm)", "d1 (mm)", "P adım", "L1 (mm)", "L2 (mm)", "d2 (mm)"],
+          "data": [
+            ["M2", "0,4", "36", "8", "2,8", "2,1"],
+            ["M2,5", "0,45", "40", "9", "2,8", "2,1"],
+            ["M3", "0,5", "40", "11", "3,5", "2,7"],
+            ["M3,5", "0,6", "45", "13", "4,0", "3,0"],
+            ["M4", "0,7", "45", "13", "4,5", "3,4"],
+            ["M5", "0,8", "50", "16", "6,0", "4,9"],
+            ["M6", "1", "56", "19", "6,0", "4,9"],
+            ["M7", "1", "56", "19", "6,0", "4,9"],
+            ["M8", "1,25", "63", "22", "6,0", "4,9"],
+            ["M9", "1,25", "63", "22", "7,0", "5,5"],
+            ["M10", "1,50", "70", "24", "7,0", "5,5"],
+            ["M12", "1,75", "75", "29", "9,0", "7,0"],
+            ["M14", "2", "80", "30", "11,0", "9,0"],
+            ["M16", "2", "80", "32", "12,0", "9,0"],
+            ["M18", "2,5", "95", "40", "14,0", "11,0"],
+            ["M20", "2,5", "95", "34", "16,0", "12,0"],
+            ["M22", "2,5", "100", "34", "18,0", "14,5"],
+            ["M24", "3", "110", "38", "18,0", "14,5"],
+            ["M26", "3", "110", "38", "20", "16"],
+            ["M27", "3", "110", "38", "20", "16,0"],
+            ["M28", "3", "110", "38", "20", "16"],
+            ["M30", "3,5", "125", "45", "22,0", "18,0"],
+            ["M33", "3,5", "125", "50", "25,0", "20,0"],
+            ["M36", "4", "150", "56", "28,0", "22,0"],
+            ["M39", "4", "150", "60", "32", "24"],
+            ["M42", "4,5", "150", "60", "32", "24"],
+            ["M45", "4,5", "160", "65", "36", "29"],
+            ["M48", "5", "180", "70", "36", "29"],
+            ["M52", "5", "180", "70", "40", "32"],
+            ["M56", "5,5", "200", "70", "40", "35"]
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 92,
+      "name": "Yıldız Burçlu Bakalit",
+      "url": "yildiz-burclu-bakalit",
+      "title2": "Star Bushing Bakelite",
+      "title3": "",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728509416/YILDIZ_BUR%C3%87LU_BAKAL%C4%B0T_azfrzt.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728509423/YILDIZ_BUR%C3%87LU_BAKAL%C4%B0Tr_rwml8h.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728509416/YILDIZ_BUR%C3%87LU_BAKAL%C4%B0T_azfrzt.jpg",
+      "description": "Yıldız Burçlu Bakalit, güçlü ve hafif yapısıyla öne çıkan bir bağlantı elemanıdır. Genellikle elektriksel yalıtım ve mekanik uygulamalar için kullanılan bu burç, bakalit malzeme sayesinde yüksek ısı dayanıklılığı ve kimyasal direnç sunar. Yıldız burç tasarımı, montaj kolaylığı sağlar ve farklı çaplarda uygulamalara uygun olarak üretilebilir. Yüksek dayanıklılığı sayesinde, zorlu çalışma koşullarında bile güvenilir bir performans sergiler. Ayrıca, yalıtkan özellikleri ile elektriksel güvenliği artırır. Yıldız Burçlu Bakalit, özellikle otomotiv, elektrik ve makine sanayisinde yaygın olarak kullanılmaktadır. Bu ürün, sağlam yapısı ve işlevselliği ile çeşitli endüstriyel uygulamalarda tercih edilmektedir.",
+      "specifications": [
+        {
+          "headers": ["N0", "0R", "D", "h", "H"],
+          "data": [
+            ["0", "20", "M4", "10", "17"],
+            ["0", "20", "M5", "10", "17"],
+            ["0", "20", "M6", "12", "17"],
+            ["1", "30", "M5", "10", "24"],
+            ["1", "30", "M6", "12", "24"],
+            ["1", "30", "M8", "12", "24"],
+            ["2", "40", "M6", "17", "30"],
+            ["2", "40", "M8", "17", "30"],
+            ["2", "40", "M10", "17", "30"],
+            ["3", "50", "M6", "17", "32"],
+            ["3", "50", "M8", "17", "32"],
+            ["3", "50", "M10", "17", "32"],
+            ["3", "50", "M12", "17", "32"],
+            ["4", "60", "M8", "17", "36"],
+            ["4", "60", "M10", "17", "36"],
+            ["4", "60", "M12", "17", "36"],
+            ["5", "70", "M10", "22", "44"],
+            ["5", "70", "M12", "22", "44"],
+            ["5", "70", "M14", "22", "44"],
+            ["5", "70", "M16", "22", "44"]
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 93,
+      "name": "Yıldız Civatalı Bakalit",
+      "url": "yildiz-civatali-bakalit",
+      "title2": "Star Bolt Bakelite",
+      "title3": "",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728509467/YILDIZ_C%C4%B0VATALI_BAKAL%C4%B0T_lhxei6.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728509474/YILDIZ_C%C4%B0VATALI_BAKAL%C4%B0Tr_b5d9m8.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728509467/YILDIZ_C%C4%B0VATALI_BAKAL%C4%B0T_lhxei6.jpg",
+      "description": "Yıldız Civatalı Bakalit, dayanıklılığı ve hafifliği ile dikkat çeken bir bağlantı elemanıdır. Bakalit malzeme kullanılarak üretilen bu cıvata, yüksek ısıya ve kimyasallara karşı direnç gösterir, bu nedenle elektriksel yalıtım gerektiren uygulamalarda yaygın olarak tercih edilir. Yıldız tasarımı, montaj ve sökme işlemlerini kolaylaştırarak kullanıcıya pratik bir deneyim sunar. Cıvatanın yıldız başlı yapısı, aletle hızlı bir şekilde sıkılmasını ve gevşetilmesini sağlar. Yıldız Civatalı Bakalit, otomotiv, elektrik ve makine sanayisi gibi birçok alanda güvenilir bir bağlantı çözümü olarak kullanılmaktadır. Sağlam yapısı ve işlevselliği sayesinde, farklı malzemeleri bir araya getiren bağlantılarda etkin bir performans sunar. Yıldız Civatalı Bakalit, endüstriyel uygulamalar için ideal bir tercihtir.",
+      "specifications": [
+        {
+          "headers": ["N0", "0R", "D", "E", "H"],
+          "data": [
+            ["0", "20", "M4", "10", "17"],
+            ["0", "20", "M5", "10", "17"],
+            ["0", "20", "M6", "10", "17"],
+            ["1", "30", "M5", "15", "17"],
+            ["1", "30", "M6", "15", "17"],
+            ["1", "30", "M8", "15", "17"],
+            ["2", "40", "M6", "20", "17"],
+            ["2", "40", "M8", "20", "17"],
+            ["2", "40", "M10", "20", "17"],
+            ["3", "50", "M6", "25", "17"],
+            ["3", "50", "M8", "25", "17"],
+            ["3", "50", "M10", "25", "17"],
+            ["3", "50", "M12", "25", "17"],
+            ["4", "60", "M8", "30", "17"],
+            ["4", "60", "M10", "30", "17"],
+            ["4", "60", "M12", "30", "17"],
+            ["5", "70", "M10", "35", "17"],
+            ["5", "70", "M12", "35", "17"],
+            ["5", "70", "M14", "35", "17"],
+            ["5", "70", "M16", "35", "17"]
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 94,
+      "name": "Heli Coli Yay",
+      "url": "heli-coli-yay",
+      "title2": "Helical Spring",
+      "title3": "",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728508211/HEL%C4%B0_CO%C4%B0L_YAY_xr6gyc.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728508211/HEL%C4%B0_CO%C4%B0L_YAY_xr6gyc.jpg",
+      "description": "Heli Coli Yay, özellikle elastik özellikleri ve dayanıklılığı ile öne çıkan bir yay türüdür. Bu yay, çeşitli uygulamalarda kullanmak üzere tasarlanmış spiral formda bir yapıya sahiptir ve genellikle yük altında sıkıştırıldığında veya gerildiğinde enerji depolama ve serbest bırakma işlevi görür. Heli Coli Yay, yüksek kaliteli çelik malzemeden üretilmiştir ve bu sayede aşınma ve deformasyona karşı direnç gösterir. Bu özellikleri, yayların uzun ömürlü olmasını sağlar ve farklı endüstriyel uygulamalarda güvenilir bir performans sunar. Otomotiv, makine sanayi ve elektrikli cihazlar gibi birçok sektörde yaygın olarak kullanılan Heli Coli Yay, hafif yapısı ve etkili enerji depolama kapasitesi sayesinde tercih edilmektedir. Ayrıca, bu yayların montajı kolaydır ve çeşitli boyut ve sertliklerde temin edilebilir, böylece farklı uygulama gereksinimlerine uygun çözümler sunar.",
+      "specifications": [
+        {
+          "headers": ["d1 (mm)", "d1 (mm)", "P adım", "L1 (mm)", "L2 (mm)", "L2 (mm)", "L2 (mm)"],
+          "data": [
+            ["M2 x 0,4", "2,10", "2,00", "3,00", "4,00", "5,00", "6,00"],
+            ["M2,2 x 0,45", "2,30", "2,20", "3,30", "4,40", "5,50", "6,60"],
+            ["M2,5 x 0,45", "2,60", "2,50", "3,75", "5,00", "6,25", "7,50"],
+            ["M3 x 0,5", "3,10", "3,00", "4,50", "6,00", "7,50", "9,00"],
+            ["M3,5 x 0,6", "3,60", "3,50", "5,25", "7,00", "8,75", "10,50"],
+            ["M4 x 0,7", "4,10", "4,00", "6,00", "8,00", "10,00", "12,00"],
+            ["M4,5 x 0,75", "4,70", "4,50", "6,75", "9,00", "11,25", "13,50"],
+            ["M5 x 0,8", "5,20", "5,00", "7,50", "10,00", "12,50", "15,00"],
+            ["M6 x 1,0", "6,20", "6,00", "9,00", "12,00", "15,00", "18,00"],
+            ["M7 x 1,0", "7,20", "7,00", "10,50", "14,00", "17,50", "21,00"],
+            ["M8 x 1,0", "8,20", "8,00", "12,00", "16,00", "20,00", "24,00"],
+            ["M8 x 1,25", "8,30", "8,00", "12,00", "16,00", "20,00", "24,00"],
+            ["M9 x 1,25", "9,30", "9,00", "13,50", "18,00", "22,50", "27,00"],
+            ["M10 x 1,0", "10,30", "10,00", "15,00", "20,00", "25,00", "30,00"],
+            ["M10 x 1,25", "10,30", "10,00", "15,00", "20,00", "25,00", "30,00"],
+            ["M10 x 1,5", "10,30", "10,00", "15,00", "20,00", "25,00", "30,00"],
+            ["M11 x 1,5", "11,30", "11,00", "16,50", "22,00", "27,50", "33,00"],
+            ["M12 x 1,25", "12,30", "12,00", "18,00", "24,00", "30,00", "36,00"],
+            ["M12 x 1,5", "12,40", "12,00", "18,00", "24,00", "30,00", "36,00"],
+            ["M12 x 1,75", "12,40", "12,00", "18,00", "24,00", "30,00", "36,00"],
+            ["M14 x 1,25", "14,30", "14,00", "21,00", "28,00", "35,00", "42,00"],
+            ["M14 x 1,5", "14,30", "14,00", "21,00", "28,00", "35,00", "42,00"],
+            ["M14 x 2,0", "14,30", "14,00", "21,00", "28,00", "35,00", "42,00"],
+            ["M16 x 1,5", "16,25", "16,00", "24,00", "32,00", "40,00", "48,00"],
+            ["M16 x 2,0", "16,50", "16,00", "24,00", "32,00", "40,00", "48,00"],
+            ["M18 x 1,5", "18,25", "18,00", "27,00", "36,00", "45,00", "54,00"],
+            ["M18 x 2,0", "18,50", "18,00", "27,00", "36,00", "45,00", "54,00"],
+            ["M18 x 2,5", "18,50", "18,00", "27,00", "36,00", "45,00", "54,00"],
+            ["M20 x 1,5", "20,25", "20,00", "30,00", "40,00", "50,00", "60,00"],
+            ["M20 x 2,0", "20,50", "20,00", "30,00", "40,00", "50,00", "60,00"],
+            ["M20 x 2,5", "20,50", "20,00", "30,00", "40,00", "50,00", "60,00"],
+            ["M22 x 1,5", "22,50", "22,00", "33,00", "44,00", "55,00", "66,00"],
+            ["M22 x 2,0", "22,50", "22,00", "33,00", "44,00", "55,00", "66,00"],
+            ["M22 x 2,5", "22,50", "22,00", "33,00", "44,00", "55,00", "66,00"],
+            ["M24 x 1,5", "24,25", "24,00", "36,00", "48,00", "60,00", "72,00"],
+            ["M24 x 2,0", "24,25", "24,00", "36,00", "48,00", "60,00", "72,00"],
+            ["M24 x 3,0", "24,75", "24,00", "36,00", "48,00", "60,00", "72,00"],
+            ["M27 x 2", "27,50", "27,00", "40,50", "54,00", "67,50", "81,00"],
+            ["M27 x 3,0", "27,50", "27,00", "40,50", "54,00", "67,50", "81,00"],
+            ["M30 x 1,5", "30,50", "30,00", "45,00", "60,00", "75,00", "90,00"],
+            ["M30 x 2,0", "30,50", "30,00", "45,00", "60,00", "75,00", "90,00"],
+            ["M30 x 3,5", "30,50", "30,00", "45,00", "60,00", "75,00", "90,00"],
+            ["M33 x 2,0", "33,50", "33,00", "49,50", "66,00", "82,50", "99,00"],
+            ["M36 x 2,0", "36,50", "36,00", "54,00", "72,00", "90,00", "108,00"],
+            ["M36 x 4,0", "36,50", "36,00", "54,00", "72,00", "90,00", "108,00"],
+            ["M39 x 2,0", "39,50", "39,00", "58,50", "78,00", "97,50", "117,00"],
+            ["M39 x 4,0", "39,50", "39,00", "58,50", "78,00", "97,50", "117,00"]
           ]
         }
       ]
