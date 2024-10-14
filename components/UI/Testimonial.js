@@ -5,12 +5,7 @@ import "@/styles/testimonial.css";
 import Image from "next/image"; // Resim bileşenini içe aktarın
 
 const Testimonial = ({ testimonialData }) => {
-  const images = [
-    "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/1_qi56ao.jpg",
-    "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/1_qi56ao.jpg",
-    "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/1_qi56ao.jpg",
-    "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/1_qi56ao.jpg",
-  ];
+  const images = ["https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/1_qi56ao.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/1_qi56ao.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/1_qi56ao.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1726932479/1_qi56ao.jpg"];
 
   const settings = {
     dots: true,
@@ -50,7 +45,7 @@ const Testimonial = ({ testimonialData }) => {
           <div className="product-image mb-3">
             <Image
               src={images[index]} // Resmin kaynağı
-              alt={`Product ${item.id}`}
+              alt={`Urun ${item.id}`}
               fill
               sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
             />

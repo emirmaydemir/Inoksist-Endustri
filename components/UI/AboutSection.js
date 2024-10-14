@@ -67,7 +67,7 @@ const AboutSection = ({ aboutClass, aboutContent }) => {
             <div className="about__img">
               <Image
                 src="https://res.cloudinary.com/di9qvtepw/image/upload/q_auto,f_webp/v1728242911/civata3_pkc1ab.jpg"
-                alt="About Image"
+                alt="İnoksist Hakkimizda"
                 width={200}
                 height={100}
                 className="w-100"

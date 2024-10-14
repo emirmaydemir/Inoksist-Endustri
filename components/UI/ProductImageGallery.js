@@ -43,7 +43,7 @@ const ProductImageGallery = ({ images }) => {
           loader={imageLoader}
           src={mainImage}
           fill
-          alt="Ana resim"
+          alt="Urun Ana resim"
           className="main-image"
           style={zoomStyle}
           quality="auto"
@@ -60,7 +60,7 @@ const ProductImageGallery = ({ images }) => {
               src={imgUrl}
               width={100}
               height={100}
-              alt={`Kucuk resim ${index}`}
+              alt={`Urun Kucuk resim ${index}`}
               className="img-thumbnail custom-thumbnail"
               onClick={() => handleImageClick(imgUrl)}
               quality="auto"

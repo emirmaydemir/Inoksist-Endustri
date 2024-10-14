@@ -123,7 +123,7 @@
     {
       "id": 16,
       "name": "Metal Kesme Diskleri",
-      "url": "gazalti-kaynak-teli",
+      "url": "metal-kesme-diskleri",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855875/3_lzliq8.jpg",
       "category": ["kesici-ve-asindirici-grubu"]
     },
@@ -131,7 +131,7 @@
     {
       "id": 17,
       "name": "Endüstriyel Metal Kesme Diskleri",
-      "url": "kaynak-eldiveni",
+      "url": "endustriyel-metal-kesme-diskleri",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855876/4_jfb77v.jpg",
       "category": ["kesici-ve-asindirici-grubu"]
     },
@@ -139,7 +139,7 @@
     {
       "id": 18,
       "name": "Inox Kesme Diskleri",
-      "url": "paslanmaz-elektrod",
+      "url": "inox-kesme-diskleri",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855877/5_obtsn7.jpg",
       "category": ["kesici-ve-asindirici-grubu"]
     },
@@ -147,7 +147,7 @@
     {
       "id": 19,
       "name": "Cut & Cut Inox Kesme Diskleri",
-      "url": "paslanmaz-kaynak-teli",
+      "url": "cut-inox-kesme-diskleri",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855879/6_xxglha.jpg",
       "category": ["kesici-ve-asindirici-grubu"]
     },
@@ -155,7 +155,7 @@
     {
       "id": 20,
       "name": "Döküm Kesme Diskleri",
-      "url": "rutil-elektrod",
+      "url": "dokum-kesme-diskleri",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855880/7_f4u5nk.jpg",
       "category": ["kesici-ve-asindirici-grubu"]
     },
@@ -163,7 +163,7 @@
     {
       "id": 21,
       "name": "Mermer Kesme Diskleri",
-      "url": "gazalti-kaynak-teli",
+      "url": "mermer-kesme-diskleri",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855875/3_lzliq8.jpg",
       "category": ["kesici-ve-asindirici-grubu"]
     },
@@ -171,7 +171,7 @@
     {
       "id": 22,
       "name": "Alüminyum Kesme Diskleri",
-      "url": "kaynak-eldiveni",
+      "url": "aluminyum-kesme-diskleri",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855876/4_jfb77v.jpg",
       "category": ["kesici-ve-asindirici-grubu"]
     },
@@ -179,7 +179,7 @@
     {
       "id": 23,
       "name": "ZA Döküm Kesme Diskleri",
-      "url": "paslanmaz-elektrod",
+      "url": "za-dokum-kesme-diskleri",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855877/5_obtsn7.jpg",
       "category": ["kesici-ve-asindirici-grubu"]
     },
@@ -187,7 +187,7 @@
     {
       "id": 24,
       "name": "AC Döküm Kesme Diskleri",
-      "url": "paslanmaz-kaynak-teli",
+      "url": "ac-dokum-kesme-diskleri",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855879/6_xxglha.jpg",
       "category": ["kesici-ve-asindirici-grubu"]
     },
@@ -195,7 +195,7 @@
     {
       "id": 25,
       "name": "Metal Kesme Sabit Tezgah Diskleri",
-      "url": "rutil-elektrod",
+      "url": "metal-kesme-sabit-tezgah-diskleri",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855880/7_f4u5nk.jpg",
       "category": ["kesici-ve-asindirici-grubu"]
     },
@@ -203,7 +203,7 @@
     {
       "id": 26,
       "name": "Döküm Kesme Sabit Tezgah Diskleri",
-      "url": "gazalti-kaynak-teli",
+      "url": "dokum-kesme-sabit-tezgah-diskleri",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855875/3_lzliq8.jpg",
       "category": ["kesici-ve-asindirici-grubu"]
     },
@@ -211,7 +211,7 @@
     {
       "id": 27,
       "name": "Ray Kesme Diskleri",
-      "url": "kaynak-eldiveni",
+      "url": "ray-kesme-diskleri",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855876/4_jfb77v.jpg",
       "category": ["kesici-ve-asindirici-grubu"]
     },
@@ -219,7 +219,7 @@
     {
       "id": 28,
       "name": "Metal Çapak Alma Diskleri",
-      "url": "paslanmaz-elektrod",
+      "url": "metal-capak-alma-diskleri",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855877/5_obtsn7.jpg",
       "category": ["kesici-ve-asindirici-grubu"]
     },
@@ -227,7 +227,7 @@
     {
       "id": 29,
       "name": "Metal Plus Çapak Alma Diskleri",
-      "url": "paslanmaz-kaynak-teli",
+      "url": "metal-plus-capak-alma-diskleri",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855879/6_xxglha.jpg",
       "category": ["kesici-ve-asindirici-grubu"]
     },
@@ -235,7 +235,7 @@
     {
       "id": 30,
       "name": "Inox Çapak Alma Diskleri",
-      "url": "rutil-elektrod",
+      "url": "inox-capak-alma-diskleri",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855880/7_f4u5nk.jpg",
       "category": ["kesici-ve-asindirici-grubu"]
     },
@@ -243,7 +243,7 @@
     {
       "id": 31,
       "name": "Döküm Çapak Alma Diskleri",
-      "url": "paslanmaz-elektrod",
+      "url": "dokum-capak-alma-diskleri",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855877/5_obtsn7.jpg",
       "category": ["kesici-ve-asindirici-grubu"]
     },
@@ -251,7 +251,7 @@
     {
       "id": 32,
       "name": "ZA Plus Çapak Alma Diskleri",
-      "url": "paslanmaz-kaynak-teli",
+      "url": "za-plus-capak-alma-diskleri",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855879/6_xxglha.jpg",
       "category": ["kesici-ve-asindirici-grubu"]
     },
@@ -259,7 +259,7 @@
     {
       "id": 33,
       "name": "Alüminyum Çapak Alma Diskleri",
-      "url": "rutil-elektrod",
+      "url": "aluminyum-capak-alma-diskleri",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855880/7_f4u5nk.jpg",
       "category": ["kesici-ve-asindirici-grubu"]
     },
@@ -267,7 +267,7 @@
     {
       "id": 34,
       "name": "Comfort Line ZR SD Flap Diskler",
-      "url": "paslanmaz-elektrod",
+      "url": "comfort-line-zr-sd-flap-diskler",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855877/5_obtsn7.jpg",
       "category": ["kesici-ve-asindirici-grubu"]
     },
@@ -275,7 +275,7 @@
     {
       "id": 35,
       "name": "Comfort Line ZR HD Flap Diskler",
-      "url": "paslanmaz-kaynak-teli",
+      "url": "comfort-line-zr-hd-flap-diskler",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855879/6_xxglha.jpg",
       "category": ["kesici-ve-asindirici-grubu"]
     },
@@ -283,7 +283,7 @@
     {
       "id": 36,
       "name": "Premium Line AO SD Flap Diskler",
-      "url": "rutil-elektrod",
+      "url": "premium-line-ao-sd-flap-diskler",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855880/7_f4u5nk.jpg",
       "category": ["kesici-ve-asindirici-grubu"]
     },
@@ -291,7 +291,7 @@
     {
       "id": 37,
       "name": "Premium Line ZR SD Flap Diskler",
-      "url": "paslanmaz-elektrod",
+      "url": "premium-line-zr-sd-flap-diskler",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855877/5_obtsn7.jpg",
       "category": ["kesici-ve-asindirici-grubu"]
     },
@@ -299,7 +299,7 @@
     {
       "id": 38,
       "name": "Premium Line ZR HD Flap Diskler",
-      "url": "paslanmaz-kaynak-teli",
+      "url": "premium-line-zr-hd-flap-diskler",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855879/6_xxglha.jpg",
       "category": ["kesici-ve-asindirici-grubu"]
     },
@@ -307,7 +307,7 @@
     {
       "id": 39,
       "name": "Premium Line CE SD Flap Diskler",
-      "url": "rutil-elektrod",
+      "url": "premium-line-ce-sd-flap-diskler",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855880/7_f4u5nk.jpg",
       "category": ["kesici-ve-asindirici-grubu"]
     },
@@ -315,7 +315,7 @@
     {
       "id": 40,
       "name": "Cırtlı Diskler",
-      "url": "paslanmaz-elektrod",
+      "url": "cirtli-diskler",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855877/5_obtsn7.jpg",
       "category": ["kesici-ve-asindirici-grubu"]
     },
@@ -323,7 +323,7 @@
     {
       "id": 41,
       "name": "Bant Zımparalar",
-      "url": "paslanmaz-kaynak-teli",
+      "url": "bant-zimparalar",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855879/6_xxglha.jpg",
       "category": ["kesici-ve-asindirici-grubu"]
     },
@@ -331,7 +331,7 @@
     {
       "id": 42,
       "name": "Rulo Zımparalar",
-      "url": "rutil-elektrod",
+      "url": "rulo-zimparalar",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855880/7_f4u5nk.jpg",
       "category": ["kesici-ve-asindirici-grubu"]
     },
@@ -339,152 +339,152 @@
     {
       "id": 43,
       "name": "Dilimli Streç",
-      "url": "paslanmaz-kaynak-teli",
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855879/6_xxglha.jpg",
+      "url": "dilimli-strec",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855821/1_ndandr.jpg",
       "category": ["ambalaj-ve-paketleme-grubu"]
     },
 
     {
       "id": 44,
       "name": "Gıda Streci",
-      "url": "rutil-elektrod",
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855880/7_f4u5nk.jpg",
+      "url": "gida-streci",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855822/2_kr6df8.jpg",
       "category": ["ambalaj-ve-paketleme-grubu"]
     },
 
     {
       "id": 45,
       "name": "Koli Bandı Akrilik",
-      "url": "paslanmaz-elektrod",
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855877/5_obtsn7.jpg",
+      "url": "koli-bandi-akrilik",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855823/3_r7hd32.jpg",
       "category": ["ambalaj-ve-paketleme-grubu"]
     },
 
     {
       "id": 46,
       "name": "Koli Bandı Hotmelt",
-      "url": "paslanmaz-kaynak-teli",
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855879/6_xxglha.jpg",
+      "url": "koli-bandi-hotmelt",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855824/4_zzwoui.jpg",
       "category": ["ambalaj-ve-paketleme-grubu"]
     },
 
     {
       "id": 47,
       "name": "Palet Streci",
-      "url": "rutil-elektrod",
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855880/7_f4u5nk.jpg",
+      "url": "palet-streci",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855820/5_xd2rcj.jpg",
       "category": ["ambalaj-ve-paketleme-grubu"]
     },
 
     {
       "id": 48,
       "name": "Loctite Civata Sabitleyici",
-      "url": "paslanmaz-elektrod",
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855877/5_obtsn7.jpg",
+      "url": "loctite-civata-sabitleyici",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855913/1_yunpo0.jpg",
       "category": ["sizdirmazlik-grubu"]
     },
 
     {
       "id": 49,
       "name": "Weicon Flex 310 M Paslanmaz Çelik Sızdırmazlık Ürünü",
-      "url": "paslanmaz-kaynak-teli",
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855879/6_xxglha.jpg",
+      "url": "weicon-flex-310-m",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855915/2_awe8fe.jpg",
       "category": ["sizdirmazlik-grubu"]
     },
 
     {
       "id": 50,
       "name": "Weicon Civata Sabitleyici",
-      "url": "rutil-elektrod",
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855880/7_f4u5nk.jpg",
+      "url": "weicon-civata-sabitleyici",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728895990/eba1_arrfwr.jpg",
       "category": ["sizdirmazlik-grubu"]
     },
 
     {
       "id": 51,
       "name": "Eco Service Sprey Boya Kartela",
-      "url": "paslanmaz-kaynak-teli",
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855879/6_xxglha.jpg",
+      "url": "eco-service-sprey-boya-kartela",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855929/1_krohu2.jpg",
       "category": ["sprey-boya"]
     },
 
     {
       "id": 52,
       "name": "Eco Service Sprey Boya",
-      "url": "rutil-elektrod",
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855880/7_f4u5nk.jpg",
+      "url": "eco-service-sprey-boya",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855927/2_mywr7g.jpg",
       "category": ["sprey-boya"]
     },
 
     {
       "id": 53,
       "name": "Ceresit Köpük",
-      "url": "paslanmaz-elektrod",
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855877/5_obtsn7.jpg",
+      "url": "ceresit-kopuk",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855944/1_u0ohza.jpg",
       "category": ["yapi-kimyasallari-grubu"]
     },
 
     {
       "id": 54,
       "name": "Ceresit Silikon",
-      "url": "paslanmaz-kaynak-teli",
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855879/6_xxglha.jpg",
+      "url": "ceresit-silikon",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855945/2_dgzvjl.jpg",
       "category": ["yapi-kimyasallari-grubu"]
     },
 
     {
       "id": 55,
       "name": "Dayson PU Mastik",
-      "url": "rutil-elektrod",
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855880/7_f4u5nk.jpg",
+      "url": "dayson-pu-mastik",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855947/3_k9rzev.jpg",
       "category": ["yapi-kimyasallari-grubu"]
     },
 
     {
       "id": 56,
-      "name": "Kimyasal Dübel( Epoksi)",
-      "url": "paslanmaz-kaynak-teli",
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855879/6_xxglha.jpg",
+      "name": "Kimyasal Dübel (Epoksi)",
+      "url": "kimyasal-dubel-epoksi",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855949/4_lxkfeg.jpg",
       "category": ["yapi-kimyasallari-grubu"]
     },
 
     {
       "id": 57,
       "name": "Sista Silikon",
-      "url": "rutil-elektrod",
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855880/7_f4u5nk.jpg",
+      "url": "sista-silikon",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855951/5_zjh817.jpg",
       "category": ["yapi-kimyasallari-grubu"]
     },
 
     {
       "id": 58,
       "name": "502 Japon Yapıştırıcı 20 Gr.",
-      "url": "paslanmaz-kaynak-teli",
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855879/6_xxglha.jpg",
+      "url": "502-japon-yapistirici-20-gr",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855961/1_ce78kj.jpg",
       "category": ["yapistirici-grubu"]
     },
 
     {
       "id": 59,
       "name": "Derby 602 Japon Yapıştırıcı 20 Gr.",
-      "url": "rutil-elektrod",
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855880/7_f4u5nk.jpg",
+      "url": "derby-602-japon-yapistirici-20-gr",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855963/2_pusgbc.jpg",
       "category": ["yapistirici-grubu"]
     },
 
     {
       "id": 60,
       "name": "Mdf Kit",
-      "url": "paslanmaz-kaynak-teli",
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855879/6_xxglha.jpg",
+      "url": "mdf-kit",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855965/3_blrkl9.jpg",
       "category": ["yapistirici-grubu"]
     },
 
     {
       "id": 61,
       "name": "Weicon Yapıştırıcı Sprey",
-      "url": "rutil-elektrod",
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855880/7_f4u5nk.jpg",
+      "url": "weicon-yapistirici-sprey",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855967/4_vkzrbo.jpg",
       "category": ["yapistirici-grubu"]
     }
   ]

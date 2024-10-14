@@ -28,7 +28,7 @@ const HeroSlider = ({ sliderContent }) => {
           <div className="slider-image-contain">
             <Image
               src={slide.image}
-              alt={slide.title}
+              alt={slide.heading}
               fill
               style={{ objectFit: "cover" }}
               className="slider-image"
