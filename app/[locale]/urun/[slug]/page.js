@@ -4,6 +4,31 @@ import ProductInfo from "@/components/UI/ProductInfo"; // Ürün bilgileri bile�
 import "@/styles/product-details.css";
 import initTranslations from "../../../i18n";
 
+// Metadata ayarlama fonksiyonu
+export async function generateMetadata({ params: { locale, slug } }) {
+  const i18nNamespaces = ["allData"];
+  const { t } = await initTranslations(locale, i18nNamespaces); // Çeviri verilerini yükle
+  const data = t("allData", { returnObjects: true });
+
+  const singleProductItem = data.find((item) => item.url === slug);
+
+  if (!singleProductItem) {
+    return {
+      title: "Urun Bulunamad,",
+      description: "Aradiginiz urun bulunamadi.",
+    };
+  }
+
+  const defaultKeywords = "inoksist, bağlantı elemanları, teknik hırdavat, bakım kimyasalları, modüler su deposu, inoksist, inoks civata, inox civata, paslanmaz civata, paslanmaz somun, paslanmaz pul";
+  const keywords = `${singleProductItem.name || ""}, ${defaultKeywords}`;
+
+  return {
+    title: `${singleProductItem.name}`,
+    description: `${singleProductItem.description}`,
+    keywords: keywords.trim(),
+  };
+}
+
 // ÜRÜN DETAY SAYFASI
 export default async function ProductDetails({ params: { locale, slug } }) {
   const i18nNamespaces = ["allData"];

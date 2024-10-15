@@ -4,6 +4,12 @@ import "@/styles/contact.css";
 import ContactForm from "@/components/UI/ContactForm";
 import initTranslations from "../../i18n";
 
+export const metadata = {
+  title: "İletişim - İnoksist Endüstri Paslanmaz Civata Paslanmaz Somun | İstanbul",
+  description: "İletişim Bilgileri - İkitelli OSB Mahallesi, İmsan Sanayi Sitesi, E Blok No:3, 34306 Küçükçekmece, İstanbul. Bize +90 (212) 549 70 55 numaralı telefondan veya info@inoksist.com.tr e-posta adresinden ulaşabilirsiniz.",
+  keywords: "inoksist, ikitelli civata, imbus civata, m8 civata, inoks civata, inox civata, imbus civata, istanbul civata, İmsan Sanayi Sitesi, Küçükçekmece",
+};
+
 const i18nNamespaces = ["contact"];
 // İLETİŞİM
 export default async function Contact({ params: { locale } }) {
@@ -25,10 +31,7 @@ export default async function Contact({ params: { locale } }) {
                     <Col lg="4" md="12" sm="12" className="mb-3 mb-md-0">
                       <div className="contact__info-box">
                         <p className="fw-bold">{contactContent.addresslabel}</p>
-                        <p>
-                          Küçükçekmece i.o.s.b. mah. İmsan Sanayi sitesi E 3
-                          blok sok no 3 küçükçekmece / İSTANBUL
-                        </p>
+                        <p>Küçükçekmece i.o.s.b. mah. İmsan Sanayi sitesi E 3 blok sok no 3 küçükçekmece / İSTANBUL</p>
                       </div>
                     </Col>
 
@@ -44,9 +47,7 @@ export default async function Contact({ params: { locale } }) {
                     <Col lg="4" md="12" sm="12" className="mb-3 mb-md-0">
                       <div className="contact__info-box">
                         <p className="fw-bold"> {contactContent.emaillabel}</p>
-                        <a href="mailto:info@inoksist.com.tr">
-                          info@inoksist.com.tr
-                        </a>
+                        <a href="mailto:info@inoksist.com.tr">info@inoksist.com.tr</a>
                       </div>
                     </Col>
                   </Row>
@@ -58,26 +59,9 @@ export default async function Contact({ params: { locale } }) {
           {/* Alt Kısım: Google Maps ve Form */}
           <Row className="mt-5">
             {/* Sol Kısım: Google Haritalar */}
-            <Col
-              lg="5"
-              md="12"
-              sm="12"
-              className="d-flex align-items-stretch mb-4 mb-md-0"
-            >
-              <div
-                className="map-container"
-                style={{ width: "100%", height: "500px" }}
-              >
-                <iframe
-                  title="Google Maps"
-                  src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6016.617526971584!2d28.787778000000003!3d41.062243!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14caa591c3cabfa9%3A0x86483f9112bb615f!2s%C4%B0noksist%20Paslanmaz%20Civata%20Somun%20Pul%20Ana%20Tedarik%C3%A7isi!5e0!3m2!1str!2str!4v1726692358510!5m2!1str!2str&gestureHandling=greedy"
-                  width="100%"
-                  height="100%"
-                  style={{ border: 0 }}
-                  allowFullScreen=""
-                  aria-hidden="false"
-                  tabIndex="0"
-                ></iframe>
+            <Col lg="5" md="12" sm="12" className="d-flex align-items-stretch mb-4 mb-md-0">
+              <div className="map-container" style={{ width: "100%", height: "500px" }}>
+                <iframe title="Google Maps" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6016.617526971584!2d28.787778000000003!3d41.062243!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14caa591c3cabfa9%3A0x86483f9112bb615f!2s%C4%B0noksist%20Paslanmaz%20Civata%20Somun%20Pul%20Ana%20Tedarik%C3%A7isi!5e0!3m2!1str!2str!4v1726692358510!5m2!1str!2str&gestureHandling=greedy" width="100%" height="100%" style={{ border: 0 }} allowFullScreen="" aria-hidden="false" tabIndex="0"></iframe>
               </div>
             </Col>
 
