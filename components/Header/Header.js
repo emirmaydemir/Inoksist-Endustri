@@ -8,6 +8,7 @@ import "@/styles/header.css";
 import allProducts from "@/locales/tr/allData";
 import LanguageChanger from "@/components/LanguageChanger"; // Yeni dil değiştirici
 import Image from "next/image";
+import { usePathname } from "next/navigation";
 
 const socialLinks = [
   {
@@ -34,6 +35,8 @@ const socialLinks = [
 
 const Header = ({ navLinks, search }) => {
   const menuRef = useRef(null);
+  const pathname = usePathname();
+  const [activeIndex, setActiveIndex] = useState(""); // Seçili öğe için state
   const toggleMenu = () => menuRef.current.classList.toggle("menu__active");
 
   // --ARAMA İÇİN--
@@ -48,9 +51,7 @@ const Header = ({ navLinks, search }) => {
     setSearchTerm(searchQuery);
 
     if (searchQuery.trim()) {
-      const results = allProducts.allData.filter((product) =>
-        product.name.toLowerCase().includes(searchQuery)
-      );
+      const results = allProducts.allData.filter((product) => product.name.toLowerCase().includes(searchQuery));
       setSearchResults(results);
     } else {
       setSearchResults([]);
@@ -59,12 +60,7 @@ const Header = ({ navLinks, search }) => {
 
   // Tıklama dışı olaylarını kontrol etme
   const handleClickOutside = (event) => {
-    if (
-      resultsRef.current &&
-      !resultsRef.current.contains(event.target) &&
-      searchBoxRef.current &&
-      !searchBoxRef.current.contains(event.target)
-    ) {
+    if (resultsRef.current && !resultsRef.current.contains(event.target) && searchBoxRef.current && !searchBoxRef.current.contains(event.target)) {
       setSearchResults([]);
     }
   };
@@ -87,10 +83,28 @@ const Header = ({ navLinks, search }) => {
     return `${urlStart}upload/${transformations}/${urlEnd}`;
   }
 
-  const [activeIndex, setActiveIndex] = useState(""); // Seçili öğe için state
+  // Rota değiştikçe aktif menü öğesini güncelle
+  useEffect(() => {
+    const currentPath = pathname; // Geçerli rotayı al
+
+    // Ana menü öğesini kontrol et
+    const foundIndex = navLinks.findIndex((item) => item.path === currentPath);
+
+    if (foundIndex !== -1) {
+      setActiveIndex(foundIndex); // Ana menüde mevcutsa, aktif öğeyi güncelle
+    } else {
+      // Eğer ana menüde mevcut değilse, subMenu'ları kontrol et
+      navLinks.forEach((item, index) => {
+        const subMenuFound = item.subMenu?.some((subItem) => currentPath.startsWith(subItem.path));
+        if (subMenuFound) {
+          setActiveIndex(index); // Alt menüdeki yol mevcutsa, aktif öğeyi ayarla
+        }
+      });
+    }
+  }, [pathname]); // pathname değiştiğinde bu effect çalışacak
 
   const handleMenuItemClick = (index) => {
-    setActiveIndex(index); // Seçilen öğenin indeksini ayarla
+    setActiveIndex(index); // Tıklanan öğeyi aktif yap
   };
 
   return (
@@ -102,19 +116,9 @@ const Header = ({ navLinks, search }) => {
             <Col lg="8" md="8" sm="8">
               <div className="header__top__left">
                 <Link href="/" className="header__top__help">
-                  <Image
-                    src="https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1728242917/inoksist_wwxbpw.png"
-                    alt="İnoksist"
-                    width={140}
-                    height={33}
-                    aria-label="Ana Sayfaya Git"
-                    priority
-                  />
+                  <Image src="https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1728242917/inoksist_wwxbpw.png" alt="İnoksist" width={140} height={33} aria-label="Ana Sayfaya Git" priority />
                 </Link>
-                <a
-                  href="mailto:info@inoksist.com.tr"
-                  className="header__top__help"
-                >
+                <a href="mailto:info@inoksist.com.tr" className="header__top__help">
                   <i className="ri-mail-fill"></i> info@inoksist.com.tr
                 </a>
                 <a href="tel:+902125497055" className="header__top__help">
@@ -126,14 +130,7 @@ const Header = ({ navLinks, search }) => {
             <Col lg="4" md="4" sm="4">
               <div className="header__top__right d-flex align-items-center justify-content-end gap-4">
                 {socialLinks.map((item, index) => (
-                  <a
-                    href={item.url}
-                    key={index}
-                    className="d-flex align-items-center gap-1"
-                    aria-label={`${item.display} sayfamızı ziyaret edin`}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
+                  <a href={item.url} key={index} className="d-flex align-items-center gap-1" aria-label={`${item.display} sayfamızı ziyaret edin`} target="_blank" rel="noopener noreferrer">
                     <i className={item.icon}></i>
                   </a>
                 ))}
@@ -160,9 +157,7 @@ const Header = ({ navLinks, search }) => {
                     <Link
                       href={item.path}
                       aria-label={`${item.display} sayfasına git`}
-                      className={`nav__item ${
-                        activeIndex === index ? "active" : ""
-                      }`}
+                      className={`nav__item ${activeIndex === index ? "active" : ""}`}
                       onClick={() => handleMenuItemClick(index)} // Tıklandığında aktif öğeyi ayarla
                     >
                       {item.display}
@@ -172,12 +167,7 @@ const Header = ({ navLinks, search }) => {
                     {item.subMenu && (
                       <div className="sub__menu">
                         {item.subMenu.map((subItem, subIndex) => (
-                          <Link
-                            href={subItem.path}
-                            className="sub__menu-item"
-                            key={subIndex}
-                            aria-label={`Kategorimizdeki ${subItem.display} sayfasına git`}
-                          >
+                          <Link href={subItem.path} className="sub__menu-item" key={subIndex} aria-label={`Kategorimizdeki ${subItem.display} sayfasına git`}>
                             {subItem.display}
                           </Link>
                         ))}
@@ -193,12 +183,7 @@ const Header = ({ navLinks, search }) => {
             {/* Arama kutusu */}
             <div className="nav__right">
               <div className="search__box" ref={searchBoxRef}>
-                <input
-                  type="text"
-                  placeholder={search.display}
-                  value={searchTerm}
-                  onChange={handleSearch}
-                />
+                <input type="text" placeholder={search.display} value={searchTerm} onChange={handleSearch} />
                 <span>
                   <i className="ri-search-line"></i>
                 </span>
@@ -208,22 +193,8 @@ const Header = ({ navLinks, search }) => {
               {searchResults.length > 0 && (
                 <div className="search-results" ref={resultsRef}>
                   {searchResults.map((product, index) => (
-                    <Link
-                      href={`/urun/${product.url}`}
-                      key={index}
-                      className="search-result-card"
-                      onClick={handleResultClick}
-                      aria-label={`${product.name} ürününün detaylarını görüntüle`}
-                    >
-                      <Image
-                        loader={imageLoader}
-                        src={product.imgUrl}
-                        alt={product.name}
-                        width={100}
-                        height={100}
-                        style={{ objectFit: "contain" }}
-                        quality="auto"
-                      />
+                    <Link href={`/urun/${product.url}`} key={index} className="search-result-card" onClick={handleResultClick} aria-label={`${product.name} ürününün detaylarını görüntüle`}>
+                      <Image loader={imageLoader} src={product.imgUrl} alt={product.name} width={100} height={100} style={{ objectFit: "contain" }} quality="auto" />
                       <p>{product.name}</p>
                     </Link>
                   ))}
