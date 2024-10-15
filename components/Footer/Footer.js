@@ -36,23 +36,16 @@ const Footer = ({ footerData }) => {
               </Link>
             </div>
 
-            <p className="footer__logo-content">
-              {footerData.info.description}
-            </p>
+            <p className="footer__logo-content">{footerData.info.description}</p>
           </Col>
 
           <Col lg="3" md="6" sm="6">
             <div className="mb-4">
-              <h5 className="footer__link-title">
-                {footerData.categories.title}
-              </h5>
+              <h5 className="footer__link-title">{footerData.categories.title}</h5>
               <ListGroup>
                 {footerData.quickLinks.map((item, index) => (
                   <ListGroupItem key={index} className="p-0 mt-3 quick__link">
-                    <Link
-                      href={item.path}
-                      aria-label={`${item.display} sayfasına git`}
-                    >
+                    <Link href={item.path} aria-label={`${item.display} sayfasına git`}>
                       {item.display}
                     </Link>
                   </ListGroupItem>
@@ -63,53 +56,30 @@ const Footer = ({ footerData }) => {
 
           <Col lg="5" md="6" sm="6">
             <div className="mb-4">
-              <h5 className="footer__link-title mb-4">
-                {footerData.contactInfo.title}
-              </h5>
-              <p className="office__info">
-                İ.O.S.B. mah. İmsan Sanayi sitesi E 3 blok sok no 3 küçükçekmece
-                / İSTANBUL
-              </p>
-              <p className="office__info">
-                {footerData.contactInfo.phone} +90 (212) 549 70 55
-              </p>
+              <h5 className="footer__link-title mb-4">{footerData.contactInfo.title}</h5>
+              <p className="office__info">İ.O.S.B. mah. İmsan Sanayi sitesi E 3 blok sok no 3 küçükçekmece / İSTANBUL</p>
+              <p className="office__info">{footerData.contactInfo.phone} +90 (212) 549 70 55</p>
 
-              <p className="office__info">
-                {footerData.contactInfo.email}&nbsp;info@inoksist.com.tr
-              </p>
+              <p className="office__info">{footerData.contactInfo.email}&nbsp;info@inoksist.com.tr</p>
 
-              <p className="office__info">
-                {footerData.contactInfo.hours} 9.00 - 19.00
-              </p>
+              <p className="office__info">{footerData.contactInfo.hours} 9.00 - 19.00</p>
             </div>
           </Col>
 
           <Col lg="4" md="12" sm="12">
             <div className="mb-4">
-              <h5 className="footer__link-title">
-                {footerData.getInTouch.title}
-              </h5>
-              <p className="section__description">
-                {footerData.getInTouch.description}
-              </p>
+              <h5 className="footer__link-title">{footerData.getInTouch.title}</h5>
+              <p className="section__description">{footerData.getInTouch.description}</p>
               <div className="newsletter">
                 <input type="email" placeholder="Email" />
-                <Link href="/contact" className="newsletter-link">
+                <Link href="/iletisim" className="newsletter-link">
                   <i className="ri-send-plane-line"></i>
                 </Link>
               </div>
-              <h5 className="footer__link-title mt-4">
-                {footerData.social.title}
-              </h5>
+              <h5 className="footer__link-title mt-4">{footerData.social.title}</h5>
               <div className="social-icons mt-3">
                 {footerData.socialLinks.map((link, index) => (
-                  <a
-                    key={index}
-                    href={link.url}
-                    target="_blank"
-                    rel="noreferrer"
-                    aria-label={`${link.display} sosyal medya profilimize git`}
-                  >
+                  <a key={index} href={link.url} target="_blank" rel="noreferrer" aria-label={`${link.display} sosyal medya profilimize git`}>
                     <i className={link.icon}></i>
                   </a>
                 ))}

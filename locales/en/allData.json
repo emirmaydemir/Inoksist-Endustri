@@ -2,13 +2,13 @@
   "allData": [
     {
       "id": 1,
-      "name": "DIN 933 Altı Köşe Başlı Tam Paso Civata",
+      "name": "DIN 933 Hexagon Head Full Thread Bolt",
       "url": "din-933-alti-kose-civata-a2",
       "title2": "Hexagon Head Screws - Full Thread",
-      "title3": "Altı Köşe Başlı Tam Paso Civata",
+      "title3": "",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728505455/DIN933_m5dpff.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728505457/Screenshot_1_ckp6ea.png", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728505458/Screenshot_2_yjsr5h.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728505455/DIN933_m5dpff.jpg",
-      "description": "DIN 933, tamamen dişli ve altı köşe başlı cıvataları tanımlayan bir standarttır. Bu cıvatalar, sağlam yapıları ve tam dişli gövdeleri sayesinde güçlü bir tutuş sağlar. Altıgen baş yapısı, standart anahtarlar ve aletlerle kolay montaj imkanı sunar. Yüksek çekme dayanımına sahip olan bu cıvatalar, özellikle metal bağlantılarda güvenilir bir sabitleme sağlar. Farklı çap ve uzunluk seçenekleri ile sunulmakta olup, genellikle paslanmaz çelik veya çelik malzemeden üretilmektedir.",
+      "description": "DIN 933 is a standard that defines fully threaded hexagon head bolts. These bolts provide a strong grip due to their robust structures and fully threaded bodies. The hexagonal head design allows for easy assembly with standard wrenches and tools. With high tensile strength, these bolts offer reliable fastening, especially in metal connections. They are available in various diameters and lengths, typically made from stainless steel or carbon steel.",
       "specifications": [
         {
           "headers": ["Boy/ Ø", "M3", "M4", "M5", "M6", "M8", "M10", "M12", "M14", "M16", "M18", "M20", "M22", "M24", "M27", "M30"],
@@ -24,13 +24,13 @@
 
     {
       "id": 2,
-      "name": "DIN 931 Altı Köşe Başlı Yarım Paso Civata",
+      "name": "DIN 931 Hexagon Head Partial Thread Bolt",
       "url": "din-931-alti-kose-basli-yarim-paso-civata",
       "title2": "Hexagon Head Screws - Half Thread",
-      "title3": "Altı Köşe Başlı Yarım Paso Civata",
+      "title3": "",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728568104/Screenshot_2_opuud7.png", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728505372/Screenshot_1_nczfj9.png", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728505373/Screenshot_2_ohsk5e.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728568104/Screenshot_2_opuud7.png",
-      "description": "DIN 931, altı köşe başlı ve yarım dişli (yarım paso) cıvataları tanımlayan bir standarttır. Bu cıvatalar, kısmi diş yapısına sahip olup, dişli kısmı cıvatanın bir bölümünü kaplar ve geri kalanı düz bir şaft şeklindedir. Altıgen baş yapısı, standart anahtar ve aletlerle kolayca sıkma ve gevşetme işlemi sağlar. DIN 931 cıvataları, genellikle yüksek çekme dayanımı ve sağlam bağlantı gerektiren uygulamalarda kullanılır. Paslanmaz çelik veya çelik malzemeden üretilen bu cıvatalar, çeşitli boyut ve çap seçenekleriyle sunulmaktadır.",
+      "description": "DIN 931 defines hexagon head bolts with partial thread (half thread). These bolts have a partially threaded shaft, where the thread covers only a portion of the bolt, leaving the rest smooth. The hexagonal head allows for easy tightening and loosening with standard tools. DIN 931 bolts are typically used in applications requiring high tensile strength and secure connections. Available in a variety of sizes and diameters, they are commonly made from stainless steel or steel.",
       "specifications": [
         {
           "headers": ["Boy/ Ø", "M5", "M6", "M8", "M10", "M12", "M14", "M16", "M18", "M20", "M22", "M24", "M27", "M30", "M33", "M36"],
@@ -48,13 +48,13 @@
 
     {
       "id": 3,
-      "name": "DIN 6921 Flanşlı Civata",
+      "name": "DIN 6921 Flanged Bolt",
       "url": "din-6921-flansli-civata",
       "title2": "Hexagon Socket Button Head Screws Flange Without Serration",
-      "title3": "Flanşlı Civata",
+      "title3": "",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728506651/DIN6921_f1cvym.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506653/Screenshot_1_oqoqwt.png", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506656/Screenshot_2_cfuc64.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506651/DIN6921_f1cvym.jpg",
-      "description": "DIN 6921, flanşlı başlı cıvataları tanımlayan bir standarttır. Bu cıvatalar, baş kısmında entegre bir flanş (yassı ve genişletilmiş alan) bulundurur, bu da ekstra pul kullanımını gereksiz kılar ve daha geniş bir yüzey alanında yük dağılımı sağlar. Flanşlı yapısı sayesinde bağlantı noktalarında kayma riskini azaltır ve sıkma sırasında daha güvenilir bir tutuş sunar. Genellikle otomotiv, makine mühendisliği ve metal işleme gibi endüstriyel uygulamalarda kullanılır. DIN 6921 cıvataları çelik ve paslanmaz çelik gibi dayanıklı malzemelerden üretilir ve farklı boyutlarda sunulur.",
+      "description": "DIN 6921 defines flange head bolts, which feature an integrated flange (a flat and expanded area) under the head. This design eliminates the need for additional washers and provides better load distribution over a larger surface area. The flange reduces the risk of slippage at connection points and offers a more secure grip during tightening. These bolts are commonly used in industries such as automotive, mechanical engineering, and metalworking. DIN 6921 bolts are made from durable materials like steel and stainless steel and are available in various sizes.",
       "specifications": [
         {
           "headers": ["Boy/ Ø", "M5", "M6", "M8", "M10"],
@@ -72,13 +72,13 @@
 
     {
       "id": 4,
-      "name": "DIN 912 İmbus",
+      "name": "DIN 912 Socket Head Cap Screw",
       "url": "din-912-imbus",
       "title2": "Hexagon Socket Head Cap Screws",
-      "title3": "İmbus",
+      "title3": "",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728504834/DIN912_mr8lvv.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728504835/Screenshot_2_seuncf.png", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728504835/Screenshot_1_gis6gg.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728504834/DIN912_mr8lvv.jpg",
-      "description": "DIN 912, silindirik başlı ve içten altıgen yuvalı (imbus) cıvataları tanımlayan bir standarttır. Bu cıvatalar, yüksek sıkma torku ve hassas montaj gerektiren uygulamalarda kullanılır. İmbus baş yapısı, standart altıgen anahtarlar ile kolayca sıkılmasını sağlar ve dar alanlarda montaj imkanı sunar. Silindirik başı, estetik bir görünüm sunarken sağlam bağlantılar sağlar. DIN 912 cıvataları, genellikle makine mühendisliği, otomotiv ve endüstriyel ekipmanlarda tercih edilir. Çelik ve paslanmaz çelik gibi dayanıklı malzemelerden üretilir ve çeşitli boyutlarda temin edilebilir.",
+      "description": "DIN 912 defines cylindrical head bolts with an internal hex socket (Allen). These bolts are used in applications that require high tightening torque and precise assembly. The Allen socket design allows easy tightening with standard hex keys and provides installation in confined spaces. The cylindrical head offers a sleek appearance while ensuring strong connections. DIN 912 bolts are commonly used in mechanical engineering, automotive, and industrial equipment. They are made from durable materials like steel and stainless steel and are available in various sizes.",
       "specifications": [
         {
           "headers": ["Boy/ Ø", "M3", "M4", "M5", "M6", "M8", "M10", "M12", "M14", "M16", "M20"],
@@ -96,13 +96,13 @@
 
     {
       "id": 5,
-      "name": "DIN 7991 - ISO 10642 Havşa Başlı İmbus",
+      "name": "DIN 7991 - ISO 10642 Countersunk Head Socket Screw",
       "url": "din-7991-iso-10642-havsa-basli-imbus",
       "title2": "Countersunk Flat Head Screws",
-      "title3": "Havşa Başlı İmbus",
+      "title3": "",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728507780/DIN7991_-_ISO10642_dqkr9r.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728507784/Screenshot_1_xpvswy.png", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728507788/Screenshot_2_qxjxf4.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728507780/DIN7991_-_ISO10642_dqkr9r.jpg",
-      "description": "DIN 7991 (ISO 10642), havşa başlı ve içten altıgen yuvalı (imbus) cıvataları tanımlayan bir standarttır. Bu cıvatalar, başlarının yüzeyle tamamen aynı hizada olmasını sağlayarak düz ve temiz bir montaj yüzeyi sunar. İmbus baş yapısı, altıgen anahtarlarla kolayca sıkılmasına olanak tanır ve hassas uygulamalar için idealdir. DIN 7991 cıvataları, özellikle estetik ve düşük profilli montaj gerektiren yerlerde, makine mühendisliği ve metal bağlantılarında kullanılır. Paslanmaz çelik veya çelikten üretilen bu civatalar, çeşitli boyut ve malzeme seçenekleriyle sunulur.",
+      "description": "DIN 7991 (ISO 10642) defines countersunk head bolts with an internal hex socket (Allen). These bolts provide a flat and clean mounting surface as their heads sit flush with the surface. The Allen head design allows easy tightening with hex keys and is ideal for precision applications. DIN 7991 bolts are commonly used in mechanical engineering and metal connections, especially in areas requiring a low-profile and aesthetic appearance. Made from stainless steel or steel, they are available in various sizes and materials.",
       "specifications": [
         {
           "headers": ["Boy/ Ø", "M3", "M4", "M5", "M6", "M8", "M10", "M12", "M16", "M20"],
@@ -121,13 +121,13 @@
 
     {
       "id": 6,
-      "name": "ISO 7380 Bombe Başlı İmbus",
+      "name": "ISO 7380 Button Head Socket Cap Screw",
       "url": "iso-7380-bombe-basli-imbus",
       "title2": "Hexagon Socket Button Head Screws",
-      "title3": "Bombe Başlı İmbus",
+      "title3": "",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728508439/ISO7380_nihnv4.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728508444/Screenshot_1_qxvfrl.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728508439/ISO7380_nihnv4.jpg",
-      "description": "ISO 7380 Bombe Başlı İmbus vidaları, özellikle yüksek mukavemet ve dayanıklılık gerektiren uygulamalarda kullanılan özel bağlantı elemanlarıdır. Bombe başı tasarımı, vidaların üst kısmında yuvarlatılmış bir yüzey oluşturarak, yüzeyle uyumlu bir şekilde oturmalarını sağlar ve estetik bir görünüm sunar. Bu vidalar, genellikle paslanmaz çelik veya yüksek kaliteli alaşımlardan üretilir, böylece korozyona karşı direnç gösterir. ISO 7380 standardı, bu vidaların ölçü, tolerans ve mekanik özelliklerini belirleyerek güvenilirlik ve performans sağlar. Otomotiv, makine mühendisliği ve inşaat gibi pek çok sektörde yaygın olarak kullanılmaktadır.",
+      "description": "ISO 7380 Button Head Socket Cap Screws are specialized fasteners designed for applications requiring high strength and durability. The rounded button head design allows for a smooth, aesthetically pleasing finish that sits flush with the surface. Typically made from stainless steel or high-grade alloys, these screws offer excellent corrosion resistance. The ISO 7380 standard ensures precise dimensions, tolerances, and mechanical properties, making them reliable and performance-oriented. They are widely used in industries such as automotive, mechanical engineering, and construction.",
       "specifications": [
         {
           "headers": ["Boy/ Ø", "M3", "M4", "M5", "M6", "M8", "M10", "M12"],

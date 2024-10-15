@@ -36,6 +36,7 @@ export default async function ProductDetails({ params: { locale, slug } }) {
   const data = t("allData", { returnObjects: true });
 
   const singleProductItem = data.find((item) => item.url === slug);
+  const title = locale === "tr" ? "Teknik Özellikler" : "Technical Features";
 
   if (!singleProductItem) {
     return <p>Ürün bulunamadı.</p>; // Ürün yoksa bir mesaj göster
@@ -63,7 +64,7 @@ export default async function ProductDetails({ params: { locale, slug } }) {
             <Row className="mt-3">
               <Col lg="12">
                 <div className="technical-features">
-                  <h2 className="technical-features-title">Teknik Özellikler</h2>
+                  <h2 className="technical-features-title">{title}</h2>
                   <hr className="technical-features-line" />
                 </div>
               </Col>

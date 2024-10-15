@@ -47,11 +47,11 @@ const Header = ({ navLinks, search }) => {
 
   // Arama fonksiyonu
   const handleSearch = (e) => {
-    const searchQuery = e.target.value.toLowerCase();
+    const searchQuery = e.target.value;
     setSearchTerm(searchQuery);
 
     if (searchQuery.trim()) {
-      const results = allProducts.allData.filter((product) => product.name.toLowerCase().includes(searchQuery));
+      const results = allProducts.allData.filter((product) => product.name.toLowerCase().includes(searchQuery.toLowerCase()));
       setSearchResults(results);
     } else {
       setSearchResults([]);
