@@ -1,4 +1,5 @@
 /** @type {import('next').NextConfig} */
+import CompressionPlugin from "compression-webpack-plugin";
 const nextConfig = {
   images: {
     remotePatterns: [
@@ -9,6 +10,12 @@ const nextConfig = {
         pathname: "/**", // Tüm yollar için geçerli
       },
     ],
+  },
+  webpack: (config, { isServer }) => {
+    if (!isServer) {
+      config.plugins.push(new CompressionPlugin());
+    }
+    return config;
   },
 };
 
