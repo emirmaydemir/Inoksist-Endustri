@@ -22,15 +22,10 @@ export default function LanguageChanger({ className }) {
     document.cookie = `NEXT_LOCALE=${newLocale};expires=${date.toUTCString()};path=/;SameSite=Lax;Secure`;
 
     // redirect to the new locale path
-    if (
-      currentLocale === i18nConfig.defaultLocale &&
-      !i18nConfig.prefixDefault
-    ) {
+    if (currentLocale === i18nConfig.defaultLocale && !i18nConfig.prefixDefault) {
       router.push("/" + newLocale + currentPathname);
     } else {
-      router.push(
-        currentPathname.replace(`/${currentLocale}`, `/${newLocale}`)
-      );
+      router.push(currentPathname.replace(`/${currentLocale}`, `/${newLocale}`));
     }
     router.refresh();
   };
@@ -38,28 +33,10 @@ export default function LanguageChanger({ className }) {
   return (
     <div className={className}>
       {/* Türk Bayrağı */}
-      {currentLocale === "tr" && (
-        <Image
-          src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg"
-          alt="Turkish Flag"
-          width={30}
-          height={20}
-          onClick={() => handleChange("en")}
-          className="flag-icon"
-        />
-      )}
+      {currentLocale === "tr" && <Image src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" alt="Turkish Flag" width={30} height={20} onClick={() => handleChange("en")} className="flag-icon" />}
 
       {/* İngiliz Bayrağı */}
-      {currentLocale === "en" && (
-        <Image
-          src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg"
-          alt="English Flag"
-          width={30}
-          height={20}
-          onClick={() => handleChange("tr")}
-          className="flag-icon"
-        />
-      )}
+      {currentLocale === "en" && <Image src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="English Flag" width={30} height={20} onClick={() => handleChange("tr")} className="flag-icon" />}
     </div>
   );
 }
