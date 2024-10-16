@@ -4,7 +4,7 @@ import path from "path";
 //export const revalidate = 60;
 
 export default function sitemap() {
-  const baseUrl = "http://localhost:3000"; // Burayı canlı URL ile değiştirin
+  const baseUrl = "https://inoksist-endustri.netlify.app"; // Burayı canlı URL ile değiştirin
 
   // JSON dosyasının yolunu belirtin
   const filePath = path.join(process.cwd(), "locales", "tr", "allData.json");
