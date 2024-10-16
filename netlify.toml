@@ -1,10 +1,50 @@
-# netlify.toml
+[images]
+remote_images = [
+  "^(?:https:\\/\\/res\\.cloudinary\\.com(?:\\/(?!\\.)(?:(?:(?!(?:^|\\/)\\.).)*?)|$))$"
+]
 
 [build]
-  publish = ".next"
-  command = "npm run build"
+publish = ".next"
+command = "npm run build"
 
 [[headers]]
-  for = "/*"
+for = "/*"
+
   [headers.values]
-    "Content-Encoding" = "gzip"
+  Content-Encoding = "gzip"
+
+[[redirects]]
+from = "/_next/image"
+to = "/.netlify/images?url=:url&w=:width&q=:quality"
+status = 200
+
+  [redirects.query]
+  url = ":url"
+  w = ":width"
+  q = ":quality"
+
+[[redirects]]
+from = "/_ipx/*"
+to = "/.netlify/images?url=:url&w=:width&q=:quality"
+status = 200
+
+  [redirects.query]
+  url = ":url"
+  w = ":width"
+  q = ":quality"
+
+[context]
+
+  [context.production]
+
+    [context.production.images]
+    remote_images = [
+      "^(?:https:\\/\\/res\\.cloudinary\\.com(?:\\/(?!\\.)(?:(?:(?!(?:^|\\/)\\.).)*?)|$))$"
+    ]
+
+  [context.main]
+
+    [context.main.images]
+    remote_images = [
+      "^(?:https:\\/\\/res\\.cloudinary\\.com(?:\\/(?!\\.)(?:(?:(?!(?:^|\\/)\\.).)*?)|$))$"
+    ]
