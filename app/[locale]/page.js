@@ -10,14 +10,7 @@ import Image from "next/image"; // next/image'den içe aktar
 
 import TrendyolSection from "@/components/UI/TrendyolSection";
 
-const i18nNamespaces = [
-  "services",
-  "homeSlider",
-  "aboutSection",
-  "motivation",
-  "testimonial",
-  "service",
-];
+const i18nNamespaces = ["services", "homeSlider", "aboutSection", "motivation", "testimonial", "service"];
 
 export default async function HomePage({ params: { locale } }) {
   const { t } = await initTranslations(locale, i18nNamespaces);
@@ -44,13 +37,7 @@ export default async function HomePage({ params: { locale } }) {
             <Row className="form__row">
               <Col lg="12" md="12" sm="12">
                 <div className="find__cars-right">
-                  <Image
-                    src="https://res.cloudinary.com/di9qvtepw/image/upload/v1728242922/markalar_wcicpo.jpg"
-                    alt="Sponsorlar"
-                    width={1300}
-                    height={100}
-                    className="img-fluid"
-                  />
+                  <Image src="https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/f_webp/v1728242922/markalar_wcicpo.jpg" alt="Sponsorlar" width={1300} height={100} className="img-fluid" />
                 </div>
               </Col>
             </Row>

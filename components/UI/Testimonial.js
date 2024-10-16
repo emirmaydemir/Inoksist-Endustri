@@ -45,7 +45,7 @@ const Testimonial = ({ testimonialData }) => {
           <div className="product-image mb-3">
             <Image
               src={images[index]} // Resmin kaynağı
-              alt={`Urun ${item.id}`}
+              alt={`Urun ${item.title}`}
               fill
               style={{ objectFit: "contain" }}
               sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"

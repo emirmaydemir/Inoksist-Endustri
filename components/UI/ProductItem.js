@@ -10,7 +10,8 @@ const ProductItem = (props) => {
   function imageLoader(config) {
     const urlStart = config.src.split("upload/")[0];
     const urlEnd = config.src.split("upload/")[1];
-    const transformations = `q_${config.quality || "auto"}`;
+    const format = "webp";
+    const transformations = `q_${config.quality || "auto"}/f_${format}`;
     return `${urlStart}upload/${transformations}/${urlEnd}`;
   }
 
