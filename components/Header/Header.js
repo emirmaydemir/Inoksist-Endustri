@@ -5,7 +5,6 @@ import React, { useRef, useState, useEffect } from "react";
 import { Container, Row, Col } from "reactstrap";
 import Link from "next/link"; // Next.js Link bileşeni
 import "@/styles/header.css";
-import allProducts from "@/locales/tr/allData";
 import LanguageChanger from "@/components/LanguageChanger"; // Yeni dil değiştirici
 import Image from "next/image";
 import { usePathname } from "next/navigation";
@@ -33,7 +32,9 @@ const socialLinks = [
   },
 ];
 
-const Header = ({ navLinks, search }) => {
+const Header = ({ navLinks, search, locale }) => {
+  const [allProducts, setAllProducts] = useState([]); //değişen dile göre ürünleri filtreleme gösterme
+
   const menuRef = useRef(null);
   const pathname = usePathname();
   const [activeIndex, setActiveIndex] = useState(""); // Seçili öğe için state
@@ -51,7 +52,7 @@ const Header = ({ navLinks, search }) => {
     setSearchTerm(searchQuery);
 
     if (searchQuery.trim()) {
-      const results = allProducts.allData.filter((product) => product.name.toLowerCase().includes(searchQuery.toLowerCase()));
+      const results = allProducts.filter((product) => product.name.toLowerCase().includes(searchQuery.toLowerCase()));
       setSearchResults(results);
     } else {
       setSearchResults([]);
@@ -83,9 +84,21 @@ const Header = ({ navLinks, search }) => {
     return `${urlStart}upload/${transformations}/${urlEnd}`;
   }
 
+  useEffect(() => {
+    const loadProducts = async () => {
+      try {
+        const module = await import(`@/locales/${locale}/allData`);
+        setAllProducts(module.allData); // Yüklenen veriyi state'e ata
+      } catch (error) {
+        console.error("Dil dosyasi yuklenirken hata olustu:", error);
+      }
+    };
+    loadProducts();
+  }, [locale]); // `locale` değiştiğinde yeniden yükleme yapılacak. BU SAYEDE DİL NEYSE ARAMA SONUÇLARI DİLİ O VERİLERİ GETİRECEK.
+
   // Rota değiştikçe aktif menü öğesini güncelle
   useEffect(() => {
-    const currentPath = pathname; // Geçerli rotayı al
+    const currentPath = pathname.replace(/^\/en/, ""); // Geçerli rotayı al en değerini çıkartıyoruz hatalı rota tespiti yapmamak için
 
     // Ana menü öğesini kontrol et
     const foundIndex = navLinks.findIndex((item) => item.path === currentPath);

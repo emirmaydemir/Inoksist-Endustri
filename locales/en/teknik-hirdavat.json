@@ -124,7 +124,7 @@
       "id": 16,
       "name": "Metal Cutting Discs",
       "url": "metal-kesme-diskleri",
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855875/3_lzliq8.jpg",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728946300/Metal_Kesme_Diskleri_cnwyix.png",
       "category": ["kesici-ve-asindirici-grubu"]
     },
 
@@ -132,7 +132,7 @@
       "id": 17,
       "name": "Industrial Metal Cutting Discs",
       "url": "endustriyel-metal-kesme-diskleri",
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855876/4_jfb77v.jpg",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728946300/Endustriyel_Metal_Kesme_Diskleri_osnk56.png",
       "category": ["kesici-ve-asindirici-grubu"]
     },
 
@@ -140,7 +140,7 @@
       "id": 18,
       "name": "Inox Cutting Discs",
       "url": "inox-kesme-diskleri",
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855877/5_obtsn7.jpg",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728946301/Inox_Kesme_Diskleri_tbydvg.png",
       "category": ["kesici-ve-asindirici-grubu"]
     },
 
@@ -148,7 +148,7 @@
       "id": 19,
       "name": "Cut & Cut Inox Cutting Discs",
       "url": "cut-inox-kesme-diskleri",
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855879/6_xxglha.jpg",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728946295/Cut_Cut_Inox_Kesme_Diskleri_daxrrr.jpg",
       "category": ["kesici-ve-asindirici-grubu"]
     },
 
@@ -156,7 +156,7 @@
       "id": 20,
       "name": "Casting Cutting Discs",
       "url": "dokum-kesme-diskleri",
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855880/7_f4u5nk.jpg",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728946298/Dokum_Kesme_Diskleri_pvjpmb.png",
       "category": ["kesici-ve-asindirici-grubu"]
     },
 
@@ -164,7 +164,7 @@
       "id": 21,
       "name": "Marble Cutting Discs",
       "url": "mermer-kesme-diskleri",
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855875/3_lzliq8.jpg",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728946298/Mermer_Kesme_Diskleri_hubrn4.png",
       "category": ["kesici-ve-asindirici-grubu"]
     },
 
@@ -172,7 +172,7 @@
       "id": 22,
       "name": "Aluminum Cutting Discs",
       "url": "aluminyum-kesme-diskleri",
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855876/4_jfb77v.jpg",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728946298/Aluminyum_Kesme_Diskleri_hvncag.png",
       "category": ["kesici-ve-asindirici-grubu"]
     },
 
@@ -180,7 +180,7 @@
       "id": 23,
       "name": "ZA Casting Cutting Discs",
       "url": "za-dokum-kesme-diskleri",
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855877/5_obtsn7.jpg",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728946301/ZA_Dokum_Kesme_Diskleri_vzkovb.png",
       "category": ["kesici-ve-asindirici-grubu"]
     },
 
@@ -188,7 +188,7 @@
       "id": 24,
       "name": "AC Casting Cutting Discs",
       "url": "ac-dokum-kesme-diskleri",
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855879/6_xxglha.jpg",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728946296/AC_Dokum_Kesme_Diskleri_gbdjrk.png",
       "category": ["kesici-ve-asindirici-grubu"]
     },
 
@@ -196,7 +196,7 @@
       "id": 25,
       "name": "Metal Cutting Fixed Table Discs",
       "url": "metal-kesme-sabit-tezgah-diskleri",
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855880/7_f4u5nk.jpg",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728946300/Metal_Kesme_Sabit_Kesme_Tezgah_Diskleri_xqygeb.png",
       "category": ["kesici-ve-asindirici-grubu"]
     },
 
@@ -204,7 +204,7 @@
       "id": 26,
       "name": "Casting Cutting Fixed Table Discs",
       "url": "dokum-kesme-sabit-tezgah-diskleri",
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855875/3_lzliq8.jpg",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728946298/Dokum_Kesme_Sabit_Tezgah_Diskleri_dvexeu.png",
       "category": ["kesici-ve-asindirici-grubu"]
     },
 
@@ -212,7 +212,7 @@
       "id": 27,
       "name": "Rail Cutting Discs",
       "url": "ray-kesme-diskleri",
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855876/4_jfb77v.jpg",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728946303/Ray_Kesme_Diskleri_uv6o3e.png",
       "category": ["kesici-ve-asindirici-grubu"]
     },
 
@@ -220,7 +220,7 @@
       "id": 28,
       "name": "Metal Deburring Discs",
       "url": "metal-capak-alma-diskleri",
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855877/5_obtsn7.jpg",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728946644/Metal_Capak_Alma_Diskleri_ifginm.png",
       "category": ["kesici-ve-asindirici-grubu"]
     },
 
@@ -228,7 +228,7 @@
       "id": 29,
       "name": "Metal Plus Deburring Discs",
       "url": "metal-plus-capak-alma-diskleri",
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855879/6_xxglha.jpg",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728946643/Metal_Plus_Capak_Alma_Diskleri_xtruz0.png",
       "category": ["kesici-ve-asindirici-grubu"]
     },
 
@@ -236,7 +236,7 @@
       "id": 30,
       "name": "Inox Deburring Discs",
       "url": "inox-capak-alma-diskleri",
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855880/7_f4u5nk.jpg",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728946644/Inox_Capak_Alma_Diskleri_ms0jea.png",
       "category": ["kesici-ve-asindirici-grubu"]
     },
 
@@ -244,7 +244,7 @@
       "id": 31,
       "name": "Cast Deburring Discs",
       "url": "dokum-capak-alma-diskleri",
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855877/5_obtsn7.jpg",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728946642/Dokum_Capak_Alma_Diskleri_fvxahf.png",
       "category": ["kesici-ve-asindirici-grubu"]
     },
 
@@ -252,7 +252,7 @@
       "id": 32,
       "name": "ZA Plus Deburring Discs",
       "url": "za-plus-capak-alma-diskleri",
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855879/6_xxglha.jpg",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728946644/ZA_Plus_Capak_Alma_Diskleri_wi2iua.png",
       "category": ["kesici-ve-asindirici-grubu"]
     },
 
@@ -260,7 +260,7 @@
       "id": 33,
       "name": "Aluminum Deburring Discs",
       "url": "aluminyum-capak-alma-diskleri",
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855880/7_f4u5nk.jpg",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728946642/Aluminyum_Capak_Alma_Diskleri_i46mqh.png",
       "category": ["kesici-ve-asindirici-grubu"]
     },
 
@@ -268,7 +268,7 @@
       "id": 34,
       "name": "Comfort Line ZR SD Flap Discs",
       "url": "comfort-line-zr-sd-flap-diskler",
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855877/5_obtsn7.jpg",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728944155/Comfort_Line_ZR_SD_Flap_Diskler_z4d121.png",
       "category": ["kesici-ve-asindirici-grubu"]
     },
 
@@ -276,7 +276,7 @@
       "id": 35,
       "name": "Comfort Line ZR HD Flap Discs",
       "url": "comfort-line-zr-hd-flap-diskler",
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855879/6_xxglha.jpg",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728944152/Comfort_Line_ZR_HD_Flap_Diskler_wooyjn.png",
       "category": ["kesici-ve-asindirici-grubu"]
     },
 
@@ -284,7 +284,7 @@
       "id": 36,
       "name": "Premium Line AO SD Flap Discs",
       "url": "premium-line-ao-sd-flap-diskler",
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855880/7_f4u5nk.jpg",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728944157/Premium_Line_AO_SD_Flap_Diskler_vnfbrl.png",
       "category": ["kesici-ve-asindirici-grubu"]
     },
 
@@ -292,7 +292,7 @@
       "id": 37,
       "name": "Premium Line ZR SD Flap Discs",
       "url": "premium-line-zr-sd-flap-diskler",
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855877/5_obtsn7.jpg",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728944152/Premium_Line_ZR_SD_Flap_Diskler_o8bvpn.png",
       "category": ["kesici-ve-asindirici-grubu"]
     },
 
@@ -300,7 +300,7 @@
       "id": 38,
       "name": "Premium Line ZR HD Flap Discs",
       "url": "premium-line-zr-hd-flap-diskler",
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855879/6_xxglha.jpg",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728944157/Premium_ZR_HD_Flap_Diskler_faqqko.png",
       "category": ["kesici-ve-asindirici-grubu"]
     },
 
@@ -308,15 +308,15 @@
       "id": 39,
       "name": "Premium Line CE SD Flap Discs",
       "url": "premium-line-ce-sd-flap-diskler",
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855880/7_f4u5nk.jpg",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728944154/Premium_Line_CE_SD_Flap_Diskler_uiax3m.png",
       "category": ["kesici-ve-asindirici-grubu"]
     },
 
     {
       "id": 40,
-      "name": "Hook-and-Loop Discs",
+      "name": "Velcro Discs",
       "url": "cirtli-diskler",
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855877/5_obtsn7.jpg",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728946807/Cirtli_Diskler_yfe5jn.webp",
       "category": ["kesici-ve-asindirici-grubu"]
     },
 
@@ -324,7 +324,7 @@
       "id": 41,
       "name": "Belt Sanders",
       "url": "bant-zimparalar",
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855879/6_xxglha.jpg",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728946806/Bant_Zimparalar_p2r5u2.jpg",
       "category": ["kesici-ve-asindirici-grubu"]
     },
 
@@ -332,7 +332,7 @@
       "id": 42,
       "name": "Roller Sanders",
       "url": "rulo-zimparalar",
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855880/7_f4u5nk.jpg",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728946932/Rulo_Zimparalar_qzo12z.png",
       "category": ["kesici-ve-asindirici-grubu"]
     },
 
@@ -378,7 +378,7 @@
 
     {
       "id": 48,
-      "name": "Loctite Bolt Locking Adhesive",
+      "name": "Loctite Bolt Locker",
       "url": "loctite-civata-sabitleyici",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855913/1_yunpo0.jpg",
       "category": ["sizdirmazlik-grubu"]
