@@ -1,0 +1,10 @@
+# netlify.toml
+
+[build]
+  publish = ".next"
+  command = "npm run build"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    "Content-Encoding" = "gzip"
