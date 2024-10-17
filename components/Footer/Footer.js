@@ -94,7 +94,9 @@ const Footer = ({ footerData }) => {
                   <i className="ri-copyright-line"></i>
                   {year} {footerData.footerBottom.text} inoksist.com.tr ®
                 </span>
-                <span>DigiSoftware</span>
+                <a href="https://emirmaydemir.github.io/" target="_blank" rel="noreferrer" aria-label="GitHub profilime git" style={{ textDecoration: "none", color: "inherit" }}>
+                  <span>DigiSoftware</span>
+                </a>
               </p>
             </div>
           </Col>
