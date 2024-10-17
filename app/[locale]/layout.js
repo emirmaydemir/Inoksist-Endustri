@@ -3,6 +3,7 @@ import WhatsAppButton from "@/components/UI/WhatsAppButton";
 import ToastNotifications from "@/components/UI/ToastNotifications";
 import Header from "@/components/Header/Header";
 import Footer from "@/components/Footer/Footer";
+import ClientSpinner from "@/components/UI/ClientSpinner";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "remixicon/fonts/remixicon.css";
 import "slick-carousel/slick/slick.css";
@@ -12,7 +13,6 @@ import i18nConfig from "@/i18nConfig";
 import initTranslations from "../i18n";
 import TranslationsProvider from "@/components/TranslationsProvider";
 import { notFound } from "next/navigation";
-import Head from "next/head";
 
 const i18nNamespaces = ["footer", "navLinks"];
 
@@ -36,16 +36,17 @@ export default async function RootLayout({ children, params: { locale } }) {
   const search = t("navLinks:search", { returnObjects: true });
   return (
     <html lang={locale}>
-      <Head>
+      <head>
         <link rel="preconnect" href="https://res.cloudinary.com" />
         <link rel="dns-prefetch" href="https://res.cloudinary.com" />
         {/* Buraya Google Fonts ve diğer meta etiketlerini ekleyin */}
         <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;400;600;700;900&display=swap" rel="stylesheet" />
         <link rel="preload" href="https://cdn.jsdelivr.net/npm/remixicon/fonts/remixicon.css" as="style" onLoad="this.onload=null;this.rel='stylesheet'" />
-      </Head>
+      </head>
       <TranslationsProvider namespaces={i18nNamespaces} locale={locale} resources={resources}>
         <body>
           <Fragment>
+            <ClientSpinner />
             <Header navLinks={navLinks} search={search} locale={locale}></Header>
             <main>{children}</main>
             <WhatsAppButton />
