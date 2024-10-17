@@ -33,6 +33,12 @@ const HeroSlider = ({ sliderContent }) => {
               style={{ objectFit: "cover" }}
               className="slider-image"
               priority
+              srcSet={`
+                ${slide.image}?w=300 300w,
+                ${slide.image}?w=600 600w,
+                ${slide.image}?w=1200 1200w
+              `}
+              sizes="(max-width: 600px) 100vw, 600px"
             />
             <div className="overlay" /> {/* Gradyan overlay için div */}
           </div>

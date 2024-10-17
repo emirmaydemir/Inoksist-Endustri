@@ -5,7 +5,7 @@ import "@/styles/testimonial.css";
 import Image from "next/image"; // Resim bileşenini içe aktarın
 
 const Testimonial = ({ testimonialData }) => {
-  const images = ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728505455/DIN933_m5dpff.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728488379/966202298_ntgmwm.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506082/DIN1587_ijftle.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/v1728506651/DIN6921_f1cvym.jpg"];
+  const images = ["https://res.cloudinary.com/di9qvtepw/image/upload/q_auto,f_webp/v1728505455/DIN933_m5dpff.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto,f_webp/v1728488379/966202298_ntgmwm.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto,f_webp/v1728506082/DIN1587_ijftle.jpg", "https://res.cloudinary.com/di9qvtepw/image/upload/q_auto,f_webp/v1728506651/DIN6921_f1cvym.jpg"];
 
   const settings = {
     dots: true,

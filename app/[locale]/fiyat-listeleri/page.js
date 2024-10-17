@@ -25,7 +25,7 @@ export default async function PriceList({ params: { locale } }) {
               <div className="price-details-card">
                 <Row>
                   <Col md="6" className="image-col">
-                    <Image src="https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1728242929/price_m0tlcn.jpg" alt="Fiyat Listeleri" width={600} height={100} className="img-fluid" />
+                    <Image src="https://res.cloudinary.com/di9qvtepw/image/upload/q_auto,f_webp/v1728242929/price_m0tlcn.jpg" alt="Fiyat Listeleri" width={600} height={100} className="img-fluid" />
                   </Col>
                   <Col md="6" className="content-col">
                     <h2 className="price-title">{priceContent.title}</h2>

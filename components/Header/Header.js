@@ -81,7 +81,7 @@ const Header = ({ navLinks, search, locale }) => {
     const urlStart = config.src.split("upload/")[0];
     const urlEnd = config.src.split("upload/")[1];
     const format = "webp";
-    const transformations = `q_${config.quality || "auto"}/f_${format}`;
+    const transformations = `q_${config.quality || "auto"},f_${format}`;
     return `${urlStart}upload/${transformations}/${urlEnd}`;
   }
 
@@ -130,7 +130,7 @@ const Header = ({ navLinks, search, locale }) => {
             <Col lg="8" md="8" sm="8">
               <div className="header__top__left">
                 <Link href="/" className="header__top__help">
-                  <Image src="https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1728242917/inoksist_wwxbpw.png" alt="İnoksist" width={140} height={33} aria-label="Ana Sayfaya Git" priority />
+                  <Image src="https://res.cloudinary.com/di9qvtepw/image/upload/q_auto,f_webp/v1728242917/inoksist_wwxbpw.png" alt="İnoksist" width={140} height={33} aria-label="Ana Sayfaya Git" priority />
                 </Link>
                 <a href="mailto:info@inoksist.com.tr" className="header__top__help">
                   <i className="ri-mail-fill"></i> info@inoksist.com.tr

@@ -26,7 +26,7 @@ const Footer = ({ footerData }) => {
                 }}
               >
                 <Image
-                  src="https://res.cloudinary.com/di9qvtepw/image/upload/q_auto/v1728242917/inoksist_wwxbpw.png"
+                  src="https://res.cloudinary.com/di9qvtepw/image/upload/q_auto,f_webp/v1728242917/inoksist_wwxbpw.png"
                   alt="İnoksist"
                   width={400}
                   height={100}

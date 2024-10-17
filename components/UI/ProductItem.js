@@ -11,7 +11,7 @@ const ProductItem = (props) => {
     const urlStart = config.src.split("upload/")[0];
     const urlEnd = config.src.split("upload/")[1];
     const format = "webp";
-    const transformations = `q_${config.quality || "auto"}/f_${format}`;
+    const transformations = `q_${config.quality || "auto"},f_${format}`;
     return `${urlStart}upload/${transformations}/${urlEnd}`;
   }
 
