@@ -4,15 +4,38 @@
   }
 }
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 768px) {
   .about__page-img {
     display: none;
+  }
+
+  .contact__info-link {
+    font-size: 1rem;
+  }
+
+  .section__subtitle {
+    font-size: 1rem;
+  }
+}
+
+@media only screen and (max-width: 576px) {
+  .contact__info-link {
+    font-size: 0.9rem !important;
+  }
+
+  .section__subtitle {
+    font-size: 0.9rem !important;
   }
 }
 
 .contact__info-link {
   text-decoration: none; /* Altını çizme efektini kaldırır */
   color: inherit; /* Metnin mevcut rengini korur */
+  font-size: 1.3rem;
+}
+
+.section__subtitle {
+  font-size: 1.1rem;
 }
 
 @media (min-width: 768px) and (max-width: 1200px) {

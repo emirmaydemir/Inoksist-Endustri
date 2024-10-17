@@ -67,9 +67,9 @@ const Footer = ({ footerData }) => {
           </Col>
 
           <Col lg="4" md="12" sm="12">
-            <div className="mb-4">
+            <div>
               <h5 className="footer__link-title">{footerData.getInTouch.title}</h5>
-              <p className="section__description">{footerData.getInTouch.description}</p>
+              <p className="section__descriptionn">{footerData.getInTouch.description}</p>
               <div className="newsletter">
                 <input type="email" placeholder="Email" />
                 <Link href="/iletisim" className="newsletter-link">
@@ -77,7 +77,7 @@ const Footer = ({ footerData }) => {
                 </Link>
               </div>
               <h5 className="footer__link-title mt-4">{footerData.social.title}</h5>
-              <div className="social-icons mt-3">
+              <div className="social-icons mt-3 mb-4">
                 {footerData.socialLinks.map((link, index) => (
                   <a key={index} href={link.url} target="_blank" rel="noreferrer" aria-label={`${link.display} sosyal medya profilimize git`}>
                     <i className={link.icon}></i>
@@ -89,7 +89,7 @@ const Footer = ({ footerData }) => {
 
           <Col lg="12">
             <div className="footer__bottom">
-              <p className="section__description d-flex align-items-center justify-content-between gap-1 pt-4">
+              <p className="section__descriptionn d-flex align-items-center justify-content-between gap-1 pt-4">
                 <span>
                   <i className="ri-copyright-line"></i>
                   {year} {footerData.footerBottom.text} inoksist.com.tr ®

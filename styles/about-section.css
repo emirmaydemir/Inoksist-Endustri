@@ -3,6 +3,7 @@
   align-items: center;
   gap: 1rem; /* İkon ve metin arasındaki boşluk */
   margin-bottom: 15px; /* Öğeler arasındaki boşluk */
+  margin-top: 0.5rem;
 }
 
 .about__section-item i {
@@ -14,19 +15,6 @@
   margin: 0; /* Paragrafların üst ve alt marjinlerini sıfırla */
 }
 
-@media only screen and (max-width: 992px) {
-  .about__section-content h2 {
-    font-size: 1.5rem;
-  }
-  .about__section-item p {
-    font-size: 0.9rem; /* Daha büyük ve okunabilir bir yazı boyutu */
-  }
-
-  .section__description i {
-    font-size: 1rem !important;
-  }
-}
-
 .about__img {
   display: flex;
   justify-content: center; /* Resmi yatayda ortalar */
@@ -35,25 +23,64 @@
   width: 100%; /* Kapsayıcı genişliği tam olarak alır */
 }
 
+.section__description {
+  font-size: 1.1rem;
+  text-align: justify;
+  margin-top: 1.3rem;
+}
+
+.about__section-item p {
+  font-size: 1rem;
+}
+
+@media only screen and (max-width: 992px) {
+  .about__section-content h2 {
+    font-size: 1.5rem;
+  }
+}
+
 @media only screen and (max-width: 768px) {
   .about__img {
     margin-top: 30px;
   }
-}
 
-@media only screen and (max-width: 576px) {
+  .section__description {
+    font-size: 1rem;
+  }
+
   .about__section-content {
     margin-top: 20px;
   }
 
   .about__section-item p {
-    font-size: 0.8rem;
+    font-size: 1rem !important;
+  }
+
+  .section__subtitle {
+    font-size: 1rem !important;
   }
 }
 
-@media only screen and (max-width: 992px) {
+@media only screen and (max-width: 576px) {
+  .section__description {
+    font-size: 0.9rem;
+  }
+
+  .about__section-content {
+    margin-top: 20px;
+  }
+
   .about__section-item p {
-    font-size: 0.8rem; /* Daha küçük ekranlarda metin boyutunu ayarla */
+    font-size: 0.8rem !important;
+  }
+
+  .about__section-item i {
+    font-size: 1.1rem;
+  }
+
+  .about__section-item {
+    gap: 0.9rem;
+    margin-top: 0.6rem;
   }
 }
 
@@ -62,7 +89,7 @@
     display: none;
   }
   .about__section-item p {
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     margin-top: 1.2rem;
   }
   .about__section-item i {

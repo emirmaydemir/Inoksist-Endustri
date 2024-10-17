@@ -16,7 +16,7 @@ const TrendyolSection = ({ motivationData }) => {
         <Row>
           <Col lg="6" md="6" sm="12" className="become__motivation-img">
             <Image
-              src="https://res.cloudinary.com/di9qvtepw/image/upload/q_auto,f_webp/v1728242900/civata2_xjdmni.jpg"
+              src="https://res.cloudinary.com/di9qvtepw/image/upload/q_auto,f_webp/v1729200684/trendyol_inoksistt_dxoqnq.png"
               alt="inoksist trendyol"
               width={600} // Genişlik değerini ayarlayın
               height={400} // Yükseklik değerini ayarlayın
@@ -25,14 +25,9 @@ const TrendyolSection = ({ motivationData }) => {
           </Col>
 
           <Col lg="6" md="6" sm="12">
-            <h2 className="section__title become__motivation-title">
-              {motivationData.title}
-            </h2>
+            <h2 className="section__title become__motivation-title">{motivationData.title}</h2>
 
-            <button
-              className="btn become__motivation-btn mt-4"
-              onClick={handleClick}
-            >
+            <button className="btn become__motivation-btn mt-4" onClick={handleClick}>
               {motivationData.buttonText}
             </button>
           </Col>
