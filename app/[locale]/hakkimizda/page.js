@@ -27,7 +27,7 @@ export default async function About({ params: { locale } }) {
     returnObjects: true,
   });
   return (
-    <div className="w-100">
+    <>
       <CommonSection title={aboutContent.title} />
       <AboutSection aboutClass="aboutPage" aboutContent={aboutSection} />
 
@@ -81,6 +81,6 @@ export default async function About({ params: { locale } }) {
           </Row>
         </Container>
       </section>
-    </div>
+    </>
   );
 }

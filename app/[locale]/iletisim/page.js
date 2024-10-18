@@ -17,7 +17,7 @@ export default async function Contact({ params: { locale } }) {
   const contactContent = t("contact", { returnObjects: true });
 
   return (
-    <div className="w-100">
+    <>
       <CommonSection title={contactContent.title} />
       <section>
         <Container>
@@ -77,6 +77,6 @@ export default async function Contact({ params: { locale } }) {
           </Row>
         </Container>
       </section>
-    </div>
+    </>
   );
 }

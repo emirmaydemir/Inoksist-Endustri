@@ -27,7 +27,7 @@ export default async function HomePage({ params: { locale } }) {
   });
 
   return (
-    <div className="w-100">
+    <>
       {/* Hero Section */}
       <section className="p-0 hero__slider-section">
         <HeroSlider sliderContent={sliderContent} />
@@ -73,6 +73,6 @@ export default async function HomePage({ params: { locale } }) {
           </Row>
         </Container>
       </section>
-    </div>
+    </>
   );
 }

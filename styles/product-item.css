@@ -7,7 +7,8 @@
 }
 
 .product__img-content h4 {
-  font-size: 1.5rem;
+  font-size: 1.3rem;
+  margin-top: 3rem;
   overflow: hidden; /* Taşmayı engelle */
   text-overflow: ellipsis; /* Taşan metin için üç nokta göster */
   white-space: nowrap; /* Satır kaydırmayı engelle */
@@ -26,15 +27,15 @@
   aspect-ratio: 4 / 3; /* İhtiyacınıza göre oranı ayarlayın */
 }
 
-@media only screen and (max-width: 992px) {
-  .product__img h4 {
-    font-size: 1.1rem;
+@media only screen and (max-width: 991px) {
+  .section__title {
+    font-size: 1rem !important;
     margin-bottom: 0;
   }
 }
 
-@media only screen and (max-width: 768px) {
-  .product__img h4 {
-    font-size: 1rem;
+@media only screen and (max-width: 576px) {
+  .section__title {
+    font-size: 1.4rem !important;
   }
 }

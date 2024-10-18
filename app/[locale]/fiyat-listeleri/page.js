@@ -17,7 +17,7 @@ export default async function PriceList({ params: { locale } }) {
   const priceContent = t("priceList", { returnObjects: true });
 
   return (
-    <div className="w-100">
+    <>
       <section className="price-details-section">
         <Container>
           <Row className="justify-content-center">
@@ -40,6 +40,6 @@ export default async function PriceList({ params: { locale } }) {
           </Row>
         </Container>
       </section>
-    </div>
+    </>
   );
 }

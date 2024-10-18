@@ -79,7 +79,7 @@ export default async function FastenerListing({ params: { locale, category, prod
   }
 
   return (
-    <div className="w-100">
+    <>
       <CommonSection title={headerTitle} />
 
       <section>
@@ -90,6 +90,6 @@ export default async function FastenerListing({ params: { locale, category, prod
           </Row>
         </Container>
       </section>
-    </div>
+    </>
   );
 }

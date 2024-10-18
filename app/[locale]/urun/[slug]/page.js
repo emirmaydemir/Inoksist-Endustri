@@ -43,7 +43,7 @@ export default async function ProductDetails({ params: { locale, slug } }) {
   }
 
   return (
-    <div className="w-100">
+    <>
       <section>
         <Container>
           <Row>
@@ -112,6 +112,6 @@ export default async function ProductDetails({ params: { locale, slug } }) {
           </div>
         </Container>
       </section>
-    </div>
+    </>
   );
 }
