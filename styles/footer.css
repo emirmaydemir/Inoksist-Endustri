@@ -2,6 +2,8 @@
   background: #000845;
   padding-top: 50px;
   padding-bottom: 15px;
+  position: relative;
+  margin-top: 40px;
 }
 
 .custom-logo {
@@ -114,6 +116,28 @@
   color: #7c8a97;
   font-size: 1.1rem;
   line-height: 30px;
+}
+
+.scroll-to-top {
+  position: absolute; /* Footer içinde ortalanması için */
+  top: -18px; /* Footer'ın üstüne yapışık olması için yukarıda konumlandır */
+  left: 50%; /* Sol tarafa ortala */
+  transform: translateX(-50%); /* Tam olarak ortalamak için */
+  background-color: #000845; /* Modern simge arka plan rengi */
+  color: white; /* Simge rengi */
+  border-radius: 50%; /* Yuvarlak simge */
+  width: 40px; /* Genişlik */
+  height: 40px; /* Yükseklik */
+  display: flex; /* Flexbox ile içerik hizalama */
+  align-items: center; /* Dikey ortalama */
+  justify-content: center; /* Yatay ortalama */
+  cursor: pointer; /* Fare ile üzerine gelince tıklanabilir göster */
+  font-size: 30px; /* Yazı boyutu */
+  border: 2px solid white; /* Beyaz kenarlık */
+}
+
+.scroll-to-top:hover {
+  background-color: #f1ee32; /* Hover durumunda arka plan rengi değişimi */
 }
 
 @media only screen and (max-width: 900px) {

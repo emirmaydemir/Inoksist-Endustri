@@ -3,6 +3,7 @@ import { Container, Row, Col, ListGroup, ListGroupItem } from "reactstrap";
 import Link from "next/link"; // Next.js Link bileşeni
 import "@/styles/footer.css";
 import Image from "next/image";
+import ScrollToTop from "@/components/UI/ScrollToTop";
 
 const Footer = ({ footerData }) => {
   const date = new Date();
@@ -13,6 +14,7 @@ const Footer = ({ footerData }) => {
       <Container>
         <Row>
           <Col lg="12" md="12" sm="12" className="mb-4">
+            <ScrollToTop />
             <div className="d-flex justify-content-center align-items-center">
               <Link
                 href="/"
