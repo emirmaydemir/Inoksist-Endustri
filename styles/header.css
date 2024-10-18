@@ -106,16 +106,37 @@
     width: 19%;
   }
 }
-@media only screen and (max-width: 1023px) {
+@media only screen and (min-width: 992px) and (max-width: 1023px) {
   .search-results {
-    width: 40%;
+    width: 25%;
   }
 }
-@media only screen and (max-width: 638px) {
+@media only screen and (max-width: 991px) {
+  .search-results {
+    width: 37%;
+  }
+}
+@media only screen and (min-width: 500px) and (max-width: 638px) {
+  .search-results {
+    width: 45%;
+  }
+}
+@media only screen and (max-width: 500px) {
   .search-results {
     width: 50%;
   }
 }
+@media only screen and (max-width: 430px) {
+  .search-results {
+    width: 60%;
+  }
+}
+@media only screen and (max-width: 345px) {
+  .search-results {
+    width: 70%;
+  }
+}
+
 /* ================ main navbar styles =========== */
 
 .nav__item a {
