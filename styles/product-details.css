@@ -104,6 +104,8 @@
   background-color: #003366; /* Koyu mavi arka plan rengi */
   color: #fff; /* Beyaz yazı rengi */
   padding: 10px; /* İçerik ile hücre sınırı arasındaki boşluk */
+  text-align: center; /* Yatay ortalama */
+  vertical-align: middle; /* Dikey ortalama */
 }
 
 /* Tablo hücreleri */
@@ -111,6 +113,8 @@
   color: #000; /* Siyah yazı rengi */
   padding: 8px; /* İçerik ile hücre sınırı arasındaki boşluk */
   border: 1px solid #ddd; /* Hücre sınırları */
+  text-align: center; /* Yatay ortalama */
+  vertical-align: middle; /* Dikey ortalama */
 }
 
 /* Tablo başlıkları ve hücreleri için genel ayarlar */
@@ -130,4 +134,52 @@
 .table tbody tr:nth-child(even) {
   background-color: rgb(255, 255, 255) !important; /* Beyaz arka plan rengi */
   color: rgb(0, 0, 0) !important; /* Siyah yazı rengi */
+}
+
+@media only screen and (max-width: 576px) {
+  .section__title2 {
+    font-size: 1.5rem;
+    margin-top: 2.5rem;
+  }
+  .section__description2 {
+    font-size: 1rem;
+  }
+  .technical-features-title {
+    font-size: 1.2rem;
+  }
+  .section-container2 h4,
+  .section-container2 h5,
+  .section-container2 h6 {
+    font-size: 0.9rem;
+  }
+  .table thead th {
+    font-size: 0.7rem; /* Mobilde başlık font boyutu */
+  }
+  .table tbody td {
+    font-size: 0.6rem; /* Mobilde hücre font boyutu */
+  }
+}
+
+@media only screen and (max-width: 992px) {
+  .section__title2 {
+    font-size: 1.7rem;
+    margin-top: 2.5rem;
+  }
+  .section__description2 {
+    font-size: 1.2rem;
+  }
+  .technical-features-title {
+    font-size: 1.5rem;
+  }
+  .section-container2 h4,
+  .section-container2 h5,
+  .section-container2 h6 {
+    font-size: 1.2rem;
+  }
+  .table thead th {
+    font-size: 1rem; /* Mobilde başlık font boyutu */
+  }
+  .table tbody td {
+    font-size: 1rem; /* Mobilde hücre font boyutu */
+  }
 }
