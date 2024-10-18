@@ -43,6 +43,7 @@ export default async function RootLayout({ children, params: { locale } }) {
         {/* Buraya Google Fonts ve diğer meta etiketlerini ekleyin */}
         <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;400;600;700;900&display=swap" rel="stylesheet" />
         <link rel="preload" href="https://cdn.jsdelivr.net/npm/remixicon/fonts/remixicon.css" as="style" onLoad="this.onload=null;this.rel='stylesheet'" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       </Head>
       <TranslationsProvider namespaces={i18nNamespaces} locale={locale} resources={resources}>
         <body>
