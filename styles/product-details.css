@@ -37,17 +37,17 @@
   border: 2px solid #007bff;
 }
 
-.product__info {
+.product__info2 {
   padding-top: 20px;
 }
 
-.section__title {
+.section__title2 {
   font-size: 2rem;
   margin-bottom: 20px;
   margin-top: 0.2rem;
 }
 
-.section__description {
+.section__description2 {
   font-size: 1.2rem;
   line-height: 1.6;
   text-align: justify;
