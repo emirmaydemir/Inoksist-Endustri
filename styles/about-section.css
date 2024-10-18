@@ -89,29 +89,11 @@
     font-size: 0.8rem !important;
   }
   .about__section-item i {
-    font-size: 0.8rem;
-  }
-}
-
-@media only screen and (max-width: 396px) {
-  .about__section-item p {
     font-size: 0.7rem !important;
   }
-  .about__section-item i {
-    font-size: 0.8rem;
-  }
 }
 
-@media only screen and (max-width: 360px) {
-  .about__section-item p {
-    font-size: 0.7rem !important;
-  }
-  .about__section-item i {
-    font-size: 0.7rem;
-  }
-}
-
-@media only screen and (max-width: 356px) {
+@media only screen and (max-width: 394px) {
   .about__section-item {
     display: flex;
     flex-direction: column; /* Dikey hizalama */
@@ -119,7 +101,7 @@
   }
 
   .about__section-item i {
-    font-size: 0.9rem;
+    font-size: 1rem !important;
   }
 }
 
