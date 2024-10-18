@@ -31,7 +31,7 @@ export default async function Contact({ params: { locale } }) {
                     <Col lg="4" md="12" sm="12" className="mb-3 mb-md-0">
                       <div className="contact__info-box">
                         <p className="fw-bold">{contactContent.addresslabel}</p>
-                        <p>İ.O.S.B. Mahallesi, İmsan Sanayi Sitesi, E-3 Blok, Sokak No: 3, Küçükçekmece, İstanbul</p>
+                        <p>İ.O.S.B. Mahallesi, İmsan Sanayi Sitesi, E-3 Blok, Sokak No: 3, Küçükçekmece / İstanbul</p>
                       </div>
                     </Col>
 
