@@ -57,7 +57,7 @@ const Footer = ({ footerData }) => {
           <Col lg="5" md="6" sm="6">
             <div className="mb-4">
               <h5 className="footer__link-title mb-4">{footerData.contactInfo.title}</h5>
-              <p className="office__info">İ.O.S.B. mah. İmsan Sanayi sitesi E 3 blok sok no 3 küçükçekmece / İSTANBUL</p>
+              <p className="office__info">İ.O.S.B. Mahallesi, İmsan Sanayi Sitesi, E-3 Blok, Sokak No: 3, Küçükçekmece, İstanbul</p>
               <p className="office__info">{footerData.contactInfo.phone} +90 (212) 549 70 55</p>
 
               <p className="office__info">{footerData.contactInfo.email}&nbsp;info@inoksist.com.tr</p>
