@@ -162,24 +162,24 @@
 
 @media only screen and (max-width: 992px) {
   .section__title2 {
-    font-size: 1.7rem;
+    font-size: 1.5rem;
     margin-top: 2.5rem;
   }
   .section__description2 {
-    font-size: 1.2rem;
+    font-size: 1rem;
   }
   .technical-features-title {
-    font-size: 1.5rem;
+    font-size: 1.3rem;
   }
   .section-container2 h4,
   .section-container2 h5,
   .section-container2 h6 {
-    font-size: 1.2rem;
+    font-size: 1rem;
   }
   .table thead th {
-    font-size: 1rem; /* Mobilde başlık font boyutu */
+    font-size: 0.8rem; /* Mobilde başlık font boyutu */
   }
   .table tbody td {
-    font-size: 1rem; /* Mobilde hücre font boyutu */
+    font-size: 0.8rem; /* Mobilde hücre font boyutu */
   }
 }
