@@ -48,7 +48,7 @@ const HeroSlider = ({ sliderContent }) => {
               <h1 className="text-light mb-4">{slide.heading}</h1>
               <button className="btn reserve__btn mt-4">
                 <Link href={slide.link} aria-label="İletişim sayfasına git">
-                  {slide.buttonText} {/* <a> etiketini kaldırın */}
+                  {slide.buttonText}
                 </Link>
               </button>
             </div>

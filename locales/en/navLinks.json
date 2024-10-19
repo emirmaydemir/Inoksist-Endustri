@@ -22,29 +22,27 @@
       ]
     },
     {
-      "path": "/teknik-hirdavat/urunler",
-      "display": "Technical Hardware",
+      "path": "/hirdavat/urunler",
+      "display": "Hardware",
       "subMenu": [
         {
-          "path": "/teknik-hirdavat/delme-kesme-yaglari-grubu",
+          "path": "/hirdavat/delme-kesme-yaglari-grubu",
           "display": "Drilling and Cutting Oils Group"
         },
-        { "path": "/teknik-hirdavat/is-guvenligi-grubu", "display": "Safety Equipment Group" },
-        { "path": "/teknik-hirdavat/kaynak-ekipmanlari-grubu", "display": "Welding Equipment Group" },
-        { "path": "/teknik-hirdavat/kesici-ve-asindirici-grubu", "display": "Cutting and Abrasives Group" },
-        { "path": "/teknik-hirdavat/ambalaj-ve-paketleme-grubu", "display": "Packaging and Wrapping Group" },
-        { "path": "/teknik-hirdavat/sizdirmazlik-grubu", "display": "Sealing Group" },
-        { "path": "/teknik-hirdavat/sprey-boya", "display": "Spray Paint" },
-        { "path": "/teknik-hirdavat/yapi-kimyasallari-grubu", "display": "Construction Chemicals Group" },
-        { "path": "/teknik-hirdavat/yapistirici-grubu", "display": "Adhesives Group" }
+        { "path": "/hirdavat/is-guvenligi-grubu", "display": "Safety Equipment Group" },
+        { "path": "/hirdavat/kaynak-ekipmanlari-grubu", "display": "Welding Equipment Group" },
+        { "path": "/hirdavat/kesici-ve-asindirici-grubu", "display": "Cutting and Abrasives Group" },
+        { "path": "/hirdavat/ambalaj-ve-paketleme-grubu", "display": "Packaging and Wrapping Group" },
+        { "path": "/hirdavat/sizdirmazlik-grubu", "display": "Sealing Group" },
+        { "path": "/hirdavat/sprey-boya", "display": "Spray Paint" },
+        { "path": "/hirdavat/yapi-kimyasallari-grubu", "display": "Construction Chemicals Group" },
+        { "path": "/hirdavat/yapistirici-grubu", "display": "Adhesives Group" }
       ]
     },
     {
       "path": "/bakim-kimyasallari/urunler",
       "display": "Maintenance Chemicals",
-      "subMenu": [
-        { "path": "/bakim-kimyasallari/bakim-kimyasallari", "display": "Maintenance Chemicals" }
-      ]
+      "subMenu": [{ "path": "/bakim-kimyasallari/bakim-kimyasallari", "display": "Maintenance Chemicals" }]
     },
     {
       "path": "/moduler-su-deposu/urunler",

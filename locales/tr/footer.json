@@ -6,8 +6,8 @@
         "display": "Bağlantı Elemanları"
       },
       {
-        "path": "/teknik-hirdavat/urunler",
-        "display": "Teknik Hırdavat"
+        "path": "/hirdavat/urunler",
+        "display": "Hırdavat"
       },
       {
         "path": "/bakim-kimyasallari/urunler",
@@ -46,7 +46,7 @@
     ],
     "info": {
       "title": "İnoksist Endüstri",
-      "description": "İnoksist Endüstri Paslanmaz Civata ve Somon, yüksek kaliteli paslanmaz civata ve somon ürünleri ile endüstriyel çözümler sunmaktan gurur duyar. Deneyimimizle güvenilir ve dayanıklı ürünler sunarak, müşteri memnuniyetini ön planda tutarız. Kalite ve güvenin adresi Inoksist, her zaman yanınızda."
+      "description": "İnoksist Endüstri Paslanmaz Civata ve Somun, yüksek kaliteli paslanmaz civata ve somun ürünleri ile endüstriyel çözümler sunmaktan gurur duyar. Deneyimimizle güvenilir ve dayanıklı ürünler sunarak, müşteri memnuniyetini ön planda tutarız. Kalite ve güvenin adresi İnoksist, her zaman yanınızda."
     },
     "categories": {
       "title": "KATEGORİLER"

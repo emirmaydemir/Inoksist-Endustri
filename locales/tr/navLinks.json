@@ -43,40 +43,40 @@
       ]
     },
     {
-      "path": "/teknik-hirdavat/urunler",
-      "display": "Teknik Hırdavat",
+      "path": "/hirdavat/urunler",
+      "display": "Hırdavat",
       "subMenu": [
         {
-          "path": "/teknik-hirdavat/delme-kesme-yaglari-grubu",
+          "path": "/hirdavat/delme-kesme-yaglari-grubu",
           "display": "Delme Kesme Yağları Grubu"
         },
         {
-          "path": "/teknik-hirdavat/is-guvenligi-grubu",
+          "path": "/hirdavat/is-guvenligi-grubu",
           "display": "İş Güvenliği Grubu"
         },
         {
-          "path": "/teknik-hirdavat/kaynak-ekipmanlari-grubu",
+          "path": "/hirdavat/kaynak-ekipmanlari-grubu",
           "display": "Kaynak Ekipmanları Grubu"
         },
         {
-          "path": "/teknik-hirdavat/kesici-ve-asindirici-grubu",
+          "path": "/hirdavat/kesici-ve-asindirici-grubu",
           "display": "Kesici ve Aşındırıcı Grubu"
         },
         {
-          "path": "/teknik-hirdavat/ambalaj-ve-paketleme-grubu",
+          "path": "/hirdavat/ambalaj-ve-paketleme-grubu",
           "display": "Ambalaj ve Paketleme Grubu"
         },
         {
-          "path": "/teknik-hirdavat/sizdirmazlik-grubu",
+          "path": "/hirdavat/sizdirmazlik-grubu",
           "display": "Sızdırmazlık Grubu"
         },
-        { "path": "/teknik-hirdavat/sprey-boya", "display": "Sprey Boya" },
+        { "path": "/hirdavat/sprey-boya", "display": "Sprey Boya" },
         {
-          "path": "/teknik-hirdavat/yapi-kimyasallari-grubu",
+          "path": "/hirdavat/yapi-kimyasallari-grubu",
           "display": "Yapı Kimyasalları Grubu"
         },
         {
-          "path": "/teknik-hirdavat/yapistirici-grubu",
+          "path": "/hirdavat/yapistirici-grubu",
           "display": "Yapıştırıcı Grubu"
         }
       ]

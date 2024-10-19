@@ -6,8 +6,8 @@ import PriceListButton from "@/components/UI/PriceListButton";
 
 export const metadata = {
   title: "İnoksist Endüstri - Fiyat Listeleri",
-  description: "Bağlantı elemanları, teknik hırdavat, bakım kimyasalları ve modüler su depoları fiyatları hakkında bilgi almak için bizimle iletişime geçin. İnoksist Endüstri olarak kaliteli ürünlerimiz ve rekabetçi fiyatlarımızla hizmetinizdeyiz.",
-  keywords: "inoksist, istanbul inox, istanbul civata, bağlantı elemanları fiyatları, teknik hırdavat fiyatları, bakım kimyasalları fiyatları, modüler su deposu fiyatları, paslanmaz civata fiyatları, paslanmaz somun fiyatları, inoks civata, inox civata, imbus civata",
+  description: "Bağlantı elemanları, hırdavat, bakım kimyasalları ve modüler su depoları fiyatları hakkında bilgi almak için bizimle iletişime geçin. İnoksist Endüstri olarak kaliteli ürünlerimiz ve rekabetçi fiyatlarımızla hizmetinizdeyiz.",
+  keywords: "inoksist, istanbul inox, istanbul civata, bağlantı elemanları fiyatları, hırdavat fiyatları, bakım kimyasalları fiyatları, modüler su deposu fiyatları, paslanmaz civata fiyatları, paslanmaz somun fiyatları, inoks civata, inox civata, imbus civata",
 };
 
 const i18nNamespaces = ["price"];

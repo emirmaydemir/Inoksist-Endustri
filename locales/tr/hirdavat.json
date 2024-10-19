@@ -1,8 +1,8 @@
 {
-  "teknik-hirdavat": [
+  "hirdavat": [
     {
       "id": 1,
-      "name": "Inter Drilling Cutting and Tap Gel",
+      "name": "İnter Delme Kesme Ve Klavuz Jeli",
       "url": "inter-delme-kesme-ve-klavuz-jeli",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855836/1_m6bley.jpg",
       "category": ["delme-kesme-yaglari-grubu"]
@@ -10,7 +10,7 @@
 
     {
       "id": 2,
-      "name": "Weicon Drilling Cutting Spray",
+      "name": "Weicon Delme Kesme Spreyi",
       "url": "weicon-delme-kesme-spreyi",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855837/2_fkdawq.jpg",
       "category": ["delme-kesme-yaglari-grubu"]
@@ -18,7 +18,7 @@
 
     {
       "id": 3,
-      "name": "Safety Shoes",
+      "name": "İş Güvenlik Ayakkabısı",
       "url": "is-guvenlik-ayakkabisi",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855853/1_odyg4j.jpg",
       "category": ["is-guvenligi-grubu"]
@@ -26,7 +26,7 @@
 
     {
       "id": 4,
-      "name": "Protective Glasses",
+      "name": "Koruyucu Gözlük",
       "url": "koruyucu-gozluk",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855851/2_wqygea.jpg",
       "category": ["is-guvenligi-grubu"]
@@ -34,7 +34,7 @@
 
     {
       "id": 5,
-      "name": "Protective Mask",
+      "name": "Koruyucu Maske",
       "url": "koruyucu-maske",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855852/3_robq9s.jpg",
       "category": ["is-guvenligi-grubu"]
@@ -42,7 +42,7 @@
 
     {
       "id": 6,
-      "name": "Nitrile Gloves",
+      "name": "Nitril Eldiven",
       "url": "nitril-eldiven",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855855/4_q5cofu.jpg",
       "category": ["is-guvenligi-grubu"]
@@ -50,7 +50,7 @@
 
     {
       "id": 7,
-      "name": "Nitrile Examination Gloves",
+      "name": "Nitril Muayene Eldiveni",
       "url": "nitril-muayene-eldiveni",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855856/5_jiarg4.jpg",
       "category": ["is-guvenligi-grubu"]
@@ -58,7 +58,7 @@
 
     {
       "id": 8,
-      "name": "Welding Goggles",
+      "name": "Kaynak Gözlüğü",
       "url": "kaynak-gozlugu",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855857/6_znwj2c.jpg",
       "category": ["is-guvenligi-grubu"]
@@ -66,7 +66,7 @@
 
     {
       "id": 9,
-      "name": "Aluminum Welding Wire",
+      "name": "Alüminyum Kaynak Teli",
       "url": "aluminyum-kaynak-teli",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855872/1_tcajrf.jpg",
       "category": ["kaynak-ekipmanlari-grubu"]
@@ -74,7 +74,7 @@
 
     {
       "id": 10,
-      "name": "Gas Welding Spray",
+      "name": "Gazaltı Kaynak Spreyi",
       "url": "gazalti-kaynak-spreyi",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855873/2_kclruo.jpg",
       "category": ["kaynak-ekipmanlari-grubu"]
@@ -82,7 +82,7 @@
 
     {
       "id": 11,
-      "name": "Gas Welding Wire",
+      "name": "Gazaltı Kaynak Teli",
       "url": "gazalti-kaynak-teli",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855875/3_lzliq8.jpg",
       "category": ["kaynak-ekipmanlari-grubu"]
@@ -90,7 +90,7 @@
 
     {
       "id": 12,
-      "name": "Welding Gloves",
+      "name": "Kaynak Eldiveni",
       "url": "kaynak-eldiveni",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855876/4_jfb77v.jpg",
       "category": ["kaynak-ekipmanlari-grubu"]
@@ -98,7 +98,7 @@
 
     {
       "id": 13,
-      "name": "Stainless Steel Electrode",
+      "name": "Paslanmaz Elektrod",
       "url": "paslanmaz-elektrod",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855877/5_obtsn7.jpg",
       "category": ["kaynak-ekipmanlari-grubu"]
@@ -106,7 +106,7 @@
 
     {
       "id": 14,
-      "name": "Stainless Steel Welding Wire",
+      "name": "Paslanmaz Kaynak Teli",
       "url": "paslanmaz-kaynak-teli",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855879/6_xxglha.jpg",
       "category": ["kaynak-ekipmanlari-grubu"]
@@ -114,7 +114,7 @@
 
     {
       "id": 15,
-      "name": "Rutile Electrode",
+      "name": "Rutil Elektrod",
       "url": "rutil-elektrod",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855880/7_f4u5nk.jpg",
       "category": ["kaynak-ekipmanlari-grubu"]
@@ -122,7 +122,7 @@
 
     {
       "id": 16,
-      "name": "Metal Cutting Discs",
+      "name": "Metal Kesme Diskleri",
       "url": "metal-kesme-diskleri",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728946300/Metal_Kesme_Diskleri_cnwyix.png",
       "category": ["kesici-ve-asindirici-grubu"]
@@ -130,7 +130,7 @@
 
     {
       "id": 17,
-      "name": "Industrial Metal Cutting Discs",
+      "name": "Endüstriyel Metal Kesme Diskleri",
       "url": "endustriyel-metal-kesme-diskleri",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728946300/Endustriyel_Metal_Kesme_Diskleri_osnk56.png",
       "category": ["kesici-ve-asindirici-grubu"]
@@ -138,7 +138,7 @@
 
     {
       "id": 18,
-      "name": "Inox Cutting Discs",
+      "name": "Inox Kesme Diskleri",
       "url": "inox-kesme-diskleri",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728946301/Inox_Kesme_Diskleri_tbydvg.png",
       "category": ["kesici-ve-asindirici-grubu"]
@@ -146,7 +146,7 @@
 
     {
       "id": 19,
-      "name": "Cut & Cut Inox Cutting Discs",
+      "name": "Cut & Cut Inox Kesme Diskleri",
       "url": "cut-inox-kesme-diskleri",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728946295/Cut_Cut_Inox_Kesme_Diskleri_daxrrr.jpg",
       "category": ["kesici-ve-asindirici-grubu"]
@@ -154,7 +154,7 @@
 
     {
       "id": 20,
-      "name": "Casting Cutting Discs",
+      "name": "Döküm Kesme Diskleri",
       "url": "dokum-kesme-diskleri",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728946298/Dokum_Kesme_Diskleri_pvjpmb.png",
       "category": ["kesici-ve-asindirici-grubu"]
@@ -162,7 +162,7 @@
 
     {
       "id": 21,
-      "name": "Marble Cutting Discs",
+      "name": "Mermer Kesme Diskleri",
       "url": "mermer-kesme-diskleri",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728946298/Mermer_Kesme_Diskleri_hubrn4.png",
       "category": ["kesici-ve-asindirici-grubu"]
@@ -170,7 +170,7 @@
 
     {
       "id": 22,
-      "name": "Aluminum Cutting Discs",
+      "name": "Alüminyum Kesme Diskleri",
       "url": "aluminyum-kesme-diskleri",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728946298/Aluminyum_Kesme_Diskleri_hvncag.png",
       "category": ["kesici-ve-asindirici-grubu"]
@@ -178,7 +178,7 @@
 
     {
       "id": 23,
-      "name": "ZA Casting Cutting Discs",
+      "name": "ZA Döküm Kesme Diskleri",
       "url": "za-dokum-kesme-diskleri",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728946301/ZA_Dokum_Kesme_Diskleri_vzkovb.png",
       "category": ["kesici-ve-asindirici-grubu"]
@@ -186,7 +186,7 @@
 
     {
       "id": 24,
-      "name": "AC Casting Cutting Discs",
+      "name": "AC Döküm Kesme Diskleri",
       "url": "ac-dokum-kesme-diskleri",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728946296/AC_Dokum_Kesme_Diskleri_gbdjrk.png",
       "category": ["kesici-ve-asindirici-grubu"]
@@ -194,7 +194,7 @@
 
     {
       "id": 25,
-      "name": "Metal Cutting Fixed Table Discs",
+      "name": "Metal Kesme Sabit Tezgah Diskleri",
       "url": "metal-kesme-sabit-tezgah-diskleri",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728946300/Metal_Kesme_Sabit_Kesme_Tezgah_Diskleri_xqygeb.png",
       "category": ["kesici-ve-asindirici-grubu"]
@@ -202,7 +202,7 @@
 
     {
       "id": 26,
-      "name": "Casting Cutting Fixed Table Discs",
+      "name": "Döküm Kesme Sabit Tezgah Diskleri",
       "url": "dokum-kesme-sabit-tezgah-diskleri",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728946298/Dokum_Kesme_Sabit_Tezgah_Diskleri_dvexeu.png",
       "category": ["kesici-ve-asindirici-grubu"]
@@ -210,7 +210,7 @@
 
     {
       "id": 27,
-      "name": "Rail Cutting Discs",
+      "name": "Ray Kesme Diskleri",
       "url": "ray-kesme-diskleri",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728946303/Ray_Kesme_Diskleri_uv6o3e.png",
       "category": ["kesici-ve-asindirici-grubu"]
@@ -218,7 +218,7 @@
 
     {
       "id": 28,
-      "name": "Metal Deburring Discs",
+      "name": "Metal Çapak Alma Diskleri",
       "url": "metal-capak-alma-diskleri",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728946644/Metal_Capak_Alma_Diskleri_ifginm.png",
       "category": ["kesici-ve-asindirici-grubu"]
@@ -226,7 +226,7 @@
 
     {
       "id": 29,
-      "name": "Metal Plus Deburring Discs",
+      "name": "Metal Plus Çapak Alma Diskleri",
       "url": "metal-plus-capak-alma-diskleri",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728946643/Metal_Plus_Capak_Alma_Diskleri_xtruz0.png",
       "category": ["kesici-ve-asindirici-grubu"]
@@ -234,7 +234,7 @@
 
     {
       "id": 30,
-      "name": "Inox Deburring Discs",
+      "name": "Inox Çapak Alma Diskleri",
       "url": "inox-capak-alma-diskleri",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728946644/Inox_Capak_Alma_Diskleri_ms0jea.png",
       "category": ["kesici-ve-asindirici-grubu"]
@@ -242,7 +242,7 @@
 
     {
       "id": 31,
-      "name": "Cast Deburring Discs",
+      "name": "Döküm Çapak Alma Diskleri",
       "url": "dokum-capak-alma-diskleri",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728946642/Dokum_Capak_Alma_Diskleri_fvxahf.png",
       "category": ["kesici-ve-asindirici-grubu"]
@@ -250,7 +250,7 @@
 
     {
       "id": 32,
-      "name": "ZA Plus Deburring Discs",
+      "name": "ZA Plus Çapak Alma Diskleri",
       "url": "za-plus-capak-alma-diskleri",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728946644/ZA_Plus_Capak_Alma_Diskleri_wi2iua.png",
       "category": ["kesici-ve-asindirici-grubu"]
@@ -258,7 +258,7 @@
 
     {
       "id": 33,
-      "name": "Aluminum Deburring Discs",
+      "name": "Alüminyum Çapak Alma Diskleri",
       "url": "aluminyum-capak-alma-diskleri",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728946642/Aluminyum_Capak_Alma_Diskleri_i46mqh.png",
       "category": ["kesici-ve-asindirici-grubu"]
@@ -266,7 +266,7 @@
 
     {
       "id": 34,
-      "name": "Comfort Line ZR SD Flap Discs",
+      "name": "Comfort Line ZR SD Flap Diskler",
       "url": "comfort-line-zr-sd-flap-diskler",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728944155/Comfort_Line_ZR_SD_Flap_Diskler_z4d121.png",
       "category": ["kesici-ve-asindirici-grubu"]
@@ -274,7 +274,7 @@
 
     {
       "id": 35,
-      "name": "Comfort Line ZR HD Flap Discs",
+      "name": "Comfort Line ZR HD Flap Diskler",
       "url": "comfort-line-zr-hd-flap-diskler",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728944152/Comfort_Line_ZR_HD_Flap_Diskler_wooyjn.png",
       "category": ["kesici-ve-asindirici-grubu"]
@@ -282,7 +282,7 @@
 
     {
       "id": 36,
-      "name": "Premium Line AO SD Flap Discs",
+      "name": "Premium Line AO SD Flap Diskler",
       "url": "premium-line-ao-sd-flap-diskler",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728944157/Premium_Line_AO_SD_Flap_Diskler_vnfbrl.png",
       "category": ["kesici-ve-asindirici-grubu"]
@@ -290,7 +290,7 @@
 
     {
       "id": 37,
-      "name": "Premium Line ZR SD Flap Discs",
+      "name": "Premium Line ZR SD Flap Diskler",
       "url": "premium-line-zr-sd-flap-diskler",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728944152/Premium_Line_ZR_SD_Flap_Diskler_o8bvpn.png",
       "category": ["kesici-ve-asindirici-grubu"]
@@ -298,7 +298,7 @@
 
     {
       "id": 38,
-      "name": "Premium Line ZR HD Flap Discs",
+      "name": "Premium Line ZR HD Flap Diskler",
       "url": "premium-line-zr-hd-flap-diskler",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728944157/Premium_ZR_HD_Flap_Diskler_faqqko.png",
       "category": ["kesici-ve-asindirici-grubu"]
@@ -306,7 +306,7 @@
 
     {
       "id": 39,
-      "name": "Premium Line CE SD Flap Discs",
+      "name": "Premium Line CE SD Flap Diskler",
       "url": "premium-line-ce-sd-flap-diskler",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728944154/Premium_Line_CE_SD_Flap_Diskler_uiax3m.png",
       "category": ["kesici-ve-asindirici-grubu"]
@@ -314,7 +314,7 @@
 
     {
       "id": 40,
-      "name": "Velcro Discs",
+      "name": "Cırtlı Diskler",
       "url": "cirtli-diskler",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728946807/Cirtli_Diskler_yfe5jn.webp",
       "category": ["kesici-ve-asindirici-grubu"]
@@ -322,7 +322,7 @@
 
     {
       "id": 41,
-      "name": "Belt Sanders",
+      "name": "Bant Zımparalar",
       "url": "bant-zimparalar",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728946806/Bant_Zimparalar_p2r5u2.jpg",
       "category": ["kesici-ve-asindirici-grubu"]
@@ -330,7 +330,7 @@
 
     {
       "id": 42,
-      "name": "Roller Sanders",
+      "name": "Rulo Zımparalar",
       "url": "rulo-zimparalar",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728946932/Rulo_Zimparalar_qzo12z.png",
       "category": ["kesici-ve-asindirici-grubu"]
@@ -338,7 +338,7 @@
 
     {
       "id": 43,
-      "name": "Sliced Stretch Film",
+      "name": "Dilimli Streç",
       "url": "dilimli-strec",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855821/1_ndandr.jpg",
       "category": ["ambalaj-ve-paketleme-grubu"]
@@ -346,7 +346,7 @@
 
     {
       "id": 44,
-      "name": "Food Stretch Film",
+      "name": "Gıda Streci",
       "url": "gida-streci",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855822/2_kr6df8.jpg",
       "category": ["ambalaj-ve-paketleme-grubu"]
@@ -354,7 +354,7 @@
 
     {
       "id": 45,
-      "name": "Acrylic Packing Tape",
+      "name": "Koli Bandı Akrilik",
       "url": "koli-bandi-akrilik",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855823/3_r7hd32.jpg",
       "category": ["ambalaj-ve-paketleme-grubu"]
@@ -362,7 +362,7 @@
 
     {
       "id": 46,
-      "name": "Hotmelt Packing Tape",
+      "name": "Koli Bandı Hotmelt",
       "url": "koli-bandi-hotmelt",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855824/4_zzwoui.jpg",
       "category": ["ambalaj-ve-paketleme-grubu"]
@@ -370,7 +370,7 @@
 
     {
       "id": 47,
-      "name": "Pallet Stretch Film",
+      "name": "Palet Streci",
       "url": "palet-streci",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855820/5_xd2rcj.jpg",
       "category": ["ambalaj-ve-paketleme-grubu"]
@@ -378,7 +378,7 @@
 
     {
       "id": 48,
-      "name": "Loctite Bolt Locker",
+      "name": "Loctite Civata Sabitleyici",
       "url": "loctite-civata-sabitleyici",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855913/1_yunpo0.jpg",
       "category": ["sizdirmazlik-grubu"]
@@ -386,7 +386,7 @@
 
     {
       "id": 49,
-      "name": "Weicon Flex 310 M Stainless Steel Sealant",
+      "name": "Weicon Flex 310 M Paslanmaz Çelik Sızdırmazlık Ürünü",
       "url": "weicon-flex-310-m",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855915/2_awe8fe.jpg",
       "category": ["sizdirmazlik-grubu"]
@@ -394,7 +394,7 @@
 
     {
       "id": 50,
-      "name": "Weicon Bolt Locking Adhesive",
+      "name": "Weicon Civata Sabitleyici",
       "url": "weicon-civata-sabitleyici",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728895990/eba1_arrfwr.jpg",
       "category": ["sizdirmazlik-grubu"]
@@ -402,7 +402,7 @@
 
     {
       "id": 51,
-      "name": "Eco Service Spray Paint Color Chart",
+      "name": "Eco Service Sprey Boya Kartela",
       "url": "eco-service-sprey-boya-kartela",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855929/1_krohu2.jpg",
       "category": ["sprey-boya"]
@@ -410,7 +410,7 @@
 
     {
       "id": 52,
-      "name": "Eco Service Spray Paint",
+      "name": "Eco Service Sprey Boya",
       "url": "eco-service-sprey-boya",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855927/2_mywr7g.jpg",
       "category": ["sprey-boya"]
@@ -418,7 +418,7 @@
 
     {
       "id": 53,
-      "name": "Ceresit Foam",
+      "name": "Ceresit Köpük",
       "url": "ceresit-kopuk",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855944/1_u0ohza.jpg",
       "category": ["yapi-kimyasallari-grubu"]
@@ -426,7 +426,7 @@
 
     {
       "id": 54,
-      "name": "Ceresit Silicone",
+      "name": "Ceresit Silikon",
       "url": "ceresit-silikon",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855945/2_dgzvjl.jpg",
       "category": ["yapi-kimyasallari-grubu"]
@@ -434,7 +434,7 @@
 
     {
       "id": 55,
-      "name": "Dayson PU Mastic",
+      "name": "Dayson PU Mastik",
       "url": "dayson-pu-mastik",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855947/3_k9rzev.jpg",
       "category": ["yapi-kimyasallari-grubu"]
@@ -442,7 +442,7 @@
 
     {
       "id": 56,
-      "name": "Chemical Dowels (Epoxy)",
+      "name": "Kimyasal Dübel (Epoksi)",
       "url": "kimyasal-dubel-epoksi",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855949/4_lxkfeg.jpg",
       "category": ["yapi-kimyasallari-grubu"]
@@ -450,7 +450,7 @@
 
     {
       "id": 57,
-      "name": "Sista Silicone",
+      "name": "Sista Silikon",
       "url": "sista-silikon",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855951/5_zjh817.jpg",
       "category": ["yapi-kimyasallari-grubu"]
@@ -458,7 +458,7 @@
 
     {
       "id": 58,
-      "name": "502 Japanese Adhesive 20 Gr.",
+      "name": "502 Japon Yapıştırıcı 20 Gr.",
       "url": "502-japon-yapistirici-20-gr",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855961/1_ce78kj.jpg",
       "category": ["yapistirici-grubu"]
@@ -466,7 +466,7 @@
 
     {
       "id": 59,
-      "name": "Derby 602 Japanese Adhesive 20 Gr.",
+      "name": "Derby 602 Japon Yapıştırıcı 20 Gr.",
       "url": "derby-602-japon-yapistirici-20-gr",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855963/2_pusgbc.jpg",
       "category": ["yapistirici-grubu"]
@@ -482,7 +482,7 @@
 
     {
       "id": 61,
-      "name": "Weicon Adhesive Spray",
+      "name": "Weicon Yapıştırıcı Sprey",
       "url": "weicon-yapistirici-sprey",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855967/4_vkzrbo.jpg",
       "category": ["yapistirici-grubu"]

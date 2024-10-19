@@ -29,7 +29,7 @@
       "description": "10.9 ve 12.9 Bağlantı Elemanları"
     }
   ],
-  "teknik-hirdavat": [
+  "hirdavat": [
     {
       "guid": "delme-kesme-yaglari-grubu",
       "description": "Delme Kesme Yağları Grubu"
@@ -82,7 +82,7 @@
   "header": {
     "all": "Tüm Kategoriler",
     "fastener": "Bağlantı Elemanları",
-    "technical": "Teknik Hırdavat",
+    "technical": "Hırdavat",
     "maintenance": "Bakım Kimyasalları",
     "modular": "Modüler Su Deposu"
   }

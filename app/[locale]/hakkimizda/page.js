@@ -8,9 +8,9 @@ import initTranslations from "../../i18n";
 import Image from "next/image";
 
 export const metadata = {
-  title: "İnoksist Endüstri - Hakkımızda | Güvenilir Bağlantı Elemanları ve Teknik Hırdavat",
+  title: "İnoksist Endüstri - Hakkımızda | Güvenilir Bağlantı Elemanları ve Hırdavat",
   description: "İnoksist Endüstri, 2013 yılından bu yana bağlantı elemanları ve endüstriyel ürünler alanında güvenilir, müşteri odaklı çözümler sunmaktadır. Güven ve kaliteye dayalı hizmet anlayışımızla sektörde öne çıkıyoruz.",
-  keywords: "inoksist, bağlantı elemanları, teknik hırdavat, endüstriyel ürünler, paslanmaz civata, paslanmaz somun, inoks civata, inox civata, imbus civata, sanayi ürünleri",
+  keywords: "inoksist, bağlantı elemanları, hırdavat, endüstriyel ürünler, paslanmaz civata, paslanmaz somun, inoks civata, inox civata, imbus civata, sanayi ürünleri",
 };
 
 const i18nNamespaces = ["about", "motivation", "aboutSection", "testimonial"];

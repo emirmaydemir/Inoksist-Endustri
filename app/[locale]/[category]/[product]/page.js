@@ -20,10 +20,10 @@ export async function generateMetadata({ params: { locale, category } }) {
       description = "Bağlantı Elemanları - Paslanmaz Bağlantı Elemanları - Çelik Bağlantı Elemanları - Demir Bağlantı Elemanları - Pirinç Bağlantı Elemanları - Titanyum Bağlantı Elemanları - Özel Üretim Bağlantı Elemanları - 10.9 ve 12.9 Bağlantı Elemanları. İhtiyaçlarınıza uygun bağlantı elemanlarını kolayca bulabilirsiniz.";
       keywords = "inoksist, bağlantı elemanları, paslanmaz bağlantı elemanları, çelik bağlantı elemanları, demir bağlantı elemanları, pirinç bağlantı elemanları, titanyum bağlantı elemanları, özel üretim bağlantı elemanları, 10.9 bağlantı elemanları, 12.9 bağlantı elemanları, sanayi bağlantı elemanları, inoks civata, inox civata, imbus civata";
       break;
-    case "teknik-hirdavat":
+    case "hirdavat":
       title = headerContent.technical;
-      description = "Teknik hırdavat - Delme Kesme Yağları Grubu - İş Güvenliği Grubu - Kaynak Ekipmanları Grubu - Kesici ve Aşındırıcı Grubu - Ambalaj ve Paketleme Grubu - Sızdırmazlık Grubu - Sprey Boya - Yapı Kimyasalları Grubu - Yapıştırıcı Grubu. İhtiyaçlarınıza uygun teknik hırdavatları kolayca bulabilirsiniz.";
-      keywords = "inoksist, teknik hırdavat, delme kesme yağları, iş güvenliği ekipmanları, kaynak ekipmanları, kesici ekipmanlar, aşındırıcı ekipmanlar, ambalaj malzemeleri, paketleme ürünleri, sızdırmazlık ürünleri, yapıştırıcılar, yapı kimyasalları, sprey boya";
+      description = "Hırdavat - Delme Kesme Yağları Grubu - İş Güvenliği Grubu - Kaynak Ekipmanları Grubu - Kesici ve Aşındırıcı Grubu - Ambalaj ve Paketleme Grubu - Sızdırmazlık Grubu - Sprey Boya - Yapı Kimyasalları Grubu - Yapıştırıcı Grubu. İhtiyaçlarınıza uygun hırdavatları kolayca bulabilirsiniz.";
+      keywords = "inoksist, hırdavat, delme kesme yağları, iş güvenliği ekipmanları, kaynak ekipmanları, kesici ekipmanlar, aşındırıcı ekipmanlar, ambalaj malzemeleri, paketleme ürünleri, sızdırmazlık ürünleri, yapıştırıcılar, yapı kimyasalları, sprey boya";
       break;
     case "bakim-kimyasallari":
       title = headerContent.maintenance;
@@ -37,7 +37,7 @@ export async function generateMetadata({ params: { locale, category } }) {
       break;
     default:
       title = headerContent.all; // Varsayılan olarak "Tüm Kategoriler"
-      description = "Bağlantı Elemanları, Teknik hırdavat, Bakım kimyasalları ve Modüler su depolarımızın yer aldığı geniş ürün yelpazemizle ihtiyaçlarınıza yönelik çözümler sunuyoruz. Tüm kategorilerdeki ürünlerimizi keşfedin ve kalite ile güveni bir arada yaşayın.";
+      description = "Bağlantı Elemanları, Hırdavat, Bakım kimyasalları ve Modüler su depolarımızın yer aldığı geniş ürün yelpazemizle ihtiyaçlarınıza yönelik çözümler sunuyoruz. Tüm kategorilerdeki ürünlerimizi keşfedin ve kalite ile güveni bir arada yaşayın.";
       break;
   }
 
@@ -64,7 +64,7 @@ export default async function FastenerListing({ params: { locale, category, prod
     case "baglanti-elemanlari":
       headerTitle = headerContent.fastener;
       break;
-    case "teknik-hirdavat":
+    case "hirdavat":
       headerTitle = headerContent.technical;
       break;
     case "bakim-kimyasallari":

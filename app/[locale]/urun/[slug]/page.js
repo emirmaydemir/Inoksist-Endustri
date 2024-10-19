@@ -19,7 +19,7 @@ export async function generateMetadata({ params: { locale, slug } }) {
     };
   }
 
-  const defaultKeywords = "inoksist, bağlantı elemanları, teknik hırdavat, bakım kimyasalları, modüler su deposu, inoksist, inoks civata, inox civata, paslanmaz civata, paslanmaz somun, paslanmaz pul";
+  const defaultKeywords = "inoksist, bağlantı elemanları, hırdavat, bakım kimyasalları, modüler su deposu, inoksist, inoks civata, inox civata, paslanmaz civata, paslanmaz somun, paslanmaz pul";
   const keywords = `${singleProductItem.name || ""}, ${defaultKeywords}`;
 
   return {
