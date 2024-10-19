@@ -486,6 +486,46 @@
       "url": "weicon-yapistirici-sprey",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855967/4_vkzrbo.jpg",
       "category": ["yapistirici-grubu"]
+    },
+
+    {
+      "id": 62,
+      "name": "Pattex One For All Yapıştırıcı",
+      "url": "pattex-one-for-all-yapistirici",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/pattex-one-for-all-universal_txboek.jpg",
+      "category": ["yapistirici-grubu"]
+    },
+
+    {
+      "id": 63,
+      "name": "Soudal Fix All",
+      "url": "soudal-fix-all",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/suodal-fix-all_voxuzu.jpg",
+      "category": ["yapistirici-grubu"]
+    },
+
+    {
+      "id": 64,
+      "name": "Pattex Power Epoxy Mix Karışım",
+      "url": "pattex-power-epoxy-mix-karisim",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729375686/pattex-power-epoxy_nwnywk.jpg",
+      "category": ["yapistirici-grubu"]
+    },
+
+    {
+      "id": 65,
+      "name": "Weıcon Tamir Spreyi",
+      "url": "weicon-tamir-spreyi",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/weicon-tamir-spreyi_zfd8wn.jpg",
+      "category": ["yapistirici-grubu"]
+    },
+
+    {
+      "id": 65,
+      "name": "Derby Kontakt Tüp Yapıştırıcı",
+      "url": "derby-kontakt-tup-yapistirici",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/derby-kontakt-yapistirici_c1i5xr.webp",
+      "category": ["yapistirici-grubu"]
     }
   ]
 }

@@ -3245,6 +3245,51 @@
 
     {
       "id": 170,
+      "name": "Pattex One For All Adhesive",
+      "url": "pattex-one-for-all-yapistirici",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/pattex-one-for-all-universal_txboek.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/pattex-one-for-all-universal_txboek.jpg",
+      "description": "Pattex One For All is a versatile adhesive designed to create secure and strong bonds on various surfaces. It can bond a variety of materials, including wood, metal, plastic, ceramic, and glass. The product is resistant to water, heat, and chemicals, making it suitable for both indoor and outdoor use. With its quick drying time and high durability, it offers a practical solution for all your bonding needs."
+    },
+
+    {
+      "id": 171,
+      "name": "Soudal Fix All",
+      "url": "soudal-fix-all",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/suodal-fix-all_voxuzu.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/suodal-fix-all_voxuzu.jpg",
+      "description": "Soudal Fix All is a multipurpose adhesive designed to provide strong and permanent bonds on various surfaces. It effectively bonds materials such as wood, metal, plastic, ceramic, and glass. The product is resistant to water, UV rays, and chemicals, making it suitable for both indoor and outdoor applications. With its quick drying time and elastic properties, it performs exceptionally well across a wide temperature range. Additionally, it has the ability to fill small gaps in surfaces."
+    },
+
+    {
+      "id": 172,
+      "name": "Pattex Power Epoxy Mix",
+      "url": "pattex-power-epoxy-mix-karisim",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729375686/pattex-power-epoxy_nwnywk.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729375686/pattex-power-epoxy_nwnywk.jpg",
+      "description": "Pattex Power Epoxy Mix is a two-component epoxy adhesive that offers high durability and strong bonding capabilities. It is ideal for permanently joining materials such as metal, wood, plastic, ceramic, and glass. Resistant to water, heat, and chemicals, it can be safely used even in challenging conditions. With a quick drying time and high adhesion strength, it provides an effective solution. After application, it leaves a clear finish and is sandable and paintable."
+    },
+
+    {
+      "id": 173,
+      "name": "Weıcon Repair Spray",
+      "url": "weicon-tamir-spreyi",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/weicon-tamir-spreyi_zfd8wn.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/weicon-tamir-spreyi_zfd8wn.jpg",
+      "description": "Weicon Repair Spray is a repair spray designed to quickly and effectively fix small cracks and holes on surfaces. It can be used on various materials such as metal, wood, plastic, and ceramic. The product is resistant to water and chemicals, making it suitable for both indoor and outdoor applications. With its fast-drying time, it offers a practical solution and can be sanded and painted after application."
+    },
+
+    {
+      "id": 174,
+      "name": "Derby Contact Tube Adhesive",
+      "url": "derby-kontakt-tup-yapistirici",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/derby-kontakt-yapistirici_c1i5xr.webp"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/derby-kontakt-yapistirici_c1i5xr.webp",
+      "description": "Derby Contact Tube Adhesive is a multipurpose adhesive designed to provide strong and permanent bonds. It is particularly effective on various materials such as leather, textiles, wood, rubber, and plastic. With its fast-drying feature, it offers a practical solution and is water-resistant. After application, it creates a flexible bond that maintains its durability over time."
+    },
+
+    {
+      "id": 175,
       "name": "Titanium Fasteners",
       "url": "titanyum-baglanti-elemanlari",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728910576/titanyum_oawgj3.jpg"],
@@ -3253,7 +3298,7 @@
     },
 
     {
-      "id": 171,
+      "id": 176,
       "name": "Custom Manufactured Fasteners",
       "url": "ozel-uretim-baglanti-elemanlari",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728910676/ozel-baglanti-elemanlari_ynqevl.jpg"],
@@ -3262,7 +3307,7 @@
     },
 
     {
-      "id": 172,
+      "id": 177,
       "name": "10.9 and 12.9 Fasteners",
       "url": "10-9-ve-12-9-baglanti-elemanlari",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728910932/i_igsepr.webp"],
