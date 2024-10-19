@@ -139,10 +139,6 @@
 
 /* ================ main navbar styles =========== */
 
-.nav__item a {
-  text-decoration: none;
-}
-
 .nav__item-container {
   position: relative;
   text-decoration: none;
@@ -214,6 +210,7 @@
   text-decoration: none;
   transition: 0.3s;
   color: inherit;
+  margin: 0 3px;
 }
 
 /* Eğer `Link` bileşeni doğrudan `<a>` ile çalışıyorsa */
@@ -316,6 +313,7 @@
   .nav__item {
     font-size: 0.7rem;
     /* Bu aralık için font boyutu */
+    margin: 0 2px;
   }
 
   .menu {
@@ -325,15 +323,12 @@
   }
 
   .search__box {
-    border: 1px solid #7c8a972f;
+    font-size: 0.8rem;
     padding: 5px 12px;
-    align-items: center;
-    border-radius: 40px;
-    background: #020a4de9;
   }
 
   .search__box input {
-    font-size: 0.8rem;
+    font-size: 0.7rem;
     /* Font boyutunu küçült */
     padding: 0;
     /* İç paddingi sıfırla */
@@ -353,13 +348,19 @@
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 1400px) {
+  .search__box {
+    padding: 5px 12px;
+    font-size: 0.9rem;
+  }
+
   .nav__item {
-    font-size: 0.7rem;
+    font-size: 0.8rem;
     /* Bu aralık için font boyutu */
+    margin: 0;
   }
 
   .sub__menu-item {
-    font-size: 0.7rem;
+    font-size: 0.8rem;
   }
 
   .header__top__left a {
