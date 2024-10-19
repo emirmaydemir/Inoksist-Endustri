@@ -37,13 +37,6 @@ export default async function RootLayout({ children, params: { locale } }) {
   const search = t("navLinks:search", { returnObjects: true });
   return (
     <html lang={locale}>
-      <Head>
-        <link rel="preconnect" href="https://res.cloudinary.com" />
-        <link rel="dns-prefetch" href="https://res.cloudinary.com" />
-        {/* Buraya Google Fonts ve diğer meta etiketlerini ekleyin */}
-        <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;400;600;700;900&display=swap" rel="stylesheet" />
-        <link rel="preload" href="https://cdn.jsdelivr.net/npm/remixicon/fonts/remixicon.css" as="style" onLoad="this.onload=null;this.rel='stylesheet'" />
-      </Head>
       <TranslationsProvider namespaces={i18nNamespaces} locale={locale} resources={resources}>
         <body>
           <Fragment>
