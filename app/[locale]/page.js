@@ -37,7 +37,7 @@ export default async function HomePage({ params: { locale } }) {
             <Row className="form__row">
               <Col lg="12" md="12" sm="12">
                 <div className="find__cars-right">
-                  <Image src="https://res.cloudinary.com/di9qvtepw/image/upload/q_auto,f_webp/v1728242922/markalar_wcicpo.jpg" alt="Sponsorlar" width={1300} height={100} className="img-fluid" />
+                  <Image src="https://res.cloudinary.com/di9qvtepw/image/upload/q_auto,f_webp/v1728242922/markalar_wcicpo.jpg" alt="Sponsorlar" loading="eager" width={1300} height={100} className="img-fluid" />
                 </div>
               </Col>
             </Row>
