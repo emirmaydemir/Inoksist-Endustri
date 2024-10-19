@@ -1,0 +1,44 @@
+/*======================
+    404 page
+=======================*/
+
+.page_404 {
+  padding: 40px 0;
+  background: #fff;
+  font-family: "Arvo", serif;
+  text-align: center; /* Metin ortalama */
+}
+
+.page_404 img {
+  width: 100%;
+}
+
+.four_zero_four_bg {
+  background-image: url(https://cdn.dribbble.com/users/285475/screenshots/2083086/dribbble_1.gif);
+  height: 400px;
+  background-position: center;
+  background-repeat: no-repeat; /* Resmi tekrar etme */
+}
+
+.four_zero_four_bg h1 {
+  font-size: 80px; /* Font boyutu */
+  font-weight: bold; /* Kalın yapar */
+  margin-top: -10px; /* Yukarı doğru hareket ettirir */
+}
+
+.four_zero_four_bg h3 {
+  font-size: 100px;
+}
+
+.link_404 {
+  color: #fff !important;
+  padding: 10px 20px;
+  background: #39ac31;
+  margin: 20px 0;
+  display: inline-block;
+  text-decoration: none;
+  color: inherit;
+}
+.contant_box_404 {
+  margin-top: 20px; /* Üstte biraz boşluk */
+}

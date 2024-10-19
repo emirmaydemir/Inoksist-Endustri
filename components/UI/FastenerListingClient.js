@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useState, useEffect } from "react";
-import { useRouter } from "next/navigation"; // Router'ı import et
+import { useRouter, notFound } from "next/navigation"; // Router'ı import et
 import { Col } from "reactstrap";
 import ProductItem from "@/components/UI/ProductItem";
 import "@/styles/select.css";
@@ -44,6 +44,10 @@ const FastenerListingClient = ({ fastenerData, categoriesContent, headerContent,
 
     setSelectedCategory(formattedCategory);
   };
+
+  if (!Array.isArray(fastenerData) || fastenerData.length === 0) {
+    notFound(); // Bu, 404 sayfasına yönlendirir
+  }
 
   const filteredProducts = selectedCategory && selectedCategory !== "urunler" ? fastenerData.filter((item) => item.category.includes(selectedCategory)) : fastenerData; // Eğer selectedCategory boşsa, tüm ürünleri göster
 
