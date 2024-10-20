@@ -2858,6 +2858,69 @@
 
     {
       "id": 127,
+      "name": "Kaynak Maskesi",
+      "url": "kaynak-maskesi",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729435829/kaynak-maskesi_p7pmhj.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729435829/kaynak-maskesi_p7pmhj.jpg",
+      "description": "Kaynak Maskesi, kaynak işlemleri sırasında gözleri ve yüzü korumak için tasarlanmış kişisel koruyucu ekipmandır. Genellikle yüksek ısıya ve darbelere dayanıklı malzemelerden üretilir. Otomatik kararma özelliği sayesinde kaynak arc'ı oluştuğunda lens kararmakta ve gözleri UV/IR ışınlarından korumaktadır. Ayarlanabilir kafa bandı ve hafif tasarımı, uzun süreli kullanımlarda konfor sağlar. Kaynak maskeleri, çeşitli kaynak yöntemleriyle birlikte kullanılabilir ve iş güvenliğini artırmak için önemlidir."
+    },
+
+    {
+      "id": 128,
+      "name": "Kaynak Maskesi Camı",
+      "url": "kaynak-maskesi-cami",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729435822/kaynak-maskesi-cami_ko5nfm.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729435822/kaynak-maskesi-cami_ko5nfm.jpg",
+      "description": "Kaynak Maskesi Camı, kaynak işlemleri sırasında gözleri korumak için kullanılan, kaynak maskesinin en önemli parçalarından biridir. Genellikle darbelere, ısıya ve UV/IR ışınlarına dayanıklı özel malzemelerden üretilir. Farklı koyuluk seviyelerine sahip lens seçenekleri sayesinde, kaynak türüne göre uygun koruma sağlar. Kolayca değiştirilebilen yapısı, kullanıcıların maskenin verimliliğini artırmalarına olanak tanır. Kaynak maskesi camı, iş güvenliğini artırarak kaynak işlemlerinin güvenli bir şekilde gerçekleştirilmesine katkıda bulunur."
+    },
+
+    {
+      "id": 129,
+      "name": "Kaynak Pensesi",
+      "url": "kaynak-pensesi",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729435824/kaynak-pensesi_sbu33q.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729435824/kaynak-pensesi_sbu33q.jpg",
+      "description": "Kaynak Pensesi, kaynak işlemleri sırasında metal parçaları bir arada tutmak ve doğru pozisyonda sabitlemek için kullanılan bir alettir. Genellikle dayanıklı çelikten üretilir ve ısıya dayanıklılığı ile dikkat çeker. Ergonomik tasarımı sayesinde kullanıcıya kolaylık sağlar ve elle tutmayı kolaylaştırır. Kaynak pensesi, özellikle zor erişilen alanlarda veya karmaşık projelerde kaynak işlemini kolaylaştırarak iş verimliliğini artırır. Farklı boyut ve tasarımlarda mevcut olan bu alet, profesyonel kaynakçıların yanı sıra hobi amaçlı çalışanlar için de idealdir."
+    },
+
+    {
+      "id": 130,
+      "name": "Kaynak Torçları",
+      "url": "kaynak-torclari",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729435825/kaynak-torc_z0bmit.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729435825/kaynak-torc_z0bmit.jpg",
+      "description": "Kaynak Torçları, kaynak işlemlerinde metal parçaları ısıtmak ve birleştirmek için kullanılan ekipmanlardır. Genellikle oksijen ve asetilen veya diğer gazlar kullanarak yüksek sıcaklıklar üretebilirler. Farklı boyut ve uç tipleriyle çeşitli kaynak yöntemlerine (örneğin, TIG, MIG, veya gazlı kaynak) uygunluk gösterirler. Kaynak torçlarının yapısı, gaz akışını kontrol etmek için ayarlanabilir valfler ve ateşleme sistemleri içerir. Ayrıca, yüksek sıcaklıklara dayanıklı malzemelerden üretilmiştir ve yoğun kullanım koşullarında güvenilirlik sağlar. Kaynak torçları, özellikle metal işleme, otomotiv, ve inşaat sektörlerinde yaygın olarak kullanılmaktadır."
+    },
+
+    {
+      "id": 131,
+      "name": "Kontak Meme",
+      "url": "kontak-meme",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729435827/kontak-meme_cyhpox.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729435827/kontak-meme_cyhpox.jpg",
+      "description": "Kontak Meme, elektrik bağlantılarında kullanılan ve genellikle metal yüzeyleri birleştiren bir bileşendir. Bu parçalar, elektrik akımını iletmek amacıyla iki veya daha fazla kablonun bir araya gelmesini sağlar. Kontak memeler, dayanıklı malzemelerden üretilmiştir ve yüksek sıcaklık ve basınç gibi zorlu koşullara karşı dayanıklıdır. Çeşitli tip ve boyutlarda mevcuttur, bu da farklı uygulamalar için esneklik sağlar. Genellikle otomotiv, endüstriyel ekipmanlar ve elektrik sistemlerinde yaygın olarak kullanılır."
+    },
+
+    {
+      "id": 132,
+      "name": "Kaynak Nozulları",
+      "url": "kaynak-nozullari",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729435823/kaynak-nozul_mgiexl.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729435823/kaynak-nozul_mgiexl.jpg",
+      "description": "Kaynak Nozulları, kaynak işlemlerinde gaz akışını düzenleyen ve yönlendiren bileşenlerdir. Genellikle metal ve seramik malzemelerden üretilen nozullar, yüksek sıcaklıklara dayanıklıdır ve kaynak işlemi sırasında stabil bir gaz akışı sağlamak için tasarlanmıştır. Farklı çap ve tasarımlara sahip nozullar, farklı kaynak yöntemleri için özelleştirilmiştir ve iş parçasının kalitesini artırmak için optimize edilmiştir. Kaynak nozulları, hem argon hem de karbondioksit gazları ile kullanılabilir ve özellikle MIG, TIG ve plazma kaynak uygulamalarında yaygın olarak tercih edilir."
+    },
+
+    {
+      "id": 133,
+      "name": "Kaynak Pastaları",
+      "url": "kaynak-pastalari",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729435828/kaynak-pastasi_ogwphp.webp"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729435828/kaynak-pastasi_ogwphp.webp",
+      "description": "Kaynak Pastaları, kaynak işlemleri sırasında metal yüzeylerin temizlenmesi ve korunması için kullanılan özel kimyasallardır. Bu pastalar, oksidasyonu önlemek ve kaynak işlemi sırasında metalin daha iyi birleşmesini sağlamak amacıyla tasarlanmıştır. Genellikle asidik veya bazik özellikte olan kaynak pastaları, metal yüzeylere uygulanarak kalıntıların ve kirlerin temizlenmesine yardımcı olur. Ayrıca, kaynak işlemi sırasında daha iyi bir akış sağlamak için kaynağın yüzeyinde koruyucu bir tabaka oluşturur. Kaynak pastaları, otomotiv, metal işleme ve inşaat sektörlerinde yaygın olarak kullanılır."
+    },
+
+    {
+      "id": 134,
       "name": "Metal Kesme Diskleri",
       "url": "metal-kesme-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946300/Metal_Kesme_Diskleri_cnwyix.png"],
@@ -2866,7 +2929,7 @@
     },
 
     {
-      "id": 128,
+      "id": 135,
       "name": "Endüstriyel Metal Kesme Diskleri",
       "url": "endustriyel-metal-kesme-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946300/Endustriyel_Metal_Kesme_Diskleri_osnk56.png"],
@@ -2875,7 +2938,7 @@
     },
 
     {
-      "id": 129,
+      "id": 136,
       "name": "Inox Kesme Diskleri",
       "url": "inox-kesme-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946301/Inox_Kesme_Diskleri_tbydvg.png"],
@@ -2884,7 +2947,7 @@
     },
 
     {
-      "id": 130,
+      "id": 137,
       "name": "Cut & Cut Inox Kesme Diskleri",
       "url": "cut-inox-kesme-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946295/Cut_Cut_Inox_Kesme_Diskleri_daxrrr.jpg"],
@@ -2893,7 +2956,7 @@
     },
 
     {
-      "id": 131,
+      "id": 138,
       "name": "Döküm Kesme Diskleri",
       "url": "dokum-kesme-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946298/Dokum_Kesme_Diskleri_pvjpmb.png"],
@@ -2902,7 +2965,7 @@
     },
 
     {
-      "id": 132,
+      "id": 139,
       "name": "Mermer Kesme Diskleri",
       "url": "mermer-kesme-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946298/Mermer_Kesme_Diskleri_hubrn4.png"],
@@ -2911,7 +2974,7 @@
     },
 
     {
-      "id": 133,
+      "id": 140,
       "name": "Alüminyum Kesme Diskleri",
       "url": "aluminyum-kesme-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946298/Aluminyum_Kesme_Diskleri_hvncag.png"],
@@ -2920,7 +2983,7 @@
     },
 
     {
-      "id": 134,
+      "id": 141,
       "name": "ZA Döküm Kesme Diskleri",
       "url": "za-dokum-kesme-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946301/ZA_Dokum_Kesme_Diskleri_vzkovb.png"],
@@ -2929,7 +2992,7 @@
     },
 
     {
-      "id": 135,
+      "id": 142,
       "name": "AC Döküm Kesme Diskleri",
       "url": "ac-dokum-kesme-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946296/AC_Dokum_Kesme_Diskleri_gbdjrk.png"],
@@ -2938,7 +3001,7 @@
     },
 
     {
-      "id": 136,
+      "id": 143,
       "name": "Metal Kesme Sabit Tezgah Diskleri",
       "url": "metal-kesme-sabit-tezgah-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946300/Metal_Kesme_Sabit_Kesme_Tezgah_Diskleri_xqygeb.png"],
@@ -2947,7 +3010,7 @@
     },
 
     {
-      "id": 137,
+      "id": 144,
       "name": "Döküm Kesme Sabit Tezgah Diskleri",
       "url": "dokum-kesme-sabit-tezgah-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946298/Dokum_Kesme_Sabit_Tezgah_Diskleri_dvexeu.png"],
@@ -2956,7 +3019,7 @@
     },
 
     {
-      "id": 138,
+      "id": 145,
       "name": "Ray Kesme Diskleri",
       "url": "ray-kesme-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946303/Ray_Kesme_Diskleri_uv6o3e.png"],
@@ -2965,7 +3028,7 @@
     },
 
     {
-      "id": 139,
+      "id": 146,
       "name": "Metal Çapak Alma Diskleri",
       "url": "metal-capak-alma-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946644/Metal_Capak_Alma_Diskleri_ifginm.png"],
@@ -2974,7 +3037,7 @@
     },
 
     {
-      "id": 140,
+      "id": 147,
       "name": "Metal Plus Çapak Alma Diskleri",
       "url": "metal-plus-capak-alma-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946643/Metal_Plus_Capak_Alma_Diskleri_xtruz0.png"],
@@ -2983,7 +3046,7 @@
     },
 
     {
-      "id": 141,
+      "id": 148,
       "name": "Inox Çapak Alma Diskleri",
       "url": "inox-capak-alma-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946644/Inox_Capak_Alma_Diskleri_ms0jea.png"],
@@ -2992,7 +3055,7 @@
     },
 
     {
-      "id": 142,
+      "id": 149,
       "name": "Döküm Çapak Alma Diskleri",
       "url": "dokum-capak-alma-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946642/Dokum_Capak_Alma_Diskleri_fvxahf.png"],
@@ -3001,7 +3064,7 @@
     },
 
     {
-      "id": 143,
+      "id": 150,
       "name": "ZA Plus Çapak Alma Diskleri",
       "url": "za-plus-capak-alma-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946644/ZA_Plus_Capak_Alma_Diskleri_wi2iua.png"],
@@ -3010,7 +3073,7 @@
     },
 
     {
-      "id": 144,
+      "id": 151,
       "name": "Alüminyum Çapak Alma Diskleri",
       "url": "aluminyum-capak-alma-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946642/Aluminyum_Capak_Alma_Diskleri_i46mqh.png"],
@@ -3019,7 +3082,7 @@
     },
 
     {
-      "id": 145,
+      "id": 152,
       "name": "Comfort Line ZR SD Flap Diskler",
       "url": "comfort-line-zr-sd-flap-diskler",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728944155/Comfort_Line_ZR_SD_Flap_Diskler_z4d121.png"],
@@ -3028,7 +3091,7 @@
     },
 
     {
-      "id": 146,
+      "id": 153,
       "name": "Comfort Line ZR HD Flap Diskler",
       "url": "comfort-line-zr-hd-flap-diskler",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728944152/Comfort_Line_ZR_HD_Flap_Diskler_wooyjn.png"],
@@ -3037,7 +3100,7 @@
     },
 
     {
-      "id": 147,
+      "id": 154,
       "name": "Premium Line AO SD Flap Diskler",
       "url": "premium-line-ao-sd-flap-diskler",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728944157/Premium_Line_AO_SD_Flap_Diskler_vnfbrl.png"],
@@ -3046,7 +3109,7 @@
     },
 
     {
-      "id": 148,
+      "id": 155,
       "name": "Premium Line ZR SD Flap Diskler",
       "url": "premium-line-zr-sd-flap-diskler",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728944152/Premium_Line_ZR_SD_Flap_Diskler_o8bvpn.png"],
@@ -3055,7 +3118,7 @@
     },
 
     {
-      "id": 149,
+      "id": 156,
       "name": "Premium Line ZR HD Flap Diskler",
       "url": "premium-line-zr-hd-flap-diskler",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728944157/Premium_ZR_HD_Flap_Diskler_faqqko.png"],
@@ -3064,7 +3127,7 @@
     },
 
     {
-      "id": 150,
+      "id": 157,
       "name": "Premium Line CE SD Flap Diskler",
       "url": "premium-line-ce-sd-flap-diskler",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728944154/Premium_Line_CE_SD_Flap_Diskler_uiax3m.png"],
@@ -3073,7 +3136,7 @@
     },
 
     {
-      "id": 151,
+      "id": 158,
       "name": "Cırtlı Diskler",
       "url": "cirtli-diskler",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946807/Cirtli_Diskler_yfe5jn.webp"],
@@ -3082,7 +3145,7 @@
     },
 
     {
-      "id": 152,
+      "id": 159,
       "name": "Bant Zımparalar",
       "url": "bant-zimparalar",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946806/Bant_Zimparalar_p2r5u2.jpg"],
@@ -3091,7 +3154,7 @@
     },
 
     {
-      "id": 153,
+      "id": 160,
       "name": "Rulo Zımparalar",
       "url": "rulo-zimparalar",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946932/Rulo_Zimparalar_qzo12z.png"],
@@ -3100,7 +3163,7 @@
     },
 
     {
-      "id": 154,
+      "id": 161,
       "name": "Dilimli Streç",
       "url": "dilimli-strec",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855821/1_ndandr.jpg"],
@@ -3109,7 +3172,7 @@
     },
 
     {
-      "id": 155,
+      "id": 162,
       "name": "Gıda Streci",
       "url": "gida-streci",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855822/2_kr6df8.jpg"],
@@ -3118,7 +3181,7 @@
     },
 
     {
-      "id": 156,
+      "id": 163,
       "name": "Koli Bandı Akrilik",
       "url": "koli-bandi-akrilik",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855823/3_r7hd32.jpg"],
@@ -3127,7 +3190,7 @@
     },
 
     {
-      "id": 157,
+      "id": 164,
       "name": "Koli Bandı Hotmelt",
       "url": "koli-bandi-hotmelt",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855824/4_zzwoui.jpg"],
@@ -3136,7 +3199,7 @@
     },
 
     {
-      "id": 158,
+      "id": 165,
       "name": "Palet Streci",
       "url": "palet-streci",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855820/5_xd2rcj.jpg"],
@@ -3145,7 +3208,7 @@
     },
 
     {
-      "id": 159,
+      "id": 166,
       "name": "Sgs Cırt Kelepçe",
       "url": "sgs-cirt-kelepce",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729424215/sgs-cirt-kelepce_zh69yo.webp"],
@@ -3154,7 +3217,7 @@
     },
 
     {
-      "id": 160,
+      "id": 167,
       "name": "Loctite Civata Sabitleyici",
       "url": "loctite-civata-sabitleyici",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855913/1_yunpo0.jpg"],
@@ -3163,7 +3226,7 @@
     },
 
     {
-      "id": 161,
+      "id": 168,
       "name": "Weicon Flex 310 M Paslanmaz Çelik Sızdırmazlık Ürünü",
       "url": "weicon-flex-310-m",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855915/2_awe8fe.jpg"],
@@ -3172,7 +3235,7 @@
     },
 
     {
-      "id": 162,
+      "id": 169,
       "name": "Weicon Civata Sabitleyici",
       "url": "weicon-civata-sabitleyici",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728895990/eba1_arrfwr.jpg"],
@@ -3181,7 +3244,7 @@
     },
 
     {
-      "id": 163,
+      "id": 170,
       "name": "Eco Service Sprey Boya Kartela",
       "url": "eco-service-sprey-boya-kartela",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855929/1_krohu2.jpg"],
@@ -3190,7 +3253,7 @@
     },
 
     {
-      "id": 164,
+      "id": 171,
       "name": "Eco Service Sprey Boya",
       "url": "eco-service-sprey-boya",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855927/2_mywr7g.jpg"],
@@ -3199,7 +3262,7 @@
     },
 
     {
-      "id": 165,
+      "id": 172,
       "name": "Ceresit Köpük",
       "url": "ceresit-kopuk",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855944/1_u0ohza.jpg"],
@@ -3208,7 +3271,7 @@
     },
 
     {
-      "id": 166,
+      "id": 173,
       "name": "Ceresit Silikon",
       "url": "ceresit-silikon",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855945/2_dgzvjl.jpg"],
@@ -3217,7 +3280,7 @@
     },
 
     {
-      "id": 167,
+      "id": 174,
       "name": "Dayson PU Mastik",
       "url": "dayson-pu-mastik",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855947/3_k9rzev.jpg"],
@@ -3226,7 +3289,7 @@
     },
 
     {
-      "id": 168,
+      "id": 175,
       "name": "Kimyasal Dübel (Epoksi)",
       "url": "kimyasal-dubel-epoksi",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855949/4_lxkfeg.jpg"],
@@ -3235,7 +3298,7 @@
     },
 
     {
-      "id": 169,
+      "id": 176,
       "name": "Sista Silikon",
       "url": "sista-silikon",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855951/5_zjh817.jpg"],
@@ -3244,7 +3307,7 @@
     },
 
     {
-      "id": 170,
+      "id": 177,
       "name": "502 Japon Yapıştırıcı 20 Gr.",
       "url": "502-japon-yapistirici-20-gr",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855961/1_ce78kj.jpg"],
@@ -3253,7 +3316,7 @@
     },
 
     {
-      "id": 171,
+      "id": 178,
       "name": "Derby 602 Japon Yapıştırıcı 20 Gr.",
       "url": "derby-602-japon-yapistirici-20-gr",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855963/2_pusgbc.jpg"],
@@ -3262,7 +3325,7 @@
     },
 
     {
-      "id": 172,
+      "id": 179,
       "name": "Mdf Kit",
       "url": "mdf-kit",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855965/3_blrkl9.jpg"],
@@ -3271,7 +3334,7 @@
     },
 
     {
-      "id": 173,
+      "id": 180,
       "name": "Weicon Yapıştırıcı Sprey",
       "url": "weicon-yapistirici-sprey",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855967/4_vkzrbo.jpg"],
@@ -3280,7 +3343,7 @@
     },
 
     {
-      "id": 174,
+      "id": 181,
       "name": "Pattex One For All Yapıştırıcı",
       "url": "pattex-one-for-all-yapistirici",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/pattex-one-for-all-universal_txboek.jpg"],
@@ -3289,7 +3352,7 @@
     },
 
     {
-      "id": 175,
+      "id": 182,
       "name": "Soudal Fix All",
       "url": "soudal-fix-all",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/suodal-fix-all_voxuzu.jpg"],
@@ -3298,7 +3361,7 @@
     },
 
     {
-      "id": 176,
+      "id": 183,
       "name": "Pattex Power Epoxy Mix Karışım",
       "url": "pattex-power-epoxy-mix-karisim",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729375686/pattex-power-epoxy_nwnywk.jpg"],
@@ -3307,7 +3370,7 @@
     },
 
     {
-      "id": 177,
+      "id": 184,
       "name": "Weicon Tamir Spreyi",
       "url": "weicon-tamir-spreyi",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/weicon-tamir-spreyi_zfd8wn.jpg"],
@@ -3316,7 +3379,7 @@
     },
 
     {
-      "id": 178,
+      "id": 185,
       "name": "Derby Kontakt Tüp Yapıştırıcı",
       "url": "derby-kontakt-tup-yapistirici",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/derby-kontakt-yapistirici_c1i5xr.webp"],
@@ -3325,7 +3388,7 @@
     },
 
     {
-      "id": 179,
+      "id": 186,
       "name": "Titanyum Bağlantı Elemanları",
       "url": "titanyum-baglanti-elemanlari",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728910576/titanyum_oawgj3.jpg"],
@@ -3334,7 +3397,7 @@
     },
 
     {
-      "id": 180,
+      "id": 187,
       "name": "Özel Üretim Bağlantı Elemanları",
       "url": "ozel-uretim-baglanti-elemanlari",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728910676/ozel-baglanti-elemanlari_ynqevl.jpg"],
@@ -3343,7 +3406,7 @@
     },
 
     {
-      "id": 181,
+      "id": 188,
       "name": "10.9 ve 12.9 Bağlantı Elemanları",
       "url": "10-9-ve-12-9-baglanti-elemanlari",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728910932/i_igsepr.webp"],

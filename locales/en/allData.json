@@ -2858,6 +2858,69 @@
 
     {
       "id": 127,
+      "name": "Welding Helmet",
+      "url": "kaynak-maskesi",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729435829/kaynak-maskesi_p7pmhj.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729435829/kaynak-maskesi_p7pmhj.jpg",
+      "description": "Welding Helmet is a personal protective equipment designed to protect the eyes and face during welding operations. It is typically made from materials that are resistant to high temperatures and impacts. With its automatic darkening feature, the lens darkens when the welding arc is detected, shielding the eyes from UV and IR radiation. The adjustable headband and lightweight design ensure comfort during prolonged use. Welding helmets can be used with various welding methods and are essential for enhancing workplace safety."
+    },
+
+    {
+      "id": 128,
+      "name": "Welding Helmet Lens",
+      "url": "kaynak-maskesi-cami",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729435822/kaynak-maskesi-cami_ko5nfm.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729435822/kaynak-maskesi-cami_ko5nfm.jpg",
+      "description": "Welding Helmet Lens is one of the most crucial components of a welding helmet, designed to protect the eyes during welding operations. It is typically made from specialized materials that are resistant to impacts, heat, and UV/IR radiation. With various shade levels available, the lens provides suitable protection depending on the type of welding being performed. Its easily replaceable design allows users to maintain the helmet's effectiveness. The welding helmet lens enhances workplace safety by enabling secure and efficient welding processes."
+    },
+
+    {
+      "id": 129,
+      "name": "Welding Pliers",
+      "url": "kaynak-pensesi",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729435824/kaynak-pensesi_sbu33q.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729435824/kaynak-pensesi_sbu33q.jpg",
+      "description": "Welding Pliers is a tool used to hold metal pieces together and secure them in the correct position during welding operations. Typically made from durable steel, it is known for its heat resistance. Its ergonomic design provides ease of use and comfort while holding. Welding clamps facilitate the welding process, especially in hard-to-reach areas or complex projects, enhancing overall work efficiency. Available in various sizes and designs, this tool is ideal for both professional welders and hobbyists."
+    },
+
+    {
+      "id": 130,
+      "name": "Welding Torches",
+      "url": "kaynak-torclari",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729435825/kaynak-torc_z0bmit.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729435825/kaynak-torc_z0bmit.jpg",
+      "description": "Welding Torches are equipment used to heat and join metal pieces during welding operations. They typically produce high temperatures using a combination of oxygen and acetylene or other gases. With various sizes and tip types, they are suitable for different welding methods (such as TIG, MIG, or gas welding). The structure of welding torches includes adjustable valves for controlling gas flow and ignition systems. Additionally, they are made from materials resistant to high temperatures, ensuring reliability under intense use conditions. Welding torches are widely used in metalworking, automotive, and construction industries."
+    },
+
+    {
+      "id": 131,
+      "name": "Contact Nozzle",
+      "url": "kontak-meme",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729435827/kontak-meme_cyhpox.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729435827/kontak-meme_cyhpox.jpg",
+      "description": "Contact Nozzle is a component used in electrical connections, designed to join metal surfaces. These parts enable the connection of two or more wires to transmit electrical current. Contact sockets are made from durable materials and are resistant to harsh conditions such as high temperatures and pressure. They come in various types and sizes, providing flexibility for different applications. Contact sockets are commonly used in automotive, industrial equipment, and electrical systems."
+    },
+
+    {
+      "id": 132,
+      "name": "Welding Nozzles",
+      "url": "kaynak-nozullari",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729435823/kaynak-nozul_mgiexl.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729435823/kaynak-nozul_mgiexl.jpg",
+      "description": "Welding Nozzles are components that regulate and direct the flow of gas during welding operations. Typically made from metal and ceramic materials, these nozzles are designed to withstand high temperatures and ensure a stable gas flow during the welding process. Available in various diameters and designs, they are tailored for different welding methods and optimized to enhance the quality of the workpiece. Welding nozzles can be used with both argon and carbon dioxide gases and are commonly preferred in MIG, TIG, and plasma welding applications."
+    },
+
+    {
+      "id": 133,
+      "name": "Welding Pastes",
+      "url": "kaynak-pastalari",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729435828/kaynak-pastasi_ogwphp.webp"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729435828/kaynak-pastasi_ogwphp.webp",
+      "description": "Welding Pastes are special chemicals used to clean and protect metal surfaces during welding operations. These fluxes are designed to prevent oxidation and ensure better bonding of metals during the welding process. Typically acidic or basic in nature, welding fluxes are applied to metal surfaces to aid in the removal of residues and contaminants. Additionally, they create a protective layer on the surface to enhance the flow of the weld. Welding fluxes are commonly used in the automotive, metalworking, and construction industries."
+    },
+
+    {
+      "id": 134,
       "name": "Metal Cutting Discs",
       "url": "metal-kesme-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946300/Metal_Kesme_Diskleri_cnwyix.png"],
@@ -2866,7 +2929,7 @@
     },
 
     {
-      "id": 128,
+      "id": 135,
       "name": "Industrial Metal Cutting Discs",
       "url": "endustriyel-metal-kesme-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946300/Endustriyel_Metal_Kesme_Diskleri_osnk56.png"],
@@ -2875,7 +2938,7 @@
     },
 
     {
-      "id": 129,
+      "id": 136,
       "name": "Inox Cutting Discs",
       "url": "inox-kesme-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946301/Inox_Kesme_Diskleri_tbydvg.png"],
@@ -2884,7 +2947,7 @@
     },
 
     {
-      "id": 130,
+      "id": 137,
       "name": "Cut & Cut Inox Cutting Discs",
       "url": "cut-inox-kesme-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946295/Cut_Cut_Inox_Kesme_Diskleri_daxrrr.jpg"],
@@ -2893,7 +2956,7 @@
     },
 
     {
-      "id": 131,
+      "id": 138,
       "name": "Casting Cutting Discs",
       "url": "dokum-kesme-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946298/Dokum_Kesme_Diskleri_pvjpmb.png"],
@@ -2902,7 +2965,7 @@
     },
 
     {
-      "id": 132,
+      "id": 139,
       "name": "Marble Cutting Discs",
       "url": "mermer-kesme-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946298/Mermer_Kesme_Diskleri_hubrn4.png"],
@@ -2911,7 +2974,7 @@
     },
 
     {
-      "id": 133,
+      "id": 140,
       "name": "Aluminum Cutting Discs",
       "url": "aluminyum-kesme-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946298/Aluminyum_Kesme_Diskleri_hvncag.png"],
@@ -2920,7 +2983,7 @@
     },
 
     {
-      "id": 134,
+      "id": 141,
       "name": "ZA Casting Cutting Discs",
       "url": "za-dokum-kesme-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946301/ZA_Dokum_Kesme_Diskleri_vzkovb.png"],
@@ -2929,7 +2992,7 @@
     },
 
     {
-      "id": 135,
+      "id": 142,
       "name": "AC Casting Cutting Discs",
       "url": "ac-dokum-kesme-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946296/AC_Dokum_Kesme_Diskleri_gbdjrk.png"],
@@ -2938,7 +3001,7 @@
     },
 
     {
-      "id": 136,
+      "id": 143,
       "name": "Metal Cutting Fixed Table Discs",
       "url": "metal-kesme-sabit-tezgah-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946300/Metal_Kesme_Sabit_Kesme_Tezgah_Diskleri_xqygeb.png"],
@@ -2947,7 +3010,7 @@
     },
 
     {
-      "id": 137,
+      "id": 144,
       "name": "Casting Cutting Fixed Table Discs",
       "url": "dokum-kesme-sabit-tezgah-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946298/Dokum_Kesme_Sabit_Tezgah_Diskleri_dvexeu.png"],
@@ -2956,7 +3019,7 @@
     },
 
     {
-      "id": 138,
+      "id": 145,
       "name": "Rail Cutting Discs",
       "url": "ray-kesme-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946303/Ray_Kesme_Diskleri_uv6o3e.png"],
@@ -2965,7 +3028,7 @@
     },
 
     {
-      "id": 139,
+      "id": 146,
       "name": "Metal Deburring Discs",
       "url": "metal-capak-alma-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946644/Metal_Capak_Alma_Diskleri_ifginm.png"],
@@ -2974,7 +3037,7 @@
     },
 
     {
-      "id": 140,
+      "id": 147,
       "name": "Metal Plus Deburring Discs",
       "url": "metal-plus-capak-alma-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946643/Metal_Plus_Capak_Alma_Diskleri_xtruz0.png"],
@@ -2983,7 +3046,7 @@
     },
 
     {
-      "id": 141,
+      "id": 148,
       "name": "Inox Deburring Discs",
       "url": "inox-capak-alma-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946644/Inox_Capak_Alma_Diskleri_ms0jea.png"],
@@ -2992,7 +3055,7 @@
     },
 
     {
-      "id": 142,
+      "id": 149,
       "name": "Cast Deburring Discs",
       "url": "dokum-capak-alma-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946642/Dokum_Capak_Alma_Diskleri_fvxahf.png"],
@@ -3001,7 +3064,7 @@
     },
 
     {
-      "id": 143,
+      "id": 150,
       "name": "ZA Plus Deburring Discs",
       "url": "za-plus-capak-alma-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946644/ZA_Plus_Capak_Alma_Diskleri_wi2iua.png"],
@@ -3010,7 +3073,7 @@
     },
 
     {
-      "id": 144,
+      "id": 151,
       "name": "Aluminum Deburring Discs",
       "url": "aluminyum-capak-alma-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946642/Aluminyum_Capak_Alma_Diskleri_i46mqh.png"],
@@ -3019,7 +3082,7 @@
     },
 
     {
-      "id": 145,
+      "id": 152,
       "name": "Comfort Line ZR SD Flap Discs",
       "url": "comfort-line-zr-sd-flap-diskler",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728944155/Comfort_Line_ZR_SD_Flap_Diskler_z4d121.png"],
@@ -3028,7 +3091,7 @@
     },
 
     {
-      "id": 146,
+      "id": 153,
       "name": "Comfort Line ZR HD Flap Discs",
       "url": "comfort-line-zr-hd-flap-diskler",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728944152/Comfort_Line_ZR_HD_Flap_Diskler_wooyjn.png"],
@@ -3037,7 +3100,7 @@
     },
 
     {
-      "id": 147,
+      "id": 154,
       "name": "Premium Line AO SD Flap Discs",
       "url": "premium-line-ao-sd-flap-diskler",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728944157/Premium_Line_AO_SD_Flap_Diskler_vnfbrl.png"],
@@ -3046,7 +3109,7 @@
     },
 
     {
-      "id": 148,
+      "id": 155,
       "name": "Premium Line ZR SD Flap Discs",
       "url": "premium-line-zr-sd-flap-diskler",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728944152/Premium_Line_ZR_SD_Flap_Diskler_o8bvpn.png"],
@@ -3055,7 +3118,7 @@
     },
 
     {
-      "id": 149,
+      "id": 156,
       "name": "Premium Line ZR HD Flap Discs",
       "url": "premium-line-zr-hd-flap-diskler",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728944157/Premium_ZR_HD_Flap_Diskler_faqqko.png"],
@@ -3064,7 +3127,7 @@
     },
 
     {
-      "id": 150,
+      "id": 157,
       "name": "Premium Line CE SD Flap Discs",
       "url": "premium-line-ce-sd-flap-diskler",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728944154/Premium_Line_CE_SD_Flap_Diskler_uiax3m.png"],
@@ -3073,7 +3136,7 @@
     },
 
     {
-      "id": 151,
+      "id": 158,
       "name": "Velcro Discs",
       "url": "cirtli-diskler",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946807/Cirtli_Diskler_yfe5jn.webp"],
@@ -3082,7 +3145,7 @@
     },
 
     {
-      "id": 152,
+      "id": 159,
       "name": "Belt Sanders",
       "url": "bant-zimparalar",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946806/Bant_Zimparalar_p2r5u2.jpg"],
@@ -3091,7 +3154,7 @@
     },
 
     {
-      "id": 153,
+      "id": 160,
       "name": "Roller Sanders",
       "url": "rulo-zimparalar",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946932/Rulo_Zimparalar_qzo12z.png"],
@@ -3100,7 +3163,7 @@
     },
 
     {
-      "id": 154,
+      "id": 161,
       "name": "Sliced Stretch Film",
       "url": "dilimli-strec",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855821/1_ndandr.jpg"],
@@ -3109,7 +3172,7 @@
     },
 
     {
-      "id": 155,
+      "id": 162,
       "name": "Food Stretch Film",
       "url": "gida-streci",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855822/2_kr6df8.jpg"],
@@ -3118,7 +3181,7 @@
     },
 
     {
-      "id": 156,
+      "id": 163,
       "name": "Acrylic Packing Tape",
       "url": "koli-bandi-akrilik",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855823/3_r7hd32.jpg"],
@@ -3127,7 +3190,7 @@
     },
 
     {
-      "id": 157,
+      "id": 164,
       "name": "Hotmelt Packing Tape",
       "url": "koli-bandi-hotmelt",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855824/4_zzwoui.jpg"],
@@ -3136,7 +3199,7 @@
     },
 
     {
-      "id": 158,
+      "id": 165,
       "name": "Pallet Stretch Film",
       "url": "palet-streci",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855820/5_xd2rcj.jpg"],
@@ -3145,7 +3208,7 @@
     },
 
     {
-      "id": 159,
+      "id": 166,
       "name": "Sgs Velcro Clamp",
       "url": "sgs-cirt-kelepce",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729424215/sgs-cirt-kelepce_zh69yo.webp"],
@@ -3154,7 +3217,7 @@
     },
 
     {
-      "id": 160,
+      "id": 167,
       "name": "Loctite Bolt Locker",
       "url": "loctite-civata-sabitleyici",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855913/1_yunpo0.jpg"],
@@ -3163,7 +3226,7 @@
     },
 
     {
-      "id": 161,
+      "id": 168,
       "name": "Weicon Flex 310 M Stainless Steel Sealant",
       "url": "weicon-flex-310-m",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855915/2_awe8fe.jpg"],
@@ -3172,7 +3235,7 @@
     },
 
     {
-      "id": 162,
+      "id": 169,
       "name": "Weicon Bolt Locking Adhesive",
       "url": "weicon-civata-sabitleyici",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728895990/eba1_arrfwr.jpg"],
@@ -3181,7 +3244,7 @@
     },
 
     {
-      "id": 163,
+      "id": 170,
       "name": "Eco Service Spray Paint Color Chart",
       "url": "eco-service-sprey-boya-kartela",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855929/1_krohu2.jpg"],
@@ -3190,7 +3253,7 @@
     },
 
     {
-      "id": 164,
+      "id": 171,
       "name": "Eco Service Spray Paint",
       "url": "eco-service-sprey-boya",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855927/2_mywr7g.jpg"],
@@ -3199,7 +3262,7 @@
     },
 
     {
-      "id": 165,
+      "id": 172,
       "name": "Ceresit Foam",
       "url": "ceresit-kopuk",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855944/1_u0ohza.jpg"],
@@ -3208,7 +3271,7 @@
     },
 
     {
-      "id": 166,
+      "id": 173,
       "name": "Ceresit Silicone",
       "url": "ceresit-silikon",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855945/2_dgzvjl.jpg"],
@@ -3217,7 +3280,7 @@
     },
 
     {
-      "id": 167,
+      "id": 174,
       "name": "Dayson PU Mastic",
       "url": "dayson-pu-mastik",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855947/3_k9rzev.jpg"],
@@ -3226,7 +3289,7 @@
     },
 
     {
-      "id": 168,
+      "id": 175,
       "name": "Chemical Dowels (Epoxy)",
       "url": "kimyasal-dubel-epoksi",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855949/4_lxkfeg.jpg"],
@@ -3235,7 +3298,7 @@
     },
 
     {
-      "id": 169,
+      "id": 176,
       "name": "Sista Silicone",
       "url": "sista-silikon",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855951/5_zjh817.jpg"],
@@ -3244,7 +3307,7 @@
     },
 
     {
-      "id": 170,
+      "id": 177,
       "name": "502 Japanese Adhesive 20 Gr.",
       "url": "502-japon-yapistirici-20-gr",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855961/1_ce78kj.jpg"],
@@ -3253,7 +3316,7 @@
     },
 
     {
-      "id": 171,
+      "id": 178,
       "name": "Derby 602 Japanese Adhesive 20 Gr.",
       "url": "derby-602-japon-yapistirici-20-gr",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855963/2_pusgbc.jpg"],
@@ -3262,7 +3325,7 @@
     },
 
     {
-      "id": 172,
+      "id": 179,
       "name": "Mdf Kit",
       "url": "mdf-kit",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855965/3_blrkl9.jpg"],
@@ -3271,7 +3334,7 @@
     },
 
     {
-      "id": 173,
+      "id": 180,
       "name": "Weicon Adhesive Spray",
       "url": "weicon-yapistirici-sprey",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855967/4_vkzrbo.jpg"],
@@ -3280,7 +3343,7 @@
     },
 
     {
-      "id": 174,
+      "id": 181,
       "name": "Pattex One For All Adhesive",
       "url": "pattex-one-for-all-yapistirici",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/pattex-one-for-all-universal_txboek.jpg"],
@@ -3289,7 +3352,7 @@
     },
 
     {
-      "id": 175,
+      "id": 182,
       "name": "Soudal Fix All",
       "url": "soudal-fix-all",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/suodal-fix-all_voxuzu.jpg"],
@@ -3298,7 +3361,7 @@
     },
 
     {
-      "id": 176,
+      "id": 183,
       "name": "Pattex Power Epoxy Mix",
       "url": "pattex-power-epoxy-mix-karisim",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729375686/pattex-power-epoxy_nwnywk.jpg"],
@@ -3307,7 +3370,7 @@
     },
 
     {
-      "id": 177,
+      "id": 184,
       "name": "Weicon Repair Spray",
       "url": "weicon-tamir-spreyi",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/weicon-tamir-spreyi_zfd8wn.jpg"],
@@ -3316,7 +3379,7 @@
     },
 
     {
-      "id": 178,
+      "id": 185,
       "name": "Derby Contact Tube Adhesive",
       "url": "derby-kontakt-tup-yapistirici",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/derby-kontakt-yapistirici_c1i5xr.webp"],
@@ -3325,7 +3388,7 @@
     },
 
     {
-      "id": 179,
+      "id": 186,
       "name": "Titanium Fasteners",
       "url": "titanyum-baglanti-elemanlari",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728910576/titanyum_oawgj3.jpg"],
@@ -3334,7 +3397,7 @@
     },
 
     {
-      "id": 180,
+      "id": 187,
       "name": "Custom Manufactured Fasteners",
       "url": "ozel-uretim-baglanti-elemanlari",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728910676/ozel-baglanti-elemanlari_ynqevl.jpg"],
@@ -3343,7 +3406,7 @@
     },
 
     {
-      "id": 181,
+      "id": 188,
       "name": "10.9 and 12.9 Fasteners",
       "url": "10-9-ve-12-9-baglanti-elemanlari",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728910932/i_igsepr.webp"],
