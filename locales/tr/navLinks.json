@@ -88,6 +88,10 @@
         {
           "path": "/bakim-kimyasallari/bakim-kimyasallari",
           "display": "Bakım Kimyasalları"
+        },
+        {
+          "path": "/bakim-kimyasallari/paslanmaz-spreyler",
+          "display": "Paslanmaz Spreyler"
         }
       ]
     },

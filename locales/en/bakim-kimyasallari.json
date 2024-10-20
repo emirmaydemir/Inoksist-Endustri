@@ -50,14 +50,6 @@
 
     {
       "id": 7,
-      "name": "Stainless Steel Spray - Special Clear",
-      "url": "paslanmaz-celik-sprey",
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729429454/paslanmaz-celik-sprey_sia2qd.jpg",
-      "category": ["bakim-kimyasallari"]
-    },
-
-    {
-      "id": 8,
       "name": "Aluminum Spray A-400 - Glossy",
       "url": "aluminyum-sprey-a-400",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1726932483/8_xgtc5f.jpg",
@@ -65,11 +57,19 @@
     },
 
     {
+      "id": 8,
+      "name": "Stainless Steel Spray - Special Clear",
+      "url": "paslanmaz-celik-sprey",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729429454/paslanmaz-celik-sprey_sia2qd.jpg",
+      "category": ["paslanmaz-spreyler"]
+    },
+
+    {
       "id": 9,
       "name": "Metal Fluid",
       "url": "metal-fluid",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729430272/metal-fluid_nmabtj.png",
-      "category": ["bakim-kimyasallari"]
+      "category": ["paslanmaz-spreyler"]
     },
 
     {
@@ -77,7 +77,7 @@
       "name": "Zinc Spray",
       "url": "cinko-sprey",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1726932485/10_nngoyv.jpg",
-      "category": ["bakim-kimyasallari"]
+      "category": ["paslanmaz-spreyler"]
     }
   ]
 }

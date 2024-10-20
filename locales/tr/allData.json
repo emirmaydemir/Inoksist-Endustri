@@ -2660,20 +2660,20 @@
 
     {
       "id": 105,
-      "name": "Paslanmaz Çelik Sprey - Özel Açık",
-      "url": "paslanmaz-celik-sprey",
-      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729429454/paslanmaz-celik-sprey_sia2qd.jpg"],
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729429454/paslanmaz-celik-sprey_sia2qd.jpg",
-      "description": "Paslanmaz Çelik Sprey, akrilik reçine ve paslanmaz çelik pigmenti bazlı kimyasal bir kaplamadır ve korozyona ile hava koşullarına karşı dayanıklıdır. Alaşım yapısında krom, nikel ve manganez gibi bileşenler bulunur ve işlenmiş paslanmaz çelik görünümünü sağlar. Bu sprey, dayanıklı ve etkili bir koruyucu katmana ihtiyaç duyulan durumlarda tercih edilebilir. Weicon Paslanmaz Çelik Sprey, kamyon gövdeleri, silolar, boru hatları ve dış mekan uygulamalarında hasarlı paslanmaz çelik parçaların onarımında kullanılır. Ayrıca, dekoratif amaçlar için ve cam, ahşap, taş, seramik ve birçok plastik yüzeyin optik olarak düzeltilmesi için de uygundur."
-    },
-
-    {
-      "id": 106,
       "name": "Alüminyum Sprey A-400 - Parlak",
       "url": "aluminyum-sprey-a-400",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1726932483/8_xgtc5f.jpg"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1726932483/8_xgtc5f.jpg",
       "description": "Alüminyum Sprey A-400, parlak ve estetik bir kaplama sağlayarak alüminyum yüzeylerde mükemmel sonuçlar sunar. Bu özel formül, alüminyum yüzeylere yüksek parlaklık ve koruma kazandırırken, aynı zamanda yüzeydeki kusurları ve renk farklılıklarını giderir. Hızla kurur ve uzun ömürlü, dayanıklı bir kaplama sağlar. Endüstriyel ve dekoratif uygulamalar için ideal olan bu sprey, estetik ve koruma ihtiyaçlarınıza yüksek performanslı bir çözüm sunar."
+    },
+
+    {
+      "id": 106,
+      "name": "Paslanmaz Çelik Sprey - Özel Açık",
+      "url": "paslanmaz-celik-sprey",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729429454/paslanmaz-celik-sprey_sia2qd.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729429454/paslanmaz-celik-sprey_sia2qd.jpg",
+      "description": "Paslanmaz Çelik Sprey, akrilik reçine ve paslanmaz çelik pigmenti bazlı kimyasal bir kaplamadır ve korozyona ile hava koşullarına karşı dayanıklıdır. Alaşım yapısında krom, nikel ve manganez gibi bileşenler bulunur ve işlenmiş paslanmaz çelik görünümünü sağlar. Bu sprey, dayanıklı ve etkili bir koruyucu katmana ihtiyaç duyulan durumlarda tercih edilebilir. Weicon Paslanmaz Çelik Sprey, kamyon gövdeleri, silolar, boru hatları ve dış mekan uygulamalarında hasarlı paslanmaz çelik parçaların onarımında kullanılır. Ayrıca, dekoratif amaçlar için ve cam, ahşap, taş, seramik ve birçok plastik yüzeyin optik olarak düzeltilmesi için de uygundur."
     },
 
     {

@@ -28,7 +28,7 @@ export async function generateMetadata({ params: { locale, category } }) {
     case "bakim-kimyasallari":
       title = headerContent.maintenance;
       description = "Bakım kimyasalları, çeşitli yüzeyler için özel formülasyonlarla üretilmiş temizleyiciler, koruyucular ve yağlayıcılardan oluşur. İş yerinizdeki ekipmanların verimli çalışmasını sağlamak için en kaliteli ürünleri sunuyoruz.";
-      keywords = "inoksist, bakım kimyasalları, kalıp ayırıcı sprey, fren balata temizleyici, sıvı gres, gazaltı kaynak spreyi, pas sökücü, W 44 T multi sprey, paslanmaz çelik sprey, alüminyum sprey, çinko sprey, endüstriyel temizleyiciler, yağlayıcılar, koruyucular, temizlik ürünleri";
+      keywords = "inoksist, bakım kimyasalları, paslanmaz spreyler, kalıp ayırıcı sprey, fren balata temizleyici, sıvı gres, gazaltı kaynak spreyi, pas sökücü, W 44 T multi sprey, paslanmaz çelik sprey, alüminyum sprey, çinko sprey, endüstriyel temizleyiciler, yağlayıcılar, koruyucular, temizlik ürünleri";
       break;
     case "moduler-su-deposu":
       title = headerContent.modular;

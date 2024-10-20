@@ -71,6 +71,10 @@
     {
       "guid": "bakim-kimyasallari",
       "description": "Bakım Kimyasalları"
+    },
+    {
+      "guid": "paslanmaz-spreyler",
+      "description": "Paslanmaz Spreyler"
     }
   ],
   "moduler-su-deposu": [

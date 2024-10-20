@@ -2660,20 +2660,20 @@
 
     {
       "id": 105,
-      "name": "Stainless Steel Spray - Special Clear",
-      "url": "paslanmaz-celik-sprey",
-      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729429454/paslanmaz-celik-sprey_sia2qd.jpg"],
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729429454/paslanmaz-celik-sprey_sia2qd.jpg",
-      "description": "Stainless Steel Spray is a chemical coating based on acrylic resin and stainless steel pigments, offering resistance to corrosion and weather conditions. It contains components such as chromium, nickel, and manganese in its alloy structure, providing the appearance of processed stainless steel. This spray is suitable for situations requiring a durable and effective protective layer. Weicon Stainless Steel Spray can be used to repair damaged stainless steel parts in truck bodies, silos, pipelines, and outdoor applications. Additionally, it is suitable for decorative purposes and for visually enhancing glass, wood, stone, ceramics, and many plastic surfaces."
-    },
-
-    {
-      "id": 106,
       "name": "Aluminum Spray A-400 - Glossy",
       "url": "aluminyum-sprey-a-400",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1726932483/8_xgtc5f.jpg"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1726932483/8_xgtc5f.jpg",
       "description": "Aluminum Spray A-400 offers a brilliant and aesthetic coating for aluminum surfaces, delivering outstanding results. This special formula not only provides high gloss and protection but also effectively corrects surface imperfections and color variations. It dries quickly, ensuring a long-lasting and durable finish. Ideal for both industrial and decorative applications, this spray presents a high-performance solution for your aesthetic and protective needs."
+    },
+
+    {
+      "id": 106,
+      "name": "Stainless Steel Spray - Special Clear",
+      "url": "paslanmaz-celik-sprey",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729429454/paslanmaz-celik-sprey_sia2qd.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729429454/paslanmaz-celik-sprey_sia2qd.jpg",
+      "description": "Stainless Steel Spray is a chemical coating based on acrylic resin and stainless steel pigments, offering resistance to corrosion and weather conditions. It contains components such as chromium, nickel, and manganese in its alloy structure, providing the appearance of processed stainless steel. This spray is suitable for situations requiring a durable and effective protective layer. Weicon Stainless Steel Spray can be used to repair damaged stainless steel parts in truck bodies, silos, pipelines, and outdoor applications. Additionally, it is suitable for decorative purposes and for visually enhancing glass, wood, stone, ceramics, and many plastic surfaces."
     },
 
     {

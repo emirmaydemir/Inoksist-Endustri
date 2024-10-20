@@ -14,7 +14,7 @@ export async function generateMetadata({ params: { locale, slug } }) {
 
   if (!singleProductItem) {
     return {
-      title: "Urun Bulunamad,",
+      title: "Urun Bulunamadi",
       description: "Aradiginiz urun bulunamadi.",
     };
   }

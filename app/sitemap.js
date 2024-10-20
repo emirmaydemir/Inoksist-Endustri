@@ -178,6 +178,12 @@ export default function sitemap() {
       priority: 0.8,
     },
     {
+      url: `${baseUrl}/${locale}/bakim-kimyasallari/paslanmaz-spreyler`,
+      lastModified: new Date(),
+      changeFrequency: "never",
+      priority: 0.8,
+    },
+    {
       url: `${baseUrl}/${locale}/moduler-su-deposu/moduler-su-deposu`,
       lastModified: new Date(),
       changeFrequency: "never",
