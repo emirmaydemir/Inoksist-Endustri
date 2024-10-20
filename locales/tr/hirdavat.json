@@ -2,7 +2,7 @@
   "hirdavat": [
     {
       "id": 1,
-      "name": "Chelox Delme Kesme Ve Kılavuz Jeli",
+      "name": "Chelox Delme Kesme ve Kılavuz Jeli",
       "url": "chelox-delme-kesme-ve-kilavuz-jeli",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729419463/i_jguynx.webp",
       "category": ["delme-kesme-yaglari-grubu"]
@@ -394,6 +394,14 @@
 
     {
       "id": 50,
+      "name": "Sgs Cırt Kelepçe",
+      "url": "sgs-cirt-kelepce",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729424215/sgs-cirt-kelepce_zh69yo.webp",
+      "category": ["ambalaj-ve-paketleme-grubu"]
+    },
+
+    {
+      "id": 51,
       "name": "Loctite Civata Sabitleyici",
       "url": "loctite-civata-sabitleyici",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855913/1_yunpo0.jpg",
@@ -401,7 +409,7 @@
     },
 
     {
-      "id": 51,
+      "id": 52,
       "name": "Weicon Flex 310 M Paslanmaz Çelik Sızdırmazlık Ürünü",
       "url": "weicon-flex-310-m",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855915/2_awe8fe.jpg",
@@ -409,7 +417,7 @@
     },
 
     {
-      "id": 52,
+      "id": 53,
       "name": "Weicon Civata Sabitleyici",
       "url": "weicon-civata-sabitleyici",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728895990/eba1_arrfwr.jpg",
@@ -417,7 +425,7 @@
     },
 
     {
-      "id": 53,
+      "id": 54,
       "name": "Eco Service Sprey Boya Kartela",
       "url": "eco-service-sprey-boya-kartela",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855929/1_krohu2.jpg",
@@ -425,7 +433,7 @@
     },
 
     {
-      "id": 54,
+      "id": 55,
       "name": "Eco Service Sprey Boya",
       "url": "eco-service-sprey-boya",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855927/2_mywr7g.jpg",
@@ -433,7 +441,7 @@
     },
 
     {
-      "id": 55,
+      "id": 56,
       "name": "Ceresit Köpük",
       "url": "ceresit-kopuk",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855944/1_u0ohza.jpg",
@@ -441,7 +449,7 @@
     },
 
     {
-      "id": 56,
+      "id": 57,
       "name": "Ceresit Silikon",
       "url": "ceresit-silikon",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855945/2_dgzvjl.jpg",
@@ -449,7 +457,7 @@
     },
 
     {
-      "id": 57,
+      "id": 58,
       "name": "Dayson PU Mastik",
       "url": "dayson-pu-mastik",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855947/3_k9rzev.jpg",
@@ -457,7 +465,7 @@
     },
 
     {
-      "id": 58,
+      "id": 59,
       "name": "Kimyasal Dübel (Epoksi)",
       "url": "kimyasal-dubel-epoksi",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855949/4_lxkfeg.jpg",
@@ -465,7 +473,7 @@
     },
 
     {
-      "id": 59,
+      "id": 60,
       "name": "Sista Silikon",
       "url": "sista-silikon",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855951/5_zjh817.jpg",
@@ -473,7 +481,7 @@
     },
 
     {
-      "id": 60,
+      "id": 61,
       "name": "502 Japon Yapıştırıcı 20 Gr.",
       "url": "502-japon-yapistirici-20-gr",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855961/1_ce78kj.jpg",
@@ -481,7 +489,7 @@
     },
 
     {
-      "id": 61,
+      "id": 62,
       "name": "Derby 602 Japon Yapıştırıcı 20 Gr.",
       "url": "derby-602-japon-yapistirici-20-gr",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855963/2_pusgbc.jpg",
@@ -489,7 +497,7 @@
     },
 
     {
-      "id": 62,
+      "id": 63,
       "name": "Mdf Kit",
       "url": "mdf-kit",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855965/3_blrkl9.jpg",
@@ -497,7 +505,7 @@
     },
 
     {
-      "id": 63,
+      "id": 64,
       "name": "Weicon Yapıştırıcı Sprey",
       "url": "weicon-yapistirici-sprey",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855967/4_vkzrbo.jpg",
@@ -505,7 +513,7 @@
     },
 
     {
-      "id": 64,
+      "id": 65,
       "name": "Pattex One For All Yapıştırıcı",
       "url": "pattex-one-for-all-yapistirici",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/pattex-one-for-all-universal_txboek.jpg",
@@ -513,7 +521,7 @@
     },
 
     {
-      "id": 65,
+      "id": 66,
       "name": "Soudal Fix All",
       "url": "soudal-fix-all",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/suodal-fix-all_voxuzu.jpg",
@@ -521,7 +529,7 @@
     },
 
     {
-      "id": 66,
+      "id": 67,
       "name": "Pattex Power Epoxy Mix Karışım",
       "url": "pattex-power-epoxy-mix-karisim",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729375686/pattex-power-epoxy_nwnywk.jpg",
@@ -529,7 +537,7 @@
     },
 
     {
-      "id": 67,
+      "id": 68,
       "name": "Weıcon Tamir Spreyi",
       "url": "weicon-tamir-spreyi",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/weicon-tamir-spreyi_zfd8wn.jpg",
@@ -537,7 +545,7 @@
     },
 
     {
-      "id": 68,
+      "id": 69,
       "name": "Derby Kontakt Tüp Yapıştırıcı",
       "url": "derby-kontakt-tup-yapistirici",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/derby-kontakt-yapistirici_c1i5xr.webp",
