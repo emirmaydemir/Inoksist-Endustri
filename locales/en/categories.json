@@ -1,81 +1,85 @@
 {
-  "fastenerData": [
+  "baglanti-elemanlari": [
     {
-      "id": 1,
+      "guid": "paslanmaz-baglanti-elemanlari",
       "description": "Stainless Steel Fasteners"
     },
     {
-      "id": 2,
+      "guid": "celik-baglanti-elemanlari",
       "description": "Steel Fasteners"
     },
     {
-      "id": 3,
+      "guid": "demir-baglanti-elemanlari",
       "description": "Iron Fasteners"
     },
     {
-      "id": 4,
+      "guid": "pirinc-baglanti-elemanlari",
       "description": "Brass Fasteners"
     },
     {
-      "id": 5,
+      "guid": "titanyum-baglanti-elemanlari",
       "description": "Titanium Fasteners"
     },
     {
-      "id": 6,
+      "guid": "ozel-uretim-baglanti-elemanlari",
       "description": "Custom Manufacturing Fasteners"
     },
     {
-      "id": 7,
+      "guid": "10-9-ve-12-9-baglanti-elemanlari",
       "description": "10.9 and 12.9 Fasteners"
+    },
+    {
+      "guid": "kama-baglanti-elemanlari",
+      "description": "Wedge Fasteners"
     }
   ],
-  "hardwareData": [
+  "hirdavat": [
     {
-      "id": 1,
-      "description": "Drilling and Cutting Oils"
+      "guid": "delme-kesme-yaglari-grubu",
+      "description": "Drilling and Cutting Oils Group"
     },
     {
-      "id": 2,
-      "description": "Safety Equipment"
+      "guid": "is-guvenligi-grubu",
+      "description": "Safety Equipment Group"
     },
     {
-      "id": 3,
-      "description": "Welding Equipment"
+      "guid": "kaynak-ekipmanlari-grubu",
+      "description": "Welding Equipment Group"
     },
     {
-      "id": 4,
-      "description": "Cutting and Abrasive Tools"
+      "guid": "kesici-ve-asindirici-grubu",
+      "description": "Cutting and Abrasives Group"
     },
     {
-      "id": 5,
-      "description": "Packaging and Wrapping Materials"
+      "guid": "ambalaj-ve-paketleme-grubu",
+      "description": "Packaging and Wrapping Group"
     },
     {
-      "id": 6,
-      "description": "Sealing Materials"
+      "guid": "silikon-ve-sizdirmazlik-grubu",
+      "description": "Silicone and Sealing Group"
     },
     {
-      "id": 7,
+      "guid": "sprey-boya",
       "description": "Spray Paint"
     },
     {
-      "id": 8,
-      "description": "Construction Chemicals"
+      "guid": "yapistirici-grubu",
+      "description": "Adhesives Group"
+    }
+  ],
+  "bakim-kimyasallari": [
+    {
+      "guid": "bakim-kimyasallari",
+      "description": "Maintenance Chemicals"
     },
     {
-      "id": 9,
-      "description": "Adhesives"
+      "guid": "paslanmaz-spreyler",
+      "description": "Stainless Sprays"
     }
   ],
-  "chemicalData": [
+  "moduler-su-deposu": [
     {
-      "id": 1,
-      "description": "Maintenance Chemicals"
-    }
-  ],
-  "waterTankData": [
-    {
-      "id": 1,
+      "guid": "moduler-su-deposu",
       "description": "Modular Water Tank"
     }
   ],

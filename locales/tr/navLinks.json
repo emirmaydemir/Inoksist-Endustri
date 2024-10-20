@@ -39,6 +39,10 @@
         {
           "path": "/baglanti-elemanlari/10-9-ve-12-9-baglanti-elemanlari",
           "display": "10.9 ve 12.9 Bağlantı Elemanları"
+        },
+        {
+          "path": "/baglanti-elemanlari/kama-baglanti-elemanlari",
+          "display": "Kama Bağlantı Elemanları"
         }
       ]
     },

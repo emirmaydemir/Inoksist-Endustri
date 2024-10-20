@@ -27,6 +27,10 @@
     {
       "guid": "10-9-ve-12-9-baglanti-elemanlari",
       "description": "10.9 ve 12.9 Bağlantı Elemanları"
+    },
+    {
+      "guid": "kama-baglanti-elemanlari",
+      "description": "Kama Bağlantı Elemanları"
     }
   ],
   "hirdavat": [

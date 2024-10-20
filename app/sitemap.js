@@ -118,6 +118,12 @@ export default function sitemap() {
       priority: 0.8,
     },
     {
+      url: `${baseUrl}/${locale}/baglanti-elemanlari/kama-baglanti-elemanlari`,
+      lastModified: new Date(),
+      changeFrequency: "never",
+      priority: 0.8,
+    },
+    {
       url: `${baseUrl}/${locale}/hirdavat/delme-kesme-yaglari-grubu`,
       lastModified: new Date(),
       changeFrequency: "never",
