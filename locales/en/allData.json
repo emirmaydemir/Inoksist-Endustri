@@ -2786,6 +2786,15 @@
 
     {
       "id": 119,
+      "name": "Safety Helmet",
+      "url": "baret",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729426096/baret_b7yz1g.webp"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729426096/baret_b7yz1g.webp",
+      "description": "Safety Helmet is designed to protect your head from impacts and falling objects. Made from durable materials, it features shock-absorbing pads for added protection. Its lightweight design allows for comfortable long-term wear, and adjustable headbands ensure a perfect fit for various head sizes. Additionally, ventilation holes provide better comfort in hot conditions. Safety helmets are an ideal choice for enhancing safety in various sectors, including construction, mining, energy, and industry."
+    },
+
+    {
+      "id": 120,
       "name": "Aluminum Welding Wire",
       "url": "aluminyum-kaynak-teli",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855872/1_tcajrf.jpg"],
@@ -2794,7 +2803,7 @@
     },
 
     {
-      "id": 120,
+      "id": 121,
       "name": "Gas Welding Spray",
       "url": "gazalti-kaynak-spreyi",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855873/2_kclruo.jpg"],
@@ -2803,7 +2812,7 @@
     },
 
     {
-      "id": 121,
+      "id": 122,
       "name": "Gas Welding Wire",
       "url": "gazalti-kaynak-teli",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855875/3_lzliq8.jpg"],
@@ -2812,7 +2821,7 @@
     },
 
     {
-      "id": 122,
+      "id": 123,
       "name": "Welding Gloves",
       "url": "kaynak-eldiveni",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855876/4_jfb77v.jpg"],
@@ -2821,7 +2830,7 @@
     },
 
     {
-      "id": 123,
+      "id": 124,
       "name": "Stainless Steel Electrode",
       "url": "paslanmaz-elektrod",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855877/5_obtsn7.jpg"],
@@ -2830,7 +2839,7 @@
     },
 
     {
-      "id": 124,
+      "id": 125,
       "name": "Stainless Steel Welding Wire",
       "url": "paslanmaz-kaynak-teli",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855879/6_xxglha.jpg"],
@@ -2839,7 +2848,7 @@
     },
 
     {
-      "id": 125,
+      "id": 126,
       "name": "Rutile Electrode",
       "url": "rutil-elektrod",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855880/7_f4u5nk.jpg"],
@@ -2848,7 +2857,7 @@
     },
 
     {
-      "id": 126,
+      "id": 127,
       "name": "Metal Cutting Discs",
       "url": "metal-kesme-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946300/Metal_Kesme_Diskleri_cnwyix.png"],
@@ -2857,7 +2866,7 @@
     },
 
     {
-      "id": 127,
+      "id": 128,
       "name": "Industrial Metal Cutting Discs",
       "url": "endustriyel-metal-kesme-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946300/Endustriyel_Metal_Kesme_Diskleri_osnk56.png"],
@@ -2866,7 +2875,7 @@
     },
 
     {
-      "id": 128,
+      "id": 129,
       "name": "Inox Cutting Discs",
       "url": "inox-kesme-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946301/Inox_Kesme_Diskleri_tbydvg.png"],
@@ -2875,7 +2884,7 @@
     },
 
     {
-      "id": 129,
+      "id": 130,
       "name": "Cut & Cut Inox Cutting Discs",
       "url": "cut-inox-kesme-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946295/Cut_Cut_Inox_Kesme_Diskleri_daxrrr.jpg"],
@@ -2884,7 +2893,7 @@
     },
 
     {
-      "id": 130,
+      "id": 131,
       "name": "Casting Cutting Discs",
       "url": "dokum-kesme-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946298/Dokum_Kesme_Diskleri_pvjpmb.png"],
@@ -2893,7 +2902,7 @@
     },
 
     {
-      "id": 131,
+      "id": 132,
       "name": "Marble Cutting Discs",
       "url": "mermer-kesme-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946298/Mermer_Kesme_Diskleri_hubrn4.png"],
@@ -2902,7 +2911,7 @@
     },
 
     {
-      "id": 132,
+      "id": 133,
       "name": "Aluminum Cutting Discs",
       "url": "aluminyum-kesme-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946298/Aluminyum_Kesme_Diskleri_hvncag.png"],
@@ -2911,7 +2920,7 @@
     },
 
     {
-      "id": 133,
+      "id": 134,
       "name": "ZA Casting Cutting Discs",
       "url": "za-dokum-kesme-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946301/ZA_Dokum_Kesme_Diskleri_vzkovb.png"],
@@ -2920,7 +2929,7 @@
     },
 
     {
-      "id": 134,
+      "id": 135,
       "name": "AC Casting Cutting Discs",
       "url": "ac-dokum-kesme-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946296/AC_Dokum_Kesme_Diskleri_gbdjrk.png"],
@@ -2929,7 +2938,7 @@
     },
 
     {
-      "id": 135,
+      "id": 136,
       "name": "Metal Cutting Fixed Table Discs",
       "url": "metal-kesme-sabit-tezgah-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946300/Metal_Kesme_Sabit_Kesme_Tezgah_Diskleri_xqygeb.png"],
@@ -2938,7 +2947,7 @@
     },
 
     {
-      "id": 136,
+      "id": 137,
       "name": "Casting Cutting Fixed Table Discs",
       "url": "dokum-kesme-sabit-tezgah-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946298/Dokum_Kesme_Sabit_Tezgah_Diskleri_dvexeu.png"],
@@ -2947,7 +2956,7 @@
     },
 
     {
-      "id": 137,
+      "id": 138,
       "name": "Rail Cutting Discs",
       "url": "ray-kesme-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946303/Ray_Kesme_Diskleri_uv6o3e.png"],
@@ -2956,7 +2965,7 @@
     },
 
     {
-      "id": 138,
+      "id": 139,
       "name": "Metal Deburring Discs",
       "url": "metal-capak-alma-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946644/Metal_Capak_Alma_Diskleri_ifginm.png"],
@@ -2965,7 +2974,7 @@
     },
 
     {
-      "id": 139,
+      "id": 140,
       "name": "Metal Plus Deburring Discs",
       "url": "metal-plus-capak-alma-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946643/Metal_Plus_Capak_Alma_Diskleri_xtruz0.png"],
@@ -2974,7 +2983,7 @@
     },
 
     {
-      "id": 140,
+      "id": 141,
       "name": "Inox Deburring Discs",
       "url": "inox-capak-alma-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946644/Inox_Capak_Alma_Diskleri_ms0jea.png"],
@@ -2983,7 +2992,7 @@
     },
 
     {
-      "id": 141,
+      "id": 142,
       "name": "Cast Deburring Discs",
       "url": "dokum-capak-alma-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946642/Dokum_Capak_Alma_Diskleri_fvxahf.png"],
@@ -2992,7 +3001,7 @@
     },
 
     {
-      "id": 142,
+      "id": 143,
       "name": "ZA Plus Deburring Discs",
       "url": "za-plus-capak-alma-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946644/ZA_Plus_Capak_Alma_Diskleri_wi2iua.png"],
@@ -3001,7 +3010,7 @@
     },
 
     {
-      "id": 143,
+      "id": 144,
       "name": "Aluminum Deburring Discs",
       "url": "aluminyum-capak-alma-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946642/Aluminyum_Capak_Alma_Diskleri_i46mqh.png"],
@@ -3010,7 +3019,7 @@
     },
 
     {
-      "id": 144,
+      "id": 145,
       "name": "Comfort Line ZR SD Flap Discs",
       "url": "comfort-line-zr-sd-flap-diskler",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728944155/Comfort_Line_ZR_SD_Flap_Diskler_z4d121.png"],
@@ -3019,7 +3028,7 @@
     },
 
     {
-      "id": 145,
+      "id": 146,
       "name": "Comfort Line ZR HD Flap Discs",
       "url": "comfort-line-zr-hd-flap-diskler",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728944152/Comfort_Line_ZR_HD_Flap_Diskler_wooyjn.png"],
@@ -3028,7 +3037,7 @@
     },
 
     {
-      "id": 146,
+      "id": 147,
       "name": "Premium Line AO SD Flap Discs",
       "url": "premium-line-ao-sd-flap-diskler",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728944157/Premium_Line_AO_SD_Flap_Diskler_vnfbrl.png"],
@@ -3037,7 +3046,7 @@
     },
 
     {
-      "id": 147,
+      "id": 148,
       "name": "Premium Line ZR SD Flap Discs",
       "url": "premium-line-zr-sd-flap-diskler",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728944152/Premium_Line_ZR_SD_Flap_Diskler_o8bvpn.png"],
@@ -3046,7 +3055,7 @@
     },
 
     {
-      "id": 148,
+      "id": 149,
       "name": "Premium Line ZR HD Flap Discs",
       "url": "premium-line-zr-hd-flap-diskler",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728944157/Premium_ZR_HD_Flap_Diskler_faqqko.png"],
@@ -3055,7 +3064,7 @@
     },
 
     {
-      "id": 149,
+      "id": 150,
       "name": "Premium Line CE SD Flap Discs",
       "url": "premium-line-ce-sd-flap-diskler",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728944154/Premium_Line_CE_SD_Flap_Diskler_uiax3m.png"],
@@ -3064,7 +3073,7 @@
     },
 
     {
-      "id": 150,
+      "id": 151,
       "name": "Velcro Discs",
       "url": "cirtli-diskler",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946807/Cirtli_Diskler_yfe5jn.webp"],
@@ -3073,7 +3082,7 @@
     },
 
     {
-      "id": 151,
+      "id": 152,
       "name": "Belt Sanders",
       "url": "bant-zimparalar",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946806/Bant_Zimparalar_p2r5u2.jpg"],
@@ -3082,7 +3091,7 @@
     },
 
     {
-      "id": 152,
+      "id": 153,
       "name": "Roller Sanders",
       "url": "rulo-zimparalar",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946932/Rulo_Zimparalar_qzo12z.png"],
@@ -3091,7 +3100,7 @@
     },
 
     {
-      "id": 153,
+      "id": 154,
       "name": "Sliced Stretch Film",
       "url": "dilimli-strec",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855821/1_ndandr.jpg"],
@@ -3100,7 +3109,7 @@
     },
 
     {
-      "id": 154,
+      "id": 155,
       "name": "Food Stretch Film",
       "url": "gida-streci",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855822/2_kr6df8.jpg"],
@@ -3109,7 +3118,7 @@
     },
 
     {
-      "id": 155,
+      "id": 156,
       "name": "Acrylic Packing Tape",
       "url": "koli-bandi-akrilik",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855823/3_r7hd32.jpg"],
@@ -3118,7 +3127,7 @@
     },
 
     {
-      "id": 156,
+      "id": 157,
       "name": "Hotmelt Packing Tape",
       "url": "koli-bandi-hotmelt",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855824/4_zzwoui.jpg"],
@@ -3127,7 +3136,7 @@
     },
 
     {
-      "id": 157,
+      "id": 158,
       "name": "Pallet Stretch Film",
       "url": "palet-streci",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855820/5_xd2rcj.jpg"],
@@ -3136,7 +3145,7 @@
     },
 
     {
-      "id": 158,
+      "id": 159,
       "name": "Sgs Velcro Clamp",
       "url": "sgs-cirt-kelepce",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729424215/sgs-cirt-kelepce_zh69yo.webp"],
@@ -3145,7 +3154,7 @@
     },
 
     {
-      "id": 159,
+      "id": 160,
       "name": "Loctite Bolt Locker",
       "url": "loctite-civata-sabitleyici",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855913/1_yunpo0.jpg"],
@@ -3154,7 +3163,7 @@
     },
 
     {
-      "id": 160,
+      "id": 161,
       "name": "Weicon Flex 310 M Stainless Steel Sealant",
       "url": "weicon-flex-310-m",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855915/2_awe8fe.jpg"],
@@ -3163,7 +3172,7 @@
     },
 
     {
-      "id": 161,
+      "id": 162,
       "name": "Weicon Bolt Locking Adhesive",
       "url": "weicon-civata-sabitleyici",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728895990/eba1_arrfwr.jpg"],
@@ -3172,7 +3181,7 @@
     },
 
     {
-      "id": 162,
+      "id": 163,
       "name": "Eco Service Spray Paint Color Chart",
       "url": "eco-service-sprey-boya-kartela",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855929/1_krohu2.jpg"],
@@ -3181,7 +3190,7 @@
     },
 
     {
-      "id": 163,
+      "id": 164,
       "name": "Eco Service Spray Paint",
       "url": "eco-service-sprey-boya",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855927/2_mywr7g.jpg"],
@@ -3190,7 +3199,7 @@
     },
 
     {
-      "id": 164,
+      "id": 165,
       "name": "Ceresit Foam",
       "url": "ceresit-kopuk",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855944/1_u0ohza.jpg"],
@@ -3199,7 +3208,7 @@
     },
 
     {
-      "id": 165,
+      "id": 166,
       "name": "Ceresit Silicone",
       "url": "ceresit-silikon",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855945/2_dgzvjl.jpg"],
@@ -3208,7 +3217,7 @@
     },
 
     {
-      "id": 166,
+      "id": 167,
       "name": "Dayson PU Mastic",
       "url": "dayson-pu-mastik",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855947/3_k9rzev.jpg"],
@@ -3217,7 +3226,7 @@
     },
 
     {
-      "id": 167,
+      "id": 168,
       "name": "Chemical Dowels (Epoxy)",
       "url": "kimyasal-dubel-epoksi",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855949/4_lxkfeg.jpg"],
@@ -3226,7 +3235,7 @@
     },
 
     {
-      "id": 168,
+      "id": 169,
       "name": "Sista Silicone",
       "url": "sista-silikon",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855951/5_zjh817.jpg"],
@@ -3235,7 +3244,7 @@
     },
 
     {
-      "id": 169,
+      "id": 170,
       "name": "502 Japanese Adhesive 20 Gr.",
       "url": "502-japon-yapistirici-20-gr",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855961/1_ce78kj.jpg"],
@@ -3244,7 +3253,7 @@
     },
 
     {
-      "id": 170,
+      "id": 171,
       "name": "Derby 602 Japanese Adhesive 20 Gr.",
       "url": "derby-602-japon-yapistirici-20-gr",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855963/2_pusgbc.jpg"],
@@ -3253,7 +3262,7 @@
     },
 
     {
-      "id": 171,
+      "id": 172,
       "name": "Mdf Kit",
       "url": "mdf-kit",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855965/3_blrkl9.jpg"],
@@ -3262,7 +3271,7 @@
     },
 
     {
-      "id": 172,
+      "id": 173,
       "name": "Weicon Adhesive Spray",
       "url": "weicon-yapistirici-sprey",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855967/4_vkzrbo.jpg"],
@@ -3271,7 +3280,7 @@
     },
 
     {
-      "id": 173,
+      "id": 174,
       "name": "Pattex One For All Adhesive",
       "url": "pattex-one-for-all-yapistirici",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/pattex-one-for-all-universal_txboek.jpg"],
@@ -3280,7 +3289,7 @@
     },
 
     {
-      "id": 174,
+      "id": 175,
       "name": "Soudal Fix All",
       "url": "soudal-fix-all",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/suodal-fix-all_voxuzu.jpg"],
@@ -3289,7 +3298,7 @@
     },
 
     {
-      "id": 175,
+      "id": 176,
       "name": "Pattex Power Epoxy Mix",
       "url": "pattex-power-epoxy-mix-karisim",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729375686/pattex-power-epoxy_nwnywk.jpg"],
@@ -3298,7 +3307,7 @@
     },
 
     {
-      "id": 176,
+      "id": 177,
       "name": "Weicon Repair Spray",
       "url": "weicon-tamir-spreyi",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/weicon-tamir-spreyi_zfd8wn.jpg"],
@@ -3307,7 +3316,7 @@
     },
 
     {
-      "id": 177,
+      "id": 178,
       "name": "Derby Contact Tube Adhesive",
       "url": "derby-kontakt-tup-yapistirici",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/derby-kontakt-yapistirici_c1i5xr.webp"],
@@ -3316,7 +3325,7 @@
     },
 
     {
-      "id": 178,
+      "id": 179,
       "name": "Titanium Fasteners",
       "url": "titanyum-baglanti-elemanlari",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728910576/titanyum_oawgj3.jpg"],
@@ -3325,7 +3334,7 @@
     },
 
     {
-      "id": 179,
+      "id": 180,
       "name": "Custom Manufactured Fasteners",
       "url": "ozel-uretim-baglanti-elemanlari",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728910676/ozel-baglanti-elemanlari_ynqevl.jpg"],
@@ -3334,7 +3343,7 @@
     },
 
     {
-      "id": 180,
+      "id": 181,
       "name": "10.9 and 12.9 Fasteners",
       "url": "10-9-ve-12-9-baglanti-elemanlari",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728910932/i_igsepr.webp"],

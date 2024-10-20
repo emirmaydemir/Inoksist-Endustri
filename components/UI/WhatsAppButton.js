@@ -2,7 +2,7 @@ import React from "react";
 import "@/styles/WhatsAppButton.css";
 
 const WhatsAppButton = () => {
-  const phoneNumber = "+905327410155"; // WhatsApp numaranı burada gir
+  const phoneNumber = "+905059911714"; // WhatsApp numaranı burada gir
 
   return (
     <a
