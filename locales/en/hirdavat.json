@@ -490,17 +490,17 @@
 
     {
       "id": 62,
-      "name": "Eco Service Spray Paint Color Chart",
-      "url": "eco-service-sprey-boya-kartela",
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855929/1_krohu2.jpg",
+      "name": "Spray Paint",
+      "url": "sprey-boya",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729443304/akcali-sprey_vykbn0.jpg",
       "category": ["sprey-boya"]
     },
 
     {
       "id": 63,
-      "name": "Eco Service Spray Paint",
-      "url": "eco-service-sprey-boya",
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855927/2_mywr7g.jpg",
+      "name": "Spray Paint Color Chart",
+      "url": "sprey-boya-kartela",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729443303/akcali-sprey-boya-renkleri_clxits.jpg",
       "category": ["sprey-boya"]
     },
 
