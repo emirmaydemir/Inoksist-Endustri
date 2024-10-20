@@ -3,12 +3,12 @@
     {
       "id": 1,
       "title": "DIN 933 Altı Köşe Başlı Tam Paso Civata",
-      "description": "Yüksek dayanıklılığa sahip altı köşe başlı cıvata. Tam paso diş yapısı ile sıkı bağlantılar sağlar."
+      "description": "Yüksek dayanıklılığa sahip altı köşe başlı civata. Tam paso diş yapısı ile sıkı bağlantılar sağlar."
     },
     {
       "id": 2,
-      "title": "DIN 316 Kelebek Civata",
-      "description": "Kolayca elle sıkılabilen kelebek başlı cıvata. Hızlı montaj için ideal."
+      "title": "DIN 912 İmbus",
+      "description": "İçi altıgen şekilli civata; yüksek mukavemet sunarak güvenli bağlantılar sağlar."
     },
     {
       "id": 3,
@@ -17,8 +17,8 @@
     },
     {
       "id": 4,
-      "title": "DIN 6921 Flanşlı Civata",
-      "description": "Flanşlı başlığıyla daha geniş temas alanı sağlayarak yüksek tutuş gücü sunar."
+      "title": "DIN 6796 Çanak Pul",
+      "description": "Yüksek yük dağılımı sağlayan konik şekilli yaylı pul, titreşimli ortamlarda gevşemeyi önler."
     }
   ]
 }

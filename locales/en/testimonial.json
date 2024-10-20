@@ -7,8 +7,8 @@
     },
     {
       "id": 2,
-      "title": "DIN 316 Wing Bolt",
-      "description": "Easily hand-tightened wing bolt. Ideal for quick assembly without tools."
+      "title": "DIN 912 Socket Head Cap Screw",
+      "description": "Hexagon socket screw; provides high strength and secure connections."
     },
     {
       "id": 3,
@@ -17,8 +17,8 @@
     },
     {
       "id": 4,
-      "title": "DIN 6921 Flanged Bolt",
-      "description": "Offers strong grip with a wider contact area due to its flanged head."
+      "title": "DIN 6796 Cup Washer",
+      "description": "Conical-shaped spring washer providing high load distribution, prevents loosening in vibrating environments."
     }
   ]
 }
