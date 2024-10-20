@@ -3218,6 +3218,33 @@
 
     {
       "id": 167,
+      "name": "Colored Pallet Stretch Films",
+      "url": "renkli-palet-strecleri",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729446334/renkli-palet-streci_dmcmw8.webp"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729446334/renkli-palet-streci_dmcmw8.webp",
+      "description": "Colored Pallet Stretch Films are specialized stretch films designed to securely hold products together during transportation and storage. Typically made from high-quality polyethylene, these films offer durability and protection against wind, water, and external elements. The availability of colored options not only helps organize storage areas but also facilitates easy identification of products. Offered in various widths and thicknesses, these stretch films prevent the load on the pallet from shifting and maintain the integrity of the load. Colored pallet stretch films are commonly used in various industries, including logistics, shipping, and warehousing."
+    },
+
+    {
+      "id": 168,
+      "name": "Duct Tape Machine",
+      "url": "koli-bandi-makinesi",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729446332/koli-bandi-makinesi_arzhh0.png"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729446332/koli-bandi-makinesi_arzhh0.png",
+      "description": "Duct Tape Machine is a practical tool used for applying packing tape during the packaging process. It is specifically designed for sealing cardboard boxes securely for transportation. These dispensers can easily cut and apply various types of packing tape, saving time and accelerating workflow. Duct Tape Machine come in both manual and automatic models, making them easy to use. Their ergonomic designs enhance user comfort and improve efficiency, especially during high-volume packaging tasks."
+    },
+
+    {
+      "id": 169,
+      "name": "Dayson Masking Tapes",
+      "url": "dayson-maskeleme-bantlari",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729446333/maskeleme-bantlari_t3qz45.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729446333/maskeleme-bantlari_t3qz45.jpg",
+      "description": "Dayson Masking Tapes are high-quality adhesive tapes designed to protect surfaces during painting and coating processes. These tapes adhere easily to smooth surfaces, making them ideal for achieving clean edge lines. With their resistance to water and solvents, they can be safely used in both indoor and outdoor applications. Available in various widths and lengths, Dayson masking tapes offer flexibility to meet the user's needs. Additionally, their ability to be removed cleanly without leaving residue makes post-job cleanup easier."
+    },
+
+    {
+      "id": 170,
       "name": "Loctite Bolt Locker",
       "url": "loctite-civata-sabitleyici",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855913/1_yunpo0.jpg"],
@@ -3226,7 +3253,7 @@
     },
 
     {
-      "id": 168,
+      "id": 171,
       "name": "Weicon Flex 310 M Stainless Steel Sealant",
       "url": "weicon-flex-310-m",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855915/2_awe8fe.jpg"],
@@ -3235,7 +3262,7 @@
     },
 
     {
-      "id": 169,
+      "id": 172,
       "name": "Weicon Bolt Locking Adhesive",
       "url": "weicon-civata-sabitleyici",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728895990/eba1_arrfwr.jpg"],
@@ -3244,7 +3271,7 @@
     },
 
     {
-      "id": 170,
+      "id": 173,
       "name": "Ceresit Foam",
       "url": "ceresit-kopuk",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855944/1_u0ohza.jpg"],
@@ -3253,7 +3280,7 @@
     },
 
     {
-      "id": 171,
+      "id": 174,
       "name": "Ceresit Silicone",
       "url": "ceresit-silikon",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855945/2_dgzvjl.jpg"],
@@ -3262,7 +3289,7 @@
     },
 
     {
-      "id": 172,
+      "id": 175,
       "name": "Dayson PU Mastic",
       "url": "dayson-pu-mastik",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855947/3_k9rzev.jpg"],
@@ -3271,7 +3298,7 @@
     },
 
     {
-      "id": 173,
+      "id": 176,
       "name": "Chemical Dowels (Epoxy)",
       "url": "kimyasal-dubel-epoksi",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855949/4_lxkfeg.jpg"],
@@ -3280,7 +3307,7 @@
     },
 
     {
-      "id": 174,
+      "id": 177,
       "name": "Sista Silicone",
       "url": "sista-silikon",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855951/5_zjh817.jpg"],
@@ -3289,7 +3316,7 @@
     },
 
     {
-      "id": 175,
+      "id": 178,
       "name": "Spray Paint",
       "url": "sprey-boya",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729443304/akcali-sprey_vykbn0.jpg"],
@@ -3298,7 +3325,7 @@
     },
 
     {
-      "id": 176,
+      "id": 179,
       "name": "Spray Paint Color Chart",
       "url": "sprey-boya-kartela",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729443303/akcali-sprey-boya-renkleri_clxits.jpg"],
@@ -3307,7 +3334,7 @@
     },
 
     {
-      "id": 177,
+      "id": 180,
       "name": "502 Japanese Adhesive 20 Gr.",
       "url": "502-japon-yapistirici-20-gr",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855961/1_ce78kj.jpg"],
@@ -3316,7 +3343,7 @@
     },
 
     {
-      "id": 178,
+      "id": 181,
       "name": "Derby 602 Japanese Adhesive 20 Gr.",
       "url": "derby-602-japon-yapistirici-20-gr",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855963/2_pusgbc.jpg"],
@@ -3325,7 +3352,7 @@
     },
 
     {
-      "id": 179,
+      "id": 182,
       "name": "Mdf Kit",
       "url": "mdf-kit",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855965/3_blrkl9.jpg"],
@@ -3334,7 +3361,7 @@
     },
 
     {
-      "id": 180,
+      "id": 183,
       "name": "Weicon Adhesive Spray",
       "url": "weicon-yapistirici-sprey",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855967/4_vkzrbo.jpg"],
@@ -3343,7 +3370,7 @@
     },
 
     {
-      "id": 181,
+      "id": 184,
       "name": "Pattex One For All Adhesive",
       "url": "pattex-one-for-all-yapistirici",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/pattex-one-for-all-universal_txboek.jpg"],
@@ -3352,7 +3379,7 @@
     },
 
     {
-      "id": 182,
+      "id": 185,
       "name": "Soudal Fix All",
       "url": "soudal-fix-all",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/suodal-fix-all_voxuzu.jpg"],
@@ -3361,7 +3388,7 @@
     },
 
     {
-      "id": 183,
+      "id": 186,
       "name": "Pattex Power Epoxy Mix",
       "url": "pattex-power-epoxy-mix-karisim",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729375686/pattex-power-epoxy_nwnywk.jpg"],
@@ -3370,7 +3397,7 @@
     },
 
     {
-      "id": 184,
+      "id": 187,
       "name": "Weicon Repair Spray",
       "url": "weicon-tamir-spreyi",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/weicon-tamir-spreyi_zfd8wn.jpg"],
@@ -3379,7 +3406,7 @@
     },
 
     {
-      "id": 185,
+      "id": 188,
       "name": "Derby Contact Tube Adhesive",
       "url": "derby-kontakt-tup-yapistirici",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/derby-kontakt-yapistirici_c1i5xr.webp"],
@@ -3388,7 +3415,7 @@
     },
 
     {
-      "id": 186,
+      "id": 189,
       "name": "Titanium Fasteners",
       "url": "titanyum-baglanti-elemanlari",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728910576/titanyum_oawgj3.jpg"],
@@ -3397,7 +3424,7 @@
     },
 
     {
-      "id": 187,
+      "id": 190,
       "name": "Custom Manufactured Fasteners",
       "url": "ozel-uretim-baglanti-elemanlari",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728910676/ozel-baglanti-elemanlari_ynqevl.jpg"],
@@ -3406,7 +3433,7 @@
     },
 
     {
-      "id": 188,
+      "id": 191,
       "name": "10.9 and 12.9 Fasteners",
       "url": "10-9-ve-12-9-baglanti-elemanlari",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728910932/i_igsepr.webp"],

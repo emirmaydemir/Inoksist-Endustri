@@ -3218,6 +3218,33 @@
 
     {
       "id": 167,
+      "name": "Renkli Palet Streçleri",
+      "url": "renkli-palet-strecleri",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729446334/renkli-palet-streci_dmcmw8.webp"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729446334/renkli-palet-streci_dmcmw8.webp",
+      "description": "Renkli Palet Streçleri, ürünlerin taşınması ve depolanması sırasında güvenli bir şekilde bir arada tutulmasını sağlayan özel streç filmlerdir. Yüksek kaliteli polietilenden üretilen bu streçler, dayanıklı yapıları sayesinde rüzgar, su ve dış etkenlere karşı koruma sağlar. Renkli seçenekleri, depolama alanlarını organize etmenin yanı sıra, ürünlerin kolay bir şekilde tanınmasını sağlar. Farklı genişlik ve kalınlık seçenekleriyle sunulan bu streçler, palet üzerindeki yükün kaymasını önler ve yükün bütünlüğünü korur. Renkli palet streçleri, lojistik, nakliye ve depolama gibi birçok sektörde yaygın olarak kullanılır."
+    },
+
+    {
+      "id": 168,
+      "name": "Koli Bandı Makinesi",
+      "url": "koli-bandi-makinesi",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729446332/koli-bandi-makinesi_arzhh0.png"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729446332/koli-bandi-makinesi_arzhh0.png",
+      "description": "Koli Bandı Makinesi, ambalajlama işlemlerinde koli bandı uygulamak için kullanılan pratik bir araçtır. Genellikle karton kutuların kapatılması ve güvenli bir şekilde taşınması amacıyla tasarlanmıştır. Bu makineler, çeşitli koli bantlarını kolayca kesip yapıştırma işlevi görebilir, böylece zamandan tasarruf sağlar ve iş süreçlerini hızlandırır. Kullanımı son derece basit olan koli bandı makineleri, hem manuel hem de otomatik modellerde mevcuttur. Ergonomik tasarımları sayesinde kullanıcı konforunu artırır ve özellikle yoğun ambalajlama süreçlerinde verimliliği yükseltir."
+    },
+
+    {
+      "id": 169,
+      "name": "Dayson Maskeleme Bantları",
+      "url": "dayson-maskeleme-bantlari",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729446333/maskeleme-bantlari_t3qz45.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729446333/maskeleme-bantlari_t3qz45.jpg",
+      "description": "Dayson Maskeleme Bantları, boyama ve kaplama işlemleri sırasında yüzeylerin korunmasını sağlamak için tasarlanmış yüksek kaliteli yapışkan bantlardır. Genellikle pürüzsüz yüzeylere kolayca yapışabilen bu bantlar, temiz kenar hatları elde etmek için idealdir. Suya ve solventlere dayanıklı özellikleri sayesinde, iç ve dış mekan uygulamalarında güvenle kullanılabilir. Farklı genişlik ve uzunluk seçenekleriyle sunulan Dayson maskeleme bantları, kullanıcının ihtiyaçlarına göre esneklik sağlar. Ayrıca, yüzeylerde iz bırakmadan temiz bir şekilde çıkarılabilmeleri, iş sonrası temizlik işlemlerini kolaylaştırır."
+    },
+
+    {
+      "id": 170,
       "name": "Loctite Civata Sabitleyici",
       "url": "loctite-civata-sabitleyici",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855913/1_yunpo0.jpg"],
@@ -3226,7 +3253,7 @@
     },
 
     {
-      "id": 168,
+      "id": 171,
       "name": "Weicon Flex 310 M Paslanmaz Çelik Sızdırmazlık Ürünü",
       "url": "weicon-flex-310-m",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855915/2_awe8fe.jpg"],
@@ -3235,7 +3262,7 @@
     },
 
     {
-      "id": 169,
+      "id": 172,
       "name": "Weicon Civata Sabitleyici",
       "url": "weicon-civata-sabitleyici",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728895990/eba1_arrfwr.jpg"],
@@ -3244,7 +3271,7 @@
     },
 
     {
-      "id": 170,
+      "id": 173,
       "name": "Ceresit Köpük",
       "url": "ceresit-kopuk",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855944/1_u0ohza.jpg"],
@@ -3253,7 +3280,7 @@
     },
 
     {
-      "id": 171,
+      "id": 174,
       "name": "Ceresit Silikon",
       "url": "ceresit-silikon",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855945/2_dgzvjl.jpg"],
@@ -3262,7 +3289,7 @@
     },
 
     {
-      "id": 172,
+      "id": 175,
       "name": "Dayson PU Mastik",
       "url": "dayson-pu-mastik",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855947/3_k9rzev.jpg"],
@@ -3271,7 +3298,7 @@
     },
 
     {
-      "id": 173,
+      "id": 176,
       "name": "Kimyasal Dübel (Epoksi)",
       "url": "kimyasal-dubel-epoksi",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855949/4_lxkfeg.jpg"],
@@ -3280,7 +3307,7 @@
     },
 
     {
-      "id": 174,
+      "id": 177,
       "name": "Sista Silikon",
       "url": "sista-silikon",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855951/5_zjh817.jpg"],
@@ -3289,7 +3316,7 @@
     },
 
     {
-      "id": 175,
+      "id": 178,
       "name": "Akçalı Sprey Boya",
       "url": "sprey-boya",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729443304/akcali-sprey_vykbn0.jpg"],
@@ -3298,7 +3325,7 @@
     },
 
     {
-      "id": 176,
+      "id": 179,
       "name": "Akçalı Sprey Boya Kartela",
       "url": "sprey-boya-kartela",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729443303/akcali-sprey-boya-renkleri_clxits.jpg"],
@@ -3307,7 +3334,7 @@
     },
 
     {
-      "id": 177,
+      "id": 180,
       "name": "502 Japon Yapıştırıcı 20 Gr.",
       "url": "502-japon-yapistirici-20-gr",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855961/1_ce78kj.jpg"],
@@ -3316,7 +3343,7 @@
     },
 
     {
-      "id": 178,
+      "id": 181,
       "name": "Derby 602 Japon Yapıştırıcı 20 Gr.",
       "url": "derby-602-japon-yapistirici-20-gr",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855963/2_pusgbc.jpg"],
@@ -3325,7 +3352,7 @@
     },
 
     {
-      "id": 179,
+      "id": 182,
       "name": "Mdf Kit",
       "url": "mdf-kit",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855965/3_blrkl9.jpg"],
@@ -3334,7 +3361,7 @@
     },
 
     {
-      "id": 180,
+      "id": 183,
       "name": "Weicon Yapıştırıcı Sprey",
       "url": "weicon-yapistirici-sprey",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855967/4_vkzrbo.jpg"],
@@ -3343,7 +3370,7 @@
     },
 
     {
-      "id": 181,
+      "id": 184,
       "name": "Pattex One For All Yapıştırıcı",
       "url": "pattex-one-for-all-yapistirici",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/pattex-one-for-all-universal_txboek.jpg"],
@@ -3352,7 +3379,7 @@
     },
 
     {
-      "id": 182,
+      "id": 185,
       "name": "Soudal Fix All",
       "url": "soudal-fix-all",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/suodal-fix-all_voxuzu.jpg"],
@@ -3361,7 +3388,7 @@
     },
 
     {
-      "id": 183,
+      "id": 186,
       "name": "Pattex Power Epoxy Mix Karışım",
       "url": "pattex-power-epoxy-mix-karisim",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729375686/pattex-power-epoxy_nwnywk.jpg"],
@@ -3370,7 +3397,7 @@
     },
 
     {
-      "id": 184,
+      "id": 187,
       "name": "Weicon Tamir Spreyi",
       "url": "weicon-tamir-spreyi",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/weicon-tamir-spreyi_zfd8wn.jpg"],
@@ -3379,7 +3406,7 @@
     },
 
     {
-      "id": 185,
+      "id": 188,
       "name": "Derby Kontakt Tüp Yapıştırıcı",
       "url": "derby-kontakt-tup-yapistirici",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/derby-kontakt-yapistirici_c1i5xr.webp"],
@@ -3388,7 +3415,7 @@
     },
 
     {
-      "id": 186,
+      "id": 189,
       "name": "Titanyum Bağlantı Elemanları",
       "url": "titanyum-baglanti-elemanlari",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728910576/titanyum_oawgj3.jpg"],
@@ -3397,7 +3424,7 @@
     },
 
     {
-      "id": 187,
+      "id": 190,
       "name": "Özel Üretim Bağlantı Elemanları",
       "url": "ozel-uretim-baglanti-elemanlari",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728910676/ozel-baglanti-elemanlari_ynqevl.jpg"],
@@ -3406,7 +3433,7 @@
     },
 
     {
-      "id": 188,
+      "id": 191,
       "name": "10.9 ve 12.9 Bağlantı Elemanları",
       "url": "10-9-ve-12-9-baglanti-elemanlari",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728910932/i_igsepr.webp"],
