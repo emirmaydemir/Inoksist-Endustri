@@ -2678,11 +2678,11 @@
 
     {
       "id": 107,
-      "name": "Paslanmaz Çelik Bakım Spreyi",
-      "url": "paslanmaz-celik-bakim-spreyi",
-      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1726932484/9_yrzjfh.jpg"],
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1726932484/9_yrzjfh.jpg",
-      "description": "Paslanmaz çelik bakım spreyi, paslanmaz çelik yüzeylerin temizliği ve korunması için özel olarak formüle edilmiştir. Yüzeydeki kirleri, parmak izlerini ve lekeleri etkili bir şekilde temizlerken, metalin doğal parlaklığını geri kazandırır. Koruyucu kaplama, yüzeyin korozyona karşı dayanıklılığını artırır ve uzun süreli koruma sağlar. Hızla buharlaşır ve kalıntı bırakmadan pürüzsüz bir görünüm sunar. Hem endüstriyel hem de ev kullanımı için ideal, yüksek performanslı bir bakım çözümüdür."
+      "name": "Metal Fluid",
+      "url": "metal-fluid",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729430272/metal-fluid_nmabtj.png"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729430272/metal-fluid_nmabtj.png",
+      "description": "Metal Fluid, iç mat ve cilalı yüzeyler için tasarlanmış bir bakım ve temizlik ürünüdür ve NSF onayına sahiptir. Metal Fluid, metal yüzeylerin yanı sıra seramik, ahşap, cam ve plastikleri korur, temizler ve bakım sağlar. Ayrıca, kazınmış ve baskılı işaretleri ya da plastik yüzeyleri ve kauçuk sızdırmazlık malzemelerini etkilemez."
     },
 
     {
