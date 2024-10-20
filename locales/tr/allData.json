@@ -3245,24 +3245,6 @@
 
     {
       "id": 170,
-      "name": "Akçalı Sprey Boya",
-      "url": "sprey-boya",
-      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729443304/akcali-sprey_vykbn0.jpg"],
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729443304/akcali-sprey_vykbn0.jpg",
-      "description": "Akçalı Sprey, iç ve dış mekanlarda çeşitli yüzeylerde kullanılabilen yüksek performanslı bir boyadır. Ahşap, metal, beton, sıva ve çimento gibi yüzeylere uygulanabilir. Bu ürün, sentetik veya akrilik esaslı formülasyonu sayesinde hızlı bir şekilde kurur ve uzun ömürlü bir koruma sağlar. Ayrıca, UV ışınlarına karşı dayanıklılığı sayesinde solmaya karşı mukavimdir, böylece renkler zamanla bozulmaz. Parlak görünümü, uygulandığı yüzeylere estetik bir çekicilik kazandırır. Akçalı Sprey, hem profesyonel hem de amatör uygulamalar için idealdir ve geniş bir renk yelpazesine sahip olarak çeşitli projelerde kullanılabilir."
-    },
-
-    {
-      "id": 171,
-      "name": "Akçalı Sprey Boya Kartela",
-      "url": "sprey-boya-kartela",
-      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729443303/akcali-sprey-boya-renkleri_clxits.jpg"],
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729443303/akcali-sprey-boya-renkleri_clxits.jpg",
-      "description": "Günümüz gereksinimlerini karşılayacak zengin bir renk ve çeşit yelpazesi sunan (66 farklı seçenek) boya türleri, uygulayıcının kullanım amacına göre mat veya parlak görünümde, normal, metalik veya floresan özelliklerde çeşitli renklerde mevcuttur. Bu boyalar, metal, ahşap, duvar gibi yüzeylerin yanı sıra bisiklet, motosiklet, buzdolabı, radyatör, mobilya, demir aksam, deniz araçları gibi uygulamalarda, hobi projelerinde, klasik dekorasyon işlerinde, oto plastik tampon ve jant boyalarında, yüksek ısıya dayanıklı soba boyalarında ve şeffaf tahta koruyucu verniklerde de kullanılabilir."
-    },
-
-    {
-      "id": 172,
       "name": "Ceresit Köpük",
       "url": "ceresit-kopuk",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855944/1_u0ohza.jpg"],
@@ -3271,7 +3253,7 @@
     },
 
     {
-      "id": 173,
+      "id": 171,
       "name": "Ceresit Silikon",
       "url": "ceresit-silikon",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855945/2_dgzvjl.jpg"],
@@ -3280,7 +3262,7 @@
     },
 
     {
-      "id": 174,
+      "id": 172,
       "name": "Dayson PU Mastik",
       "url": "dayson-pu-mastik",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855947/3_k9rzev.jpg"],
@@ -3289,7 +3271,7 @@
     },
 
     {
-      "id": 175,
+      "id": 173,
       "name": "Kimyasal Dübel (Epoksi)",
       "url": "kimyasal-dubel-epoksi",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855949/4_lxkfeg.jpg"],
@@ -3298,12 +3280,30 @@
     },
 
     {
-      "id": 176,
+      "id": 174,
       "name": "Sista Silikon",
       "url": "sista-silikon",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855951/5_zjh817.jpg"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855951/5_zjh817.jpg",
       "description": "Sista Silikon, çeşitli uygulamalarda üstün sızdırmazlık ve yapışma özellikleri sunan yüksek kaliteli bir silikon bileşenidir. Genellikle inşaat sektöründe, yapıların suya, hava koşullarına ve kimyasallara karşı korunmasında kullanılır. İç mekan ve dış mekan uygulamalarında ideal olan bu silikon, esnek yapısıyla hareketli yüzeylerde dahi etkin bir sızdırmazlık sağlar. Sista Silikon, ısıya, soğuğa ve UV ışınlarına dayanıklıdır, bu da onu uzun ömürlü bir çözüm haline getirir. Kullanımı oldukça kolaydır; tüp ile uygulanarak hızlı bir şekilde kurur. Su bazlı formulasyonu sayesinde, hem çevre dostudur hem de insan sağlığına zarar vermez. Sista Silikon, pencere, kapı, banyo, mutfak ve diğer alanlarda güvenilir bir sızdırmazlık sağlayarak yapıların dayanıklılığını artırır."
+    },
+
+    {
+      "id": 175,
+      "name": "Akçalı Sprey Boya",
+      "url": "sprey-boya",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729443304/akcali-sprey_vykbn0.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729443304/akcali-sprey_vykbn0.jpg",
+      "description": "Akçalı Sprey, iç ve dış mekanlarda çeşitli yüzeylerde kullanılabilen yüksek performanslı bir boyadır. Ahşap, metal, beton, sıva ve çimento gibi yüzeylere uygulanabilir. Bu ürün, sentetik veya akrilik esaslı formülasyonu sayesinde hızlı bir şekilde kurur ve uzun ömürlü bir koruma sağlar. Ayrıca, UV ışınlarına karşı dayanıklılığı sayesinde solmaya karşı mukavimdir, böylece renkler zamanla bozulmaz. Parlak görünümü, uygulandığı yüzeylere estetik bir çekicilik kazandırır. Akçalı Sprey, hem profesyonel hem de amatör uygulamalar için idealdir ve geniş bir renk yelpazesine sahip olarak çeşitli projelerde kullanılabilir."
+    },
+
+    {
+      "id": 176,
+      "name": "Akçalı Sprey Boya Kartela",
+      "url": "sprey-boya-kartela",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729443303/akcali-sprey-boya-renkleri_clxits.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729443303/akcali-sprey-boya-renkleri_clxits.jpg",
+      "description": "Günümüz gereksinimlerini karşılayacak zengin bir renk ve çeşit yelpazesi sunan (66 farklı seçenek) boya türleri, uygulayıcının kullanım amacına göre mat veya parlak görünümde, normal, metalik veya floresan özelliklerde çeşitli renklerde mevcuttur. Bu boyalar, metal, ahşap, duvar gibi yüzeylerin yanı sıra bisiklet, motosiklet, buzdolabı, radyatör, mobilya, demir aksam, deniz araçları gibi uygulamalarda, hobi projelerinde, klasik dekorasyon işlerinde, oto plastik tampon ve jant boyalarında, yüksek ısıya dayanıklı soba boyalarında ve şeffaf tahta koruyucu verniklerde de kullanılabilir."
     },
 
     {

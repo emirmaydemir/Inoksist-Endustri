@@ -148,19 +148,13 @@ export default function sitemap() {
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/${locale}/hirdavat/sizdirmazlik-grubu`,
+      url: `${baseUrl}/${locale}/hirdavat/silikon-ve-sizdirmazlik-grubu`,
       lastModified: new Date(),
       changeFrequency: "never",
       priority: 0.8,
     },
     {
       url: `${baseUrl}/${locale}/hirdavat/sprey-boya`,
-      lastModified: new Date(),
-      changeFrequency: "never",
-      priority: 0.8,
-    },
-    {
-      url: `${baseUrl}/${locale}/hirdavat/yapi-kimyasallari-grubu`,
       lastModified: new Date(),
       changeFrequency: "never",
       priority: 0.8,

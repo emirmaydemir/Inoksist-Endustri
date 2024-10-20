@@ -22,8 +22,8 @@ export async function generateMetadata({ params: { locale, category } }) {
       break;
     case "hirdavat":
       title = headerContent.technical;
-      description = "Hırdavat - Delme Kesme Yağları Grubu - İş Güvenliği Grubu - Kaynak Ekipmanları Grubu - Kesici ve Aşındırıcı Grubu - Ambalaj ve Paketleme Grubu - Sızdırmazlık Grubu - Sprey Boya - Yapı Kimyasalları Grubu - Yapıştırıcı Grubu. İhtiyaçlarınıza uygun hırdavatları kolayca bulabilirsiniz.";
-      keywords = "inoksist, hırdavat, delme kesme yağları, iş güvenliği ekipmanları, kaynak ekipmanları, kesici ekipmanlar, aşındırıcı ekipmanlar, ambalaj malzemeleri, paketleme ürünleri, sızdırmazlık ürünleri, yapıştırıcılar, yapı kimyasalları, sprey boya";
+      description = "Hırdavat - Delme Kesme Yağları Grubu - İş Güvenliği Grubu - Kaynak Ekipmanları Grubu - Kesici ve Aşındırıcı Grubu - Ambalaj ve Paketleme Grubu - Silikon ve Sızdırmazlık Grubu - Sprey Boya - Yapıştırıcı Grubu. İhtiyaçlarınıza uygun hırdavatları kolayca bulabilirsiniz.";
+      keywords = "inoksist, hırdavat, delme kesme yağları, iş güvenliği ekipmanları, kaynak ekipmanları, kesici ekipmanlar, aşındırıcı ekipmanlar, ambalaj malzemeleri, paketleme ürünleri, sızdırmazlık ürünleri, yapıştırıcılar, silikon ürünleri, sprey boya, yapı kimyasalları";
       break;
     case "bakim-kimyasallari":
       title = headerContent.maintenance;

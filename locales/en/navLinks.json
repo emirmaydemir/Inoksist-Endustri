@@ -33,9 +33,8 @@
         { "path": "/hirdavat/kaynak-ekipmanlari-grubu", "display": "Welding Equipment Group" },
         { "path": "/hirdavat/kesici-ve-asindirici-grubu", "display": "Cutting and Abrasives Group" },
         { "path": "/hirdavat/ambalaj-ve-paketleme-grubu", "display": "Packaging and Wrapping Group" },
-        { "path": "/hirdavat/sizdirmazlik-grubu", "display": "Sealing Group" },
+        { "path": "/hirdavat/silikon-ve-sizdirmazlik-grubu", "display": "Sealing Group" },
         { "path": "/hirdavat/sprey-boya", "display": "Spray Paint" },
-        { "path": "/hirdavat/yapi-kimyasallari-grubu", "display": "Construction Chemicals Group" },
         { "path": "/hirdavat/yapistirici-grubu", "display": "Adhesives Group" }
       ]
     },

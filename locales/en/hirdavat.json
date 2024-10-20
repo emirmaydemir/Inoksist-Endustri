@@ -469,7 +469,7 @@
       "name": "Loctite Bolt Locker",
       "url": "loctite-civata-sabitleyici",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855913/1_yunpo0.jpg",
-      "category": ["sizdirmazlik-grubu"]
+      "category": ["silikon-ve-sizdirmazlik-grubu"]
     },
 
     {
@@ -477,7 +477,7 @@
       "name": "Weicon Flex 310 M Stainless Steel Sealant",
       "url": "weicon-flex-310-m",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855915/2_awe8fe.jpg",
-      "category": ["sizdirmazlik-grubu"]
+      "category": ["silikon-ve-sizdirmazlik-grubu"]
     },
 
     {
@@ -485,11 +485,51 @@
       "name": "Weicon Bolt Locking Adhesive",
       "url": "weicon-civata-sabitleyici",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728895990/eba1_arrfwr.jpg",
-      "category": ["sizdirmazlik-grubu"]
+      "category": ["silikon-ve-sizdirmazlik-grubu"]
     },
 
     {
       "id": 62,
+      "name": "Ceresit Foam",
+      "url": "ceresit-kopuk",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855944/1_u0ohza.jpg",
+      "category": ["silikon-ve-sizdirmazlik-grubu"]
+    },
+
+    {
+      "id": 63,
+      "name": "Ceresit Silicone",
+      "url": "ceresit-silikon",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855945/2_dgzvjl.jpg",
+      "category": ["silikon-ve-sizdirmazlik-grubu"]
+    },
+
+    {
+      "id": 64,
+      "name": "Dayson PU Mastic",
+      "url": "dayson-pu-mastik",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855947/3_k9rzev.jpg",
+      "category": ["silikon-ve-sizdirmazlik-grubu"]
+    },
+
+    {
+      "id": 65,
+      "name": "Chemical Dowels (Epoxy)",
+      "url": "kimyasal-dubel-epoksi",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855949/4_lxkfeg.jpg",
+      "category": ["silikon-ve-sizdirmazlik-grubu"]
+    },
+
+    {
+      "id": 66,
+      "name": "Sista Silicone",
+      "url": "sista-silikon",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855951/5_zjh817.jpg",
+      "category": ["silikon-ve-sizdirmazlik-grubu"]
+    },
+
+    {
+      "id": 67,
       "name": "Spray Paint",
       "url": "sprey-boya",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729443304/akcali-sprey_vykbn0.jpg",
@@ -497,51 +537,11 @@
     },
 
     {
-      "id": 63,
+      "id": 68,
       "name": "Spray Paint Color Chart",
       "url": "sprey-boya-kartela",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729443303/akcali-sprey-boya-renkleri_clxits.jpg",
       "category": ["sprey-boya"]
-    },
-
-    {
-      "id": 64,
-      "name": "Ceresit Foam",
-      "url": "ceresit-kopuk",
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855944/1_u0ohza.jpg",
-      "category": ["yapi-kimyasallari-grubu"]
-    },
-
-    {
-      "id": 65,
-      "name": "Ceresit Silicone",
-      "url": "ceresit-silikon",
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855945/2_dgzvjl.jpg",
-      "category": ["yapi-kimyasallari-grubu"]
-    },
-
-    {
-      "id": 66,
-      "name": "Dayson PU Mastic",
-      "url": "dayson-pu-mastik",
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855947/3_k9rzev.jpg",
-      "category": ["yapi-kimyasallari-grubu"]
-    },
-
-    {
-      "id": 67,
-      "name": "Chemical Dowels (Epoxy)",
-      "url": "kimyasal-dubel-epoksi",
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855949/4_lxkfeg.jpg",
-      "category": ["yapi-kimyasallari-grubu"]
-    },
-
-    {
-      "id": 68,
-      "name": "Sista Silicone",
-      "url": "sista-silikon",
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855951/5_zjh817.jpg",
-      "category": ["yapi-kimyasallari-grubu"]
     },
 
     {

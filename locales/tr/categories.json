@@ -51,16 +51,12 @@
       "description": "Ambalaj ve Paketleme Grubu"
     },
     {
-      "guid": "sizdirmazlik-grubu",
-      "description": "Sızdırmazlık Grubu"
+      "guid": "silikon-ve-sizdirmazlik-grubu",
+      "description": "Silikon ve Sızdırmazlık Grubu"
     },
     {
       "guid": "sprey-boya",
       "description": "Sprey Boya"
-    },
-    {
-      "guid": "yapi-kimyasallari-grubu",
-      "description": "Yapı Kimyasalları Grubu"
     },
     {
       "guid": "yapistirici-grubu",

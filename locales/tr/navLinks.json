@@ -67,14 +67,10 @@
           "display": "Ambalaj ve Paketleme Grubu"
         },
         {
-          "path": "/hirdavat/sizdirmazlik-grubu",
-          "display": "Sızdırmazlık Grubu"
+          "path": "/hirdavat/silikon-ve-sizdirmazlik-grubu",
+          "display": "Silikon ve Sızdırmazlık Grubu"
         },
         { "path": "/hirdavat/sprey-boya", "display": "Sprey Boya" },
-        {
-          "path": "/hirdavat/yapi-kimyasallari-grubu",
-          "display": "Yapı Kimyasalları Grubu"
-        },
         {
           "path": "/hirdavat/yapistirici-grubu",
           "display": "Yapıştırıcı Grubu"

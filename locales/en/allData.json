@@ -3244,25 +3244,7 @@
     },
 
     {
-      "id": 171,
-      "name": "Spray Paint",
-      "url": "sprey-boya",
-      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729443304/akcali-sprey_vykbn0.jpg"],
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729443304/akcali-sprey_vykbn0.jpg",
-      "description": "Akçalı Spray is a high-performance paint suitable for various surfaces in both indoor and outdoor applications. It can be used on materials such as wood, metal, concrete, plaster, and cement. Its synthetic or acrylic-based formulation allows for quick drying and provides long-lasting protection. Additionally, its resistance to UV rays ensures that the colors do not fade over time. The glossy finish adds an aesthetic appeal to the surfaces it is applied to. Akçalı Spray is ideal for both professional and amateur applications, and it comes in a wide range of colors, making it suitable for various projects."
-    },
-
-    {
       "id": 170,
-      "name": "Spray Paint Color Chart",
-      "url": "sprey-boya-kartela",
-      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729443303/akcali-sprey-boya-renkleri_clxits.jpg"],
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729443303/akcali-sprey-boya-renkleri_clxits.jpg",
-      "description": "The paint varieties available today offer a rich selection of colors and types (66 different options) to meet contemporary needs. They come in matte or glossy finishes, with normal, metallic, or fluorescent properties, allowing users to choose according to their application purposes. These paints can be used on various surfaces, including metal, wood, and walls, as well as for bicycles, motorcycles, refrigerators, radiators, furniture, iron components, marine vessels, hobby projects, classic decoration works, automotive plastic bumpers, wheel paints, high-heat stove paints, and transparent wood protective varnishes."
-    },
-
-    {
-      "id": 172,
       "name": "Ceresit Foam",
       "url": "ceresit-kopuk",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855944/1_u0ohza.jpg"],
@@ -3271,7 +3253,7 @@
     },
 
     {
-      "id": 173,
+      "id": 171,
       "name": "Ceresit Silicone",
       "url": "ceresit-silikon",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855945/2_dgzvjl.jpg"],
@@ -3280,7 +3262,7 @@
     },
 
     {
-      "id": 174,
+      "id": 172,
       "name": "Dayson PU Mastic",
       "url": "dayson-pu-mastik",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855947/3_k9rzev.jpg"],
@@ -3289,7 +3271,7 @@
     },
 
     {
-      "id": 175,
+      "id": 173,
       "name": "Chemical Dowels (Epoxy)",
       "url": "kimyasal-dubel-epoksi",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855949/4_lxkfeg.jpg"],
@@ -3298,12 +3280,30 @@
     },
 
     {
-      "id": 176,
+      "id": 174,
       "name": "Sista Silicone",
       "url": "sista-silikon",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855951/5_zjh817.jpg"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855951/5_zjh817.jpg",
       "description": "Sista Silicone is a high-quality silicone compound that offers superior sealing and adhesion properties for various applications. It is commonly used in the construction industry to protect structures from water, weather conditions, and chemicals. Ideal for both indoor and outdoor applications, this silicone provides effective sealing even on moving surfaces due to its flexible composition. Sista Silicone is resistant to heat, cold, and UV rays, making it a long-lasting solution. It is easy to use, quickly curing when applied from a tube. With its water-based formulation, it is environmentally friendly and safe for human health. Sista Silicone enhances the durability of structures by providing reliable sealing in windows, doors, bathrooms, kitchens, and other areas."
+    },
+
+    {
+      "id": 175,
+      "name": "Spray Paint",
+      "url": "sprey-boya",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729443304/akcali-sprey_vykbn0.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729443304/akcali-sprey_vykbn0.jpg",
+      "description": "Akçalı Spray is a high-performance paint suitable for various surfaces in both indoor and outdoor applications. It can be used on materials such as wood, metal, concrete, plaster, and cement. Its synthetic or acrylic-based formulation allows for quick drying and provides long-lasting protection. Additionally, its resistance to UV rays ensures that the colors do not fade over time. The glossy finish adds an aesthetic appeal to the surfaces it is applied to. Akçalı Spray is ideal for both professional and amateur applications, and it comes in a wide range of colors, making it suitable for various projects."
+    },
+
+    {
+      "id": 176,
+      "name": "Spray Paint Color Chart",
+      "url": "sprey-boya-kartela",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729443303/akcali-sprey-boya-renkleri_clxits.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729443303/akcali-sprey-boya-renkleri_clxits.jpg",
+      "description": "The paint varieties available today offer a rich selection of colors and types (66 different options) to meet contemporary needs. They come in matte or glossy finishes, with normal, metallic, or fluorescent properties, allowing users to choose according to their application purposes. These paints can be used on various surfaces, including metal, wood, and walls, as well as for bicycles, motorcycles, refrigerators, radiators, furniture, iron components, marine vessels, hobby projects, classic decoration works, automotive plastic bumpers, wheel paints, high-heat stove paints, and transparent wood protective varnishes."
     },
 
     {
