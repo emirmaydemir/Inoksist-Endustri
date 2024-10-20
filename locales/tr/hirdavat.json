@@ -514,8 +514,8 @@
 
     {
       "id": 65,
-      "name": "Ceresit Köpük",
-      "url": "ceresit-kopuk",
+      "name": "Ceresit Poliüretan Köpük",
+      "url": "ceresit-poliuretan-kopuk",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855944/1_u0ohza.jpg",
       "category": ["silikon-ve-sizdirmazlik-grubu"]
     },
@@ -554,6 +554,38 @@
 
     {
       "id": 70,
+      "name": "Derby PU Mastik",
+      "url": "derby-pu-mastik",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729457214/Derby-PU-Mastik_rnsd26.webp",
+      "category": ["silikon-ve-sizdirmazlik-grubu"]
+    },
+
+    {
+      "id": 71,
+      "name": "Ceresit CS 51",
+      "url": "ceresit-cs-51",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729457213/ceresit-cs-51_yaecjq.jpg",
+      "category": ["silikon-ve-sizdirmazlik-grubu"]
+    },
+
+    {
+      "id": 72,
+      "name": "Sista Akvaryum Silikonu",
+      "url": "sista-akvaryum-silikonu",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729457216/sista-akvaryum-silikonu_shq8ru.webp",
+      "category": ["silikon-ve-sizdirmazlik-grubu"]
+    },
+
+    {
+      "id": 73,
+      "name": "Sista Poliüretan Köpük",
+      "url": "sista-poliuretan-kopuk",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729457218/sista-poliuretan-kopuk_spxghk.jpg",
+      "category": ["silikon-ve-sizdirmazlik-grubu"]
+    },
+
+    {
+      "id": 74,
       "name": "Akçalı Sprey Boya",
       "url": "sprey-boya",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729443304/akcali-sprey_vykbn0.jpg",
@@ -561,7 +593,7 @@
     },
 
     {
-      "id": 71,
+      "id": 75,
       "name": "Akçalı Sprey Boya Kartela",
       "url": "sprey-boya-kartela",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729443303/akcali-sprey-boya-renkleri_clxits.jpg",
@@ -569,7 +601,7 @@
     },
 
     {
-      "id": 72,
+      "id": 76,
       "name": "502 Japon Yapıştırıcı 20 Gr.",
       "url": "502-japon-yapistirici-20-gr",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855961/1_ce78kj.jpg",
@@ -577,7 +609,7 @@
     },
 
     {
-      "id": 73,
+      "id": 77,
       "name": "Derby 602 Japon Yapıştırıcı 20 Gr.",
       "url": "derby-602-japon-yapistirici-20-gr",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855963/2_pusgbc.jpg",
@@ -585,7 +617,7 @@
     },
 
     {
-      "id": 74,
+      "id": 78,
       "name": "Mdf Kit",
       "url": "mdf-kit",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855965/3_blrkl9.jpg",
@@ -593,7 +625,7 @@
     },
 
     {
-      "id": 75,
+      "id": 79,
       "name": "Weicon Yapıştırıcı Sprey",
       "url": "weicon-yapistirici-sprey",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855967/4_vkzrbo.jpg",
@@ -601,7 +633,7 @@
     },
 
     {
-      "id": 76,
+      "id": 80,
       "name": "Pattex One For All Yapıştırıcı",
       "url": "pattex-one-for-all-yapistirici",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/pattex-one-for-all-universal_txboek.jpg",
@@ -609,7 +641,7 @@
     },
 
     {
-      "id": 77,
+      "id": 81,
       "name": "Soudal Fix All",
       "url": "soudal-fix-all",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/suodal-fix-all_voxuzu.jpg",
@@ -617,7 +649,7 @@
     },
 
     {
-      "id": 78,
+      "id": 82,
       "name": "Pattex Power Epoxy Mix Karışım",
       "url": "pattex-power-epoxy-mix-karisim",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729375686/pattex-power-epoxy_nwnywk.jpg",
@@ -625,7 +657,7 @@
     },
 
     {
-      "id": 79,
+      "id": 83,
       "name": "Weicon Tamir Spreyi",
       "url": "weicon-tamir-spreyi",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/weicon-tamir-spreyi_zfd8wn.jpg",
@@ -633,7 +665,7 @@
     },
 
     {
-      "id": 80,
+      "id": 84,
       "name": "Derby Kontakt Tüp Yapıştırıcı",
       "url": "derby-kontakt-tup-yapistirici",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/derby-kontakt-yapistirici_c1i5xr.webp",

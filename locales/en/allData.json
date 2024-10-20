@@ -3272,11 +3272,11 @@
 
     {
       "id": 173,
-      "name": "Ceresit Foam",
-      "url": "ceresit-kopuk",
+      "name": "Ceresit Polyurethane Foam",
+      "url": "ceresit-polyurethane-kopuk",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855944/1_u0ohza.jpg"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855944/1_u0ohza.jpg",
-      "description": "Ceresit Foam is a high-performance mounting foam widely used in the construction and building sector. Its advanced formulation provides excellent adhesion and is effective in bonding various materials. Resistant to water, sound, and heat, it enhances energy efficiency and creates a comfortable living environment. With a quick drying time, Ceresit Foam minimizes waiting after application and is durable against harsh weather conditions. Its ease of use makes it an ideal choice for both professional builders and DIY users. It can be safely utilized in various projects, delivering effective results in assembly, filling, and insulation tasks."
+      "description": "Ceresit Polyurethane Foam is a high-performance mounting foam widely used in the construction and building sector. Its advanced formulation provides excellent adhesion and is effective in bonding various materials. Resistant to water, sound, and heat, it enhances energy efficiency and creates a comfortable living environment. With a quick drying time, Ceresit Foam minimizes waiting after application and is durable against harsh weather conditions. Its ease of use makes it an ideal choice for both professional builders and DIY users. It can be safely utilized in various projects, delivering effective results in assembly, filling, and insulation tasks."
     },
 
     {
@@ -3317,6 +3317,42 @@
 
     {
       "id": 178,
+      "name": "Derby PU Sealant",
+      "url": "derby-pu-mastik",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729457214/Derby-PU-Mastik_rnsd26.webp"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729457214/Derby-PU-Mastik_rnsd26.webp",
+      "description": "Derby PU Sealant is a single-component, polyurethane-based sealing material that cures with moisture in the air. It offers excellent heat resistance, functioning effectively between -40°C and +90°C, and can withstand short-term temperature variations up to +120°C. Once cured, this sealant can be painted over, making it versatile for various applications. It is ideal for automotive spare part applications, filling joints in walls and precast concrete, and providing insulation for materials such as metal, aluminum, glass, wood, and plastic. Additionally, it ensures watertight seals in ventilation systems, rainwater collection pipes, and gutters."
+    },
+
+    {
+      "id": 179,
+      "name": "Ceresit CS 51",
+      "url": "ceresit-cs-51",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729457213/ceresit-cs-51_yaecjq.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729457213/ceresit-cs-51_yaecjq.jpg",
+      "description": "Ceresit CS 51 is a waterproof and flexible sealing material suitable for both indoor and outdoor use. Its acrylic-based formulation effectively prevents water and moisture ingress. Ceresit CS 51 features excellent adhesion properties on various surfaces and provides time savings with its quick-drying capabilities. Additionally, it is paintable, allowing for an aesthetic finish after application. This sealant can be confidently used around walls, ceilings, windows, doors, and in humid areas such as bathrooms and kitchens."
+    },
+
+    {
+      "id": 180,
+      "name": "Sista Aquarium Silicone",
+      "url": "sista-akvaryum-silikonu",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729457216/sista-akvaryum-silikonu_shq8ru.webp"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729457216/sista-akvaryum-silikonu_shq8ru.webp",
+      "description": "Sista Aquarium Silicone is a high-quality silicone specifically formulated for aquariums and underwater structures. Its water and moisture resistance ensures effective waterproofing, aiding in the safe construction of aquariums. This silicone can be used for bonding aquarium glass, decorative stones, and other underwater components. With its high elasticity, it offers durability against impacts and temperature fluctuations, providing a long-lasting solution. Sista Aquarium Silicone is an excellent choice for aquarium enthusiasts, helping to maintain water quality."
+    },
+
+    {
+      "id": 181,
+      "name": "Sista Polyurethane Foam",
+      "url": "sista-poliuretan-kopuk",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729457218/sista-poliuretan-kopuk_spxghk.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729457218/sista-poliuretan-kopuk_spxghk.jpg",
+      "description": "Sista Polyurethane Foam is a high-performance, single-component polyurethane mounting foam. It expands and hardens upon contact with air, offering excellent adhesion properties and can be effectively used on various surfaces (concrete, metal, wood, plastic). This product provides water resistance, sound insulation, and thermal insulation capabilities. Its low expansion ratio ensures optimal filling and sealing performance. During use, it cures rapidly, enhancing work efficiency. With a temperature resistance range of -40°C to +80°C, it maintains its effectiveness across a wide temperature spectrum."
+    },
+
+    {
+      "id": 182,
       "name": "Spray Paint",
       "url": "sprey-boya",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729443304/akcali-sprey_vykbn0.jpg"],
@@ -3325,7 +3361,7 @@
     },
 
     {
-      "id": 179,
+      "id": 183,
       "name": "Spray Paint Color Chart",
       "url": "sprey-boya-kartela",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729443303/akcali-sprey-boya-renkleri_clxits.jpg"],
@@ -3334,7 +3370,7 @@
     },
 
     {
-      "id": 180,
+      "id": 184,
       "name": "502 Japanese Adhesive 20 Gr.",
       "url": "502-japon-yapistirici-20-gr",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855961/1_ce78kj.jpg"],
@@ -3343,7 +3379,7 @@
     },
 
     {
-      "id": 181,
+      "id": 185,
       "name": "Derby 602 Japanese Adhesive 20 Gr.",
       "url": "derby-602-japon-yapistirici-20-gr",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855963/2_pusgbc.jpg"],
@@ -3352,7 +3388,7 @@
     },
 
     {
-      "id": 182,
+      "id": 186,
       "name": "Mdf Kit",
       "url": "mdf-kit",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855965/3_blrkl9.jpg"],
@@ -3361,7 +3397,7 @@
     },
 
     {
-      "id": 183,
+      "id": 187,
       "name": "Weicon Adhesive Spray",
       "url": "weicon-yapistirici-sprey",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855967/4_vkzrbo.jpg"],
@@ -3370,7 +3406,7 @@
     },
 
     {
-      "id": 184,
+      "id": 188,
       "name": "Pattex One For All Adhesive",
       "url": "pattex-one-for-all-yapistirici",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/pattex-one-for-all-universal_txboek.jpg"],
@@ -3379,7 +3415,7 @@
     },
 
     {
-      "id": 185,
+      "id": 189,
       "name": "Soudal Fix All",
       "url": "soudal-fix-all",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/suodal-fix-all_voxuzu.jpg"],
@@ -3388,7 +3424,7 @@
     },
 
     {
-      "id": 186,
+      "id": 190,
       "name": "Pattex Power Epoxy Mix",
       "url": "pattex-power-epoxy-mix-karisim",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729375686/pattex-power-epoxy_nwnywk.jpg"],
@@ -3397,7 +3433,7 @@
     },
 
     {
-      "id": 187,
+      "id": 191,
       "name": "Weicon Repair Spray",
       "url": "weicon-tamir-spreyi",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/weicon-tamir-spreyi_zfd8wn.jpg"],
@@ -3406,7 +3442,7 @@
     },
 
     {
-      "id": 188,
+      "id": 192,
       "name": "Derby Contact Tube Adhesive",
       "url": "derby-kontakt-tup-yapistirici",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/derby-kontakt-yapistirici_c1i5xr.webp"],
@@ -3415,7 +3451,7 @@
     },
 
     {
-      "id": 189,
+      "id": 193,
       "name": "Titanium Fasteners",
       "url": "titanyum-baglanti-elemanlari",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728910576/titanyum_oawgj3.jpg"],
@@ -3424,7 +3460,7 @@
     },
 
     {
-      "id": 190,
+      "id": 194,
       "name": "Custom Manufactured Fasteners",
       "url": "ozel-uretim-baglanti-elemanlari",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728910676/ozel-baglanti-elemanlari_ynqevl.jpg"],
@@ -3433,7 +3469,7 @@
     },
 
     {
-      "id": 191,
+      "id": 195,
       "name": "10.9 and 12.9 Fasteners",
       "url": "10-9-ve-12-9-baglanti-elemanlari",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728910932/i_igsepr.webp"],

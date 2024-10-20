@@ -3272,11 +3272,11 @@
 
     {
       "id": 173,
-      "name": "Ceresit Köpük",
-      "url": "ceresit-kopuk",
+      "name": "Ceresit Poliüretan Köpük",
+      "url": "ceresit-poliuretan-kopuk",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855944/1_u0ohza.jpg"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855944/1_u0ohza.jpg",
-      "description": "Ceresit Köpük, yapı ve inşaat sektöründe geniş bir kullanım alanına sahip olan yüksek performanslı bir montaj köpüğüdür. Gelişmiş formülü sayesinde mükemmel yapışma özelliği sunar ve çeşitli malzemelerin birleştirilmesinde etkili bir çözümdür. Suya, ses ve ısıya karşı dirençli olması, enerji verimliliğini artırır ve konforlu bir yaşam alanı sağlar. Ceresit Köpük, hızlı kuruma süresi ile uygulama sonrası beklemeyi en aza indirir ve zorlu hava koşullarına dayanıklıdır. Kolay kullanımı sayesinde hem profesyonel inşaatçılar hem de ev kullanıcıları için ideal bir tercihtir. Çeşitli projelerde güvenle kullanılabilir, montaj, dolgu ve yalıtım işlerinde etkin sonuçlar elde edilmesini sağlar."
+      "description": "Ceresit Poliüretan Köpük, yapı ve inşaat sektöründe geniş bir kullanım alanına sahip olan yüksek performanslı bir montaj köpüğüdür. Gelişmiş formülü sayesinde mükemmel yapışma özelliği sunar ve çeşitli malzemelerin birleştirilmesinde etkili bir çözümdür. Suya, ses ve ısıya karşı dirençli olması, enerji verimliliğini artırır ve konforlu bir yaşam alanı sağlar. Ceresit Köpük, hızlı kuruma süresi ile uygulama sonrası beklemeyi en aza indirir ve zorlu hava koşullarına dayanıklıdır. Kolay kullanımı sayesinde hem profesyonel inşaatçılar hem de ev kullanıcıları için ideal bir tercihtir. Çeşitli projelerde güvenle kullanılabilir, montaj, dolgu ve yalıtım işlerinde etkin sonuçlar elde edilmesini sağlar."
     },
 
     {
@@ -3317,6 +3317,42 @@
 
     {
       "id": 178,
+      "name": "Derby PU Mastik",
+      "url": "derby-pu-mastik",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729457214/Derby-PU-Mastik_rnsd26.webp"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729457214/Derby-PU-Mastik_rnsd26.webp",
+      "description": "Derby PU Mastik, havanın nemiyle kürleşen tek komponentli poliüretan bazlı bir sızdırmazlık malzemesidir. -40°C ile +90°C arasında yüksek ısı dayanımı sunarken, kısa süreli sıcaklık değişimlerine +120°C’ye kadar direnç gösterebilir. Kürlendikten sonra boyanabilen bu mastik, otomotiv sektöründeki yedek parça uygulamaları, duvar ve prefabrik beton derz boşlukları, ayrıca demir, alüminyum, cam, ahşap ve plastik gibi çeşitli malzemelerin montaj ve izolasyonunda etkili bir çözüm sunar. Havalandırma sistemlerinde, çatıların yağmur suyu toplama borularında ve yağmur oluklarında sızdırmazlık sağlamak için de mükemmel bir tercihtir."
+    },
+
+    {
+      "id": 179,
+      "name": "Ceresit CS 51",
+      "url": "ceresit-cs-51",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729457213/ceresit-cs-51_yaecjq.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729457213/ceresit-cs-51_yaecjq.jpg",
+      "description": "Ceresit CS 51, iç ve dış mekanlarda kullanılabilen, suya dayanıklı ve esnek bir sızdırmazlık malzemesidir. Bu ürün, akrilik bazlı formülasyonu sayesinde su ve nem geçişini etkili bir şekilde önler. Ceresit CS 51, çeşitli yüzeylerde mükemmel yapışma özelliklerine sahiptir ve hızlı kuruma süresi ile zaman tasarrufu sağlar. Aynı zamanda, boyanabilir özelliği sayesinde, uygulama sonrası estetik görünüm elde etmek için uygundur. Duvar, tavan, pencere ve kapı kenarlarında, ayrıca banyo ve mutfak gibi nemli alanlarda güvenle kullanılabilir."
+    },
+
+    {
+      "id": 180,
+      "name": "Sista Akvaryum Silikonu",
+      "url": "sista-akvaryum-silikonu",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729457216/sista-akvaryum-silikonu_shq8ru.webp"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729457216/sista-akvaryum-silikonu_shq8ru.webp",
+      "description": "Sista Akvaryum Silikonu, akvaryum ve su altı yapıları için özel olarak formüle edilmiş yüksek kaliteli bir silikondur. Suya ve neme dayanıklılığı sayesinde, su sızdırmazlığı sağlar ve akvaryumların güvenli bir şekilde inşa edilmesine yardımcı olur. Bu silikon, akvaryum camları, dekoratif taşlar ve diğer su altı bileşenlerinin montajında kullanılabilir. Yüksek elastikiyeti, darbe ve sıcaklık değişimlerine karşı dayanıklılık sağlar, böylece uzun ömürlü bir çözüm sunar. Sista Akvaryum Silikonu, akvaryum hobileriyle ilgilenenler için mükemmel bir tercih olup, su kalitesini korumaya yardımcı olur."
+    },
+
+    {
+      "id": 181,
+      "name": "Sista Poliüretan Köpük",
+      "url": "sista-poliuretan-kopuk",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729457218/sista-poliuretan-kopuk_spxghk.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729457218/sista-poliuretan-kopuk_spxghk.jpg",
+      "description": "Sista Poliüretan Köpük, yüksek performanslı, tek bileşenli bir poliüretan montaj köpüğüdür. Hava ile temas ettiğinde genişleyerek sertleşen bu ürün, mükemmel yapışma özelliklerine sahiptir ve çeşitli yüzeylerde (beton, metal, ahşap, plastik) etkili bir şekilde kullanılabilir. Su geçirmezlik, ses yalıtımı ve ısı yalıtımı sağlama kapasitesi ile ön plana çıkar. Çözünürlük oranı düşüktür, bu da optimum dolgu ve sızdırmazlık performansı sunar. Kullanım sırasında, uygulama sonrası hızla kuruyarak iş verimliliğini artırır. -40°C ile +80°C arasında sıcaklık dayanıklılığı ile geniş bir sıcaklık aralığında etkinliğini korur."
+    },
+
+    {
+      "id": 182,
       "name": "Akçalı Sprey Boya",
       "url": "sprey-boya",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729443304/akcali-sprey_vykbn0.jpg"],
@@ -3325,7 +3361,7 @@
     },
 
     {
-      "id": 179,
+      "id": 183,
       "name": "Akçalı Sprey Boya Kartela",
       "url": "sprey-boya-kartela",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729443303/akcali-sprey-boya-renkleri_clxits.jpg"],
@@ -3334,7 +3370,7 @@
     },
 
     {
-      "id": 180,
+      "id": 184,
       "name": "502 Japon Yapıştırıcı 20 Gr.",
       "url": "502-japon-yapistirici-20-gr",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855961/1_ce78kj.jpg"],
@@ -3343,7 +3379,7 @@
     },
 
     {
-      "id": 181,
+      "id": 185,
       "name": "Derby 602 Japon Yapıştırıcı 20 Gr.",
       "url": "derby-602-japon-yapistirici-20-gr",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855963/2_pusgbc.jpg"],
@@ -3352,7 +3388,7 @@
     },
 
     {
-      "id": 182,
+      "id": 186,
       "name": "Mdf Kit",
       "url": "mdf-kit",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855965/3_blrkl9.jpg"],
@@ -3361,7 +3397,7 @@
     },
 
     {
-      "id": 183,
+      "id": 187,
       "name": "Weicon Yapıştırıcı Sprey",
       "url": "weicon-yapistirici-sprey",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855967/4_vkzrbo.jpg"],
@@ -3370,7 +3406,7 @@
     },
 
     {
-      "id": 184,
+      "id": 188,
       "name": "Pattex One For All Yapıştırıcı",
       "url": "pattex-one-for-all-yapistirici",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/pattex-one-for-all-universal_txboek.jpg"],
@@ -3379,7 +3415,7 @@
     },
 
     {
-      "id": 185,
+      "id": 189,
       "name": "Soudal Fix All",
       "url": "soudal-fix-all",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/suodal-fix-all_voxuzu.jpg"],
@@ -3388,7 +3424,7 @@
     },
 
     {
-      "id": 186,
+      "id": 190,
       "name": "Pattex Power Epoxy Mix Karışım",
       "url": "pattex-power-epoxy-mix-karisim",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729375686/pattex-power-epoxy_nwnywk.jpg"],
@@ -3397,7 +3433,7 @@
     },
 
     {
-      "id": 187,
+      "id": 191,
       "name": "Weicon Tamir Spreyi",
       "url": "weicon-tamir-spreyi",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/weicon-tamir-spreyi_zfd8wn.jpg"],
@@ -3406,7 +3442,7 @@
     },
 
     {
-      "id": 188,
+      "id": 192,
       "name": "Derby Kontakt Tüp Yapıştırıcı",
       "url": "derby-kontakt-tup-yapistirici",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/derby-kontakt-yapistirici_c1i5xr.webp"],
@@ -3415,7 +3451,7 @@
     },
 
     {
-      "id": 189,
+      "id": 193,
       "name": "Titanyum Bağlantı Elemanları",
       "url": "titanyum-baglanti-elemanlari",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728910576/titanyum_oawgj3.jpg"],
@@ -3424,7 +3460,7 @@
     },
 
     {
-      "id": 190,
+      "id": 194,
       "name": "Özel Üretim Bağlantı Elemanları",
       "url": "ozel-uretim-baglanti-elemanlari",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728910676/ozel-baglanti-elemanlari_ynqevl.jpg"],
@@ -3433,7 +3469,7 @@
     },
 
     {
-      "id": 191,
+      "id": 195,
       "name": "10.9 ve 12.9 Bağlantı Elemanları",
       "url": "10-9-ve-12-9-baglanti-elemanlari",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728910932/i_igsepr.webp"],
