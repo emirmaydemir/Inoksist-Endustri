@@ -754,6 +754,110 @@
 
     {
       "id": 95,
+      "name": "Pirinç Altıköşe Baş Civata DIN 933",
+      "url": "pirinc-altikose-bas-civata-din-933",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729528307/pirinc-altikose-bas-civata-din-933_zk9vel.jpg",
+      "category": ["pirinc-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 96,
+      "name": "Pirinç HB Vida DIN 963",
+      "url": "pirinc-hb-vida-din-963",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729528307/pirinc-havsa-basli-vida-din-963_w5mzcg.jpg",
+      "category": ["pirinc-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 97,
+      "name": "Pirinç YHB Vida DIN 965",
+      "url": "pirinc-yhb-vida-din-965",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729528307/yhb-vida-din-965_qxwr61.jpg",
+      "category": ["pirinc-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 98,
+      "name": "Pirinç Altıköşe Somun DIN 934",
+      "url": "pirinc-altikose-somun-din-934",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729528307/pirinc-altikose-somun-din-934_i8rkvw.jpg",
+      "category": ["pirinc-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 99,
+      "name": "Pirinç Düz Pul DIN 125",
+      "url": "pirinc-duz-pul-din-125",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729528307/pirinc-duz-pul-din125_ukzrsu.jpg",
+      "category": ["pirinc-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 100,
+      "name": "Pirinç Gijon DIN 976",
+      "url": "pirinc-gijon-din-976",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729528307/pirinc-din-976-gijon_lw53ws.webp",
+      "category": ["pirinc-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 101,
+      "name": "Pirinç Yaylı Rondela DIN 127",
+      "url": "pirinc-yayli-rondela-din-127",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729528306/pirinc-yayli-rondela-din-127_wofbpz.jpg",
+      "category": ["pirinc-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 102,
+      "name": "Pirinç Kör Somun DIN 1587",
+      "url": "pirinc-kor-somun-din-1587",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729528308/pirinc-kor-somun-din-1587_of2dvv.jpg",
+      "category": ["pirinc-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 103,
+      "name": "Pirinç Whitworth Somun ART 934C",
+      "url": "pirinc-whitworth-somun-art-934c",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729528306/whitworth-somun-art-934-c_uwcts4.webp",
+      "category": ["pirinc-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 104,
+      "name": "Pirinç Kelebek Somun DIN 315",
+      "url": "pirinc-kelebek-somun-din-315",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729528307/pirinc-kelebek-somun-din-315_h4rrou.webp",
+      "category": ["pirinc-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 105,
+      "name": "Pirinç Ağaç Vidası DIN 97",
+      "url": "pirinc-agac-vidasi-din-97",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729528306/pirinc-agac-vidasi-din-97_flqqmn.jpg",
+      "category": ["pirinc-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 106,
+      "name": "Pirinç SB DIN 84",
+      "url": "pirinc-sb-din-84",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729528306/pirinc-sb-vida-din-84_dwhbbh.jpg",
+      "category": ["pirinc-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 107,
+      "name": "Pirinç YSB Vida DIN 7985",
+      "url": "pirinc-ysb-vida-din-7985",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729528306/ysb-vida-din-7895_tntxv6.jpg",
+      "category": ["pirinc-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 108,
       "name": "Titanyum Bağlantı Elemanları",
       "url": "titanyum-baglanti-elemanlari",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728910576/titanyum_oawgj3.jpg",
@@ -761,7 +865,7 @@
     },
 
     {
-      "id": 96,
+      "id": 109,
       "name": "Özel Üretim Bağlantı Elemanları",
       "url": "ozel-uretim-baglanti-elemanlari",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728910676/ozel-baglanti-elemanlari_ynqevl.jpg",
@@ -769,7 +873,7 @@
     },
 
     {
-      "id": 97,
+      "id": 110,
       "name": "10.9 ve 12.9 Bağlantı Elemanları",
       "url": "10-9-ve-12-9-baglanti-elemanlari",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728910932/i_igsepr.webp",

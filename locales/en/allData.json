@@ -2570,6 +2570,364 @@
 
     {
       "id": 95,
+      "name": "Brass Hexagon Head Bolt DIN 933",
+      "url": "pirinc-altikose-bas-civata-din-933",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729528307/pirinc-altikose-bas-civata-din-933_zk9vel.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729528307/pirinc-altikose-bas-civata-din-933_zk9vel.jpg",
+      "description": "Brass Hexagon Head Bolt DIN 933 is a fastener manufactured to DIN 933 specifications, featuring a hexagonal head designed for use with a wrench or socket. Made from high-quality brass, this bolt offers excellent corrosion resistance, making it suitable for applications in humid or marine environments. Brass provides non-magnetic properties and good electrical conductivity, making it a preferred choice in electrical and decorative applications. The full-threaded shaft allows for secure fastening and versatility across various industrial, mechanical, and construction uses. Its durability and aesthetic appeal make it ideal for both functional and visible installations.",
+      "specifications": [
+        {
+          "headers": ["Boy / (mm)", "M6", "M8", "M10", "M12", "M14", "M16"],
+          "data": [
+            ["12", "9,90", "", "", "", "", ""],
+            ["16", "9,90", "21,89", "35,20", "54,28", "", ""],
+            ["20", "10,23", "22,72", "35,20", "54,28", "", ""],
+            ["25", "12,43", "24,97", "39,60", "59,40", "", ""],
+            ["30", "15,40", "27,88", "44,71", "63,80", "161,31", "173,08"],
+            ["35", "17,21", "30,80", "49,50", "68,97", "168,68", "185,57"],
+            ["40", "19,80", "33,72", "54,28", "77,00", "174,52", "198,00"],
+            ["45", "23,76", "37,84", "60,22", "81,78", "", ""],
+            ["50", "24,97", "39,60", "64,52", "84,32", "209,00", "245,68"],
+            ["60", "30,08", "45,43", "77,00", "94,60", "249,32", "296,28"],
+            ["70", "34,48", "54,28", "86,52", "106,31", "308,00", "344,63"],
+            ["80", "39,60", "57,92", "94,60", "118,80", "344,68", "396,00"]
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 96,
+      "name": "Brass Countersunk Head Screw DIN 963",
+      "url": "pirinc-hb-vida-din-963",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729528307/pirinc-havsa-basli-vida-din-963_w5mzcg.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729528307/pirinc-havsa-basli-vida-din-963_w5mzcg.jpg",
+      "description": "Brass Countersunk Head Screw DIN 963 is a fastener with a countersunk head and metric threading, made from brass material. It is manufactured according to DIN 963 standards. The countersunk head design allows the screw to sit flush with the surface, ensuring a smooth finish with no protrusion. The brass material provides high corrosion resistance, making it ideal for both decorative and precision fastening applications. These screws are commonly used in areas with lower load requirements, such as electronics, furniture, and fine mechanical assemblies.",
+      "specifications": [
+        {
+          "headers": ["Boy / (mm)", "M3", "M4", "M5", "M6", "M8", "M10", "M12"],
+          "data": [
+            ["8", "3,90", "4,07", "", "", "", "", ""],
+            ["10", "4,07", "4,23", "6,21", "8,25", "", "", ""],
+            ["12", "4,21", "4,29", "5,50", "8,52", "", "", ""],
+            ["16", "4,40", "4,40", "5,72", "8,80", "15,62", "40,70", ""],
+            ["20", "4,67", "4,62", "6,87", "10,12", "17,38", "41,25", "61,87"],
+            ["25", "6,38", "4,78", "7,42", "10,50", "18,15", "43,34", "68,75"],
+            ["30", "7,20", "6,87", "7,86", "11,00", "19,69", "45,37", "73,26"],
+            ["35", "", "7,59", "8,80", "12,65", "22,00", "52,08", "77,93"],
+            ["40", "", "7,32", "10,12", "14,02", "26,62", "54,78", "82,50"],
+            ["45", "", "", "", "16,11", "29,86", "59,51", "93,33"],
+            ["50", "", "", "12,10", "17,05", "28,75", "61,87", "96,25"],
+            ["60", "", "", "14,63", "20,13", "31,62", "72,38", "110,00"],
+            ["70", "", "", "", "36,19", "45,37", "76,12", "123,75"],
+            ["80", "", "", "", "40,70", "57,75", "88,00", "137,50"],
+            ["100", "", "", "", "", "68,25", "96,25", "174,18"]
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 97,
+      "name": "Brass Phillips Countersunk Head Screw DIN 965",
+      "url": "pirinc-yhb-vida-din-965",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729528307/yhb-vida-din-965_qxwr61.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729528307/yhb-vida-din-965_qxwr61.jpg",
+      "description": "Brass Phillips Countersunk Head Screw DIN 965 is a fastener with a countersunk head that can be fully embedded into the surface, featuring a Phillips drive slot. It is manufactured according to DIN 965 standards. Its countersunk design allows for a flush surface finish when installed. Made from brass, the screw offers excellent corrosion resistance and low magnetic properties. These screws are commonly used in applications where electrical conductivity is important and in environments exposed to moisture. They provide high strength and aesthetic appeal, making them ideal for decorative purposes and precise mechanical assemblies.",
+      "specifications": [
+        {
+          "headers": ["Boy / (mm)", "M3", "M4", "M5", "M6", "M8", "M10", "M12"],
+          "data": [
+            ["8", "3,90", "4,07", "", "", "", "", ""],
+            ["10", "4,07", "4,23", "6,21", "8,25", "", "", ""],
+            ["12", "4,21", "4,29", "5,50", "8,52", "", "", ""],
+            ["16", "4,40", "4,40", "5,72", "8,80", "15,62", "40,70", ""],
+            ["20", "4,67", "4,62", "6,87", "10,12", "17,38", "41,25", "61,87"],
+            ["25", "6,38", "4,78", "7,42", "10,50", "18,15", "43,34", "68,75"],
+            ["30", "7,20", "6,87", "7,86", "11,00", "19,69", "45,37", "73,26"],
+            ["35", "", "7,59", "8,80", "12,65", "22,00", "52,08", "77,93"],
+            ["40", "", "7,32", "10,12", "14,02", "26,62", "54,78", "82,50"],
+            ["45", "", "", "", "16,11", "29,86", "59,51", "93,33"],
+            ["50", "", "", "12,10", "17,05", "28,75", "61,87", "96,25"],
+            ["60", "", "", "14,63", "20,13", "31,62", "72,38", "110,00"],
+            ["70", "", "", "", "36,19", "45,37", "76,12", "123,75"],
+            ["80", "", "", "", "40,70", "57,75", "88,00", "137,50"],
+            ["100", "", "", "", "", "68,25", "96,25", "174,18"]
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 98,
+      "name": "Brass Hex Nut DIN 934",
+      "url": "pirinc-altikose-somun-din-934",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729528307/pirinc-altikose-somun-din-934_i8rkvw.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729528307/pirinc-altikose-somun-din-934_i8rkvw.jpg",
+      "description": "Brass Hex Nut DIN 934 is a hexagonal-shaped fastener manufactured according to DIN 934 standards. Made from high-quality brass, it offers excellent corrosion resistance, making it suitable for long-term use in challenging environments such as humid or marine conditions. The non-magnetic properties of brass and its electrical conductivity make it ideal for electrical connections and decorative applications. Typically used in conjunction with brass bolts, it forms a secure and reliable connection. Its durability and aesthetic appeal make it a preferred choice in industrial and mechanical assemblies.",
+      "specifications": [
+        {
+          "headers": ["Boy / (mm)", "Hex Nut DIN 934"],
+          "data": [
+            ["M3", "3,40"],
+            ["M4", "3,40"],
+            ["M5", "3,80"],
+            ["M6", "4,60"],
+            ["M8", "9,00"],
+            ["M10", "18,60"],
+            ["M12", "25,40"],
+            ["M14", "49,00"],
+            ["M16", "55,40"],
+            ["M18", "112,00"],
+            ["M20", "118,00"],
+            ["M22", "216,00"],
+            ["M24", "264,00"],
+            ["M27", "336,00"],
+            ["M30", "435,00"]
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 99,
+      "name": "Brass Flat Washer DIN 125",
+      "url": "pirinc-duz-pul-din-125",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729528307/pirinc-duz-pul-din125_ukzrsu.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729528307/pirinc-duz-pul-din125_ukzrsu.jpg",
+      "description": "Brass Flat Washer DIN 125 is a fastener featuring a flat surface and is made from high-quality brass. It offers excellent corrosion resistance, making it suitable for use in humid and challenging environments. The flat washer increases the surface area between the nut and bolt, ensuring a more secure and balanced tightening of the fasteners. It also helps protect underlying parts from surface damage. The non-magnetic properties and good electrical conductivity of brass make this washer suitable for electrical applications and decorative assemblies. It is commonly preferred in industrial and mechanical applications.",
+      "specifications": [
+        {
+          "headers": ["Boy / (mm)", "Flat Washer DIN 125"],
+          "data": [
+            ["M3", "2,80"],
+            ["M4", "3,00"],
+            ["M5", "3,60"],
+            ["M6", "3,80"],
+            ["M8", "5,80"],
+            ["M10", "9,40"],
+            ["M12", "14,10"],
+            ["M14", "26,00"],
+            ["M16", "31,00"],
+            ["M18", "49,50"],
+            ["M20", "57,00"],
+            ["M22", "105,75"],
+            ["M24", "122,70"],
+            ["M27", "180,00"],
+            ["M30", "210,00"]
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 100,
+      "name": "Brass Stud DIN 976",
+      "url": "pirinc-gijon-din-976",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729528307/pirinc-din-976-gijon_lw53ws.webp"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729528307/pirinc-din-976-gijon_lw53ws.webp",
+      "description": "Brass Stud DIN 976 is a fastener made from high-quality brass, designed for use in bolt and nut systems. This gijon features a specialized design that allows for secure fastening of a bolt while providing a seal. Its corrosion-resistant properties ensure long-lasting performance in humid and challenging environments. The brass material is lightweight and offers good electrical conductivity, making it suitable for various industrial applications. These types of fasteners are commonly used in fields such as automotive, construction, and machinery assembly, providing a reliable solution.",
+      "specifications": [
+        {
+          "headers": ["Boy / (mm)", "Stud DIN 976"],
+          "data": [
+            ["M3", "320,00"],
+            ["M4", "320,00"],
+            ["M5", "360,00"],
+            ["M6", "420,00"],
+            ["M8", "640,00"],
+            ["M10", "840,00"],
+            ["M12", "1.060,00"],
+            ["M14", "1.440,00"],
+            ["M16", "1.860,00"],
+            ["M18", "2.280,00"],
+            ["M20", "2.880,00"],
+            ["M22", "3.110,00"],
+            ["M24", "3.617,00"],
+            ["M27", "4.632,00"],
+            ["M30", "5.263,00"]
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 101,
+      "name": "Brass Spring Washer DIN 127",
+      "url": "pirinc-yayli-rondela-din-127",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729528306/pirinc-yayli-rondela-din-127_wofbpz.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729528306/pirinc-yayli-rondela-din-127_wofbpz.jpg",
+      "description": "Brass Spring Washer DIN 127 is a fastener used to provide sealing and tension in connections. Its spring design prevents loosening over time, offering a reliable grip even under vibration and dynamic load conditions. With corrosion resistance, it is suitable for use in humid and harsh environments. The brass spring washer enhances the contact surface between the nut and bolt, ensuring a more balanced compression. Additionally, its electrical conductivity makes it a preferred choice in electronic applications. It is commonly used in automotive, construction, and industrial applications.",
+      "specifications": [
+        {
+          "headers": ["Boy / (mm)", "Spring Washer DIN 127"],
+          "data": [
+            ["M3", "3,64"],
+            ["M4", "3,90"],
+            ["M5", "4,68"],
+            ["M6", "4,94"],
+            ["M8", "7,54"],
+            ["M10", "12,22"],
+            ["M12", "18,33"],
+            ["M14", "33,80"],
+            ["M16", "40,30"],
+            ["M18", "64,35"],
+            ["M20", "74,10"],
+            ["M22", ""],
+            ["M24", ""],
+            ["M27", ""],
+            ["M30", ""]
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 102,
+      "name": "Brass Cap Nut DIN 1587",
+      "url": "pirinc-kor-somun-din-1587",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729528308/pirinc-kor-somun-din-1587_of2dvv.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729528308/pirinc-kor-somun-din-1587_of2dvv.jpg",
+      "description": "Brass Cap Nut DIN 1587 is a fastener designed to conceal the heads of bolts or screws, providing an aesthetically pleasing appearance. Its closed design makes it ideal for use in architectural projects and decorative applications. With high corrosion resistance, it can be reliably used in humid environments. Made from brass, it offers good electrical conductivity and can be utilized in various industrial applications. These nuts not only serve a functional purpose but also enhance the visual appeal of the assembled components.",
+      "specifications": [
+        {
+          "headers": ["Boy / (mm)", "Cap Nut DIN 1587"],
+          "data": [
+            ["M3", "5,30"],
+            ["M4", "6,25"],
+            ["M5", "9,36"],
+            ["M6", "13,20"],
+            ["M8", "23,76"],
+            ["M10", "45,60"],
+            ["M12", "68,40"],
+            ["M14", "115,20"],
+            ["M16", "139,20"],
+            ["M18", "228,00"],
+            ["M20", "264,00"],
+            ["M22", ""],
+            ["M24", ""],
+            ["M27", ""],
+            ["M30", ""]
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 103,
+      "name": "Brass Whitworth Nut ART 934C",
+      "url": "pirinc-whitworth-somun-art-934c",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729528306/whitworth-somun-art-934-c_uwcts4.webp"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729528306/whitworth-somun-art-934-c_uwcts4.webp",
+      "description": "Brass Whitworth Nut ART 934C is a fastener manufactured to conform to the Whitworth thread profile. Designed for robust connections, this nut is commonly used in applications requiring high durability and corrosion resistance. The brass material offers lightweight properties and excellent electrical conductivity, making it suitable for various industrial uses. It is widely utilized in the automotive, construction, and machinery sectors. Whitworth nuts provide a secure assembly when paired with bolts and screws while also offering an aesthetically pleasing appearance.",
+      "specifications": [
+        {
+          "headers": ["Boy / (mm)"],
+          "data": [["1 / 8"], ["5 / 32"], ["3 / 16"], ["1 / 4"], ["5 / 16"], ["3 / 8"], ["1 / 2"], ["5 / 8"], ["3 / 4"]]
+        }
+      ]
+    },
+
+    {
+      "id": 104,
+      "name": "Brass Wing Nut DIN 315",
+      "url": "pirinc-kelebek-somun-din-315",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729528307/pirinc-kelebek-somun-din-315_h4rrou.webp"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729528307/pirinc-kelebek-somun-din-315_h4rrou.webp",
+      "description": "Brass Wing Nut DIN 315 is a fastener designed with a wing shape that allows for easy hand tightening and loosening without the need for tools. Its design provides a quick and practical mounting solution, making it ideal for applications where frequent adjustments are required. The brass material offers excellent corrosion resistance and durability, while also providing an aesthetically pleasing appearance. This wing nut is commonly used in automotive, machinery, and various industrial applications. Additionally, it is favored in decorative projects for its combination of functionality and visual appeal.",
+      "specifications": [
+        {
+          "headers": ["Boy / (mm)"],
+          "data": [["M4"], ["M5"], ["M6"], ["M8"], ["M10"], ["M12"], ["M14"], ["M16"], ["1/4"], ["5/16"], ["3/8"]]
+        }
+      ]
+    },
+
+    {
+      "id": 105,
+      "name": "Brass Wood Screw DIN 97",
+      "url": "pirinc-agac-vidasi-din-97",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729528306/pirinc-agac-vidasi-din-97_flqqmn.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729528306/pirinc-agac-vidasi-din-97_flqqmn.jpg",
+      "description": "Brass Wood Screw DIN 97 is a specialized fastener designed for securely joining wooden materials. Its round head structure ensures a snug fit against wood surfaces, providing both strength and an aesthetically pleasing appearance. Made from brass, it offers excellent corrosion resistance and durability, resulting in long-lasting connections. This wood screw is commonly used in furniture manufacturing, wooden structures, and various woodworking projects. It allows for effective assembly without damaging the natural structure of the wood, ensuring a strong and reliable connection.",
+      "specifications": [
+        {
+          "headers": ["Boy / (mm)", "(3mm) 18", "(3.5mm) 19", "(4mm) 20", "(4.5mm) 21", "(5mm) 22", "(6mm) 23"],
+          "data": [
+            ["16", "4,29", "5,50", "6,32", "", "", ""],
+            ["20", "4,51", "5,66", "6,71", "8,80", "9,13", ""],
+            ["25", "4,78", "5,88", "7,15", "9,24", "10,12", "12,48"],
+            ["30", "5,99", "6,60", "7,97", "10,28", "12,87", "14,68"],
+            ["35", "", "7,70", "8,25", "11,77", "13,58", "16,88"],
+            ["40", "", "8,41", "10,12", "13,20", "15,07", "19,25"],
+            ["50", "", "", "11,93", "16,11", "19,25", "22,71"],
+            ["60", "", "", "15,62", "19,25", "22,44", "26,56"],
+            ["70", "", "", "", "", "27,50", "32,12"],
+            ["80", "", "", "", "", "31,18", "38,50"],
+            ["100", "", "", "", "", "36,68", "45,37"]
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 106,
+      "name": "Brass Cylinder Head Screw DIN 84",
+      "url": "pirinc-sb-din-84",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729528306/pirinc-sb-vida-din-84_dwhbbh.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729528306/pirinc-sb-vida-din-84_dwhbbh.jpg",
+      "description": "Brass Cylinder Head Screw DIN 84 is a fastener made from high-quality brass, featuring a cylindrical head design. Its cross-recessed slot allows for easy tightening and loosening with a screwdriver. The brass material provides corrosion resistance, while manufacturing in accordance with DIN 84 standards ensures a reliable connection. This screw is commonly used in electrical equipment, furniture assembly, and various light assembly applications. Its functionality and aesthetic appeal make it a preferred choice for a wide range of uses.",
+      "specifications": [
+        {
+          "headers": ["Boy / (mm)", "M3", "M4", "M5", "M6"],
+          "data": [
+            ["6", "4,07", "4,67", "6,54", ""],
+            ["8", "4,23", "4,89", "7,09", "9,02"],
+            ["10", "4,62", "5,11", "7,15", "8,80"],
+            ["12", "5,06", "5,50", "7,31", "9,02"],
+            ["16", "5,28", "5,66", "7,42", "9,18"],
+            ["20", "5,61", "5,88", "7,64", "9,57"],
+            ["25", "6,38", "6,98", "8,08", "11,93"],
+            ["30", "7,26", "8,08", "8,52", "12,76"],
+            ["35", "", "8,80", "10,12", "13,75"],
+            ["40", "", "9,07", "11,00", "15,12"],
+            ["50", "", "13,20", "13,75", "18,15"],
+            ["60", "", "17,43", "16,50", "21,12"]
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 107,
+      "name": "Brass Star Cylinder Head Screw DIN 7985",
+      "url": "pirinc-ysb-vida-din-7985",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729528306/ysb-vida-din-7895_tntxv6.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729528306/ysb-vida-din-7895_tntxv6.jpg",
+      "description": "Brass Star Cylinder Head Screw DIN 7985 features a star (Torx) head design that provides superior grip and torque transmission, reducing the risk of slipping during tightening. The brass material offers resistance to corrosion, ensuring long-lasting use. Manufactured in accordance with DIN 7985 standards, it guarantees a reliable connection. This screw is commonly used in electronic devices, automotive components, and light assembly applications. Its aesthetic appearance and functionality make it ideal for various applications.",
+      "specifications": [
+        {
+          "headers": ["Boy / (mm)", "M3", "M4", "M5", "M6"],
+          "data": [
+            ["6", "4,07", "4,67", "6,54", ""],
+            ["8", "4,23", "4,89", "7,09", "9,02"],
+            ["10", "4,62", "5,11", "7,15", "8,80"],
+            ["12", "5,06", "5,50", "7,31", "9,02"],
+            ["16", "5,28", "5,66", "7,42", "9,18"],
+            ["20", "5,61", "5,88", "7,64", "9,57"],
+            ["25", "6,38", "6,98", "8,08", "11,93"],
+            ["30", "7,26", "8,08", "8,52", "12,76"],
+            ["35", "", "8,80", "10,12", "13,75"],
+            ["40", "", "9,07", "11,00", "15,12"],
+            ["50", "", "13,20", "13,75", "18,15"],
+            ["60", "", "17,43", "16,50", "21,12"]
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 108,
       "name": "Prismatic Modular Stainless Steel and Galvanized Water Tanks",
       "url": "prizmatik-paslanmaz-ve-galvaniz-su-depolari",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728851246/1_uaid8e.jpg"],
@@ -2578,7 +2936,7 @@
     },
 
     {
-      "id": 96,
+      "id": 109,
       "name": "Prismatic Modular GRP Water Tanks",
       "url": "prizmatik-grp-su-depolari",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728851245/2_vnbxcw.jpg"],
@@ -2587,7 +2945,7 @@
     },
 
     {
-      "id": 97,
+      "id": 110,
       "name": "Cylindrical Welded Stainless Steel Water Tanks",
       "url": "silindirik-kaynakli-paslanmaz-su-depolari",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728851246/3_exv6va.jpg"],
@@ -2596,7 +2954,7 @@
     },
 
     {
-      "id": 98,
+      "id": 111,
       "name": "Prismatic Modular Special Coated Water Tanks",
       "url": "prizmatik-moduler-ozel-kaplamali-su-depolari",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728851247/4_pt6gkj.jpg"],
@@ -2605,7 +2963,7 @@
     },
 
     {
-      "id": 99,
+      "id": 112,
       "name": "Mold Release Spray (With Silicone / Without Silicone)",
       "url": "kalip-ayirici-sprey",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1726932479/1_qi56ao.jpg"],
@@ -2614,7 +2972,7 @@
     },
 
     {
-      "id": 100,
+      "id": 113,
       "name": "Brake Pad Industrial Cleaner",
       "url": "fren-balata-endustriyel-temizleyici",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1726932479/2_lvp8ms.jpg"],
@@ -2623,7 +2981,7 @@
     },
 
     {
-      "id": 101,
+      "id": 114,
       "name": "Liquid Grease",
       "url": "sivi-gres",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1726932479/3_vhbljl.jpg"],
@@ -2632,7 +2990,7 @@
     },
 
     {
-      "id": 102,
+      "id": 115,
       "name": "Gas Welding Spray (Without Silicone)",
       "url": "gazalti-kaynak-spreyi-silikonsuz",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1726932480/4_nfdvrl.jpg"],
@@ -2641,7 +2999,7 @@
     },
 
     {
-      "id": 103,
+      "id": 116,
       "name": "Rust Remover",
       "url": "pas-sokucu",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1726932481/5_b2vjxx.jpg"],
@@ -2650,7 +3008,7 @@
     },
 
     {
-      "id": 104,
+      "id": 117,
       "name": "W 44 T® Multi Spray",
       "url": "w-44-t-multi-sprey",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1726932481/6_p01cib.jpg"],
@@ -2659,7 +3017,7 @@
     },
 
     {
-      "id": 105,
+      "id": 118,
       "name": "Aluminum Spray A-400 - Glossy",
       "url": "aluminyum-sprey-a-400",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1726932483/8_xgtc5f.jpg"],
@@ -2668,7 +3026,7 @@
     },
 
     {
-      "id": 106,
+      "id": 119,
       "name": "Stainless Steel Spray - Special Clear",
       "url": "paslanmaz-celik-sprey",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729429454/paslanmaz-celik-sprey_sia2qd.jpg"],
@@ -2677,7 +3035,7 @@
     },
 
     {
-      "id": 107,
+      "id": 120,
       "name": "Metal Fluid",
       "url": "metal-fluid",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729430272/metal-fluid_nmabtj.png"],
@@ -2686,7 +3044,7 @@
     },
 
     {
-      "id": 108,
+      "id": 121,
       "name": "Zinc Spray",
       "url": "cinko-sprey",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1726932485/10_nngoyv.jpg"],
@@ -2695,7 +3053,7 @@
     },
 
     {
-      "id": 109,
+      "id": 122,
       "name": "Chelox Drilling, Cutting and Guiding Gel",
       "url": "chelox-delme-kesme-ve-kilavuz-jeli",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729419463/i_jguynx.webp"],
@@ -2704,7 +3062,7 @@
     },
 
     {
-      "id": 110,
+      "id": 123,
       "name": "Weicon Drilling and Cutting Spray",
       "url": "weicon-delme-kesme-spreyi",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855837/2_fkdawq.jpg"],
@@ -2713,7 +3071,7 @@
     },
 
     {
-      "id": 111,
+      "id": 124,
       "name": "Winkel Wincut Drilling, Cutting and Guide Pulling Oil",
       "url": "winkel-wincut-delme-kesme-kilavuz-cekme-yagi",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729418710/winkel-wincut_jy20g4.jpg"],
@@ -2722,7 +3080,7 @@
     },
 
     {
-      "id": 112,
+      "id": 125,
       "name": "Weicon Bio-Cut",
       "url": "weicon-bio-cut",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729418711/bio-cut_ndlsde.jpg"],
@@ -2731,7 +3089,7 @@
     },
 
     {
-      "id": 113,
+      "id": 126,
       "name": "Safety Shoes",
       "url": "is-guvenlik-ayakkabisi",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855853/1_odyg4j.jpg"],
@@ -2740,7 +3098,7 @@
     },
 
     {
-      "id": 114,
+      "id": 127,
       "name": "Protective Glasses",
       "url": "koruyucu-gozluk",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855851/2_wqygea.jpg"],
@@ -2749,7 +3107,7 @@
     },
 
     {
-      "id": 115,
+      "id": 128,
       "name": "Protective Mask",
       "url": "koruyucu-maske",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855852/3_robq9s.jpg"],
@@ -2758,7 +3116,7 @@
     },
 
     {
-      "id": 116,
+      "id": 129,
       "name": "Nitrile Gloves",
       "url": "nitril-eldiven",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855855/4_q5cofu.jpg"],
@@ -2767,7 +3125,7 @@
     },
 
     {
-      "id": 117,
+      "id": 130,
       "name": "Nitrile Examination Gloves",
       "url": "nitril-muayene-eldiveni",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855856/5_jiarg4.jpg"],
@@ -2776,7 +3134,7 @@
     },
 
     {
-      "id": 118,
+      "id": 131,
       "name": "Welding Goggles",
       "url": "kaynak-gozlugu",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855857/6_znwj2c.jpg"],
@@ -2785,7 +3143,7 @@
     },
 
     {
-      "id": 119,
+      "id": 132,
       "name": "Safety Helmet",
       "url": "baret",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729426096/baret_b7yz1g.webp"],
@@ -2794,7 +3152,7 @@
     },
 
     {
-      "id": 120,
+      "id": 133,
       "name": "Aluminum Welding Wire",
       "url": "aluminyum-kaynak-teli",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855872/1_tcajrf.jpg"],
@@ -2803,7 +3161,7 @@
     },
 
     {
-      "id": 121,
+      "id": 134,
       "name": "Gas Welding Spray",
       "url": "gazalti-kaynak-spreyi",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855873/2_kclruo.jpg"],
@@ -2812,7 +3170,7 @@
     },
 
     {
-      "id": 122,
+      "id": 135,
       "name": "Gas Welding Wire",
       "url": "gazalti-kaynak-teli",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855875/3_lzliq8.jpg"],
@@ -2821,7 +3179,7 @@
     },
 
     {
-      "id": 123,
+      "id": 136,
       "name": "Welding Gloves",
       "url": "kaynak-eldiveni",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855876/4_jfb77v.jpg"],
@@ -2830,7 +3188,7 @@
     },
 
     {
-      "id": 124,
+      "id": 137,
       "name": "Stainless Steel Electrode",
       "url": "paslanmaz-elektrod",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855877/5_obtsn7.jpg"],
@@ -2839,7 +3197,7 @@
     },
 
     {
-      "id": 125,
+      "id": 138,
       "name": "Stainless Steel Welding Wire",
       "url": "paslanmaz-kaynak-teli",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729427644/paslanmaz-kaynak-teli_h0zlqw.jpg"],
@@ -2848,7 +3206,7 @@
     },
 
     {
-      "id": 126,
+      "id": 139,
       "name": "Rutile Electrode",
       "url": "rutil-elektrod",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855880/7_f4u5nk.jpg"],
@@ -2857,7 +3215,7 @@
     },
 
     {
-      "id": 127,
+      "id": 140,
       "name": "Welding Helmet",
       "url": "kaynak-maskesi",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729435829/kaynak-maskesi_p7pmhj.jpg"],
@@ -2866,7 +3224,7 @@
     },
 
     {
-      "id": 128,
+      "id": 141,
       "name": "Welding Helmet Lens",
       "url": "kaynak-maskesi-cami",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729435822/kaynak-maskesi-cami_ko5nfm.jpg"],
@@ -2875,7 +3233,7 @@
     },
 
     {
-      "id": 129,
+      "id": 142,
       "name": "Welding Pliers",
       "url": "kaynak-pensesi",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729435824/kaynak-pensesi_sbu33q.jpg"],
@@ -2884,7 +3242,7 @@
     },
 
     {
-      "id": 130,
+      "id": 143,
       "name": "Welding Torches",
       "url": "kaynak-torclari",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729435825/kaynak-torc_z0bmit.jpg"],
@@ -2893,7 +3251,7 @@
     },
 
     {
-      "id": 131,
+      "id": 144,
       "name": "Contact Nozzle",
       "url": "kontak-meme",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729435827/kontak-meme_cyhpox.jpg"],
@@ -2902,7 +3260,7 @@
     },
 
     {
-      "id": 132,
+      "id": 145,
       "name": "Welding Nozzles",
       "url": "kaynak-nozullari",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729435823/kaynak-nozul_mgiexl.jpg"],
@@ -2911,7 +3269,7 @@
     },
 
     {
-      "id": 133,
+      "id": 146,
       "name": "Welding Pastes",
       "url": "kaynak-pastalari",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729435828/kaynak-pastasi_ogwphp.webp"],
@@ -2920,7 +3278,7 @@
     },
 
     {
-      "id": 134,
+      "id": 147,
       "name": "Metal Cutting Discs",
       "url": "metal-kesme-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946300/Metal_Kesme_Diskleri_cnwyix.png"],
@@ -2929,7 +3287,7 @@
     },
 
     {
-      "id": 135,
+      "id": 148,
       "name": "Industrial Metal Cutting Discs",
       "url": "endustriyel-metal-kesme-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946300/Endustriyel_Metal_Kesme_Diskleri_osnk56.png"],
@@ -2938,7 +3296,7 @@
     },
 
     {
-      "id": 136,
+      "id": 149,
       "name": "Inox Cutting Discs",
       "url": "inox-kesme-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946301/Inox_Kesme_Diskleri_tbydvg.png"],
@@ -2947,7 +3305,7 @@
     },
 
     {
-      "id": 137,
+      "id": 150,
       "name": "Cut & Cut Inox Cutting Discs",
       "url": "cut-inox-kesme-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946295/Cut_Cut_Inox_Kesme_Diskleri_daxrrr.jpg"],
@@ -2956,7 +3314,7 @@
     },
 
     {
-      "id": 138,
+      "id": 151,
       "name": "Casting Cutting Discs",
       "url": "dokum-kesme-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946298/Dokum_Kesme_Diskleri_pvjpmb.png"],
@@ -2965,7 +3323,7 @@
     },
 
     {
-      "id": 139,
+      "id": 152,
       "name": "Marble Cutting Discs",
       "url": "mermer-kesme-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946298/Mermer_Kesme_Diskleri_hubrn4.png"],
@@ -2974,7 +3332,7 @@
     },
 
     {
-      "id": 140,
+      "id": 153,
       "name": "Aluminum Cutting Discs",
       "url": "aluminyum-kesme-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946298/Aluminyum_Kesme_Diskleri_hvncag.png"],
@@ -2983,7 +3341,7 @@
     },
 
     {
-      "id": 141,
+      "id": 154,
       "name": "ZA Casting Cutting Discs",
       "url": "za-dokum-kesme-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946301/ZA_Dokum_Kesme_Diskleri_vzkovb.png"],
@@ -2992,7 +3350,7 @@
     },
 
     {
-      "id": 142,
+      "id": 155,
       "name": "AC Casting Cutting Discs",
       "url": "ac-dokum-kesme-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946296/AC_Dokum_Kesme_Diskleri_gbdjrk.png"],
@@ -3001,7 +3359,7 @@
     },
 
     {
-      "id": 143,
+      "id": 156,
       "name": "Metal Cutting Fixed Table Discs",
       "url": "metal-kesme-sabit-tezgah-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946300/Metal_Kesme_Sabit_Kesme_Tezgah_Diskleri_xqygeb.png"],
@@ -3010,7 +3368,7 @@
     },
 
     {
-      "id": 144,
+      "id": 157,
       "name": "Casting Cutting Fixed Table Discs",
       "url": "dokum-kesme-sabit-tezgah-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946298/Dokum_Kesme_Sabit_Tezgah_Diskleri_dvexeu.png"],
@@ -3019,7 +3377,7 @@
     },
 
     {
-      "id": 145,
+      "id": 158,
       "name": "Rail Cutting Discs",
       "url": "ray-kesme-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946303/Ray_Kesme_Diskleri_uv6o3e.png"],
@@ -3028,7 +3386,7 @@
     },
 
     {
-      "id": 146,
+      "id": 159,
       "name": "Metal Deburring Discs",
       "url": "metal-capak-alma-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946644/Metal_Capak_Alma_Diskleri_ifginm.png"],
@@ -3037,7 +3395,7 @@
     },
 
     {
-      "id": 147,
+      "id": 160,
       "name": "Metal Plus Deburring Discs",
       "url": "metal-plus-capak-alma-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946643/Metal_Plus_Capak_Alma_Diskleri_xtruz0.png"],
@@ -3046,7 +3404,7 @@
     },
 
     {
-      "id": 148,
+      "id": 161,
       "name": "Inox Deburring Discs",
       "url": "inox-capak-alma-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946644/Inox_Capak_Alma_Diskleri_ms0jea.png"],
@@ -3055,7 +3413,7 @@
     },
 
     {
-      "id": 149,
+      "id": 162,
       "name": "Cast Deburring Discs",
       "url": "dokum-capak-alma-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946642/Dokum_Capak_Alma_Diskleri_fvxahf.png"],
@@ -3064,7 +3422,7 @@
     },
 
     {
-      "id": 150,
+      "id": 163,
       "name": "ZA Plus Deburring Discs",
       "url": "za-plus-capak-alma-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946644/ZA_Plus_Capak_Alma_Diskleri_wi2iua.png"],
@@ -3073,7 +3431,7 @@
     },
 
     {
-      "id": 151,
+      "id": 164,
       "name": "Aluminum Deburring Discs",
       "url": "aluminyum-capak-alma-diskleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946642/Aluminyum_Capak_Alma_Diskleri_i46mqh.png"],
@@ -3082,7 +3440,7 @@
     },
 
     {
-      "id": 152,
+      "id": 165,
       "name": "Comfort Line ZR SD Flap Discs",
       "url": "comfort-line-zr-sd-flap-diskler",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728944155/Comfort_Line_ZR_SD_Flap_Diskler_z4d121.png"],
@@ -3091,7 +3449,7 @@
     },
 
     {
-      "id": 153,
+      "id": 166,
       "name": "Comfort Line ZR HD Flap Discs",
       "url": "comfort-line-zr-hd-flap-diskler",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728944152/Comfort_Line_ZR_HD_Flap_Diskler_wooyjn.png"],
@@ -3100,7 +3458,7 @@
     },
 
     {
-      "id": 154,
+      "id": 167,
       "name": "Premium Line AO SD Flap Discs",
       "url": "premium-line-ao-sd-flap-diskler",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728944157/Premium_Line_AO_SD_Flap_Diskler_vnfbrl.png"],
@@ -3109,7 +3467,7 @@
     },
 
     {
-      "id": 155,
+      "id": 168,
       "name": "Premium Line ZR SD Flap Discs",
       "url": "premium-line-zr-sd-flap-diskler",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728944152/Premium_Line_ZR_SD_Flap_Diskler_o8bvpn.png"],
@@ -3118,7 +3476,7 @@
     },
 
     {
-      "id": 156,
+      "id": 169,
       "name": "Premium Line ZR HD Flap Discs",
       "url": "premium-line-zr-hd-flap-diskler",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728944157/Premium_ZR_HD_Flap_Diskler_faqqko.png"],
@@ -3127,7 +3485,7 @@
     },
 
     {
-      "id": 157,
+      "id": 170,
       "name": "Premium Line CE SD Flap Discs",
       "url": "premium-line-ce-sd-flap-diskler",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728944154/Premium_Line_CE_SD_Flap_Diskler_uiax3m.png"],
@@ -3136,7 +3494,7 @@
     },
 
     {
-      "id": 158,
+      "id": 171,
       "name": "Velcro Discs",
       "url": "cirtli-diskler",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946807/Cirtli_Diskler_yfe5jn.webp"],
@@ -3145,7 +3503,7 @@
     },
 
     {
-      "id": 159,
+      "id": 172,
       "name": "Belt Sanders",
       "url": "bant-zimparalar",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946806/Bant_Zimparalar_p2r5u2.jpg"],
@@ -3154,7 +3512,7 @@
     },
 
     {
-      "id": 160,
+      "id": 173,
       "name": "Roller Sanders",
       "url": "rulo-zimparalar",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728946932/Rulo_Zimparalar_qzo12z.png"],
@@ -3163,7 +3521,7 @@
     },
 
     {
-      "id": 161,
+      "id": 174,
       "name": "Sliced Stretch Film",
       "url": "dilimli-strec",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855821/1_ndandr.jpg"],
@@ -3172,7 +3530,7 @@
     },
 
     {
-      "id": 162,
+      "id": 175,
       "name": "Food Stretch Film",
       "url": "gida-streci",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855822/2_kr6df8.jpg"],
@@ -3181,7 +3539,7 @@
     },
 
     {
-      "id": 163,
+      "id": 176,
       "name": "Acrylic Packing Tape",
       "url": "koli-bandi-akrilik",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855823/3_r7hd32.jpg"],
@@ -3190,7 +3548,7 @@
     },
 
     {
-      "id": 164,
+      "id": 177,
       "name": "Hotmelt Packing Tape",
       "url": "koli-bandi-hotmelt",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855824/4_zzwoui.jpg"],
@@ -3199,7 +3557,7 @@
     },
 
     {
-      "id": 165,
+      "id": 178,
       "name": "Pallet Stretch Film",
       "url": "palet-streci",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855820/5_xd2rcj.jpg"],
@@ -3208,7 +3566,7 @@
     },
 
     {
-      "id": 166,
+      "id": 179,
       "name": "Sgs Velcro Clamp",
       "url": "sgs-cirt-kelepce",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729424215/sgs-cirt-kelepce_zh69yo.webp"],
@@ -3217,7 +3575,7 @@
     },
 
     {
-      "id": 167,
+      "id": 180,
       "name": "Colored Pallet Stretch Films",
       "url": "renkli-palet-strecleri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729446334/renkli-palet-streci_dmcmw8.webp"],
@@ -3226,7 +3584,7 @@
     },
 
     {
-      "id": 168,
+      "id": 181,
       "name": "Duct Tape Machine",
       "url": "koli-bandi-makinesi",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729446332/koli-bandi-makinesi_arzhh0.png"],
@@ -3235,7 +3593,7 @@
     },
 
     {
-      "id": 169,
+      "id": 182,
       "name": "Dayson Masking Tapes",
       "url": "dayson-maskeleme-bantlari",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729446333/maskeleme-bantlari_t3qz45.jpg"],
@@ -3244,7 +3602,7 @@
     },
 
     {
-      "id": 170,
+      "id": 183,
       "name": "Loctite Bolt Locker",
       "url": "loctite-civata-sabitleyici",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855913/1_yunpo0.jpg"],
@@ -3253,7 +3611,7 @@
     },
 
     {
-      "id": 171,
+      "id": 184,
       "name": "Weicon Flex 310 M Stainless Steel Sealant",
       "url": "weicon-flex-310-m",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855915/2_awe8fe.jpg"],
@@ -3262,7 +3620,7 @@
     },
 
     {
-      "id": 172,
+      "id": 185,
       "name": "Weicon Bolt Locking Adhesive",
       "url": "weicon-civata-sabitleyici",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728895990/eba1_arrfwr.jpg"],
@@ -3271,7 +3629,7 @@
     },
 
     {
-      "id": 173,
+      "id": 186,
       "name": "Ceresit Polyurethane Foam",
       "url": "ceresit-polyurethane-kopuk",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855944/1_u0ohza.jpg"],
@@ -3280,7 +3638,7 @@
     },
 
     {
-      "id": 174,
+      "id": 187,
       "name": "Ceresit Silicone",
       "url": "ceresit-silikon",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855945/2_dgzvjl.jpg"],
@@ -3289,7 +3647,7 @@
     },
 
     {
-      "id": 175,
+      "id": 188,
       "name": "Dayson PU Mastic",
       "url": "dayson-pu-mastik",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855947/3_k9rzev.jpg"],
@@ -3298,7 +3656,7 @@
     },
 
     {
-      "id": 176,
+      "id": 189,
       "name": "Chemical Dowels (Epoxy)",
       "url": "kimyasal-dubel-epoksi",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855949/4_lxkfeg.jpg"],
@@ -3307,7 +3665,7 @@
     },
 
     {
-      "id": 177,
+      "id": 190,
       "name": "Sista Silicone",
       "url": "sista-silikon",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855951/5_zjh817.jpg"],
@@ -3316,7 +3674,7 @@
     },
 
     {
-      "id": 178,
+      "id": 191,
       "name": "Derby PU Sealant",
       "url": "derby-pu-mastik",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729457214/Derby-PU-Mastik_rnsd26.webp"],
@@ -3325,7 +3683,7 @@
     },
 
     {
-      "id": 179,
+      "id": 192,
       "name": "Ceresit CS 51",
       "url": "ceresit-cs-51",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729457213/ceresit-cs-51_yaecjq.jpg"],
@@ -3334,7 +3692,7 @@
     },
 
     {
-      "id": 180,
+      "id": 193,
       "name": "Sista Aquarium Silicone",
       "url": "sista-akvaryum-silikonu",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729457216/sista-akvaryum-silikonu_shq8ru.webp"],
@@ -3343,7 +3701,7 @@
     },
 
     {
-      "id": 181,
+      "id": 194,
       "name": "Sista Polyurethane Foam",
       "url": "sista-poliuretan-kopuk",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729457218/sista-poliuretan-kopuk_spxghk.jpg"],
@@ -3352,7 +3710,7 @@
     },
 
     {
-      "id": 182,
+      "id": 195,
       "name": "Spray Paint",
       "url": "sprey-boya",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729443304/akcali-sprey_vykbn0.jpg"],
@@ -3361,7 +3719,7 @@
     },
 
     {
-      "id": 183,
+      "id": 196,
       "name": "Spray Paint Color Chart",
       "url": "sprey-boya-kartela",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729443303/akcali-sprey-boya-renkleri_clxits.jpg"],
@@ -3370,7 +3728,7 @@
     },
 
     {
-      "id": 184,
+      "id": 197,
       "name": "502 Japanese Adhesive 20 Gr.",
       "url": "502-japon-yapistirici-20-gr",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855961/1_ce78kj.jpg"],
@@ -3379,7 +3737,7 @@
     },
 
     {
-      "id": 185,
+      "id": 198,
       "name": "Derby 602 Japanese Adhesive 20 Gr.",
       "url": "derby-602-japon-yapistirici-20-gr",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855963/2_pusgbc.jpg"],
@@ -3388,7 +3746,7 @@
     },
 
     {
-      "id": 186,
+      "id": 199,
       "name": "Mdf Kit",
       "url": "mdf-kit",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855965/3_blrkl9.jpg"],
@@ -3397,7 +3755,7 @@
     },
 
     {
-      "id": 187,
+      "id": 200,
       "name": "Weicon Adhesive Spray",
       "url": "weicon-yapistirici-sprey",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855967/4_vkzrbo.jpg"],
@@ -3406,7 +3764,7 @@
     },
 
     {
-      "id": 188,
+      "id": 201,
       "name": "Pattex One For All Adhesive",
       "url": "pattex-one-for-all-yapistirici",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/pattex-one-for-all-universal_txboek.jpg"],
@@ -3415,7 +3773,7 @@
     },
 
     {
-      "id": 189,
+      "id": 202,
       "name": "Soudal Fix All",
       "url": "soudal-fix-all",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/suodal-fix-all_voxuzu.jpg"],
@@ -3424,7 +3782,7 @@
     },
 
     {
-      "id": 190,
+      "id": 203,
       "name": "Pattex Power Epoxy Mix",
       "url": "pattex-power-epoxy-mix-karisim",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729375686/pattex-power-epoxy_nwnywk.jpg"],
@@ -3433,7 +3791,7 @@
     },
 
     {
-      "id": 191,
+      "id": 204,
       "name": "Weicon Repair Spray",
       "url": "weicon-tamir-spreyi",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/weicon-tamir-spreyi_zfd8wn.jpg"],
@@ -3442,7 +3800,7 @@
     },
 
     {
-      "id": 192,
+      "id": 205,
       "name": "Derby Contact Tube Adhesive",
       "url": "derby-kontakt-tup-yapistirici",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/derby-kontakt-yapistirici_c1i5xr.webp"],
@@ -3451,7 +3809,7 @@
     },
 
     {
-      "id": 193,
+      "id": 206,
       "name": "Titanium Fasteners",
       "url": "titanyum-baglanti-elemanlari",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728910576/titanyum_oawgj3.jpg"],
@@ -3460,7 +3818,7 @@
     },
 
     {
-      "id": 194,
+      "id": 207,
       "name": "Custom Manufactured Fasteners",
       "url": "ozel-uretim-baglanti-elemanlari",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728910676/ozel-baglanti-elemanlari_ynqevl.jpg"],
@@ -3469,7 +3827,7 @@
     },
 
     {
-      "id": 195,
+      "id": 208,
       "name": "10.9 and 12.9 Fasteners",
       "url": "10-9-ve-12-9-baglanti-elemanlari",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728910932/i_igsepr.webp"],
