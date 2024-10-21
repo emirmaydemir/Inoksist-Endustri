@@ -172,6 +172,18 @@ export default function sitemap() {
       priority: 0.8,
     },
     {
+      url: `${baseUrl}/${locale}/hirdavat/el-aletleri`,
+      lastModified: new Date(),
+      changeFrequency: "never",
+      priority: 0.8,
+    },
+    {
+      url: `${baseUrl}/${locale}/hirdavat/profesyonel-el-aletleri`,
+      lastModified: new Date(),
+      changeFrequency: "never",
+      priority: 0.8,
+    },
+    {
       url: `${baseUrl}/${locale}/bakim-kimyasallari/bakim-kimyasallari`,
       lastModified: new Date(),
       changeFrequency: "never",

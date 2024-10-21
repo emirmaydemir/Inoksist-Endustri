@@ -65,6 +65,14 @@
     {
       "guid": "yapistirici-grubu",
       "description": "Adhesives Group"
+    },
+    {
+      "guid": "el-aletleri",
+      "description": "Hand Tools"
+    },
+    {
+      "guid": "profesyonel-el-aletleri",
+      "description": "Professional Hand Tools"
     }
   ],
   "bakim-kimyasallari": [

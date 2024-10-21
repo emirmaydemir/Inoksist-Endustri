@@ -36,7 +36,9 @@
         { "path": "/hirdavat/ambalaj-ve-paketleme-grubu", "display": "Packaging and Wrapping Group" },
         { "path": "/hirdavat/silikon-ve-sizdirmazlik-grubu", "display": "Silicone and Sealing Group" },
         { "path": "/hirdavat/sprey-boya", "display": "Spray Paint" },
-        { "path": "/hirdavat/yapistirici-grubu", "display": "Adhesives Group" }
+        { "path": "/hirdavat/yapistirici-grubu", "display": "Adhesives Group" },
+        { "path": "/hirdavat/el-aletleri", "display": "Hand Tools" },
+        { "path": "/hirdavat/profesyonel-el-aletleri", "display": "Professional Hand Tools" }
       ]
     },
     {

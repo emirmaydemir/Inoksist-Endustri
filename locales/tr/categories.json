@@ -65,6 +65,14 @@
     {
       "guid": "yapistirici-grubu",
       "description": "Yapıştırıcı Grubu"
+    },
+    {
+      "guid": "el-aletleri",
+      "description": "El Aletleri"
+    },
+    {
+      "guid": "profesyonel-el-aletleri",
+      "description": "Profesyonel El Aletleri"
     }
   ],
   "bakim-kimyasallari": [

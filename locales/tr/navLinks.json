@@ -78,7 +78,9 @@
         {
           "path": "/hirdavat/yapistirici-grubu",
           "display": "Yapıştırıcı Grubu"
-        }
+        },
+        { "path": "/hirdavat/el-aletleri", "display": "El Aletleri" },
+        { "path": "/hirdavat/profesyonel-el-aletleri", "display": "Profesyonel El Aletleri" }
       ]
     },
     {
