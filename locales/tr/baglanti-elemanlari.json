@@ -878,6 +878,14 @@
       "url": "10-9-ve-12-9-baglanti-elemanlari",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728910932/i_igsepr.webp",
       "category": ["10-9-ve-12-9-baglanti-elemanlari"]
+    },
+
+    {
+      "id": 111,
+      "name": "DIN 6885 (A) ve (B) Tipi Kamalar",
+      "url": "din-6885-a-ve-b-tipi-kamalar",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729528346/din-6885-a_grtblx.webp",
+      "category": ["kama-baglanti-elemanlari"]
     }
   ]
 }
