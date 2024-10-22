@@ -3711,6 +3711,15 @@
 
     {
       "id": 195,
+      "name": "Teflon Tape",
+      "url": "teflon-bant",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729590701/teflon-bant_vytbku.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729590701/teflon-bant_vytbku.jpg",
+      "description": "Teflon Tape, made from PTFE (Polytetrafluoroethylene), is a sealing and bonding solution known for its high temperature and chemical resistance. It is commonly used in various industrial applications, particularly for sealing pipe joints, plumbing tasks, and gas lines. Its smooth surface reduces friction, making installation easier. Additionally, Teflon Tape is resistant to water, steam, acids, and alkalis, providing long-lasting and effective sealing solutions. It is an ideal choice for ensuring tight seals in demanding environments."
+    },
+
+    {
+      "id": 196,
       "name": "Spray Paint",
       "url": "sprey-boya",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729443304/akcali-sprey_vykbn0.jpg"],
@@ -3719,7 +3728,7 @@
     },
 
     {
-      "id": 196,
+      "id": 197,
       "name": "Spray Paint Color Chart",
       "url": "sprey-boya-kartela",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729443303/akcali-sprey-boya-renkleri_clxits.jpg"],
@@ -3728,7 +3737,7 @@
     },
 
     {
-      "id": 197,
+      "id": 198,
       "name": "502 Japanese Adhesive 20 Gr.",
       "url": "502-japon-yapistirici-20-gr",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855961/1_ce78kj.jpg"],
@@ -3737,7 +3746,7 @@
     },
 
     {
-      "id": 198,
+      "id": 199,
       "name": "Derby 602 Japanese Adhesive 20 Gr.",
       "url": "derby-602-japon-yapistirici-20-gr",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855963/2_pusgbc.jpg"],
@@ -3746,7 +3755,7 @@
     },
 
     {
-      "id": 199,
+      "id": 200,
       "name": "Mdf Kit",
       "url": "mdf-kit",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855965/3_blrkl9.jpg"],
@@ -3755,7 +3764,7 @@
     },
 
     {
-      "id": 200,
+      "id": 201,
       "name": "Weicon Adhesive Spray",
       "url": "weicon-yapistirici-sprey",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855967/4_vkzrbo.jpg"],
@@ -3764,7 +3773,7 @@
     },
 
     {
-      "id": 201,
+      "id": 202,
       "name": "Pattex One For All Adhesive",
       "url": "pattex-one-for-all-yapistirici",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/pattex-one-for-all-universal_txboek.jpg"],
@@ -3773,7 +3782,7 @@
     },
 
     {
-      "id": 202,
+      "id": 203,
       "name": "Soudal Fix All",
       "url": "soudal-fix-all",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/suodal-fix-all_voxuzu.jpg"],
@@ -3782,7 +3791,7 @@
     },
 
     {
-      "id": 203,
+      "id": 204,
       "name": "Pattex Power Epoxy Mix",
       "url": "pattex-power-epoxy-mix-karisim",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729375686/pattex-power-epoxy_nwnywk.jpg"],
@@ -3791,7 +3800,7 @@
     },
 
     {
-      "id": 204,
+      "id": 205,
       "name": "Weicon Repair Spray",
       "url": "weicon-tamir-spreyi",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/weicon-tamir-spreyi_zfd8wn.jpg"],
@@ -3800,7 +3809,7 @@
     },
 
     {
-      "id": 205,
+      "id": 206,
       "name": "Derby Contact Tube Adhesive",
       "url": "derby-kontakt-tup-yapistirici",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/derby-kontakt-yapistirici_c1i5xr.webp"],
@@ -3809,7 +3818,178 @@
     },
 
     {
-      "id": 206,
+      "id": 207,
+      "name": "Tyson Handle Hammer",
+      "url": "tyson-sapli-keser",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729596451/tyson-sapli-keser_pgffut.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596451/tyson-sapli-keser_pgffut.jpg",
+      "description": "Tyson Handle Hammer features a durable construction with an ergonomic design that ensures comfort during prolonged use. The handle is made from impact-resistant material, providing excellent grip. The cutting head is made of hardened steel, offering high efficiency for cutting and carving tasks. With balanced weight distribution, it is ideal for precise and powerful strikes, making it an essential hand tool."
+    },
+
+    {
+      "id": 208,
+      "name": "Utility Knife",
+      "url": "falcata",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729596449/falcata_hy52zi.webp"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596449/falcata_hy52zi.webp",
+      "description": "Utility knife, equipped with a sharp, replaceable blade, is a professional cutting tool designed for precise cutting tasks. It features a durable plastic body and a metal blade holder, ensuring long-lasting performance. The knife is equipped with a safety lock mechanism, which secures the blade for safe usage. It is suitable for various cutting applications in construction, packaging, decoration, and industrial fields, providing efficient cutting of different materials."
+    },
+
+    {
+      "id": 209,
+      "name": "Stainless Steel Wire Brush",
+      "url": "paslanmaz-celik-tel-firca",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729596449/paslanmaz-celik-tel-firca_guj0qb.webp"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596449/paslanmaz-celik-tel-firca_guj0qb.webp",
+      "description": "Stainless steel wire brush is a robust cleaning tool designed for heavy-duty applications. It features tightly bound stainless steel bristles that resist rust and corrosion, making it ideal for removing paint, rust, scale, and other surface contaminants from metal surfaces. This tool is suitable for both manual and machine use, offering excellent durability and efficiency in various industrial and maintenance tasks, including preparing surfaces for welding and cleaning weld seams. Its ergonomic handle ensures a comfortable grip, allowing for extended use without hand fatigue."
+    },
+
+    {
+      "id": 210,
+      "name": "Hammers",
+      "url": "cekicler",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729596448/cekic_bhhuop.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596448/cekic_bhhuop.jpg",
+      "description": "Hammers are hand tools used for shaping, securing, or breaking various materials. They typically consist of a metal head and a sturdy handle. Depending on the type, the head may be flat, rounded, or specially shaped for specific tasks. Hammers are commonly used for driving nails, breaking materials, and shaping metal. They are widely utilized in construction, carpentry, blacksmithing, and other industries. Steel-headed models provide durability, while ergonomic handles offer comfort during use. Hammers are available in different weights and sizes to suit the specific requirements of the task at hand."
+    },
+
+    {
+      "id": 211,
+      "name": "Screwdriver Set",
+      "url": "tornavida-seti",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729596450/tornavida-set_l0tqdc.webp"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596450/tornavida-set_l0tqdc.webp",
+      "description": "Screwdriver set consists of a collection of tools that includes various sizes and types of screwdrivers. The set features flathead, Phillips, hex, and other tip types, allowing compatibility with a wide range of screws. Ergonomically designed handles enhance user comfort, while durable materials used for the tips ensure long-lasting and efficient performance. This set is ideal for both professional and amateur users, providing high performance in construction, electronics, automotive, and repair tasks. The screwdriver set offers a practical solution by providing all the necessary tools in one package for different applications."
+    },
+
+    {
+      "id": 212,
+      "name": "Metal Locking Tool Box",
+      "url": "metal-kilitli-takim-cantasi",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729597429/metal-kilitli-takim-cantasi_cvyr6t.webp"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729597429/metal-kilitli-takim-cantasi_cvyr6t.webp",
+      "description": "Metal locking toolbox is a robust product designed for the secure storage and transport of tools and equipment. Its durable metal construction ensures long-lasting use, while the locking mechanism protects your tools from theft. Internal organizing compartments allow for the orderly placement of various sized tools, enabling quick access to the tools you need. The metal lockable toolbox is suitable for use in construction, automotive, maintenance, and general DIY tasks, assisting users in completing their work more efficiently."
+    },
+
+    {
+      "id": 213,
+      "name": "Pliers",
+      "url": "pense",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729596450/pense_hkjvyv.webp"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596450/pense_hkjvyv.webp",
+      "description": "Pliers are hand tools designed for gripping, squeezing, or bending objects. Made from durable steel, pliers come in various sizes and types, making them suitable for different applications. Typically, the jaws of pliers are designed with notched, flat, or sharp edges, allowing for a range of functionalities based on user needs. The handles may be coated with rubber or plastic for improved grip and comfort. Pliers are commonly used in automotive, construction, electrical, and general maintenance fields, serving as a valuable aid in repair, assembly, and disassembly tasks."
+    },
+
+    {
+      "id": 214,
+      "name": "Handsaw",
+      "url": "pala-testere",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729596449/pala-testere_az2yzu.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596449/pala-testere_az2yzu.jpg",
+      "description": "Handsaw is a type of saw designed with wide and robust teeth, specifically made for cutting large wooden pieces. Constructed from durable steel, the bow saw comes in various lengths and tooth spacing, making it suitable for cutting different thicknesses and types of wood materials. It is equipped with an ergonomic handle for better control during use. Bow saws are commonly used in fields such as construction, carpentry, and woodworking, providing an effective solution for cutting large trees, logs, and other wooden materials."
+    },
+
+    {
+      "id": 215,
+      "name": "Wrench Set",
+      "url": "anahtar-takimi",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729596449/anahtar-takimi_id1sbq.png"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596449/anahtar-takimi_id1sbq.png",
+      "description": "Wrench set is a collection of hand tools that includes wrenches of various sizes and types, primarily used for tightening and loosening bolts, nuts, and other fasteners. Typically made from durable materials such as chrome vanadium or chrome molybdenum, these tools are designed to be long-lasting and resistant to wear. The set often includes both open-end and box-end wrenches, socket wrenches, and sometimes screwdrivers. Their ergonomic designs provide a comfortable grip for users, and they often come with a carrying case for organized storage and easy access. Wrench sets are commonly used in automotive, industrial, construction, and general maintenance applications."
+    },
+
+    {
+      "id": 216,
+      "name": "Bosch Cordless Impact Drill",
+      "url": "akulu-darbeli-vidalama-makinesi",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729596474/akulu-darbeli-vidalama-makinesi_sg2fgg.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596474/akulu-darbeli-vidalama-makinesi_sg2fgg.jpg",
+      "description": "Bosch cordless impact drill is a powerful tool designed for fast and efficient screw fastening on various surfaces, featuring high torque and impact capabilities. Its compact and lightweight design makes it easy to use in tight spaces. Equipped with Li-Ion battery technology, it offers rapid charging for uninterrupted operation. The ergonomic grip enhances user comfort, while the LED light allows for precise work even in low-light conditions. This machine is suitable for use on materials such as wood, metal, and plastic, delivering reliable performance in professional applications. The impact function enables easy loosening and tightening of tight screw connections, increasing overall work efficiency for the user."
+    },
+
+    {
+      "id": 217,
+      "name": "Bosch Electric Demolition Hammer",
+      "url": "elektrikli-kirici",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729596475/bosch-elektrikli-kirici_mgdfb1.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596475/bosch-elektrikli-kirici_mgdfb1.jpg",
+      "description": "Bosch electric demolition hammer is a powerful tool designed for breaking or drilling tough materials in construction and repair tasks. With high impact energy, it delivers effective results on various types of surfaces. Its ergonomic grip and low vibration features enhance user comfort, even during prolonged use. The machine is compatible with various bits for different applications, offering practical usability. The electric breaker effectively works on hard materials such as concrete, brick, and stone, increasing work efficiency and providing reliable performance in professional applications."
+    },
+
+    {
+      "id": 218,
+      "name": "Dewalt Jigsaw",
+      "url": "dewalt-dekupaj-testere",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729596477/dewalt-hareketli-dekupaj-testere_gaeo1k.webp"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596477/dewalt-hareketli-dekupaj-testere_gaeo1k.webp",
+      "description": "Dewalt jigsaw is an electric power tool designed for precision cutting of various materials. Its powerful motor enables fast and clean cuts in different materials such as wood, plastic, and metal. The ergonomic design and lightweight structure provide comfort during prolonged use. The interchangeable blade system allows users to perform various cutting types according to their needs. Additionally, the quick adjustment mechanism enables easy changes in cutting depth and angle. The Dewalt jigsaw is an ideal choice for both professional and hobbyist users, offering high efficiency in projects."
+    },
+
+    {
+      "id": 219,
+      "name": "Dewalt Angle Grinder",
+      "url": "dewalt-tas-motoru",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729596477/dewalt-tas-motoru_egmtc9.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596477/dewalt-tas-motoru_egmtc9.jpg",
+      "description": "Dewalt angle grinder is a powerful electric tool designed for cutting, shaping, and grinding hard materials like stone and concrete. Its high-performance motor delivers effective cutting even in tough conditions. The user-friendly design ensures comfort for both professional and hobbyist users. Interchangeable cutting and grinding discs can be quickly changed to meet different application needs. Additionally, adjustable speed control provides optimal cutting performance based on various materials. The Dewalt stone cutter offers high efficiency and durability for construction, repair, and renovation projects."
+    },
+
+    {
+      "id": 220,
+      "name": "Pneumatic Nut Riveting Machine",
+      "url": "havali-somun-percin-makinesi",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729596477/havali-somun-percin-makinesi_uhtrdy.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596477/havali-somun-percin-makinesi_uhtrdy.jpg",
+      "description": "Pneumatic nut riveting machine is a power tool designed for the quick and efficient assembly of nuts and rivets, providing high durability and reliability. It is commonly used in the automotive, construction, and manufacturing sectors, delivering powerful perforation and assembly capabilities through its pneumatic operation. Its ergonomic design ensures comfort even during prolonged use. The tool is compatible with various attachments for processing different sizes of rivets and nuts. Additionally, it enhances work efficiency by enabling fast and accurate assembly operations. The pneumatic nut riveter is a frequently chosen tool in industrial applications."
+    },
+
+    {
+      "id": 221,
+      "name": "Bosch Jigsaw",
+      "url": "bosch-dekupaj-testere",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729596475/bosch-dekupaj-testere_lrb7xu.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596475/bosch-dekupaj-testere_lrb7xu.jpg",
+      "description": "Bosch jigsaw is a high-performance electric tool designed for precise cutting tasks. It can cut through various materials such as wood, plastic, and metal. Its ergonomic design and lightweight construction ensure comfort during prolonged use. The adjustable speed control allows users to optimize cutting speed according to their needs. Additionally, it is equipped with features like a laser guide and dust extraction system, enhancing the accuracy and cleanliness of cuts. The Bosch jigsaw is an ideal choice for both professional and hobbyist users."
+    },
+
+    {
+      "id": 222,
+      "name": "Rtrmax Chainsaw",
+      "url": "rtrmax-agac-kesme-makinesi",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729596479/rtrmax-benzinli-agac-motoru_dfuqdg.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596479/rtrmax-benzinli-agac-motoru_dfuqdg.jpg",
+      "description": "Rtrmax chainsaw is a professional piece of equipment designed for effectively cutting trees with its powerful motor and high cutting capacity. Its durable construction ensures reliable performance even in challenging conditions. The ergonomic design prioritizes user comfort and reduces fatigue during prolonged use. Advanced safety features protect users, while adjustable cutting depth and angle provide flexibility for various applications. The Rtrmax tree cutting machine is ideal for both professional forestry work and gardening tasks."
+    },
+
+    {
+      "id": 223,
+      "name": "Dewalt Palm Sander",
+      "url": "dewalt-avuc-taslama",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729596476/dewalt-avuc-taslama_fskucb.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596476/dewalt-avuc-taslama_fskucb.jpg",
+      "description": "Dewalt palm sander is designed to provide maximum control and comfort with its compact and lightweight design. Its powerful motor delivers high performance for fast cutting and grinding operations. The ergonomic grip reduces fatigue during prolonged use, offering a more comfortable working experience. This grinder is specifically engineered for effective use on metal, stone, and similar hard surfaces. Additionally, features such as a safety switch and protective guard enhance user safety. The Dewalt palm grinder is an ideal solution for professionals in construction, assembly, and repair tasks."
+    },
+
+    {
+      "id": 224,
+      "name": "Paint Mixing Mixer",
+      "url": "boya-karistirma-mikseri",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729596478/profosyonel-alci-ve-boya-karistirici-mixer_itpy5d.webp"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596478/profosyonel-alci-ve-boya-karistirici-mixer_itpy5d.webp",
+      "description": "Paint mixing mixer is designed to ensure homogeneous mixing of various liquid and viscous materials. Typically equipped with a powerful motor, it offers multiple speed settings, allowing users to customize the mixing process according to their needs. Different types of mixing heads can be swapped to enhance fluidity and ensure even distribution of materials. This mixer is ideal for paints, primers, and other coating materials, making it highly effective in construction, decoration, and industrial applications. Its ergonomic design and lightweight construction provide comfort during prolonged use."
+    },
+
+    {
+      "id": 225,
+      "name": "Dewalt Hammer Drill",
+      "url": "dewalt-kirici-delici-matkap",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729596479/sarjli-pnomatik-matkap_ai2fc4.webp"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596479/sarjli-pnomatik-matkap_ai2fc4.webp",
+      "description": "Dewalt Hammer Drill is a powerful and durable tool designed for drilling and breaking through hard materials like concrete, brick, and stone. With its high torque and fast rotation speed, it performs effectively even in challenging work conditions. The adjustable speed settings and hammer function provide maximum control for the user across various applications. Additionally, its ergonomic grip and lightweight design ensure comfort during extended use. The Dewalt Hammer Drill is an ideal solution for professional users in construction, renovation, and repair work."
+    },
+
+    {
+      "id": 226,
       "name": "Titanium Fasteners",
       "url": "titanyum-baglanti-elemanlari",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728910576/titanyum_oawgj3.jpg"],
@@ -3818,7 +3998,7 @@
     },
 
     {
-      "id": 207,
+      "id": 227,
       "name": "Custom Manufactured Fasteners",
       "url": "ozel-uretim-baglanti-elemanlari",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728910676/ozel-baglanti-elemanlari_ynqevl.jpg"],
@@ -3827,7 +4007,7 @@
     },
 
     {
-      "id": 208,
+      "id": 228,
       "name": "10.9 and 12.9 Fasteners",
       "url": "10-9-ve-12-9-baglanti-elemanlari",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728910932/i_igsepr.webp"],
@@ -3836,7 +4016,7 @@
     },
 
     {
-      "id": 209,
+      "id": 229,
       "name": "DIN 6885 Type (A) and (B) Keys",
       "url": "din-6885-a-ve-b-tipi-kamalar",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729528346/din-6885-a_grtblx.webp", "https://res.cloudinary.com/di9qvtepw/image/upload/v1729528346/din-6885-b_us3kps.jpg"],

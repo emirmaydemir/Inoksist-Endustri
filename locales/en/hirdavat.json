@@ -586,6 +586,14 @@
 
     {
       "id": 74,
+      "name": "Teflon Tape",
+      "url": "teflon-bant",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729590701/teflon-bant_vytbku.jpg",
+      "category": ["silikon-ve-sizdirmazlik-grubu"]
+    },
+
+    {
+      "id": 75,
       "name": "Spray Paint",
       "url": "sprey-boya",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729443304/akcali-sprey_vykbn0.jpg",
@@ -593,7 +601,7 @@
     },
 
     {
-      "id": 75,
+      "id": 76,
       "name": "Spray Paint Color Chart",
       "url": "sprey-boya-kartela",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729443303/akcali-sprey-boya-renkleri_clxits.jpg",
@@ -601,7 +609,7 @@
     },
 
     {
-      "id": 76,
+      "id": 77,
       "name": "502 Japanese Adhesive 20 Gr.",
       "url": "502-japon-yapistirici-20-gr",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855961/1_ce78kj.jpg",
@@ -609,7 +617,7 @@
     },
 
     {
-      "id": 77,
+      "id": 78,
       "name": "Derby 602 Japanese Adhesive 20 Gr.",
       "url": "derby-602-japon-yapistirici-20-gr",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855963/2_pusgbc.jpg",
@@ -617,7 +625,7 @@
     },
 
     {
-      "id": 78,
+      "id": 79,
       "name": "Mdf Kit",
       "url": "mdf-kit",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855965/3_blrkl9.jpg",
@@ -625,7 +633,7 @@
     },
 
     {
-      "id": 79,
+      "id": 80,
       "name": "Weicon Adhesive Spray",
       "url": "weicon-yapistirici-sprey",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1728855967/4_vkzrbo.jpg",
@@ -633,7 +641,7 @@
     },
 
     {
-      "id": 80,
+      "id": 81,
       "name": "Pattex One For All Adhesive",
       "url": "pattex-one-for-all-yapistirici",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/pattex-one-for-all-universal_txboek.jpg",
@@ -641,7 +649,7 @@
     },
 
     {
-      "id": 81,
+      "id": 82,
       "name": "Soudal Fix All",
       "url": "soudal-fix-all",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/suodal-fix-all_voxuzu.jpg",
@@ -649,7 +657,7 @@
     },
 
     {
-      "id": 82,
+      "id": 83,
       "name": "Pattex Power Epoxy Mix",
       "url": "pattex-power-epoxy-mix-karisim",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729375686/pattex-power-epoxy_nwnywk.jpg",
@@ -657,7 +665,7 @@
     },
 
     {
-      "id": 83,
+      "id": 84,
       "name": "Weicon Repair Spray",
       "url": "weicon-tamir-spreyi",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/weicon-tamir-spreyi_zfd8wn.jpg",
@@ -665,11 +673,163 @@
     },
 
     {
-      "id": 84,
+      "id": 85,
       "name": "Derby Contact Tube Adhesive",
       "url": "derby-kontakt-tup-yapistirici",
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/derby-kontakt-yapistirici_c1i5xr.webp",
       "category": ["yapistirici-grubu"]
+    },
+
+    {
+      "id": 86,
+      "name": "Tyson Handle Hammer",
+      "url": "tyson-sapli-keser",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596451/tyson-sapli-keser_pgffut.jpg",
+      "category": ["el-aletleri"]
+    },
+
+    {
+      "id": 87,
+      "name": "Utility Knife",
+      "url": "falcata",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596449/falcata_hy52zi.webp",
+      "category": ["el-aletleri"]
+    },
+
+    {
+      "id": 88,
+      "name": "Stainless Steel Wire Brush",
+      "url": "paslanmaz-celik-tel-firca",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596449/paslanmaz-celik-tel-firca_guj0qb.webp",
+      "category": ["el-aletleri"]
+    },
+
+    {
+      "id": 89,
+      "name": "Hammers",
+      "url": "cekicler",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596448/cekic_bhhuop.jpg",
+      "category": ["el-aletleri"]
+    },
+
+    {
+      "id": 90,
+      "name": "Screwdriver Set",
+      "url": "tornavida-seti",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596450/tornavida-set_l0tqdc.webp",
+      "category": ["el-aletleri"]
+    },
+
+    {
+      "id": 91,
+      "name": "Metal Locking Tool Box",
+      "url": "metal-kilitli-takim-cantasi",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729597429/metal-kilitli-takim-cantasi_cvyr6t.webp",
+      "category": ["el-aletleri"]
+    },
+
+    {
+      "id": 92,
+      "name": "Pliers",
+      "url": "pense",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596450/pense_hkjvyv.webp",
+      "category": ["el-aletleri"]
+    },
+
+    {
+      "id": 93,
+      "name": "Handsaw",
+      "url": "pala-testere",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596449/pala-testere_az2yzu.jpg",
+      "category": ["el-aletleri"]
+    },
+
+    {
+      "id": 94,
+      "name": "Wrench Set",
+      "url": "anahtar-takimi",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596449/anahtar-takimi_id1sbq.png",
+      "category": ["el-aletleri"]
+    },
+
+    {
+      "id": 95,
+      "name": "Bosch Cordless Impact Drill",
+      "url": "akulu-darbeli-vidalama-makinesi",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596474/akulu-darbeli-vidalama-makinesi_sg2fgg.jpg",
+      "category": ["profesyonel-el-aletleri"]
+    },
+
+    {
+      "id": 96,
+      "name": "Bosch Electric Demolition Hammer",
+      "url": "elektrikli-kirici",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596475/bosch-elektrikli-kirici_mgdfb1.jpg",
+      "category": ["profesyonel-el-aletleri"]
+    },
+
+    {
+      "id": 97,
+      "name": "Dewalt Jigsaw",
+      "url": "dewalt-dekupaj-testere",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596477/dewalt-hareketli-dekupaj-testere_gaeo1k.webp",
+      "category": ["profesyonel-el-aletleri"]
+    },
+
+    {
+      "id": 98,
+      "name": "Dewalt Angle Grinder",
+      "url": "dewalt-tas-motoru",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596477/dewalt-tas-motoru_egmtc9.jpg",
+      "category": ["profesyonel-el-aletleri"]
+    },
+
+    {
+      "id": 99,
+      "name": "Pneumatic Nut Riveting Machine",
+      "url": "havali-somun-percin-makinesi",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596477/havali-somun-percin-makinesi_uhtrdy.jpg",
+      "category": ["profesyonel-el-aletleri"]
+    },
+
+    {
+      "id": 100,
+      "name": "Bosch Jigsaw",
+      "url": "bosch-dekupaj-testere",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596475/bosch-dekupaj-testere_lrb7xu.jpg",
+      "category": ["profesyonel-el-aletleri"]
+    },
+
+    {
+      "id": 101,
+      "name": "Rtrmax Chainsaw",
+      "url": "rtrmax-agac-kesme-makinesi",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596479/rtrmax-benzinli-agac-motoru_dfuqdg.jpg",
+      "category": ["profesyonel-el-aletleri"]
+    },
+
+    {
+      "id": 102,
+      "name": "Dewalt Palm Sander",
+      "url": "dewalt-avuc-taslama",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596476/dewalt-avuc-taslama_fskucb.jpg",
+      "category": ["profesyonel-el-aletleri"]
+    },
+
+    {
+      "id": 103,
+      "name": "Paint Mixing Mixer",
+      "url": "boya-karistirma-mikseri",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596478/profosyonel-alci-ve-boya-karistirici-mixer_itpy5d.webp",
+      "category": ["profesyonel-el-aletleri"]
+    },
+
+    {
+      "id": 104,
+      "name": "Dewalt Hammer Drill",
+      "url": "dewalt-kirici-delici-matkap",
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596479/sarjli-pnomatik-matkap_ai2fc4.webp",
+      "category": ["profesyonel-el-aletleri"]
     }
   ]
 }

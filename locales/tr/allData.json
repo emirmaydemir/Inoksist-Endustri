@@ -3711,6 +3711,15 @@
 
     {
       "id": 195,
+      "name": "Teflon Bant",
+      "url": "teflon-bant",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729590701/teflon-bant_vytbku.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729590701/teflon-bant_vytbku.jpg",
+      "description": "Teflon Bant, PTFE (Polytetrafluoroethylene) malzemeden üretilmiş bir sızdırmazlık ve yapıştırma çözümüdür. Bu bant, yüksek sıcaklık ve kimyasal dayanıklılığı sayesinde birçok endüstriyel uygulamada güvenle kullanılabilir. Genellikle boru bağlantılarında, tesisat işlerinde ve gaz hatlarında sızdırmazlık sağlamak amacıyla tercih edilir. Yüzeyi kaygan olduğu için sürtünmeyi azaltır ve montajı kolaylaştırır. Ayrıca, su, buhar, asit ve alkali gibi maddelere karşı dayanıklıdır. Teflon Bant, uzun ömürlü ve etkili bir sızdırmazlık sağlamak için ideal bir tercihtir."
+    },
+
+    {
+      "id": 196,
       "name": "Akçalı Sprey Boya",
       "url": "sprey-boya",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729443304/akcali-sprey_vykbn0.jpg"],
@@ -3719,7 +3728,7 @@
     },
 
     {
-      "id": 196,
+      "id": 197,
       "name": "Akçalı Sprey Boya Kartela",
       "url": "sprey-boya-kartela",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729443303/akcali-sprey-boya-renkleri_clxits.jpg"],
@@ -3728,7 +3737,7 @@
     },
 
     {
-      "id": 197,
+      "id": 198,
       "name": "502 Japon Yapıştırıcı 20 Gr.",
       "url": "502-japon-yapistirici-20-gr",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855961/1_ce78kj.jpg"],
@@ -3737,7 +3746,7 @@
     },
 
     {
-      "id": 198,
+      "id": 199,
       "name": "Derby 602 Japon Yapıştırıcı 20 Gr.",
       "url": "derby-602-japon-yapistirici-20-gr",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855963/2_pusgbc.jpg"],
@@ -3746,7 +3755,7 @@
     },
 
     {
-      "id": 199,
+      "id": 200,
       "name": "Mdf Kit",
       "url": "mdf-kit",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855965/3_blrkl9.jpg"],
@@ -3755,7 +3764,7 @@
     },
 
     {
-      "id": 200,
+      "id": 201,
       "name": "Weicon Yapıştırıcı Sprey",
       "url": "weicon-yapistirici-sprey",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728855967/4_vkzrbo.jpg"],
@@ -3764,7 +3773,7 @@
     },
 
     {
-      "id": 201,
+      "id": 202,
       "name": "Pattex One For All Yapıştırıcı",
       "url": "pattex-one-for-all-yapistirici",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/pattex-one-for-all-universal_txboek.jpg"],
@@ -3773,7 +3782,7 @@
     },
 
     {
-      "id": 202,
+      "id": 203,
       "name": "Soudal Fix All",
       "url": "soudal-fix-all",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/suodal-fix-all_voxuzu.jpg"],
@@ -3782,7 +3791,7 @@
     },
 
     {
-      "id": 203,
+      "id": 204,
       "name": "Pattex Power Epoxy Mix Karışım",
       "url": "pattex-power-epoxy-mix-karisim",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729375686/pattex-power-epoxy_nwnywk.jpg"],
@@ -3791,7 +3800,7 @@
     },
 
     {
-      "id": 204,
+      "id": 205,
       "name": "Weicon Tamir Spreyi",
       "url": "weicon-tamir-spreyi",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/weicon-tamir-spreyi_zfd8wn.jpg"],
@@ -3800,7 +3809,7 @@
     },
 
     {
-      "id": 205,
+      "id": 206,
       "name": "Derby Kontakt Tüp Yapıştırıcı",
       "url": "derby-kontakt-tup-yapistirici",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729375685/derby-kontakt-yapistirici_c1i5xr.webp"],
@@ -3809,7 +3818,178 @@
     },
 
     {
-      "id": 206,
+      "id": 207,
+      "name": "Tyson Saplı Keser",
+      "url": "tyson-sapli-keser",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729596451/tyson-sapli-keser_pgffut.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596451/tyson-sapli-keser_pgffut.jpg",
+      "description": "Tyson Saplı Keser, dayanıklı bir yapıya sahip olup ergonomik tasarımıyla uzun süreli kullanımlarda rahatlık sağlar. Sap kısmı darbeye dayanıklı malzemeden yapılmıştır ve mükemmel tutuş sağlar. Kesici baş kısmı sertleştirilmiş çelikten üretilmiş olup, kesme ve yontma işlerinde yüksek verim sunar. Ağırlık dağılımı ve dengesi sayesinde, hassas ve güçlü darbeler için ideal bir el aletidir."
+    },
+
+    {
+      "id": 208,
+      "name": "Falçata",
+      "url": "falcata",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729596449/falcata_hy52zi.webp"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596449/falcata_hy52zi.webp",
+      "description": "Falçata, ince ve keskin bir bıçakla donatılmış, değiştirilebilir bıçak uçlarına sahip profesyonel bir kesici alettir. Hassas kesim işlemlerinde kullanılmak üzere tasarlanmış olup, plastik gövdesi ve metal bıçak tutucu mekanizması ile uzun ömürlü performans sunar. Güvenlik kilidi ile donatılmıştır, bu sayede bıçak sabitlenir ve güvenli kullanım sağlar. İnşaat, ambalaj, dekorasyon ve endüstriyel alanlarda çeşitli malzemelerin kesim işlemlerinde kullanılabilir."
+    },
+
+    {
+      "id": 209,
+      "name": "Paslanmaz Çelik Tel Fırça",
+      "url": "paslanmaz-celik-tel-firca",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729596449/paslanmaz-celik-tel-firca_guj0qb.webp"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596449/paslanmaz-celik-tel-firca_guj0qb.webp",
+      "description": "Paslanmaz çelik tel fırça, ağır hizmet uygulamaları için tasarlanmış sağlam bir temizlik aracıdır. Paslanmaya ve korozyona dayanıklı, sıkı şekilde bağlanmış paslanmaz çelik kıllara sahiptir. Metal yüzeylerden boya, pas, kaplama ve diğer yüzey kalıntılarını temizlemek için idealdir. Hem manuel hem de makine ile kullanım için uygundur ve kaynak öncesi yüzey hazırlığı ile kaynak dikişlerinin temizlenmesi gibi endüstriyel ve bakım işlemlerinde yüksek dayanıklılık ve verimlilik sunar. Ergonomik sapı, uzun süreli kullanımlarda konforlu bir tutuş sağlar."
+    },
+
+    {
+      "id": 210,
+      "name": "Çekiçler",
+      "url": "cekicler",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729596448/cekic_bhhuop.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596448/cekic_bhhuop.jpg",
+      "description": "Çekiçler, çeşitli malzemeleri şekillendirmek, sabitlemek veya kırmak için kullanılan el aletleridir. Genellikle metal bir baş ve sağlam bir sap kısmından oluşurlar. Çekicin türüne göre baş kısmı düz, yuvarlak ya da özel şekillerde olabilir. Çivi çakma, malzemeleri parçalama, metal şekillendirme gibi farklı işlerde kullanılırlar. İnşaat, marangozluk, demircilik gibi birçok sektörde yaygın olarak tercih edilir. Çelik başlı modeller dayanıklılık sağlarken, ergonomik saplar kullanıcının rahat çalışmasına olanak tanır. Farklı ağırlık ve boyutlarda üretilen çekiçler, işin gereksinimlerine uygun çeşitlilik sunar."
+    },
+
+    {
+      "id": 211,
+      "name": "Tornavida seti",
+      "url": "tornavida-seti",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729596450/tornavida-set_l0tqdc.webp"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596450/tornavida-set_l0tqdc.webp",
+      "description": "Tornavida seti, farklı boyut ve tipte tornavidaları içeren bir alet grubudur. Set, düz, yıldız (Phillips), altıgen ve diğer uç tiplerini barındırarak çeşitli vidalara uyum sağlar. Ergonomik tutma yerleri, kullanıcı konforunu artırırken dayanıklı malzemelerden üretilmiş uçlar, uzun ömürlü ve verimli bir kullanım sunar. Bu set, hem profesyonel hem de amatör kullanıcılar için idealdir ve inşaat, elektronik, otomotiv ve tamirat işlemlerinde yüksek performans sağlar. Tornavida seti, kullanıcılara pratik bir çözüm sunarak, farklı uygulamalar için ihtiyaç duyulan araçları tek bir paket içinde sunar."
+    },
+
+    {
+      "id": 212,
+      "name": "Metal Kilitli Takım Çantası",
+      "url": "metal-kilitli-takim-cantasi",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729597429/metal-kilitli-takim-cantasi_cvyr6t.webp"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729597429/metal-kilitli-takim-cantasi_cvyr6t.webp",
+      "description": "Metal kilitli takım çantası, aletlerin ve ekipmanların güvenli bir şekilde saklanması ve taşınması için tasarlanmış sağlam bir üründür. Dayanıklı metal yapı, çantanın uzun ömürlü olmasını sağlarken, kilitli mekanizma aletlerinizi hırsızlığa karşı korur. İç düzenleme bölmeleri, çeşitli boyutlardaki aletleri düzenli bir şekilde yerleştirmenize olanak tanır, böylece ihtiyaç duyduğunuz aletlere hızlıca ulaşabilirsiniz. Metal kilitli takım çantası, inşaat, otomotiv, bakım onarım ve genel el işleri gibi birçok alanda kullanıma uygundur ve kullanıcıların işlerini daha verimli bir şekilde yapmalarına yardımcı olur."
+    },
+
+    {
+      "id": 213,
+      "name": "Pense",
+      "url": "pense",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729596450/pense_hkjvyv.webp"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596450/pense_hkjvyv.webp",
+      "description": "Pense, özellikle nesneleri tutmak, sıkıştırmak veya bükmek için tasarlanmış el aletidir. Dayanıklı çelikten üretilmiş olan pense, çeşitli boyutlarda ve tiplerde gelir, bu da onu farklı uygulamalar için uygun hale getirir. Genellikle, pense uçları çentik, düz veya keskin kenarlarla tasarlanmıştır, böylece kullanıcının ihtiyacına göre değişik işlevler sunar. Kolu, daha iyi tutuş ve konfor sağlamak amacıyla kauçuk veya plastikle kaplanmış olabilir. Pense, otomotiv, inşaat, elektrik ve genel bakım alanlarında yaygın olarak kullanılır ve tamir, montaj ve sökme işlemlerinde büyük bir yardımcıdır."
+    },
+
+    {
+      "id": 214,
+      "name": "Pala Testere",
+      "url": "pala-testere",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729596449/pala-testere_az2yzu.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596449/pala-testere_az2yzu.jpg",
+      "description": "Pala testere, geniş ve güçlü dişlere sahip bir testere türüdür, genellikle büyük ahşap parçalarını kesmek için tasarlanmıştır. Dayanıklı çelikten üretilmiş pala testere, çeşitli uzunluklarda ve diş aralıklarında gelir, bu da onu farklı kalınlık ve türdeki ahşap malzemeleri kesmek için uygun hale getirir. Kullanım sırasında daha iyi kontrol sağlamak için ergonomik bir sap ile donatılmıştır. Pala testereler, inşaat, marangozluk ve ağaç işleme gibi alanlarda yaygın olarak kullanılır ve büyük ağaçları, kütükleri ve diğer ahşap malzemeleri kesmede etkili bir çözümdür."
+    },
+
+    {
+      "id": 215,
+      "name": "Anahtar Takımı",
+      "url": "anahtar-takimi",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729596449/anahtar-takimi_id1sbq.png"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596449/anahtar-takimi_id1sbq.png",
+      "description": "Anahtar takımı, çeşitli boyutlarda ve tiplerde anahtarlar içeren bir el aletleri setidir ve genellikle cıvata, somun ve diğer bağlantı elemanlarını sıkma ve gevşetme işlemlerinde kullanılır. Genellikle krom vanadyum veya krom molibden gibi dayanıklı malzemelerden üretilir, bu da uzun ömürlü ve aşınmaya karşı dirençli olmalarını sağlar. Takım, farklı boyutlarda açık ve kapalı uçlu anahtarları, soket anahtarları ve bazen tornavidaları içerir. Ergonomik tasarımları sayesinde kullanıcıya rahat bir tutuş sunar ve genellikle taşıma çantasıyla birlikte gelir, bu da düzenli saklama ve kolay ulaşım imkanı sağlar. Anahtar takımları, otomotiv, endüstri, inşaat ve genel bakım uygulamalarında yaygın olarak kullanılmaktadır."
+    },
+
+    {
+      "id": 216,
+      "name": "Bosch Akülü Darbeli Vidalama Makinesi",
+      "url": "akulu-darbeli-vidalama-makinesi",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729596474/akulu-darbeli-vidalama-makinesi_sg2fgg.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596474/akulu-darbeli-vidalama-makinesi_sg2fgg.jpg",
+      "description": "Bosch akülü darbeli vidalama makinesi, yüksek tork ve darbeli vida sıkma yeteneği ile çeşitli yüzeylerde hızlı ve etkili vida işlemleri yapabilen bir el aletidir. Kompakt ve hafif tasarımı sayesinde dar alanlarda rahatlıkla kullanılabilir. Bu model, Li-Ion batarya teknolojisi ile donatılmış olup, hızlı şarj özelliği sayesinde kesintisiz çalışma imkanı sunar. Ergonomik tutma yeri, kullanıcı konforunu artırırken, LED aydınlatma özelliği, düşük ışık koşullarında bile hassas çalışma sağlar. Makine, ahşap, metal ve plastik gibi farklı malzemelerde kullanılabilir ve profesyonel uygulamalarda güvenilir bir performans sergiler. Darbe fonksiyonu, sıkı vida bağlantılarını kolayca çözmeye ve takmaya olanak tanır, böylece kullanıcının iş verimliliğini artırır."
+    },
+
+    {
+      "id": 217,
+      "name": "Bosch Elektrikli Kırıcı",
+      "url": "elektrikli-kirici",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729596475/bosch-elektrikli-kirici_mgdfb1.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596475/bosch-elektrikli-kirici_mgdfb1.jpg",
+      "description": "Bosch elektrikli kırıcı, güçlü motoru ve dayanıklı tasarımıyla inşaat ve tamirat işlerinde zorlu malzemeleri delmek veya kırmak için tasarlanmış bir el aletidir. Yüksek darbe enerjisi, çeşitli zemin türlerinde etkili sonuçlar elde etmeyi sağlar. Ergonomik tutma yeri ve düşük titreşim özellikleri, uzun süreli kullanımlarda bile kullanıcı konforunu artırır. Makine, farklı uygulamalar için çeşitli uçlarla uyumlu çalışabilir ve pratik bir kullanım sunar. Elektrikli kırıcı, beton, tuğla, taş gibi sert malzemelerde etkili bir şekilde çalışarak iş verimliliğini artırır ve profesyonel uygulamalarda güvenilir bir performans sergiler."
+    },
+
+    {
+      "id": 218,
+      "name": "Dewalt Dekupaj Testere",
+      "url": "dewalt-dekupaj-testere",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729596477/dewalt-hareketli-dekupaj-testere_gaeo1k.webp"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596477/dewalt-hareketli-dekupaj-testere_gaeo1k.webp",
+      "description": "Dewalt dekupaj testere, çeşitli malzemeleri hassas bir şekilde kesmek için tasarlanmış bir elektrikli el aletidir. Güçlü motoru sayesinde, ahşap, plastik ve metal gibi farklı materyaller üzerinde hızlı ve temiz kesimler yapar. Ergonomik tasarımı ve hafif yapısı, uzun süreli kullanımlarda rahatlık sağlar. Değiştirilebilir bıçak sistemi, kullanıcının ihtiyaçlarına göre farklı kesim türleri gerçekleştirmesine olanak tanır. Ayrıca, hızlı ayar mekanizması, kesim derinliğini ve açısını kolayca değiştirmeyi sağlar. Dewalt dekupaj testere, hem profesyonel hem de hobi amaçlı kullanıcılar için ideal bir seçenektir ve projelerde yüksek verimlilik sunar."
+    },
+
+    {
+      "id": 219,
+      "name": "Dewalt Taş Motoru",
+      "url": "dewalt-tas-motoru",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729596477/dewalt-tas-motoru_egmtc9.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596477/dewalt-tas-motoru_egmtc9.jpg",
+      "description": "Dewalt taş motoru, taş, beton ve benzeri sert malzemeleri kesmek, şekillendirmek ve zımparalamak için tasarlanmış güçlü bir elektrikli el aletidir. Yüksek performanslı motoru, zorlu işlerde bile etkili bir kesim sağlar. Kullanıcı dostu tasarımı, hem profesyonel hem de hobi amaçlı kullanıcıların konforla kullanabilmesini sağlar. Değiştirilebilir kesme ve zımpara diskleri, farklı uygulama ihtiyaçlarına göre hızlıca değiştirilebilir. Ayrıca, ayarlanabilir hız kontrolü, farklı malzemelere göre optimum kesim performansı sağlar. Dewalt taş motoru, inşaat, onarım ve renovasyon projelerinde yüksek verimlilik ve dayanıklılık sunar."
+    },
+
+    {
+      "id": 220,
+      "name": "Havalı Somun Perçin Makinesi",
+      "url": "havali-somun-percin-makinesi",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729596477/havali-somun-percin-makinesi_uhtrdy.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596477/havali-somun-percin-makinesi_uhtrdy.jpg",
+      "description": "Havalı somun perçin makinesi, yüksek dayanıklılık ve güvenilirlik sağlamak amacıyla somun ve perçinlerin hızlı ve etkili bir şekilde montajı için tasarlanmış bir elektrikli aletidir. Bu makine, genellikle otomotiv, inşaat ve üretim sektörlerinde kullanılır ve havalı çalışma prensibi sayesinde güçlü bir perforasyon ve montaj gücü sunar. Ergonomik tasarımı, uzun süreli kullanımda bile rahatlık sağlar. Farklı boyutlarda perçin ve somunları işlemek için çeşitli uçlarla uyumludur. Ayrıca, hızlı ve doğru montaj işlemleri yaparak iş verimliliğini artırır. Havalı somun perçin makinesi, endüstriyel uygulamalarda sıkça tercih edilen bir alettir."
+    },
+
+    {
+      "id": 221,
+      "name": "Bosch Dekupaj Testere",
+      "url": "bosch-dekupaj-testere",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729596475/bosch-dekupaj-testere_lrb7xu.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596475/bosch-dekupaj-testere_lrb7xu.jpg",
+      "description": "Bosch dekupaj testere, hassas kesim işlemleri için tasarlanmış yüksek performanslı bir elektrikli alettir. Ahşap, plastik ve metal gibi farklı malzemeleri kesmek için kullanılabilir. Ergonomik tasarımı ve hafif yapısı, uzun süreli kullanımlarda bile konfor sağlar. Ayarlanabilir hız kontrolü, kullanıcının ihtiyaçlarına göre kesim hızını optimize etmesine olanak tanır. Ayrıca, lazer gösterge ve toz emme sistemi gibi ek özelliklerle donatılmıştır, bu da kesimlerin daha doğru ve temiz olmasını sağlar. Bosch dekupaj testere, hem profesyonel hem de hobi kullanıcıları için ideal bir seçimdir."
+    },
+
+    {
+      "id": 222,
+      "name": "Rtrmax Ağaç Kesme Makinesi",
+      "url": "rtrmax-agac-kesme-makinesi",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729596479/rtrmax-benzinli-agac-motoru_dfuqdg.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596479/rtrmax-benzinli-agac-motoru_dfuqdg.jpg",
+      "description": "Rtrmax ağaç kesme makinesi, güçlü motoru ve yüksek kesim kapasitesi ile etkili bir şekilde ağaçları kesmek için tasarlanmış profesyonel bir ekipmandır. Dayanıklı yapısı, zorlu koşullarda bile güvenilir performans sunar. Ergonomik tasarımı sayesinde kullanıcı konforunu ön planda tutar ve uzun süreli kullanımlarda yorgunluğu azaltır. Gelişmiş güvenlik özellikleri, kullanıcıların güvenliğini sağlarken, ayarlanabilir kesim derinliği ve açısı, farklı uygulamalar için esneklik sunar. Rtrmax ağaç kesme makinesi, hem profesyonel ormancılık hem de bahçe işleri için idealdir."
+    },
+
+    {
+      "id": 223,
+      "name": "Dewalt Avuç Taşlama",
+      "url": "dewalt-avuc-taslama",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729596476/dewalt-avuc-taslama_fskucb.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596476/dewalt-avuc-taslama_fskucb.jpg",
+      "description": "Dewalt avuç taşlama makinesi, kompakt ve hafif tasarımıyla kullanıcıya maksimum kontrol ve konfor sunar. Güçlü motoru, hızlı kesim ve taşlama işlemleri için yüksek performans sağlar. Ergonomik tutma yeri, uzun süreli kullanımlarda yorgunluğu azaltarak daha rahat bir çalışma deneyimi sunar. Bu taşlama makinesi, metal, taş ve benzeri sert yüzeylerde etkin bir şekilde kullanılmak üzere tasarlanmıştır. Ayrıca, güvenlik anahtarı ve koruyucu kapağı gibi özellikler, kullanıcı güvenliğini artırır. Dewalt avuç taşlama, inşaat, montaj ve onarım işlerindeki profesyoneller için ideal bir çözümdür."
+    },
+
+    {
+      "id": 224,
+      "name": "Boya Karıştırma Mikseri",
+      "url": "boya-karistirma-mikseri",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729596478/profosyonel-alci-ve-boya-karistirici-mixer_itpy5d.webp"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596478/profosyonel-alci-ve-boya-karistirici-mixer_itpy5d.webp",
+      "description": "Boya karıştırma mikseri, çeşitli sıvı ve viskoziteye sahip malzemelerin homojen bir şekilde karıştırılmasını sağlamak için tasarlanmış bir araçtır. Genellikle güçlü bir motor ile donatılmıştır ve çeşitli hız ayarlarına sahip olup, kullanıcının ihtiyaçlarına göre özelleştirilmiş karıştırma işlemleri yapmasına olanak tanır. Farklı türdeki karıştırma uçları, akışkanlığı artırmak ve malzemeleri eşit bir şekilde dağıtmak için değiştirilerek kullanılabilir. Bu mikser, boya, astar ve diğer kaplama malzemeleri için ideal bir çözümdür ve inşaat, dekorasyon ve sanayi gibi alanlarda etkin bir şekilde kullanılır. Kullanım sırasında, ergonomik tasarımı ve hafif yapısı sayesinde uzun süreli kullanımlarda konfor sunar."
+    },
+
+    {
+      "id": 225,
+      "name": "Dewalt Kırıcı Delici Matkap",
+      "url": "dewalt-kirici-delici-matkap",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729596479/sarjli-pnomatik-matkap_ai2fc4.webp"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596479/sarjli-pnomatik-matkap_ai2fc4.webp",
+      "description": "Dewalt Kırıcı Delici Matkap, güçlü performansı ve dayanıklılığıyla öne çıkan bir el aletidir. Bu matkap, beton, tuğla ve taş gibi sert malzemelerde delme ve kırma işlemleri için tasarlanmıştır. Yüksek tork ve hızlı dönüş hızı sayesinde, zorlu iş koşullarında bile etkin bir şekilde çalışır. Matkabın ayarlanabilir hız ayarları ve darbe fonksiyonu, kullanıcıya farklı uygulamalarda maksimum kontrol sağlar. Ayrıca, ergonomik tutma yeri ve hafif yapısı, uzun süreli kullanımlarda konfor sunar. Dewalt Kırıcı Delici Matkap, inşaat, renovasyon ve tamir işlerinde profesyonel kullanıcılar için ideal bir çözümdür."
+    },
+
+    {
+      "id": 226,
       "name": "Titanyum Bağlantı Elemanları",
       "url": "titanyum-baglanti-elemanlari",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728910576/titanyum_oawgj3.jpg"],
@@ -3818,7 +3998,7 @@
     },
 
     {
-      "id": 207,
+      "id": 227,
       "name": "Özel Üretim Bağlantı Elemanları",
       "url": "ozel-uretim-baglanti-elemanlari",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728910676/ozel-baglanti-elemanlari_ynqevl.jpg"],
@@ -3827,7 +4007,7 @@
     },
 
     {
-      "id": 208,
+      "id": 228,
       "name": "10.9 ve 12.9 Bağlantı Elemanları",
       "url": "10-9-ve-12-9-baglanti-elemanlari",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728910932/i_igsepr.webp"],
@@ -3836,7 +4016,7 @@
     },
 
     {
-      "id": 209,
+      "id": 229,
       "name": "DIN 6885 (A) ve (B) Tipi Kamalar",
       "url": "din-6885-a-ve-b-tipi-kamalar",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729528346/din-6885-a_grtblx.webp", "https://res.cloudinary.com/di9qvtepw/image/upload/v1729528346/din-6885-b_us3kps.jpg"],
