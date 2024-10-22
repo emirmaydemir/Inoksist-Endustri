@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://inoksist-endustri.vercel.app/sitemap.xml
+Sitemap: https://www.inoksist.com.tr/sitemap.xml
