@@ -18,7 +18,9 @@ export default function sitemap() {
   // Ürünlerin URL'lerini oluşturun
   const productUrls = locales.flatMap((locale) =>
     jsonData.allData.map((product) => ({
-      url: `${baseUrl}/${locale}/urun/${product.url}`, // Slug ile dinamik URL oluşturun
+      url: locale === "tr" 
+      ? `${baseUrl}/urun/${product.url}`
+      : `${baseUrl}/${locale}/urun/${product.url}`,
       lastModified: new Date(),
       changeFrequency: "never", // Değişiklik sıklığı
       priority: 0.8, // Öncelik ayarları
@@ -26,182 +28,185 @@ export default function sitemap() {
   );
 
   // Statik URL'leri oluşturun
-  const staticUrls = locales.flatMap((locale) => [
+  const staticUrls = locales.flatMap((locale) => {
+    const baseUrlWithLocale = locale === "tr" ? baseUrl : `${baseUrl}/${locale}`;
+    return [
     {
-      url: `${baseUrl}/${locale}`,
+      url: baseUrlWithLocale,
       lastModified: new Date(),
       changeFrequency: "never",
       priority: 1,
     },
     {
-      url: `${baseUrl}/${locale}/hakkimizda`,
+      url: `${baseUrlWithLocale}/hakkimizda`,
       lastModified: new Date(),
       changeFrequency: "never",
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/${locale}/baglanti-elemanlari/urunler`,
+      url: `${baseUrlWithLocale}/baglanti-elemanlari/urunler`,
       lastModified: new Date(),
       changeFrequency: "never",
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/${locale}/hirdavat/urunler`,
+      url: `${baseUrlWithLocale}/hirdavat/urunler`,
       lastModified: new Date(),
       changeFrequency: "never",
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/${locale}/bakim-kimyasallari/urunler`,
+      url: `${baseUrlWithLocale}/bakim-kimyasallari/urunler`,
       lastModified: new Date(),
       changeFrequency: "never",
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/${locale}/moduler-su-deposu/urunler`,
+      url: `${baseUrlWithLocale}/moduler-su-deposu/urunler`,
       lastModified: new Date(),
       changeFrequency: "never",
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/${locale}/fiyat-listeleri`,
+      url: `${baseUrlWithLocale}/fiyat-listeleri`,
       lastModified: new Date(),
       changeFrequency: "never",
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/${locale}/iletisim`,
+      url: `${baseUrlWithLocale}/iletisim`,
       lastModified: new Date(),
       changeFrequency: "never",
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/${locale}/baglanti-elemanlari/paslanmaz-baglanti-elemanlari`,
+      url: `${baseUrlWithLocale}/baglanti-elemanlari/paslanmaz-baglanti-elemanlari`,
       lastModified: new Date(),
       changeFrequency: "never",
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/${locale}/baglanti-elemanlari/celik-baglanti-elemanlari`,
+      url: `${baseUrlWithLocale}/baglanti-elemanlari/celik-baglanti-elemanlari`,
       lastModified: new Date(),
       changeFrequency: "never",
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/${locale}/baglanti-elemanlari/demir-baglanti-elemanlari`,
+      url: `${baseUrlWithLocale}/baglanti-elemanlari/demir-baglanti-elemanlari`,
       lastModified: new Date(),
       changeFrequency: "never",
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/${locale}/baglanti-elemanlari/pirinc-baglanti-elemanlari`,
+      url: `${baseUrlWithLocale}/baglanti-elemanlari/pirinc-baglanti-elemanlari`,
       lastModified: new Date(),
       changeFrequency: "never",
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/${locale}/baglanti-elemanlari/titanyum-baglanti-elemanlari`,
+      url: `${baseUrlWithLocale}/baglanti-elemanlari/titanyum-baglanti-elemanlari`,
       lastModified: new Date(),
       changeFrequency: "never",
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/${locale}/baglanti-elemanlari/ozel-uretim-baglanti-elemanlari`,
+      url: `${baseUrlWithLocale}/baglanti-elemanlari/ozel-uretim-baglanti-elemanlari`,
       lastModified: new Date(),
       changeFrequency: "never",
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/${locale}/baglanti-elemanlari/10-9-ve-12-9-baglanti-elemanlari`,
+      url: `${baseUrlWithLocale}/baglanti-elemanlari/10-9-ve-12-9-baglanti-elemanlari`,
       lastModified: new Date(),
       changeFrequency: "never",
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/${locale}/baglanti-elemanlari/kama-baglanti-elemanlari`,
+      url: `${baseUrlWithLocale}/baglanti-elemanlari/kama-baglanti-elemanlari`,
       lastModified: new Date(),
       changeFrequency: "never",
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/${locale}/hirdavat/delme-kesme-yaglari-grubu`,
+      url: `${baseUrlWithLocale}/hirdavat/delme-kesme-yaglari-grubu`,
       lastModified: new Date(),
       changeFrequency: "never",
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/${locale}/hirdavat/is-guvenligi-grubu`,
+      url: `${baseUrlWithLocale}/hirdavat/is-guvenligi-grubu`,
       lastModified: new Date(),
       changeFrequency: "never",
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/${locale}/hirdavat/kaynak-ekipmanlari-grubu`,
+      url: `${baseUrlWithLocale}/hirdavat/kaynak-ekipmanlari-grubu`,
       lastModified: new Date(),
       changeFrequency: "never",
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/${locale}/hirdavat/kesici-ve-asindirici-grubu`,
+      url: `${baseUrlWithLocale}/hirdavat/kesici-ve-asindirici-grubu`,
       lastModified: new Date(),
       changeFrequency: "never",
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/${locale}/hirdavat/ambalaj-ve-paketleme-grubu`,
+      url: `${baseUrlWithLocale}/hirdavat/ambalaj-ve-paketleme-grubu`,
       lastModified: new Date(),
       changeFrequency: "never",
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/${locale}/hirdavat/silikon-ve-sizdirmazlik-grubu`,
+      url: `${baseUrlWithLocale}/hirdavat/silikon-ve-sizdirmazlik-grubu`,
       lastModified: new Date(),
       changeFrequency: "never",
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/${locale}/hirdavat/sprey-boya`,
+      url: `${baseUrlWithLocale}/hirdavat/sprey-boya`,
       lastModified: new Date(),
       changeFrequency: "never",
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/${locale}/hirdavat/yapistirici-grubu`,
+      url: `${baseUrlWithLocale}/hirdavat/yapistirici-grubu`,
       lastModified: new Date(),
       changeFrequency: "never",
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/${locale}/hirdavat/el-aletleri`,
+      url: `${baseUrlWithLocale}/hirdavat/el-aletleri`,
       lastModified: new Date(),
       changeFrequency: "never",
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/${locale}/hirdavat/profesyonel-el-aletleri`,
+      url: `${baseUrlWithLocale}/hirdavat/profesyonel-el-aletleri`,
       lastModified: new Date(),
       changeFrequency: "never",
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/${locale}/bakim-kimyasallari/bakim-kimyasallari`,
+      url: `${baseUrlWithLocale}/bakim-kimyasallari/bakim-kimyasallari`,
       lastModified: new Date(),
       changeFrequency: "never",
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/${locale}/bakim-kimyasallari/paslanmaz-spreyler`,
+      url: `${baseUrlWithLocale}/bakim-kimyasallari/paslanmaz-spreyler`,
       lastModified: new Date(),
       changeFrequency: "never",
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/${locale}/moduler-su-deposu/moduler-su-deposu`,
+      url: `${baseUrlWithLocale}/moduler-su-deposu/moduler-su-deposu`,
       lastModified: new Date(),
       changeFrequency: "never",
       priority: 0.8,
     },
-  ]);
+  ];
+});
 
   // Sitemap yapısını oluşturun
   return [...staticUrls, ...productUrls];
