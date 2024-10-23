@@ -119,6 +119,126 @@
       "source": "/Pagesp/13/1025/moduler-su-deposu",
       "destination": "/moduler-su-deposu/moduler-su-deposu",
       "permanent": true
+    },
+    {
+      "source": "/En/Pagesco/1",
+      "destination": "/en/hakkimizda",
+      "permanent": true
+    },
+    {
+      "source": "/En/Pagesp/10",
+      "destination": "/en/baglanti-elemanlari/urunler",
+      "permanent": true
+    },
+    {
+      "source": "/En/Pagesp/11",
+      "destination": "/en/hirdavat/urunler",
+      "permanent": true
+    },
+    {
+      "source": "/En/Pagesp/12",
+      "destination": "/en/bakim-kimyasallari/urunler",
+      "permanent": true
+    },
+    {
+      "source": "/En/Pagesp/13",
+      "destination": "/en/moduler-su-deposu/urunler",
+      "permanent": true
+    },
+    {
+      "source": "/En/Pagesco/14",
+      "destination": "/en/fiyat-listeleri",
+      "permanent": true
+    },
+    {
+      "source": "/En/Pagesc/6",
+      "destination": "/en/iletisim",
+      "permanent": true
+    },
+    {
+      "source": "/En/Pagesp/10/1012/paslanmaz-baglanti-elemanlari",
+      "destination": "/en/baglanti-elemanlari/paslanmaz-baglanti-elemanlari",
+      "permanent": true
+    },
+    {
+      "source": "/En/Pagesp/10/1013/celik-baglanti-elemanlari",
+      "destination": "/en/baglanti-elemanlari/celik-baglanti-elemanlari",
+      "permanent": true
+    },
+    {
+      "source": "/En/Pagesp/10/1014/demir-baglanti-elemanlari",
+      "destination": "/en/baglanti-elemanlari/demir-baglanti-elemanlari",
+      "permanent": true
+    },
+    {
+      "source": "/En/Pagesp/10/1015/pirinc-baglanti-elemanlari",
+      "destination": "/en/baglanti-elemanlari/pirinc-baglanti-elemanlari",
+      "permanent": true
+    },
+    {
+      "source": "/En/Pagesp/10/1026/titanyum-baglanti-elemanlari",
+      "destination": "/en/baglanti-elemanlari/titanyum-baglanti-elemanlari",
+      "permanent": true
+    },
+    {
+      "source": "/En/Pagesp/10/1027/ozel-uretim-baglanti-elemanlari",
+      "destination": "/en/baglanti-elemanlari/ozel-uretim-baglanti-elemanlari",
+      "permanent": true
+    },
+    {
+      "source": "/En/Pagesp/10/1027/ozel-uretim-baglanti-elemanlari#",
+      "destination": "/en/baglanti-elemanlari/10-9-ve-12-9-baglanti-elemanlari",
+      "permanent": true
+    },
+    {
+      "source": "/En/Pagesp/11/1029/delme-kesme-yaglari-grubu",
+      "destination": "/en/hirdavat/delme-kesme-yaglari-grubu",
+      "permanent": true
+    },
+    {
+      "source": "/En/Pagesp/11/1030/is-guvenligi-grubu",
+      "destination": "/en/hirdavat/is-guvenligi-grubu",
+      "permanent": true
+    },
+    {
+      "source": "/En/Pagesp/11/1031/kaynak-ekipmanlari-grubu",
+      "destination": "/en/hirdavat/kaynak-ekipmanlari-grubu",
+      "permanent": true
+    },
+    {
+      "source": "/En/Pagesp/11/1032/kesici-ve-asindirici-grubu",
+      "destination": "/en/hirdavat/kesici-ve-asindirici-grubu",
+      "permanent": true
+    },
+    {
+      "source": "/En/Pagesp/11/1033/ambalaj-ve-paketleme-grubu",
+      "destination": "/en/hirdavat/ambalaj-ve-paketleme-grubu",
+      "permanent": true
+    },
+    {
+      "source": "/En/Pagesp/11/1034/sizdirmazlik-grubu",
+      "destination": "/en/hirdavat/silikon-ve-sizdirmazlik-grubu",
+      "permanent": true
+    },
+    {
+      "source": "/En/Pagesp/11/1035/sprey-boya",
+      "destination": "/en/hirdavat/sprey-boya",
+      "permanent": true
+    },
+    {
+      "source": "/En/Pagesp/11/1037/yapistirici-grubu",
+      "destination": "/en/hirdavat/yapistirici-grubu",
+      "permanent": true
+    },
+    {
+      "source": "/En/Pagesp/12/1028/bakim-kimyasallari",
+      "destination": "/en/bakim-kimyasallari/bakim-kimyasallari",
+      "permanent": true
+    },
+    {
+      "source": "/En/Pagesp/13/1025/moduler-su-deposu",
+      "destination": "/en/moduler-su-deposu/moduler-su-deposu",
+      "permanent": true
     }
   ]
 }
