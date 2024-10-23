@@ -3891,33 +3891,60 @@
 
     {
       "id": 215,
-      "name": "Wrench Set",
-      "url": "anahtar-takimi",
+      "name": "Allen Wrench Set",
+      "url": "allen-anahtar-takimi",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729596449/anahtar-takimi_id1sbq.png"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596449/anahtar-takimi_id1sbq.png",
-      "description": "Wrench set is a collection of hand tools that includes wrenches of various sizes and types, primarily used for tightening and loosening bolts, nuts, and other fasteners. Typically made from durable materials such as chrome vanadium or chrome molybdenum, these tools are designed to be long-lasting and resistant to wear. The set often includes both open-end and box-end wrenches, socket wrenches, and sometimes screwdrivers. Their ergonomic designs provide a comfortable grip for users, and they often come with a carrying case for organized storage and easy access. Wrench sets are commonly used in automotive, industrial, construction, and general maintenance applications."
+      "description": "Allen wrench set is a tool kit used for tightening and loosening hexagonal-headed screws and bolts. Typically made from high-quality steel, these wrenches are known for their durability and long-lasting performance. Available in various sizes, this set is suitable for a range of applications, making it ideal for both professional and hobbyist users. The Allen Wrench Set is commonly used in furniture assembly, bicycle repairs, and machine installations. Its ergonomic design provides a comfortable grip and control, enhancing work efficiency."
     },
 
     {
       "id": 216,
-      "name": "Bosch Cordless Impact Drill",
-      "url": "akulu-darbeli-vidalama-makinesi",
-      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729596474/akulu-darbeli-vidalama-makinesi_sg2fgg.jpg"],
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596474/akulu-darbeli-vidalama-makinesi_sg2fgg.jpg",
-      "description": "Bosch cordless impact drill is a powerful tool designed for fast and efficient screw fastening on various surfaces, featuring high torque and impact capabilities. Its compact and lightweight design makes it easy to use in tight spaces. Equipped with Li-Ion battery technology, it offers rapid charging for uninterrupted operation. The ergonomic grip enhances user comfort, while the LED light allows for precise work even in low-light conditions. This machine is suitable for use on materials such as wood, metal, and plastic, delivering reliable performance in professional applications. The impact function enables easy loosening and tightening of tight screw connections, increasing overall work efficiency for the user."
+      "name": "Wrench Set",
+      "url": "anahtar-takimi",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729684769/anahtar-takimii_cqk9yv.webp"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729684769/anahtar-takimii_cqk9yv.webp",
+      "description": "Wrench set is a collection of hand tools that includes wrenches of various sizes and types, primarily used for tightening and loosening bolts, nuts, and other fasteners. Typically made from durable materials such as chrome vanadium or chrome molybdenum, these tools are designed to be long-lasting and resistant to wear. The set often includes both open-end and box-end wrenches, socket wrenches, and sometimes screwdrivers. Their ergonomic designs provide a comfortable grip for users, and they often come with a carrying case for organized storage and easy access. Wrench sets are commonly used in automotive, industrial, construction, and general maintenance applications."
     },
 
     {
       "id": 217,
-      "name": "Bosch Electric Demolition Hammer",
-      "url": "elektrikli-kirici",
-      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729596475/bosch-elektrikli-kirici_mgdfb1.jpg"],
-      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596475/bosch-elektrikli-kirici_mgdfb1.jpg",
-      "description": "Bosch electric demolition hammer is a powerful tool designed for breaking or drilling tough materials in construction and repair tasks. With high impact energy, it delivers effective results on various types of surfaces. Its ergonomic grip and low vibration features enhance user comfort, even during prolonged use. The machine is compatible with various bits for different applications, offering practical usability. The electric breaker effectively works on hard materials such as concrete, brick, and stone, increasing work efficiency and providing reliable performance in professional applications."
+      "name": "Side Cutter",
+      "url": "yan-keski",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729685351/yan-keski_vlbh10.webp"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729685351/yan-keski_vlbh10.webp",
+      "description": "Side Cutter is a hand tool designed for cutting wires and cables. Made from sharp and durable steel, this tool effectively cuts through various thicknesses of wires, cables, and other materials. It is commonly used in electrical work, automotive repairs, and general maintenance applications. The ergonomic grip of the side cutter ensures comfortable use and reduces hand fatigue during extended periods of operation. Additionally, its ability to work in tight spaces adds to its practicality."
     },
 
     {
       "id": 218,
+      "name": "Nose Pliers",
+      "url": "kargaburun",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729685351/karga-burun_s3r3y1.webp"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729685351/karga-burun_s3r3y1.webp",
+      "description": "Nose Pliers are a hand tool primarily used for cutting, shaping, and gripping. They are especially ideal for cutting or bending materials such as metal, plastic, or wire. Made from sharp and durable steel, the needle-nose pliers provide a strong grip and feature an ergonomic design for comfort during extended use. Available in various sizes and types, they are commonly favored in a variety of industrial applications, including electrical and automotive sectors. Easy to use, they deliver effective results in tasks that require precision in detailed work."
+    },
+
+    {
+      "id": 219,
+      "name": "Cordless Impact Drill",
+      "url": "akulu-darbeli-vidalama-makinesi",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729596474/akulu-darbeli-vidalama-makinesi_sg2fgg.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596474/akulu-darbeli-vidalama-makinesi_sg2fgg.jpg",
+      "description": "Cordless impact drill is a powerful tool designed for fast and efficient screw fastening on various surfaces, featuring high torque and impact capabilities. Its compact and lightweight design makes it easy to use in tight spaces. Equipped with Li-Ion battery technology, it offers rapid charging for uninterrupted operation. The ergonomic grip enhances user comfort, while the LED light allows for precise work even in low-light conditions. This machine is suitable for use on materials such as wood, metal, and plastic, delivering reliable performance in professional applications. The impact function enables easy loosening and tightening of tight screw connections, increasing overall work efficiency for the user."
+    },
+
+    {
+      "id": 220,
+      "name": "Electric Demolition Hammer",
+      "url": "elektrikli-kirici",
+      "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729596475/bosch-elektrikli-kirici_mgdfb1.jpg"],
+      "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596475/bosch-elektrikli-kirici_mgdfb1.jpg",
+      "description": "Electric demolition hammer is a powerful tool designed for breaking or drilling tough materials in construction and repair tasks. With high impact energy, it delivers effective results on various types of surfaces. Its ergonomic grip and low vibration features enhance user comfort, even during prolonged use. The machine is compatible with various bits for different applications, offering practical usability. The electric breaker effectively works on hard materials such as concrete, brick, and stone, increasing work efficiency and providing reliable performance in professional applications."
+    },
+
+    {
+      "id": 221,
       "name": "Dewalt Jigsaw",
       "url": "dewalt-dekupaj-testere",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729596477/dewalt-hareketli-dekupaj-testere_gaeo1k.webp"],
@@ -3926,16 +3953,16 @@
     },
 
     {
-      "id": 219,
-      "name": "Dewalt Angle Grinder",
+      "id": 222,
+      "name": "Angle Grinder",
       "url": "dewalt-tas-motoru",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729596477/dewalt-tas-motoru_egmtc9.jpg"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596477/dewalt-tas-motoru_egmtc9.jpg",
-      "description": "Dewalt angle grinder is a powerful electric tool designed for cutting, shaping, and grinding hard materials like stone and concrete. Its high-performance motor delivers effective cutting even in tough conditions. The user-friendly design ensures comfort for both professional and hobbyist users. Interchangeable cutting and grinding discs can be quickly changed to meet different application needs. Additionally, adjustable speed control provides optimal cutting performance based on various materials. The Dewalt stone cutter offers high efficiency and durability for construction, repair, and renovation projects."
+      "description": "Angle grinder is a powerful electric tool designed for cutting, shaping, and grinding hard materials like stone and concrete. Its high-performance motor delivers effective cutting even in tough conditions. The user-friendly design ensures comfort for both professional and hobbyist users. Interchangeable cutting and grinding discs can be quickly changed to meet different application needs. Additionally, adjustable speed control provides optimal cutting performance based on various materials. The Dewalt stone cutter offers high efficiency and durability for construction, repair, and renovation projects."
     },
 
     {
-      "id": 220,
+      "id": 223,
       "name": "Pneumatic Nut Riveting Machine",
       "url": "havali-somun-percin-makinesi",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729596477/havali-somun-percin-makinesi_uhtrdy.jpg"],
@@ -3944,34 +3971,34 @@
     },
 
     {
-      "id": 221,
-      "name": "Bosch Jigsaw",
+      "id": 224,
+      "name": "Jigsaw",
       "url": "bosch-dekupaj-testere",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729596475/bosch-dekupaj-testere_lrb7xu.jpg"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596475/bosch-dekupaj-testere_lrb7xu.jpg",
-      "description": "Bosch jigsaw is a high-performance electric tool designed for precise cutting tasks. It can cut through various materials such as wood, plastic, and metal. Its ergonomic design and lightweight construction ensure comfort during prolonged use. The adjustable speed control allows users to optimize cutting speed according to their needs. Additionally, it is equipped with features like a laser guide and dust extraction system, enhancing the accuracy and cleanliness of cuts. The Bosch jigsaw is an ideal choice for both professional and hobbyist users."
+      "description": "Jigsaw is a high-performance electric tool designed for precise cutting tasks. It can cut through various materials such as wood, plastic, and metal. Its ergonomic design and lightweight construction ensure comfort during prolonged use. The adjustable speed control allows users to optimize cutting speed according to their needs. Additionally, it is equipped with features like a laser guide and dust extraction system, enhancing the accuracy and cleanliness of cuts. The Bosch jigsaw is an ideal choice for both professional and hobbyist users."
     },
 
     {
-      "id": 222,
-      "name": "Rtrmax Chainsaw",
+      "id": 225,
+      "name": "Chainsaw",
       "url": "rtrmax-agac-kesme-makinesi",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729596479/rtrmax-benzinli-agac-motoru_dfuqdg.jpg"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596479/rtrmax-benzinli-agac-motoru_dfuqdg.jpg",
-      "description": "Rtrmax chainsaw is a professional piece of equipment designed for effectively cutting trees with its powerful motor and high cutting capacity. Its durable construction ensures reliable performance even in challenging conditions. The ergonomic design prioritizes user comfort and reduces fatigue during prolonged use. Advanced safety features protect users, while adjustable cutting depth and angle provide flexibility for various applications. The Rtrmax tree cutting machine is ideal for both professional forestry work and gardening tasks."
+      "description": "Chainsaw is a professional piece of equipment designed for effectively cutting trees with its powerful motor and high cutting capacity. Its durable construction ensures reliable performance even in challenging conditions. The ergonomic design prioritizes user comfort and reduces fatigue during prolonged use. Advanced safety features protect users, while adjustable cutting depth and angle provide flexibility for various applications. The Rtrmax tree cutting machine is ideal for both professional forestry work and gardening tasks."
     },
 
     {
-      "id": 223,
-      "name": "Dewalt Palm Sander",
+      "id": 226,
+      "name": "Palm Sander",
       "url": "dewalt-avuc-taslama",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729596476/dewalt-avuc-taslama_fskucb.jpg"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596476/dewalt-avuc-taslama_fskucb.jpg",
-      "description": "Dewalt palm sander is designed to provide maximum control and comfort with its compact and lightweight design. Its powerful motor delivers high performance for fast cutting and grinding operations. The ergonomic grip reduces fatigue during prolonged use, offering a more comfortable working experience. This grinder is specifically engineered for effective use on metal, stone, and similar hard surfaces. Additionally, features such as a safety switch and protective guard enhance user safety. The Dewalt palm grinder is an ideal solution for professionals in construction, assembly, and repair tasks."
+      "description": "Palm sander is designed to provide maximum control and comfort with its compact and lightweight design. Its powerful motor delivers high performance for fast cutting and grinding operations. The ergonomic grip reduces fatigue during prolonged use, offering a more comfortable working experience. This grinder is specifically engineered for effective use on metal, stone, and similar hard surfaces. Additionally, features such as a safety switch and protective guard enhance user safety. The Dewalt palm grinder is an ideal solution for professionals in construction, assembly, and repair tasks."
     },
 
     {
-      "id": 224,
+      "id": 227,
       "name": "Paint Mixing Mixer",
       "url": "boya-karistirma-mikseri",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729596478/profosyonel-alci-ve-boya-karistirici-mixer_itpy5d.webp"],
@@ -3980,16 +4007,16 @@
     },
 
     {
-      "id": 225,
-      "name": "Dewalt Hammer Drill",
+      "id": 228,
+      "name": "Hammer Drill",
       "url": "dewalt-kirici-delici-matkap",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729596479/sarjli-pnomatik-matkap_ai2fc4.webp"],
       "imgUrl": "https://res.cloudinary.com/di9qvtepw/image/upload/v1729596479/sarjli-pnomatik-matkap_ai2fc4.webp",
-      "description": "Dewalt Hammer Drill is a powerful and durable tool designed for drilling and breaking through hard materials like concrete, brick, and stone. With its high torque and fast rotation speed, it performs effectively even in challenging work conditions. The adjustable speed settings and hammer function provide maximum control for the user across various applications. Additionally, its ergonomic grip and lightweight design ensure comfort during extended use. The Dewalt Hammer Drill is an ideal solution for professional users in construction, renovation, and repair work."
+      "description": "Hammer Drill is a powerful and durable tool designed for drilling and breaking through hard materials like concrete, brick, and stone. With its high torque and fast rotation speed, it performs effectively even in challenging work conditions. The adjustable speed settings and hammer function provide maximum control for the user across various applications. Additionally, its ergonomic grip and lightweight design ensure comfort during extended use. The Dewalt Hammer Drill is an ideal solution for professional users in construction, renovation, and repair work."
     },
 
     {
-      "id": 226,
+      "id": 229,
       "name": "Titanium Fasteners",
       "url": "titanyum-baglanti-elemanlari",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728910576/titanyum_oawgj3.jpg"],
@@ -3998,7 +4025,7 @@
     },
 
     {
-      "id": 227,
+      "id": 230,
       "name": "Custom Manufactured Fasteners",
       "url": "ozel-uretim-baglanti-elemanlari",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728910676/ozel-baglanti-elemanlari_ynqevl.jpg"],
@@ -4007,7 +4034,7 @@
     },
 
     {
-      "id": 228,
+      "id": 231,
       "name": "10.9 and 12.9 Fasteners",
       "url": "10-9-ve-12-9-baglanti-elemanlari",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1728910932/i_igsepr.webp"],
@@ -4016,7 +4043,7 @@
     },
 
     {
-      "id": 229,
+      "id": 232,
       "name": "DIN 6885 Type (A) and (B) Keys",
       "url": "din-6885-a-ve-b-tipi-kamalar",
       "images": ["https://res.cloudinary.com/di9qvtepw/image/upload/v1729528346/din-6885-a_grtblx.webp", "https://res.cloudinary.com/di9qvtepw/image/upload/v1729528346/din-6885-b_us3kps.jpg"],

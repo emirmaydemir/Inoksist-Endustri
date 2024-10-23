@@ -12,13 +12,13 @@
     },
     {
       "id": 3,
-      "title": "DIN 1587 Kör Somun",
-      "description": "Kıvrımlı uçları koruyan kör somun. Estetik ve güvenli bağlantılar için kullanılır."
+      "title": "DIN 934 Altı Köşe Somun",
+      "description": "Altıgen şekilli, yüksek dayanıklılığa sahip somun, vidaların güvenli bağlantısını sağlarken, kolay montaj için tasarlanmıştır."
     },
     {
       "id": 4,
-      "title": "DIN 6796 Çanak Pul",
-      "description": "Yüksek yük dağılımı sağlayan konik şekilli yaylı pul, titreşimli ortamlarda gevşemeyi önler."
+      "title": "DIN 125 Düz Rondela",
+      "description": "Yüzey basıncını dağıtan düz rondela, vida ve somunların güvenli sabitlenmesini sağlar."
     }
   ]
 }
