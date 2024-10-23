@@ -65,7 +65,7 @@ const Footer = ({ footerData }) => {
 
               <p className="office__info">{footerData.contactInfo.email}&nbsp;info@inoksist.com.tr</p>
 
-              <p className="office__info">{footerData.contactInfo.hours} 9.00 - 19.00</p>
+              <p className="office__info">{footerData.contactInfo.hours} 8.30 - 19.00</p>
             </div>
           </Col>
 
