@@ -1,3 +1,16 @@
+/* ExchangeRate.css */
+.exchange-rate-container {
+  background-color: #ffffff;
+  color: #273286;
+  border-radius: 5px; /* Kenarların yuvarlatılması */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Hafif gölge efekti */
+  display: flex; /* Flexbox kullanarak içerikleri hizalamak için */
+  align-items: center; /* Dikey ortalama */
+  justify-content: center; /* Yatay ortalama */
+  min-width: 90px; /* Minimum genişlik */
+  max-width: 100%; /* Maksimum genişliği ekranın boyutuna göre ayarlayın */
+}
+
 .header__top {
   padding: 10px 0px;
   background: #273286;
