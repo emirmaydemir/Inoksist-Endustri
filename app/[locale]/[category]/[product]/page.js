@@ -5,7 +5,7 @@ import FastenerListingClient from "@/components/UI/FastenerListingClient";
 import initTranslations from "../../../i18n";
 
 // Meta etiketlerini dinamik olarak oluşturun
-export async function generateMetadata({ params: { locale, category } }) {
+export async function generateMetadata({ params: { locale, category, product } }) {
   const i18nNamespaces = ["categories", category];
   const { t } = await initTranslations(locale, i18nNamespaces);
   const headerContent = t("header", { returnObjects: true });
