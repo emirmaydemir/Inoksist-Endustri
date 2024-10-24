@@ -9,6 +9,7 @@
   justify-content: center; /* Yatay ortalama */
   min-width: 90px; /* Minimum genişlik */
   max-width: 100%; /* Maksimum genişliği ekranın boyutuna göre ayarlayın */
+  cursor: pointer;
 }
 
 .header__top {
