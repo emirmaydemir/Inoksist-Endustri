@@ -4,11 +4,16 @@ import "@/styles/contact.css";
 import ContactForm from "@/components/UI/ContactForm";
 import initTranslations from "../../i18n";
 
-export const metadata = {
-  title: "İletişim - İnoksist Endüstri Paslanmaz Civata Paslanmaz Somun | İstanbul",
-  description: "İletişim Bilgileri - İkitelli OSB Mahallesi, İmsan Sanayi Sitesi, E Blok No:3, 34306 Küçükçekmece, İstanbul. Bize +90 (212) 549 70 55 numaralı telefondan veya info@inoksist.com.tr e-posta adresinden ulaşabilirsiniz.",
-  keywords: "inoksist, ikitelli civata, imbus civata, m8 civata, inoks civata, inox civata, imbus civata, istanbul civata, İmsan Sanayi Sitesi, Küçükçekmece",
-};
+export async function generateMetadata({ params: { locale } }) {
+  return {
+    title: "İletişim - İnoksist Endüstri Paslanmaz Civata Paslanmaz Somun | İstanbul",
+    description: "İletişim Bilgileri - İkitelli OSB Mahallesi, İmsan Sanayi Sitesi, E Blok No:3, 34306 Küçükçekmece, İstanbul. Bize +90 (212) 549 70 55 numaralı telefondan veya info@inoksist.com.tr e-posta adresinden ulaşabilirsiniz.",
+    keywords: "inoksist, ikitelli civata, imbus civata, m8 civata, inoks civata, inox civata, imbus civata, istanbul civata, İmsan Sanayi Sitesi, Küçükçekmece",
+    alternates: {
+      canonical: `https://www.inoksist.com.tr/${locale === "en" ? "en/" : ""}iletisim`,
+    },
+  };
+}
 
 const i18nNamespaces = ["contact"];
 // İLETİŞİM

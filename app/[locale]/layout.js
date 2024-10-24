@@ -22,9 +22,6 @@ export const metadata = {
   title: "İnoksist Endüstri Paslanmaz Civata Paslanmaz Somun",
   description: "İnoksist Endüstri Paslanmaz Civata Paslanmaz Somun, İnox Civata Tedarikçisi",
   keywords: "inoksist, inoks civata , inox civata, paslanmaz civata, paslanmaz somun, paslanmaz pul, rondela, norm civata, standart civata, istanbul civata, ikitelli civata ,civata ithalatçısı, yarıklı pim, krom civata, krom somun, krom pul, setskur, imbus, alyan, krom vida, bağlantı elemanları",
-  alternates: {
-    canonical: "./",
-  },
 };
 
 export function generateStaticParams() {

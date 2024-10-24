@@ -45,6 +45,9 @@ export async function generateMetadata({ params: { locale, category } }) {
     title: title,
     description: description,
     keywords: keywords,
+    alternates: {
+      canonical: `https://www.inoksist.com.tr/${locale === "en" ? "en/" : ""}${category}/${product}`,
+    },
   };
 }
 

@@ -26,6 +26,9 @@ export async function generateMetadata({ params: { locale, slug } }) {
     title: `${singleProductItem.name}`,
     description: `${singleProductItem.description}`,
     keywords: keywords.trim(),
+    alternates: {
+      canonical: `https://www.inoksist.com.tr/${locale === "en" ? "en/" : ""}urun/${slug}`,
+    },
   };
 }
 

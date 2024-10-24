@@ -10,6 +10,14 @@ import Image from "next/image"; // next/image'den içe aktar
 
 import TrendyolSection from "@/components/UI/TrendyolSection";
 
+export async function generateMetadata({ params: { locale } }) {
+  return {
+    alternates: {
+      canonical: `https://www.inoksist.com.tr/${locale === "en" ? "en" : ""}`,
+    },
+  };
+}
+
 const i18nNamespaces = ["services", "homeSlider", "aboutSection", "motivation", "testimonial", "service"];
 
 export default async function HomePage({ params: { locale } }) {
