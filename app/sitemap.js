@@ -27,7 +27,7 @@ export default function sitemap() {
 
   // Statik URL'leri oluşturun
   const staticUrls = locales.flatMap((locale) => {
-    const baseUrlWithLocale = locale === "tr" ? `${baseUrl}/` : `${baseUrl}/${locale}`;
+    const baseUrlWithLocale = locale === "tr" ? `${baseUrl}/` : `${baseUrl}/${locale}/`;
     return [
       {
         url: `${baseUrlWithLocale}`,
