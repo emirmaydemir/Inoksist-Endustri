@@ -8,7 +8,6 @@ import "@/styles/header.css";
 import LanguageChanger from "@/components/LanguageChanger"; // Yeni dil değiştirici
 import Image from "next/image";
 import { usePathname } from "next/navigation";
-import ExchangeRate from "../UI/ExchangeRate";
 
 const socialLinks = [
   {
@@ -151,7 +150,6 @@ const Header = ({ navLinks, search, locale }) => {
                 ))}
                 {/* Bayrak değiştirici */}
                 <LanguageChanger className="flag-btn" />
-                <ExchangeRate />
               </div>
             </Col>
           </Row>

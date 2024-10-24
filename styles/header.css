@@ -1,16 +1,3 @@
-/* ExchangeRate.css */
-.exchange-rate-container {
-  background-color: #0e9999; /* %50 şeffaf beyaz arka plan */
-  color: #ffffff; /* Yazı rengi mavi */
-  border-radius: 5px; /* Kenarların yuvarlatılması */
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Hafif gölge efekti */
-  display: flex; /* Flexbox kullanarak içerikleri hizalamak için */
-  align-items: center; /* Dikey ortalama */
-  justify-content: center; /* Yatay ortalama */
-  padding: 0.4rem; /* Kutunun iç boşlukları */
-  height: 25px; /* Kutu yüksekliği ayarlanabilir */
-}
-
 .header__top {
   padding: 10px 0px;
   background: #273286;
