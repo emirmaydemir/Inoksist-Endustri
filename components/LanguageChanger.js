@@ -33,10 +33,10 @@ export default function LanguageChanger({ className }) {
   return (
     <div className={className}>
       {/* Türk Bayrağı */}
-      {currentLocale === "tr" && <Image src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" alt="Turkish Flag" width={30} height={20} onClick={() => handleChange("en")} className="flag-icon" />}
+      {currentLocale === "en" && <Image src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" alt="Turkish Flag" width={30} height={20} onClick={() => handleChange("tr")} className="flag-icon" />}
 
       {/* İngiliz Bayrağı */}
-      {currentLocale === "en" && <Image src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="English Flag" width={30} height={20} onClick={() => handleChange("tr")} className="flag-icon" />}
+      {currentLocale === "tr" && <Image src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="English Flag" width={30} height={20} onClick={() => handleChange("en")} className="flag-icon" />}
     </div>
   );
 }
