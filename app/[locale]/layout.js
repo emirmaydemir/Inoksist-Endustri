@@ -14,6 +14,7 @@ import initTranslations from "../i18n";
 import TranslationsProvider from "@/components/TranslationsProvider";
 import { notFound } from "next/navigation";
 import Head from "next/head";
+import { GoogleAnalytics } from "@next/third-parties/google";
 
 const i18nNamespaces = ["footer", "navLinks"];
 
@@ -57,6 +58,7 @@ export default async function RootLayout({ children, params: { locale } }) {
           </Fragment>
         </body>
       </TranslationsProvider>
+      <GoogleAnalytics gaId="G-3ZT20JJWKG" />
     </html>
   );
 }
