@@ -122,7 +122,7 @@ const HeroSlider = ({ sliderContent }) => {
               alt={slide.heading}
               width={1300}
               height={600}
-              loading="priority"
+              loading="eager"
               srcSet={`
                 ${slide.image}?w=300 300w,
                 ${slide.image}?w=600 600w,
