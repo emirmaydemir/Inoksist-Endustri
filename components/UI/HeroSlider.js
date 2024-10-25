@@ -1,104 +1,13 @@
 "use client";
 import React from "react";
+import Slider from "react-slick";
 import { Container } from "reactstrap";
-import Link from "next/link";
+import Link from "next/link"; // Next.js Link kullanımı
 import Image from "next/image";
-import dynamic from "next/dynamic";
-import styled from "styled-components";
+
 import "@/styles/hero-slider.css";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-
-const Slider = dynamic(() => import("react-slick"), { ssr: false });
-
-const SliderItem = styled.div`
-  position: relative;
-  max-width: 100%;
-  height: 650px;
-  background: linear-gradient(rgb(0, 13, 107, 0.5), rgb(0, 13, 107, 0.5));
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-
-  @media only screen and (max-width: 992px) {
-    height: 530px;
-    max-width: 100vw;
-  }
-
-  @media only screen and (max-width: 768px) {
-    height: 450px;
-  }
-`;
-
-const SliderImageContain = styled.div`
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  z-index: 1;
-`;
-
-const SliderImage = styled(Image)`
-  object-fit: cover;
-  width: 100%;
-  height: 100%;
-`;
-
-const Overlay = styled.div`
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background: linear-gradient(rgb(0, 13, 107, 0.5), rgb(0, 13, 107, 0.5));
-  z-index: 1;
-`;
-
-const SliderContent = styled.div`
-  position: relative;
-  z-index: 2;
-  padding-top: 150px;
-
-  h4 {
-    color: #fff;
-    margin-bottom: 1rem;
-  }
-
-  h1 {
-    font-size: 3.2rem;
-    font-weight: 600;
-    color: #fff;
-    margin-bottom: 1.5rem;
-
-    @media only screen and (max-width: 992px) {
-      font-size: 2rem;
-    }
-
-    @media only screen and (max-width: 768px) {
-      font-size: 1.5rem;
-    }
-  }
-
-  @media only screen and (max-width: 992px) {
-    margin-top: -50px;
-  }
-`;
-
-const ReserveButton = styled.button`
-  background: #fff !important;
-  color: #000d6b !important;
-  border: none;
-  border-radius: 8px;
-  outline: none;
-  padding: 0.4rem 1.2rem;
-  font-weight: 600;
-
-  &:hover {
-    background: #000d6b;
-    color: #fff;
-  }
-`;
 
 const HeroSlider = ({ sliderContent }) => {
   const settings = {
@@ -115,13 +24,14 @@ const HeroSlider = ({ sliderContent }) => {
   return (
     <Slider {...settings} className="hero__slider">
       {sliderContent.map((slide, index) => (
-        <SliderItem key={index}>
-          <SliderImageContain>
-            <SliderImage
+        <div key={index} className={`slider__item mt0`}>
+          <div className="slider-image-contain">
+            <Image
               src={slide.image}
               alt={slide.heading}
-              width={1300}
-              height={600}
+              fill
+              style={{ objectFit: "cover" }}
+              className="slider-image"
               loading="eager"
               srcSet={`
                 ${slide.image}?w=300 300w,
@@ -130,20 +40,20 @@ const HeroSlider = ({ sliderContent }) => {
               `}
               sizes="(max-width: 600px) 100vw, 600px"
             />
-            <Overlay />
-          </SliderImageContain>
+            <div className="overlay" /> {/* Gradyan overlay için div */}
+          </div>
           <Container>
-            <SliderContent>
-              <h4>{slide.title}</h4>
-              <h1>{slide.heading}</h1>
-              <ReserveButton className="reserve__btn mt-4">
+            <div className="slider__content ">
+              <h4 className="text-light mb-3">{slide.title}</h4>
+              <h1 className="text-light mb-4">{slide.heading}</h1>
+              <button className="btn reserve__btn mt-4">
                 <Link href={slide.link} aria-label="İletişim sayfasına git">
                   {slide.buttonText}
                 </Link>
-              </ReserveButton>
-            </SliderContent>
+              </button>
+            </div>
           </Container>
-        </SliderItem>
+        </div>
       ))}
     </Slider>
   );
