@@ -38,11 +38,6 @@ export default async function PriceList({ params: { locale } }) {
         description: "Bağlantı elemanları, hırdavat, bakım kimyasalları ve modüler su depoları hakkında bilgi almak için iletişime geçin.",
       },
     },
-    aggregateRating: {
-      "@type": "AggregateRating",
-      ratingValue: "4.5", // Örnek rating değeri
-      reviewCount: "10",
-    },
   };
 
   return (
