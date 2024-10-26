@@ -56,6 +56,8 @@ export default async function ProductDetails({ params: { locale, slug } }) {
     offers: {
       "@type": "Offer",
       availability: "https://schema.org/InStock",
+      price: "N/A",
+      priceCurrency: "TRY",
     },
   };
 
