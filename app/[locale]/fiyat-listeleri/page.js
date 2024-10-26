@@ -27,17 +27,6 @@ export default async function PriceList({ params: { locale } }) {
     name: "İnoksist Endüstri - Fiyat Listeleri",
     url: `https://www.inoksist.com.tr/${locale === "en" ? "en/" : ""}fiyat-listeleri`,
     description: "Bağlantı elemanları, hırdavat, bakım kimyasalları ve modüler su depoları fiyatları hakkında bilgi almak için bizimle iletişime geçin. İnoksist Endüstri olarak kaliteli ürünlerimiz ve rekabetçi fiyatlarımızla hizmetinizdeyiz.",
-    offers: {
-      "@type": "Offer",
-      url: `https://www.inoksist.com.tr/${locale === "en" ? "en/" : ""}iletisim`,
-      priceCurrency: "TRY",
-      price: "0",
-      itemOffered: {
-        "@type": "Product",
-        name: "Bağlantı Elemanları ve Hırdavat",
-        description: "Bağlantı elemanları, hırdavat, bakım kimyasalları ve modüler su depoları hakkında bilgi almak için iletişime geçin.",
-      },
-    },
   };
 
   return (
