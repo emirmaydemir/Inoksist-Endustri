@@ -52,7 +52,7 @@ export default async function ProductDetails({ params: { locale, slug } }) {
           <Row>
             <Col lg="6" className="d-flex flex-column align-items-center">
               {/* Resim Galerisi */}
-              <ProductImageGallery images={singleProductItem.images} />
+              <ProductImageGallery images={singleProductItem.images} name={singleProductItem.name} />
             </Col>
 
             <Col lg="6">
