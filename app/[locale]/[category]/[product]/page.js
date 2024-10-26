@@ -92,6 +92,7 @@ export default async function FastenerListing({ params: { locale, category, prod
     "@context": "https://schema.org",
     "@type": "ItemList",
     itemListElement: itemListElement,
+    url: `https://www.inoksist.com.tr/${locale === "en" ? "en/" : ""}${category}/urunler`,
     numberOfItems: categoriesContent.length,
     itemListOrder: "https://schema.org/ItemListOrderDescending",
     name: headerTitle, // Başlık
