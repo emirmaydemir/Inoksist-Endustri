@@ -23,7 +23,7 @@ export default async function PriceList({ params: { locale } }) {
 
   const jsonLd = {
     "@context": "https://schema.org",
-    "@type": "WebSite",
+    "@type": "WebPage",
     name: "İnoksist Endüstri - Fiyat Listeleri",
     url: `https://www.inoksist.com.tr/${locale === "en" ? "en/" : ""}fiyat-listeleri`,
     description: "Bağlantı elemanları, hırdavat, bakım kimyasalları ve modüler su depoları fiyatları hakkında bilgi almak için bizimle iletişime geçin. İnoksist Endüstri olarak kaliteli ürünlerimiz ve rekabetçi fiyatlarımızla hizmetinizdeyiz.",
