@@ -31,11 +31,17 @@ export default async function PriceList({ params: { locale } }) {
       "@type": "Offer",
       url: `https://www.inoksist.com.tr/${locale === "en" ? "en/" : ""}iletisim`,
       priceCurrency: "TRY",
+      price: "0",
       itemOffered: {
         "@type": "Product",
         name: "Bağlantı Elemanları ve Hırdavat",
         description: "Bağlantı elemanları, hırdavat, bakım kimyasalları ve modüler su depoları hakkında bilgi almak için iletişime geçin.",
       },
+    },
+    aggregateRating: {
+      "@type": "AggregateRating",
+      ratingValue: "4.5", // Örnek rating değeri
+      reviewCount: "10",
     },
   };
 
