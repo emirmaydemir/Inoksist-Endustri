@@ -21,8 +21,27 @@ export default async function PriceList({ params: { locale } }) {
   const { t } = await initTranslations(locale, i18nNamespaces);
   const priceContent = t("priceList", { returnObjects: true });
 
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    name: "İnoksist Endüstri - Fiyat Listeleri",
+    url: `https://www.inoksist.com.tr/${locale === "en" ? "en/" : ""}fiyat-listeleri`,
+    description: "Bağlantı elemanları, hırdavat, bakım kimyasalları ve modüler su depoları fiyatları hakkında bilgi almak için bizimle iletişime geçin. İnoksist Endüstri olarak kaliteli ürünlerimiz ve rekabetçi fiyatlarımızla hizmetinizdeyiz.",
+    offers: {
+      "@type": "Offer",
+      url: `https://www.inoksist.com.tr/${locale === "en" ? "en/" : ""}iletisim`,
+      priceCurrency: "TRY",
+      itemOffered: {
+        "@type": "Product",
+        name: "Bağlantı Elemanları ve Hırdavat",
+        description: "Bağlantı elemanları, hırdavat, bakım kimyasalları ve modüler su depoları hakkında bilgi almak için iletişime geçin.",
+      },
+    },
+  };
+
   return (
     <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       <section className="price-details-section">
         <Container>
           <Row className="justify-content-center">

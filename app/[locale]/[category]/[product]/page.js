@@ -81,10 +81,25 @@ export default async function FastenerListing({ params: { locale, category, prod
       break;
   }
 
+  // JSON-LD öğelerini oluşturma
+  const itemListElement = categoriesContent.map((item) => ({
+    name: item.description,
+    url: `https://www.inoksist.com.tr/${locale === "en" ? "en/" : ""}${category}/${item.guid}`,
+  }));
+
+  // JSON-LD nesnesini oluşturma
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    itemListElement: itemListElement,
+    itemListOrder: "https://schema.org/ItemListOrderDescending",
+    name: headerTitle, // Başlık
+  };
+
   return (
     <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       <CommonSection title={headerTitle} />
-
       <section>
         <Container>
           <Row>

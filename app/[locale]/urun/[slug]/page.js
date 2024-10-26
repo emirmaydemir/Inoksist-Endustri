@@ -45,8 +45,23 @@ export default async function ProductDetails({ params: { locale, slug } }) {
     return <p>Ürün bulunamadı.</p>; // Ürün yoksa bir mesaj göster
   }
 
+  // JSON-LD verisi oluşturma - google arama sonuçlarında zengin içerik göstermek ve ürünün yanında fotoğraf göstermek için.
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    name: singleProductItem.name,
+    image: singleProductItem.images[0],
+    description: singleProductItem.description,
+    url: `https://www.inoksist.com.tr/${locale === "en" ? "en/" : ""}urun/${slug}`,
+    offers: {
+      "@type": "Offer",
+      availability: "https://schema.org/InStock",
+    },
+  };
+
   return (
     <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       <section>
         <Container>
           <Row>

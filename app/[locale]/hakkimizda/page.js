@@ -31,8 +31,27 @@ export default async function About({ params: { locale } }) {
   const testimonialContent = t("testimonial:testimonials", {
     returnObjects: true,
   });
+
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    name: "İnoksist Endüstri - Hakkımızda | Güvenilir Bağlantı Elemanları ve Hırdavat",
+    url: `https://www.inoksist.com.tr/${locale === "en" ? "en/" : ""}hakkimizda`,
+    telephone: "+90 212 549 70 55",
+    address: {
+      "@type": "PostalAddress",
+      streetAddress: "İkitelli OSB Mahallesi, İmsan Sanayi Sitesi, E Blok No:3",
+      addressLocality: "Küçükçekmece",
+      addressRegion: "İstanbul",
+      postalCode: "34306",
+      addressCountry: "TR",
+    },
+    description: "İnoksist Endüstri, 2013 yılından bu yana bağlantı elemanları ve endüstriyel ürünler alanında güvenilir, müşteri odaklı çözümler sunmaktadır. Güven ve kaliteye dayalı hizmet anlayışımızla sektörde öne çıkıyoruz.",
+  };
+
   return (
     <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       <CommonSection title={aboutContent.title} />
       <AboutSection aboutClass="aboutPage" aboutContent={aboutSection} />
 

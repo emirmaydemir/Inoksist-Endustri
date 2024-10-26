@@ -21,8 +21,26 @@ export default async function Contact({ params: { locale } }) {
   const { t } = await initTranslations(locale, i18nNamespaces);
   const contactContent = t("contact", { returnObjects: true });
 
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    name: "İnoksist Endüstri Paslanmaz Civata Paslanmaz Somun - İletişim", // Firma adı
+    url: `https://www.inoksist.com.tr/${locale === "en" ? "en/" : ""}iletisim`,
+    address: {
+      "@type": "PostalAddress",
+      streetAddress: "İkitelli OSB Mahallesi, İmsan Sanayi Sitesi, E Blok No:3", // Sokak adresi
+      addressLocality: "Küçükçekmece", // İlçe
+      addressRegion: "İstanbul", // Şehir
+      postalCode: "34306", // Posta kodu
+      addressCountry: "TR", // Ülke
+    },
+    telephone: "+90 212 549 70 55", // Telefon numarası
+    email: "info@inoksist.com.tr", // E-posta adresi
+  };
+
   return (
     <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       <CommonSection title={contactContent.title} />
       <section>
         <Container>
