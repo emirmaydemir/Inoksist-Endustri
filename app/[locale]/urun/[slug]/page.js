@@ -53,12 +53,6 @@ export default async function ProductDetails({ params: { locale, slug } }) {
     image: singleProductItem.images[0],
     description: singleProductItem.description,
     url: `https://www.inoksist.com.tr/${locale === "en" ? "en/" : ""}urun/${slug}`,
-    offers: {
-      "@type": "Offer",
-      availability: "https://schema.org/InStock",
-      price: "N/A",
-      priceCurrency: "TRY",
-    },
   };
 
   return (
