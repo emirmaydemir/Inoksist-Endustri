@@ -90,8 +90,9 @@ export default async function FastenerListing({ params: { locale, category, prod
   // JSON-LD nesnesini oluşturma
   const jsonLd = {
     "@context": "https://schema.org",
-    "@type": "Product",
+    "@type": "ItemList",
     itemListElement: itemListElement,
+    numberOfItems: categoriesContent.length,
     itemListOrder: "https://schema.org/ItemListOrderDescending",
     name: headerTitle, // Başlık
   };
