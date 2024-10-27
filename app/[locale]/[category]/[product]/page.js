@@ -81,27 +81,10 @@ export default async function FastenerListing({ params: { locale, category, prod
       break;
   }
 
-  const itemListElement = categoriesContent.map((item, index) => ({
-    "@type": "ListItem", // Liste elemanı tipi
-    position: index + 1, // Elemanın sırası
-    item: {
-      "@type": "Product", // Ürün tipi
-      name: item.description,
-      description: `İnoksist Endüstri, yüksek kalite standartları ile ${item.description} sunarak, endüstriyel ihtiyaçlara yönelik güvenilir ve dayanıklı çözümler geliştirmektedir. Müşteri memnuniyetini öncelik haline getirerek sektördeki beklentileri karşılamayı hedefliyoruz.`, // Ürün açıklaması
-      offers: {
-        "@type": "Offer",
-        url: `https://www.inoksist.com.tr/${locale === "en" ? "en/" : ""}${category}/${item.guid}`,
-        priceCurrency: "TRY",
-        price: "0",
-        availability: "https://schema.org/InStock",
-        image: fastenerData[index].imgUrl,
-      },
-      aggregateRating: {
-        "@type": "AggregateRating",
-        ratingValue: "5",
-        reviewCount: "100",
-      },
-    },
+  // JSON-LD öğelerini oluşturma
+  const itemListElement = categoriesContent.map((item) => ({
+    name: item.description,
+    url: `https://www.inoksist.com.tr/${locale === "en" ? "en/" : ""}${category}/${item.guid}`,
   }));
 
   // JSON-LD nesnesini oluşturma
@@ -114,6 +97,14 @@ export default async function FastenerListing({ params: { locale, category, prod
     itemListOrder: "https://schema.org/ItemListOrderDescending",
     name: headerTitle, // Başlık
     description: `İnoksist Endüstri, yüksek kalite standartları ile ${headerTitle} sunmaktadır.`,
+    contactPoint: {
+      "@type": "ContactPoint",
+      telephone: "+90 212 549 70 55", // İletişim numarası
+      contactType: "Customer Service", // İletişim türü
+      areaServed: "TR", // Servis verilen alan
+      availableLanguage: "Turkish", // Kullanılabilir dil
+    },
+    sameAs: ["https://www.instagram.com/inoksistendustriyel/", "https://maps.app.goo.gl/dVxfrzrmT5JCbrqQ6"],
   };
 
   return (
