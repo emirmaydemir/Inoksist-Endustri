@@ -81,10 +81,15 @@ export default async function FastenerListing({ params: { locale, category, prod
       break;
   }
 
-  // JSON-LD öğelerini oluşturma
-  const itemListElement = categoriesContent.map((item) => ({
-    name: item.description,
-    url: `https://www.inoksist.com.tr/${locale === "en" ? "en/" : ""}${category}/${item.guid}`,
+  const itemListElement = categoriesContent.map((item, index) => ({
+    "@type": "ListItem", // Liste elemanı tipi
+    position: index + 1, // Elemanın sırası
+    item: {
+      "@type": "Product", // Ürün tipi
+      name: item.description,
+      url: `https://www.inoksist.com.tr/${locale === "en" ? "en/" : ""}${category}/${item.guid}`,
+      description: `İnoksist Endüstri, yüksek kalite standartları ile ${item.description} sunmaktadır.`, // Ürün açıklaması
+    },
   }));
 
   // JSON-LD nesnesini oluşturma
