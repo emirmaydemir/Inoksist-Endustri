@@ -91,7 +91,7 @@ export default async function FastenerListing({ params: { locale, category, prod
     url: `https://www.inoksist.com.tr/${locale === "en" ? "en/" : ""}${category}/urunler`,
     telephone: "+90 212 549 70 55",
     itemListOrder: "https://schema.org/ItemListOrderDescending",
-    description: `${headerTitle} Ürünlerimiz: ${itemNames}. Güven ve kaliteye dayalı hizmet anlayışımızla sektörde öne çıkıyoruz.`,
+    description: `${headerTitle} Ürünlerimiz: ${itemNames} - ürünlerimiz ile endüstriyel ihtiyaçlarınıza güvenilir ve kaliteli çözümler sunuyoruz.`,
     address: {
       "@type": "PostalAddress",
       streetAddress: "İkitelli OSB Mahallesi, İmsan Sanayi Sitesi, E Blok No:3",

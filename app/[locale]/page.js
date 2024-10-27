@@ -52,6 +52,17 @@ export default async function HomePage({ params: { locale } }) {
         ],
       },
     ],
+    additionalType: "https://schema.org/LocalBusiness", // LocalBusiness türünü ekliyoruz
+    address: {
+      "@type": "PostalAddress",
+      streetAddress: "İkitelli OSB Mahallesi, İmsan Sanayi Sitesi, E Blok No:3",
+      addressLocality: "Küçükçekmece",
+      addressRegion: "İstanbul",
+      postalCode: "34306",
+      addressCountry: "TR",
+    },
+    telephone: "+90 212 549 70 55",
+    openingHours: "Mo-Fr 08:30-19:00", // Çalışma saatlerini ekleyebilirsiniz
   };
 
   return (
