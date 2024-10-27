@@ -97,14 +97,14 @@ export default async function FastenerListing({ params: { locale, category, prod
     itemListOrder: "https://schema.org/ItemListOrderDescending",
     name: headerTitle, // Başlık
     description: `İnoksist Endüstri, yüksek kalite standartları ile ${headerTitle} sunmaktadır.`,
-    contactPoint: {
-      "@type": "ContactPoint",
-      telephone: "+90 212 549 70 55", // İletişim numarası
-      contactType: "Customer Service", // İletişim türü
-      areaServed: "TR", // Servis verilen alan
-      availableLanguage: "Turkish", // Kullanılabilir dil
+    address: {
+      "@type": "PostalAddress",
+      streetAddress: "İkitelli OSB Mahallesi, İmsan Sanayi Sitesi, E Blok No:3",
+      addressLocality: "Küçükçekmece",
+      addressRegion: "İstanbul",
+      postalCode: "34306",
+      addressCountry: "TR",
     },
-    sameAs: ["https://www.instagram.com/inoksistendustriyel/", "https://maps.app.goo.gl/dVxfrzrmT5JCbrqQ6"],
   };
 
   return (
