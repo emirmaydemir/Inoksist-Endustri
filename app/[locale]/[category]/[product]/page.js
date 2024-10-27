@@ -85,7 +85,7 @@ export default async function FastenerListing({ params: { locale, category, prod
     "@type": "ListItem", // Liste elemanı tipi
     position: index + 1, // Elemanın sırası
     item: {
-      "@type": "WebPage", // Kategori için uygun bir tür
+      "@type": "Thing", // Genel bir tip
       name: item.description,
       description: `İnoksist Endüstri, yüksek kalite standartları ile ${item.description} sunarak, endüstriyel ihtiyaçlara yönelik güvenilir çözümler sağlamaktadır. Kalite ve müşteri memnuniyetini ön planda tutarak sektördeki beklentileri karşılamayı hedefliyoruz.`,
       url: `https://www.inoksist.com.tr/${locale === "en" ? "en/" : ""}${category}/${item.guid}`,
