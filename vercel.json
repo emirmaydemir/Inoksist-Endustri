@@ -239,6 +239,16 @@
       "source": "/En/Pagesp/13/1025/moduler-su-deposu",
       "destination": "/en/moduler-su-deposu/moduler-su-deposu",
       "permanent": true
+    },
+    {
+      "source": "/details/10/33/din-912-imbus-civata-a2",
+      "destination": "/urun/din-912-imbus",
+      "permanent": true
+    },
+    {
+      "source": "/details/10/32/din-933-alti-kose-civata-a2",
+      "destination": "/urun/din-933-alti-kose-civata-a2",
+      "permanent": true
     }
   ]
 }

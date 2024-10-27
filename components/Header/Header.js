@@ -8,7 +8,7 @@ import "@/styles/header.css";
 import LanguageChanger from "@/components/LanguageChanger"; // Yeni dil değiştirici
 import Image from "next/image";
 import { usePathname } from "next/navigation";
-import ExchangeRate from "../UI/ExchangeRate";
+{/*import ExchangeRate from "../UI/ExchangeRate";*/}
 
 const socialLinks = [
   {
@@ -144,7 +144,7 @@ const Header = ({ navLinks, search, locale }) => {
 
             <Col lg="4" md="4" sm="4">
               <div className="header__top__right d-flex align-items-center justify-content-end gap-4">
-                <ExchangeRate />
+                {/* <ExchangeRate />*/}
                 {socialLinks.map((item, index) => (
                   <a href={item.url} key={index} className="d-flex align-items-center gap-1" aria-label={`${item.display} sayfamızı ziyaret edin`} target="_blank" rel="noopener noreferrer">
                     <i className={item.icon}></i>
