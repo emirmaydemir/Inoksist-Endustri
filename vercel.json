@@ -241,13 +241,224 @@
       "permanent": true
     },
     {
+      "source": "/details/10/32/din-933-alti-kose-civata-a2",
+      "destination": "/urun/din-933-alti-kose-civata-a2",
+      "permanent": true
+    },
+    {
       "source": "/details/10/33/din-912-imbus-civata-a2",
       "destination": "/urun/din-912-imbus",
       "permanent": true
     },
     {
-      "source": "/details/10/32/din-933-alti-kose-civata-a2",
-      "destination": "/urun/din-933-alti-kose-civata-a2",
+      "source": "/details/10/34/din-7991-havsa-bas-imbus-civ-a2",
+      "destination": "/urun/din-7991-iso-10642-havsa-basli-imbus",
+      "permanent": true
+    },
+    {
+      "source": "/details/10/133/diniso-7380-bombe-basli-imb-a2",
+      "destination": "/urun/iso-7380-bombe-basli-imbus",
+      "permanent": true
+    },
+    {
+      "source": "/details/10/36/din-965-yhb-civata-a2",
+      "destination": "/urun/din-965-yildiz-havsa-bas-metrik-vida",
+      "permanent": true
+    },
+    {
+      "source": "/details/10/37/din-7985-ysb-civata-a2",
+      "destination": "/urun/din-7985-yildiz-silindir-bas-metrik-vida",
+      "permanent": true
+    },
+    {
+      "source": "/details/10/70/din-571-trifon-vida-a2",
+      "destination": "/urun/din-571-trifon-vida",
+      "permanent": true
+    },
+    {
+      "source": "/details/10/137/din-916-setiskur-civata-a2",
+      "destination": "/urun/din-916-iso4029-setskur",
+      "permanent": true
+    },
+    {
+      "source": "/details/10/40/din-7982-yhb-sac-vidasi-a2",
+      "destination": "/urun/din-7982-yildiz-havsa-bas-sac-vidasi",
+      "permanent": true
+    },
+    {
+      "source": "/details/10/73/din-7981-ysb-sac-vidasi-a2",
+      "destination": "/urun/din-7981-yildiz-silindir-bas-sac-vidasi",
+      "permanent": true
+    },
+    {
+      "source": "/details/10/42/din-7504-ysb-matkap-uclu-vida-a2",
+      "destination": "/urun/din-7504-n-yildiz-silindir-bas-matkap-uclu-vida",
+      "permanent": true
+    },
+    {
+      "source": "/details/10/43/din-7504-p-yhb-matkap-uclu-vida-a2",
+      "destination": "/urun/din-7504-p-yildiz-havsa-basi-matkap-uclu-vida",
+      "permanent": true
+    },
+    {
+      "source": "/details/10/76/din-934-alti-kose-somun-a2",
+      "destination": "/urun/din-934-alti-kose-somun",
+      "permanent": true
+    },
+    {
+      "source": "/details/10/77/din-985-fiberli-somun-a2",
+      "destination": "/urun/din-985-alti-kose-fiberli-somun",
+      "permanent": true
+    },
+    {
+      "source": "/details/10/78/din-1587-kor-somun-a2",
+      "destination": "/urun/din-1587-kor-somun",
+      "permanent": true
+    },
+    {
+      "source": "/details/10/79/din-976-gijon-a2",
+      "destination": "/urun/din-976-gijon",
+      "permanent": true
+    },
+    {
+      "source": "/details/10/48/din-125a-pul-a2",
+      "destination": "/urun/din-125-duz-rondela-a-tip",
+      "permanent": true
+    },
+    {
+      "source": "/details/10/81/din-9021-genis-pul-a2",
+      "destination": "/urun/din-9021-genis-pul",
+      "permanent": true
+    },
+    {
+      "source": "/details/10/149/din-6798-tirtikli-rondela-a2",
+      "destination": "/urun/din-6798-tirtilli-rondela-a-tip",
+      "permanent": true
+    },
+    {
+      "source": "/details/10/168/gresorluk",
+      "destination": "/urun/din-71412-gresorluk",
+      "permanent": true
+    },
+    {
+      "source": "/details/10/70/din-571-trifon-vida-a2",
+      "destination": "/urun/din-571-trifon-vida",
+      "permanent": true
+    },
+    {
+      "source": "/details/10/70/din-571-trifon-vida-a2",
+      "destination": "/urun/din-571-trifon-vida",
+      "permanent": true
+    },
+    {
+      "source": "/details/10/70/din-571-trifon-vida-a2",
+      "destination": "/urun/din-571-trifon-vida",
+      "permanent": true
+    },
+    {
+      "source": "/details/10/70/din-571-trifon-vida-a2",
+      "destination": "/urun/din-571-trifon-vida",
+      "permanent": true
+    },
+    {
+      "source": "/details/10/70/din-571-trifon-vida-a2",
+      "destination": "/urun/din-571-trifon-vida",
+      "permanent": true
+    },
+    {
+      "source": "/details/10/70/din-571-trifon-vida-a2",
+      "destination": "/urun/din-571-trifon-vida",
+      "permanent": true
+    },
+    {
+      "source": "/details/10/70/din-571-trifon-vida-a2",
+      "destination": "/urun/din-571-trifon-vida",
+      "permanent": true
+    },
+    {
+      "source": "/details/10/70/din-571-trifon-vida-a2",
+      "destination": "/urun/din-571-trifon-vida",
+      "permanent": true
+    },
+    {
+      "source": "/details/13/163/prizmatik-moduler-paslanmaz-ve-galvaniz-su-depolari",
+      "destination": "/urun/prizmatik-paslanmaz-ve-galvaniz-su-depolari",
+      "permanent": true
+    },
+    {
+      "source": "/En/details/13/163/prizmatik-moduler-paslanmaz-ve-galvaniz-su-depolari",
+      "destination": "/en/urun/prizmatik-paslanmaz-ve-galvaniz-su-depolari",
+      "permanent": true
+    },
+    {
+      "source": "/details/13/164/prizmatik-moduler-grp-su-depolari",
+      "destination": "/urun/prizmatik-grp-su-depolari",
+      "permanent": true
+    },
+    {
+      "source": "/Fr/details/13/165/silindirik-kaynakli-paslanmaz-su-depolari",
+      "destination": "/urun/silindirik-kaynakli-paslanmaz-su-depolari",
+      "permanent": true
+    },
+    {
+      "source": "/En/details/13/165/silindirik-kaynakli-paslanmaz-su-depolari",
+      "destination": "/en/urun/silindirik-kaynakli-paslanmaz-su-depolari",
+      "permanent": true
+    },
+    {
+      "source": "/details/13/166/prizmatik-moduler-ozel-kaplamali-su-depolari",
+      "destination": "/urun/prizmatik-moduler-ozel-kaplamali-su-depolari",
+      "permanent": true
+    },
+    {
+      "source": "/details/12/171/kalip-ayirici-sprey-silikonlu-silikonsuz",
+      "destination": "/urun/kalip-ayirici-sprey",
+      "permanent": true
+    },
+    {
+      "source": "/details/12/172/fren-balata-endustriyel-temizleyici",
+      "destination": "/urun/fren-balata-endustriyel-temizleyici",
+      "permanent": true
+    },
+    {
+      "source": "/details/12/177/paslanmaz-celik-sprey-ozel-acik",
+      "destination": "/urun/paslanmaz-celik-sprey",
+      "permanent": true
+    },
+
+    {
+      "source": "/details/11/185/koruyucu-gozluk",
+      "destination": "/urun/koruyucu-gozluk",
+      "permanent": true
+    },
+    {
+      "source": "/details/11/186/koruyucu-maske",
+      "destination": "/urun/koruyucu-maske",
+      "permanent": true
+    },
+    {
+      "source": "/details/11/188/nitril-muayene-eldiveni",
+      "destination": "/urun/nitril-muayene-eldiveni",
+      "permanent": true
+    },
+    {
+      "source": "/details/11/190/aluminyum-kaynak-teli",
+      "destination": "/urun/aluminyum-kaynak-teli",
+      "permanent": true
+    },
+    {
+      "source": "/details/11/192/gazalti-kaynak-teli",
+      "destination": "/urun/gazalti-kaynak-teli",
+      "permanent": true
+    },
+    {
+      "source": "/details/11/194/paslanmaz-elektrod",
+      "destination": "/urun/paslanmaz-elektrod",
+      "permanent": true
+    },
+    {
+      "source": "/En/details/11/196/rutil-elektrod",
+      "destination": "/en/urun/rutil-elektrod",
       "permanent": true
     }
   ]
