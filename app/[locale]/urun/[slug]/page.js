@@ -58,6 +58,7 @@ export default async function ProductDetails({ params: { locale, slug } }) {
       availability: "https://schema.org/InStock",
       price: "0",
       priceCurrency: "TRY",
+      url: `https://www.inoksist.com.tr/${locale === "en" ? "en/" : ""}iletisim`,
     },
     aggregateRating: {
       "@type": "AggregateRating",

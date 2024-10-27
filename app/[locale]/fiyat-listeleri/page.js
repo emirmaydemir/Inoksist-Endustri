@@ -23,10 +23,41 @@ export default async function PriceList({ params: { locale } }) {
 
   const jsonLd = {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    name: "İnoksist Endüstri - Fiyat Listeleri",
-    url: `https://www.inoksist.com.tr/${locale === "en" ? "en/" : ""}fiyat-listeleri`,
-    description: "Bağlantı elemanları, hırdavat, bakım kimyasalları ve modüler su depoları fiyatları hakkında bilgi almak için bizimle iletişime geçin. İnoksist Endüstri olarak kaliteli ürünlerimiz ve rekabetçi fiyatlarımızla hizmetinizdeyiz.",
+    "@type": "FAQPage",
+    mainEntity: [
+      {
+        "@type": "Question",
+        name: "İnoksist Endüstri kimdir?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "2013 yılında temelleri atılan İnoksist Endüstri, geçmişten gelen bilgi birikimi ve ürün tecrübesi ile bağlantı elemanları ve endüstriyel ürünler alanında kısa sürede sektörde kendisine önemli bir yer edinmiştir. Müşteri memnuniyetine odaklı bir yaklaşım ile, güven ilkesini temel alarak hizmet vermektedir.",
+        },
+      },
+      {
+        "@type": "Question",
+        name: "İnoksist Endüstri'nin sunduğu hizmetler nelerdir?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "İnoksist Endüstri, yüksek kalite standartlarına sahip geniş ürün yelpazesi ile bağlantı elemanları, hırdavat, bakım kimyasalları ve modüler su depoları gibi çeşitli endüstriyel ürünler sunmaktadır.",
+        },
+      },
+      {
+        "@type": "Question",
+        name: "İnoksist Endüstri Paslanmaz Civata Paslanmaz Somun ürünlerinin fiyatları nedir?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "Bağlantı elemanları, hırdavat, bakım kimyasalları ve modüler su depolarının güncel fiyatları hakkında bilgi almak için bizimle iletişime geçin. İnoksist Endüstri olarak kaliteli ürünlerimiz ve rekabetçi fiyatlarımızla hizmetinizdeyiz.",
+        },
+      },
+      {
+        "@type": "Question",
+        name: "İnoksist Endüstri’nin en popüler ürünleri hangileridir?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "En popüler ürünlerimiz arasında DIN 912 İmbus, DIN 934 Altı Köşe Somun, DIN 125 Düz Rondela ve DIN 933 Altı Köşe Başlı Tam Paso Civata bulunmaktadır.",
+        },
+      },
+    ],
   };
 
   return (
