@@ -81,22 +81,17 @@ export default async function FastenerListing({ params: { locale, category, prod
       break;
   }
 
-  // JSON-LD öğelerini oluşturma
-  const itemListElement = categoriesContent.map((item) => ({
-    name: item.description,
-    url: `https://www.inoksist.com.tr/${locale === "en" ? "en/" : ""}${category}/${item.guid}`,
-  }));
+  const itemNames = categoriesContent.map((item) => item.description).join(", ");
 
   // JSON-LD nesnesini oluşturma
   const jsonLd = {
     "@context": "https://schema.org",
-    "@type": "ItemList",
-    itemListElement: itemListElement,
+    "@type": "LocalBusiness",
+    name: headerTitle,
     url: `https://www.inoksist.com.tr/${locale === "en" ? "en/" : ""}${category}/urunler`,
-    numberOfItems: categoriesContent.length,
+    telephone: "+90 212 549 70 55",
     itemListOrder: "https://schema.org/ItemListOrderDescending",
-    name: headerTitle, // Başlık
-    description: `İnoksist Endüstri, yüksek kalite standartları ile ${headerTitle} sunmaktadır.`,
+    description: `${headerTitle} Ürünlerimiz: ${itemNames}. Güven ve kaliteye dayalı hizmet anlayışımızla sektörde öne çıkıyoruz.`,
     address: {
       "@type": "PostalAddress",
       streetAddress: "İkitelli OSB Mahallesi, İmsan Sanayi Sitesi, E Blok No:3",
