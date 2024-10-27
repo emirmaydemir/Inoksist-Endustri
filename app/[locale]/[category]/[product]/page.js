@@ -94,6 +94,7 @@ export default async function FastenerListing({ params: { locale, category, prod
         priceCurrency: "TRY",
         price: "0",
         availability: "https://schema.org/InStock",
+        image: fastenerData[index].imgUrl,
       },
       aggregateRating: {
         "@type": "AggregateRating",
