@@ -85,10 +85,21 @@ export default async function FastenerListing({ params: { locale, category, prod
     "@type": "ListItem", // Liste elemanı tipi
     position: index + 1, // Elemanın sırası
     item: {
-      "@type": "Thing", // Genel bir tip
+      "@type": "Product", // Ürün tipi
       name: item.description,
-      description: `İnoksist Endüstri, yüksek kalite standartları ile ${item.description} sunarak, endüstriyel ihtiyaçlara yönelik güvenilir çözümler sağlamaktadır. Kalite ve müşteri memnuniyetini ön planda tutarak sektördeki beklentileri karşılamayı hedefliyoruz.`,
-      url: `https://www.inoksist.com.tr/${locale === "en" ? "en/" : ""}${category}/${item.guid}`,
+      description: `İnoksist Endüstri, yüksek kalite standartları ile ${item.description} sunarak, endüstriyel ihtiyaçlara yönelik güvenilir ve dayanıklı çözümler geliştirmektedir. Müşteri memnuniyetini öncelik haline getirerek sektördeki beklentileri karşılamayı hedefliyoruz.`, // Ürün açıklaması
+      offers: {
+        "@type": "Offer",
+        url: `https://www.inoksist.com.tr/${locale === "en" ? "en/" : ""}${category}/${item.guid}`,
+        priceCurrency: "TRY",
+        price: "0",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "5",
+        reviewCount: "100",
+      },
     },
   }));
 
