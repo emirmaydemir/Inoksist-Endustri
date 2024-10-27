@@ -96,6 +96,7 @@ export default async function FastenerListing({ params: { locale, category, prod
     numberOfItems: categoriesContent.length,
     itemListOrder: "https://schema.org/ItemListOrderDescending",
     name: headerTitle, // Başlık
+    description: `İnoksist Endüstri, yüksek kalite standartları ile ${headerTitle} sunmaktadır.`,
   };
 
   return (
