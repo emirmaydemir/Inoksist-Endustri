@@ -36,23 +36,10 @@ export default async function HomePage({ params: { locale } }) {
 
   const jsonLd = {
     "@context": "https://schema.org",
-    "@type": "WebSite",
+    "@type": "LocalBusiness",
     name: "İnoksist Endüstri Paslanmaz Civata Paslanmaz Somun",
     url: `https://www.inoksist.com.tr/${locale === "en" ? "en/" : ""}`,
     description: "İnoksist, endüstriyel bağlantı elemanları alanında geniş bir ürün yelpazesi sunarak paslanmaz civata ve somun çözümleriyle sektördeki ihtiyaçları karşılamaktadır. Kaliteli malzemeleriyle öne çıkan İnoksist, müşteri memnuniyetini ön planda tutarak, çeşitli sektörlerdeki işletmelere güvenilir ve dayanıklı ürünler sağlıyor. Paslanmaz civata, somun, rondela gibi ürünlerle her türlü projede güvenilir bir çözüm sunmayı hedefliyoruz. Gelişen teknoloji ve yenilikçi yaklaşımlarımızla, iş ortaklarımıza en iyi hizmeti vermek için sürekli olarak çalışıyoruz.",
-    mainEntity: [
-      {
-        "@type": "ItemList",
-        name: "Ürün Kategorileri",
-        itemListElement: [
-          { "@type": "WebPage", name: "Bağlantı Elemanları", url: `https://www.inoksist.com.tr/${locale === "en" ? "en/" : ""}baglanti-elemanlari/urunler` },
-          { "@type": "WebPage", name: "Hırdavat", url: `https://www.inoksist.com.tr/${locale === "en" ? "en/" : ""}hirdavat/urunler` },
-          { "@type": "WebPage", name: "Bakım Kimyasalları", url: `https://www.inoksist.com.tr/${locale === "en" ? "en/" : ""}bakim-kimyasallari/urunler` },
-          { "@type": "WebPage", name: "Modüler Su Deposu", url: `https://www.inoksist.com.tr/${locale === "en" ? "en/" : ""}moduler-su-deposu/urunler` },
-        ],
-      },
-    ],
-    additionalType: "https://schema.org/LocalBusiness", // LocalBusiness türünü ekliyoruz
     address: {
       "@type": "PostalAddress",
       streetAddress: "İkitelli OSB Mahallesi, İmsan Sanayi Sitesi, E Blok No:3",
@@ -62,7 +49,7 @@ export default async function HomePage({ params: { locale } }) {
       addressCountry: "TR",
     },
     telephone: "+90 212 549 70 55",
-    openingHours: "Mo-Fr 08:30-19:00", // Çalışma saatlerini ekleyebilirsiniz
+    openingHours: "08:30-19:00",
   };
 
   return (
