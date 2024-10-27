@@ -36,7 +36,7 @@ export default async function Contact({ params: { locale } }) {
     },
     telephone: "+90 212 549 70 55", // Telefon numarası
     email: "info@inoksist.com.tr", // E-posta adresi
-    logo: `https://www.inoksist.com.tr/${locale === "en" ? "en/" : ""}icon.ico`,
+    logo: "https://www.inoksist.com.tr/icon.ico",
   };
 
   return (
