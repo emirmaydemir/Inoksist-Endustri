@@ -1,6 +1,21 @@
 {
   "redirects": [
     {
+      "source": "/Fr/Pagesc/6",
+      "destination": "/en/iletisim",
+      "permanent": true
+    },
+    {
+      "source": "/Ru/Pagesc/6",
+      "destination": "/en/iletisim",
+      "permanent": true
+    },
+    {
+      "source": "/Ru",
+      "destination": "/en",
+      "permanent": true
+    },
+    {
       "source": "/Pagesco/1",
       "destination": "/hakkimizda",
       "permanent": true
