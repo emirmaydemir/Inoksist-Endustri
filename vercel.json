@@ -11,6 +11,11 @@
       "permanent": true
     },
     {
+      "source": "/Es/Pagesc/6",
+      "destination": "/en/iletisim",
+      "permanent": true
+    },
+    {
       "source": "/Ru",
       "destination": "/en",
       "permanent": true
