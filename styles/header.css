@@ -12,6 +12,10 @@
   cursor: pointer;
 }
 
+.mobile-logo {
+  display: none; /* Logo yalnızca mobilde görünür */
+}
+
 .header__top {
   padding: 10px 0px;
   background: #273286;
@@ -137,20 +141,67 @@
 }
 @media only screen and (max-width: 500px) {
   .search-results {
-    width: 50%;
+    width: 48%;
+  }
+  .search__box {
+    font-size: 0.9rem;
   }
 }
 @media only screen and (max-width: 430px) {
   .search-results {
-    width: 60%;
+    width: 53%;
+  }
+  .search__box {
+    font-size: 0.8rem;
+    margin-left: 1rem;
   }
 }
-@media only screen and (max-width: 345px) {
+@media only screen and (max-width: 380px) {
+  .search__box {
+    font-size: 0.7rem;
+  }
+}
+@media only screen and (max-width: 358px) {
   .search-results {
-    width: 70%;
+    width: 53%;
+  }
+  .search__box {
+    font-size: 0.7rem;
+    padding: 0.5rem !important;
+  }
+  .search__box span {
+    font-size: 0.7rem;
   }
 }
-
+@media only screen and (max-width: 338px) {
+  .search-results {
+    width: 50%;
+  }
+  .search__box {
+    font-size: 0.6rem;
+    padding: 0.5rem !important;
+  }
+  .search__box span {
+    font-size: 0.7rem;
+  }
+}
+@media only screen and (max-width: 319px) {
+  .search-results {
+    width: 47%;
+  }
+  .search__box {
+    font-size: 0.5rem;
+    padding: 0.5rem !important;
+  }
+  .search__box span {
+    font-size: 0.7rem;
+  }
+}
+@media only screen and (max-width: 297px) {
+  .nav__right {
+    display: none !important;
+  }
+}
 /* ================ main navbar styles =========== */
 
 .nav__item-container {
@@ -273,14 +324,26 @@
 }
 
 @media only screen and (max-width: 1024px) {
-  .header__top,
-  .header__middle {
-    display: none;
+  .main__navbar .navigation__wrapper {
+    display: flex;
+    justify-content: center; /* Ortalar */
+    align-items: center;
+  }
+  .mobile-logo {
+    display: block !important;
+    margin: 0 0.7rem; /* Ortalamaya yardımcı olur */
+    width: 100px;
   }
   .mobile__menu {
     display: block;
   }
-
+  .sub__menu {
+    background: #fff;
+  }
+  .header__top,
+  .header__middle {
+    display: none;
+  }
   .flag-btn2 {
     background: none;
     border: none;
