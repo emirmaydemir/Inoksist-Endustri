@@ -158,7 +158,6 @@
   }
   .search__box {
     font-size: 0.8rem;
-    margin-left: 1rem;
   }
 }
 @media only screen and (max-width: 400px) {
@@ -344,7 +343,7 @@
   }
   .mobile-logo {
     display: block !important;
-    margin: 0 0.7rem; /* Ortalamaya yardımcı olur */
+    margin: 0 0.5rem; /* Ortalamaya yardımcı olur */
     width: 100px;
   }
   .mobile__menu {
