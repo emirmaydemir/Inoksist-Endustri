@@ -141,22 +141,35 @@
 }
 @media only screen and (max-width: 500px) {
   .search-results {
-    width: 48%;
+    width: 47%;
   }
   .search__box {
     font-size: 0.9rem;
   }
 }
+@media only screen and (max-width: 459px) {
+  .search-results {
+    width: 50%;
+  }
+}
 @media only screen and (max-width: 430px) {
   .search-results {
-    width: 53%;
+    width: 54%;
   }
   .search__box {
     font-size: 0.8rem;
     margin-left: 1rem;
   }
 }
+@media only screen and (max-width: 400px) {
+  .search-results {
+    width: 57%;
+  }
+}
 @media only screen and (max-width: 380px) {
+  .search-results {
+    width: 55%;
+  }
   .search__box {
     font-size: 0.7rem;
   }
