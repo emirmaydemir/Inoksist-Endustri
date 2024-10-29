@@ -77,10 +77,9 @@ export default async function ProductDetails({ params: { locale, slug } }) {
               {/* Resim Galerisi */}
               <ProductImageGallery images={singleProductItem.images} name={singleProductItem.name} />
             </Col>
-
             <Col lg="6">
               {/* Ürün Bilgileri */}
-              <ProductInfo singleProductItem={singleProductItem} />
+              <ProductInfo singleProductItem={singleProductItem} language={locale} />
             </Col>
           </Row>
 

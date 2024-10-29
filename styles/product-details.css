@@ -6,6 +6,7 @@
   height: 400px;
   border-radius: 10px;
   cursor: zoom-in;
+  margin-bottom: 1.5rem;
 }
 
 .main-image {
@@ -20,6 +21,7 @@
   display: flex;
   justify-content: flex-start;
   gap: 10px;
+  margin-bottom: 1.2rem;
 }
 
 .custom-thumbnail {
@@ -45,6 +47,7 @@
   font-size: 2rem;
   margin-bottom: 20px;
   margin-top: 0.2rem;
+  font-weight: bold;
 }
 
 .section__description2 {
@@ -53,6 +56,23 @@
   text-align: justify;
   max-height: 400px;
   overflow-y: auto;
+}
+
+/*Teklif butonu*/
+.button-teklif-al {
+  width: 25%;
+  background-color: #273286;
+  color: #fff;
+  padding: 10px 20px;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+  cursor: pointer;
+}
+
+.button-teklif-al:hover {
+  background-color: #126bca;
 }
 /*-------------------------------------*/
 
@@ -137,12 +157,18 @@
 }
 
 @media only screen and (max-width: 576px) {
+  .main-image-container {
+    height: 300px !important;
+  }
   .section__title2 {
     font-size: 1.5rem;
-    margin-top: 2.5rem;
   }
   .section__description2 {
     font-size: 1rem;
+  }
+  .button-teklif-al {
+    font-size: 0.8rem !important;
+    width: 38%;
   }
   .technical-features-title {
     font-size: 1.2rem;
@@ -161,12 +187,31 @@
 }
 
 @media only screen and (max-width: 992px) {
+  .main-image-container {
+    height: 350px;
+    margin-bottom: 2rem;
+  }
+
+  .product__info2 {
+    padding: 25px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 2.5rem 0 1.5rem 0;
+    background-color: #f9f9f9;
+  }
+
   .section__title2 {
     font-size: 1.5rem;
-    margin-top: 2.5rem;
   }
   .section__description2 {
     font-size: 1rem;
+    line-height: 1.8;
+    max-height: none;
+    overflow-y: visible;
+  }
+  .button-teklif-al {
+    font-size: 0.9rem;
   }
   .technical-features-title {
     font-size: 1.3rem;
