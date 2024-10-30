@@ -198,7 +198,7 @@ const Header = ({ navLinks, search, locale }) => {
 
             <div className="mobile-logo">
               <Link href="/">
-                <Image src="https://res.cloudinary.com/di9qvtepw/image/upload/q_auto,f_webp/v1728242917/inoksist_wwxbpw.png" alt="İnoksist" width={110} height={28} aria-label="Ana Sayfaya Git" priority />
+                <Image src="https://res.cloudinary.com/di9qvtepw/image/upload/q_auto,f_webp/v1728242917/inoksist_wwxbpw.png" alt="İnoksist" width={110} height={28} aria-label="Ana Sayfaya Git" />
               </Link>
             </div>
 
