@@ -46,26 +46,44 @@ export default async function ProductDetails({ params: { locale, slug } }) {
   }
 
   // JSON-LD verisi oluşturma - google arama sonuçlarında zengin içerik göstermek ve ürünün yanında fotoğraf göstermek için.
-  const jsonLd = {
-    "@context": "https://schema.org",
-    "@type": "Product",
-    name: singleProductItem.name,
-    image: singleProductItem.images[0],
-    description: singleProductItem.description,
-    url: `https://www.inoksist.com.tr/${locale === "en" ? "en/" : ""}urun/${slug}`,
-    offers: {
-      "@type": "Offer",
-      availability: "https://schema.org/InStock",
-      price: "0",
-      priceCurrency: "TRY",
-      url: `https://www.inoksist.com.tr/${locale === "en" ? "en/" : ""}iletisim`,
+  const jsonLd = [
+    {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: singleProductItem.name,
+      image: singleProductItem.images[0],
+      description: singleProductItem.description,
+      url: `https://www.inoksist.com.tr/${locale === "en" ? "en/" : ""}urun/${slug}`,
+      brand: {
+        "@type": "Brand",
+        name: "Inoksist",
+        url: `https://www.inoksist.com.tr/${locale === "en" ? "en/" : ""}iletisim`,
+      },
     },
-    aggregateRating: {
-      "@type": "AggregateRating",
-      ratingValue: "4.5", // Örnek rating değeri
-      reviewCount: "10",
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      name: "İnoksist Endüstri Paslanmaz Civata Paslanmaz Somun",
+      url: `https://www.inoksist.com.tr/${locale === "en" ? "en/" : ""}`,
+      address: {
+        "@type": "PostalAddress",
+        streetAddress: "İkitelli OSB Mahallesi, İmsan Sanayi Sitesi, E Blok No:3", // Sokak adresi
+        addressLocality: "Küçükçekmece", // İlçe
+        addressRegion: "İstanbul", // Şehir
+        postalCode: "34306", // Posta kodu
+        addressCountry: "TR", // Ülke
+      },
+      telephone: "+90 212 549 70 55", // Telefon numarası
+      email: "info@inoksist.com.tr", // E-posta adresi
+      contactPoint: {
+        "@type": "ContactPoint",
+        telephone: "+90 212 549 70 55",
+        contactType: "Customer Service",
+        areaServed: "TR",
+        availableLanguage: ["Turkish", "English"],
+      },
     },
-  };
+  ];
 
   return (
     <>
