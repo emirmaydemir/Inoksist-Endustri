@@ -51,10 +51,7 @@ export default async function ProductDetails({ params: { locale, slug } }) {
       "@context": "https://schema.org",
       "@type": "Product",
       name: singleProductItem.name,
-      image: {
-        "@type": "ImageObject",
-        url: singleProductItem.images[0],
-      },
+      image: singleProductItem.images[0],
       description: singleProductItem.description,
       url: `https://www.inoksist.com.tr/${locale === "en" ? "en/" : ""}urun/${slug}`,
       offers: {
