@@ -57,12 +57,10 @@ export default async function ProductDetails({ params: { locale, slug } }) {
       },
       description: singleProductItem.description,
       url: `https://www.inoksist.com.tr/${locale === "en" ? "en/" : ""}urun/${slug}`,
-      offers: {
-        "@type": "Offer",
-        availability: "https://schema.org/InStock",
-        price: "0",
-        priceCurrency: "TRY",
-        url: `https://www.inoksist.com.tr/${locale === "en" ? "en/" : ""}iletisim`,
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.5", // Örnek rating değeri
+        reviewCount: "10",
       },
     },
 
