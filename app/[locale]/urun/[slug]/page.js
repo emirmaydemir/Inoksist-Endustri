@@ -49,7 +49,7 @@ export default async function ProductDetails({ params: { locale, slug } }) {
   const jsonLd = [
     {
       "@context": "https://schema.org",
-      "@type": "Product",
+      "@type": "Thing",
       name: singleProductItem.name,
       image: {
         "@type": "ImageObject",
@@ -57,16 +57,11 @@ export default async function ProductDetails({ params: { locale, slug } }) {
       },
       description: singleProductItem.description,
       url: `https://www.inoksist.com.tr/${locale === "en" ? "en/" : ""}urun/${slug}`,
-      aggregateRating: {
-        "@type": "AggregateRating",
-        ratingValue: "4.5", // Örnek rating değeri
-        reviewCount: "10",
-      },
     },
 
     {
       "@context": "https://schema.org",
-      "@type": "Organization",
+      "@type": "LocalBusiness",
       name: "İnoksist Endüstri Paslanmaz Civata Paslanmaz Somun",
       url: `https://www.inoksist.com.tr/${locale === "en" ? "en/" : ""}`,
       address: {
@@ -79,13 +74,6 @@ export default async function ProductDetails({ params: { locale, slug } }) {
       },
       telephone: "+90 212 549 70 55", // Telefon numarası
       email: "info@inoksist.com.tr", // E-posta adresi
-      contactPoint: {
-        "@type": "ContactPoint",
-        telephone: "+90 212 549 70 55",
-        contactType: "Customer Service",
-        areaServed: "TR",
-        availableLanguage: ["Turkish", "English"],
-      },
     },
   ];
 
