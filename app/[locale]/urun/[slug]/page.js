@@ -51,15 +51,14 @@ export default async function ProductDetails({ params: { locale, slug } }) {
       "@context": "https://schema.org",
       "@type": "Product",
       name: singleProductItem.name,
-      image: singleProductItem.images[0],
+      image: {
+        "@type": "ImageObject",
+        url: singleProductItem.images[0],
+      },
       description: singleProductItem.description,
       url: `https://www.inoksist.com.tr/${locale === "en" ? "en/" : ""}urun/${slug}`,
-      brand: {
-        "@type": "Brand",
-        name: "Inoksist",
-        url: `https://www.inoksist.com.tr/${locale === "en" ? "en/" : ""}iletisim`,
-      },
     },
+
     {
       "@context": "https://schema.org",
       "@type": "Organization",
