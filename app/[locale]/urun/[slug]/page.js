@@ -49,23 +49,24 @@ export default async function ProductDetails({ params: { locale, slug } }) {
   const jsonLd = [
     {
       "@context": "https://schema.org",
-      "@type": "Product",
-      name: singleProductItem.name,
-      image: singleProductItem.images[0],
-      description: singleProductItem.description,
+      "@type": "Article",
+      headline: singleProductItem.name, // Ürün ismi
+      image: {
+        "@type": "ImageObject",
+        url: singleProductItem.images[0],
+      },
+      articleBody: singleProductItem.description,
       url: `https://www.inoksist.com.tr/${locale === "en" ? "en/" : ""}urun/${slug}`,
-      offers: {
-        "@type": "Offer",
-        availability: "https://schema.org/InStock",
-        priceCurrency: "TRY",
-        url: `https://www.inoksist.com.tr/${locale === "en" ? "en/" : ""}iletisim`,
+      mainEntityOfPage: {
+        "@type": "WebPage",
+        "@id": `https://www.inoksist.com.tr/${locale === "en" ? "en/" : ""}`, // Ana sayfa URL'si
       },
     },
 
     {
       "@context": "https://schema.org",
       "@type": "LocalBusiness",
-      name: "İnoksist Endüstri Paslanmaz Civata Paslanmaz Somun",
+      name: `${singleProductItem.name} - İnoksist Endüstri Paslanmaz Civata Paslanmaz Somun`,
       url: `https://www.inoksist.com.tr/${locale === "en" ? "en/" : ""}`,
       address: {
         "@type": "PostalAddress",
@@ -77,6 +78,7 @@ export default async function ProductDetails({ params: { locale, slug } }) {
       },
       telephone: "+90 212 549 70 55", // Telefon numarası
       email: "info@inoksist.com.tr", // E-posta adresi
+      description: `${singleProductItem.name} - Ürünümüz için fiyat teklifi almak istiyorsanız lütfen bizimle iletişime geçin. ${singleProductItem.description}`,
     },
   ];
 
