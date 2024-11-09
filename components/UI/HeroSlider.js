@@ -32,7 +32,7 @@ const HeroSlider = ({ sliderContent }) => {
               fill
               style={{ objectFit: "cover" }}
               className="slider-image"
-              priority
+              loading="eager"
               srcSet={`
                 ${slide.image}?w=300 300w,
                 ${slide.image}?w=600 600w,
