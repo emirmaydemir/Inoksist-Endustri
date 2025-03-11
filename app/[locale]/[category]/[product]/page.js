@@ -17,8 +17,8 @@ export async function generateMetadata({ params: { locale, category, product } }
   switch (category) {
     case "baglanti-elemanlari":
       title = headerContent.fastener;
-      description = "Bağlantı Elemanları - Paslanmaz Bağlantı Elemanları - Çelik Bağlantı Elemanları - Demir Bağlantı Elemanları - Pirinç Bağlantı Elemanları - Titanyum Bağlantı Elemanları - Özel Üretim Bağlantı Elemanları - 10.9 ve 12.9 Bağlantı Elemanları - Kama Bağlantı Elemanları. İhtiyaçlarınıza uygun bağlantı elemanlarını kolayca bulabilirsiniz.";
-      keywords = "inoksist, bağlantı elemanları, paslanmaz bağlantı elemanları, çelik bağlantı elemanları, demir bağlantı elemanları, pirinç bağlantı elemanları, titanyum bağlantı elemanları, özel üretim bağlantı elemanları, 10.9 bağlantı elemanları, 12.9 bağlantı elemanları, kama bağlantı elemanları, sanayi bağlantı elemanları, inoks civata, inox civata, imbus civata";
+      description = "Bağlantı Elemanları - Paslanmaz Bağlantı Elemanları - Çelik Bağlantı Elemanları - Demir Bağlantı Elemanları - Pirinç Bağlantı Elemanları - Titanyum Bağlantı Elemanları - Özel Üretim Bağlantı Elemanları - 10.9 ve 12.9 Bağlantı Elemanları - Kama Elemanları. İhtiyaçlarınıza uygun bağlantı elemanlarını kolayca bulabilirsiniz.";
+      keywords = "inoksist, bağlantı elemanları, paslanmaz bağlantı elemanları, çelik bağlantı elemanları, demir bağlantı elemanları, pirinç bağlantı elemanları, titanyum bağlantı elemanları, özel üretim bağlantı elemanları, 10.9 bağlantı elemanları, 12.9 bağlantı elemanları, kama elemanları, sanayi bağlantı elemanları, inoks civata, inox civata, imbus civata";
       break;
     case "hirdavat":
       title = headerContent.technical;
